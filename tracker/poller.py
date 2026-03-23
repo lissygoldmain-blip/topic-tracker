@@ -7,9 +7,12 @@ from tracker import circuit_breaker as cb
 from tracker.adapters import (
     EbayAdapter,
     EtsyAdapter,
+    GenericRSSAdapter,
     GoogleNewsAdapter,
     GrailedAdapter,
+    HackerNewsAdapter,
     MercariUSAdapter,
+    RedditAdapter,
 )
 from tracker.adapters.base import BaseAdapter
 from tracker.config import load_topics
@@ -34,6 +37,9 @@ ADAPTERS: dict[str, type[BaseAdapter]] = {
     "etsy": EtsyAdapter,
     "grailed": GrailedAdapter,
     "mercari": MercariUSAdapter,
+    "hacker_news": HackerNewsAdapter,
+    "reddit": RedditAdapter,
+    "rss": GenericRSSAdapter,
 }
 
 

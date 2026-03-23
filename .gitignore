@@ -14,6 +14,7 @@ build/
 .coverage
 htmlcov/
 
-# Environment secrets
+# Environment secrets (keep the example template tracked)
 .env
 .env.*
+!.env.example

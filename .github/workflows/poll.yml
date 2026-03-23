@@ -1,0 +1,97 @@
+name: Topic Tracker Poll
+
+on:
+  schedule:
+    # Tier 1: every 2h (maps to "high" urgency frequent tier)
+    - cron: "0 */2 * * *"
+    # Tier 2: every 6h (discovery)
+    - cron: "0 */6 * * *"
+    # Tier 3: daily at 8am UTC
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+    inputs:
+      tier:
+        description: "Tier index to run (0=frequent, 1=discovery, 2=broad)"
+        default: "0"
+        type: choice
+        options: ["0", "1", "2"]
+
+concurrency:
+  group: topic-tracker-state
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine tier index
+        id: tier
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          DISPATCH_TIER: ${{ github.event.inputs.tier }}
+        run: |
+          HOUR=$(date -u +%H)
+          MINUTE=$(date -u +%M)
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            # Validate dispatch input is a safe integer 0-2
+            case "$DISPATCH_TIER" in
+              0|1|2) echo "index=$DISPATCH_TIER" >> $GITHUB_OUTPUT ;;
+              *) echo "index=0" >> $GITHUB_OUTPUT ;;
+            esac
+          elif [ "$((10#$HOUR % 6))" = "0" ] && [ "$((10#$MINUTE))" -lt "10" ]; then
+            echo "index=1" >> $GITHUB_OUTPUT
+          elif [ "$((10#$HOUR))" = "8" ] && [ "$((10#$MINUTE))" -lt "10" ]; then
+            echo "index=2" >> $GITHUB_OUTPUT
+          else
+            echo "index=0" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run poller
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+          ETSY_API_KEY: ${{ secrets.ETSY_API_KEY }}
+          TO_EMAIL: "lissygold.junk@gmail.com"
+          FROM_EMAIL: "tracker@updates.resend.dev"
+          TIER_INDEX: ${{ steps.tier.outputs.index }}
+        run: python -c "from tracker.poller import run_poll; run_poll(tier_index=int('$TIER_INDEX'))"
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_urls.json results/index.json state.json results/archive/ || true
+          git diff --cached --quiet || git commit -m "chore: update tracker state [skip ci]"
+          git push
+
+      - name: Push results to public UI repo
+        env:
+          PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
+          REPO_OWNER: ${{ github.repository_owner }}
+        run: |
+          git clone "https://x-access-token:${PUBLIC_REPO_TOKEN}@github.com/${REPO_OWNER}/topic-tracker-ui.git" /tmp/ui-repo
+          mkdir -p /tmp/ui-repo/results/archive
+          cp results/index.json /tmp/ui-repo/results/index.json
+          MONTH=$(date -u +%Y-%m)
+          if [ -f "results/archive/${MONTH}.ndjson" ]; then
+            cp "results/archive/${MONTH}.ndjson" "/tmp/ui-repo/results/archive/${MONTH}.ndjson"
+          fi
+          cd /tmp/ui-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results/
+          git diff --cached --quiet || git commit -m "chore: update results [skip ci]"
+          git push

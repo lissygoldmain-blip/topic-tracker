@@ -1,0 +1,59 @@
+topics:
+  - name: "Keiji Kaneko suit"
+    description: "Fruit of the Loom x Keiji Kaneko double-breasted athletic formal suit"
+    importance: high
+    urgency: medium
+
+    source_categories:
+      - shopping
+      - news
+      - social
+
+    polling:
+      frequent:
+        - source: google_news
+          terms: ["Keiji Kaneko suit", "Fruit of the Loom Kaneko"]
+        - source: ebay
+          terms: ["keiji kaneko suit", "kaneko athletic formal double"]
+          filters:
+            price_max: 300
+      discovery:
+        - source: grailed
+          terms: ["kaneko fruit of the loom", "kaneko athletic suit"]
+        - source: mercari
+          terms: ["kaneko suit"]
+        - source: google_news
+          terms: ["fruit of the loom collaboration 2026"]
+      broad:
+        - source: google_news
+          terms: ["Keiji Kaneko"]
+
+    notifications:
+      push: true
+      email: weekly_digest
+      novelty_push_threshold: 0.7
+
+    llm_filter:
+      novelty_threshold: 0.65
+      semantic_dedup_threshold: 0.85
+      tags:
+        - new_listing
+        - price_drop
+        - upcoming_drop
+        - restock_rumored
+        - drop_confirmed
+        - sold_out
+        - noise
+
+    escalation:
+      triggers:
+        - tag: drop_confirmed
+          bump_to: urgent
+          duration_hours: 72
+        - tag: upcoming_drop
+          bump_to: high
+          duration_hours: 48
+        - tag: restock_rumored
+          bump_to: high
+          duration_hours: 24
+      auto_revert: true

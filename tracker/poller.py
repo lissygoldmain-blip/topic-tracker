@@ -13,10 +13,12 @@ from tracker.adapters import (
     GenericRSSAdapter,
     GoogleNewsAdapter,
     GrailedAdapter,
+    GuardianAdapter,
     HackerNewsAdapter,
     MastodonAdapter,
     MercariUSAdapter,
     NewsAPIAdapter,
+    NYTimesAdapter,
     RedditAdapter,
     SlickdealsAdapter,
     WeatherAdapter,
@@ -56,6 +58,8 @@ ADAPTERS: dict[str, type[BaseAdapter]] = {
     "camelcamelcamel": CamelCamelCamelAdapter,
     "weather": WeatherAdapter,
     "gdelt": GDELTAdapter,
+    "nytimes": NYTimesAdapter,
+    "guardian": GuardianAdapter,
 }
 
 

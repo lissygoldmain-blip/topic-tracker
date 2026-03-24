@@ -6,10 +6,12 @@ from tracker.adapters.gdelt import GDELTAdapter
 from tracker.adapters.generic_rss import GenericRSSAdapter
 from tracker.adapters.google_news import GoogleNewsAdapter
 from tracker.adapters.grailed import GrailedAdapter
+from tracker.adapters.guardian import GuardianAdapter
 from tracker.adapters.hacker_news import HackerNewsAdapter
 from tracker.adapters.mastodon import MastodonAdapter
 from tracker.adapters.mercari_us import MercariUSAdapter
 from tracker.adapters.newsapi import NewsAPIAdapter
+from tracker.adapters.nytimes import NYTimesAdapter
 from tracker.adapters.reddit import RedditAdapter
 from tracker.adapters.slickdeals import SlickdealsAdapter
 from tracker.adapters.weather import WeatherAdapter
@@ -24,10 +26,12 @@ __all__ = [
     "GenericRSSAdapter",
     "GoogleNewsAdapter",
     "GrailedAdapter",
+    "GuardianAdapter",
     "HackerNewsAdapter",
     "MastodonAdapter",
     "MercariUSAdapter",
     "NewsAPIAdapter",
+    "NYTimesAdapter",
     "RedditAdapter",
     "SlickdealsAdapter",
     "WeatherAdapter",

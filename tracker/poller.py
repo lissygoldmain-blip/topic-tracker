@@ -7,6 +7,7 @@ from tracker import circuit_breaker as cb
 from tracker.adapters import (
     AdzunaAdapter,
     ArxivAdapter,
+    BioRxivAdapter,
     BlueskyAdapter,
     CamelCamelCamelAdapter,
     EbayAdapter,
@@ -25,6 +26,7 @@ from tracker.adapters import (
     PlaybillJobsAdapter,
     PubMedAdapter,
     RedditAdapter,
+    SemanticScholarAdapter,
     SlickdealsAdapter,
     TMDbAdapter,
     USITTJobsAdapter,
@@ -70,6 +72,9 @@ ADAPTERS: dict[str, type[BaseAdapter]] = {
     "guardian": GuardianAdapter,
     "pubmed": PubMedAdapter,
     "arxiv": ArxivAdapter,
+    "biorxiv": BioRxivAdapter,
+    "medrxiv": BioRxivAdapter,
+    "semantic_scholar": SemanticScholarAdapter,
     "indeed": IndeedAdapter,
     "adzuna": AdzunaAdapter,
     "playbill_jobs": PlaybillJobsAdapter,
@@ -166,3 +171,54 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
     storage.save_state(state)
     storage.save()
     logger.info("Poll complete.")
+
+
+def run_digest(topics_path: str = "topics.yaml", data_dir: str = ".") -> None:
+    """Send a weekly digest email of all unnotified results, then mark them as sent."""
+    logging.basicConfig(level=logging.INFO)
+
+    resend_key = os.environ.get("RESEND_API_KEY", "")
+    to_email = os.environ.get("TO_EMAIL", "")
+    from_email = os.environ.get("FROM_EMAIL", "")
+
+    if not resend_key:
+        logger.warning("Digest: RESEND_API_KEY not set — skipping")
+        return
+
+    storage = Storage(data_dir=data_dir)
+    storage.load()
+
+    index = storage.get_index()
+
+    # Collect all results not yet included in a digest
+    unnotified: list[Result] = []
+    for result_dicts in index.values():
+        for d in result_dicts:
+            if not d.get("notified_digest", False):
+                unnotified.append(Result.from_dict(d))
+
+    if not unnotified:
+        logger.info("Digest: no new results to send")
+        return
+
+    # Sort: topic name first (groups topics together), then novelty descending within each topic
+    unnotified.sort(key=lambda r: (r.topic_name, -(r.novelty_score or 0.0)))
+
+    from datetime import date
+
+    week_str = date.today().strftime("%b %d, %Y")
+    subject = f"Topic Tracker Digest — {week_str}"
+
+    notifier = EmailNotifier(api_key=resend_key, from_email=from_email, to_email=to_email)
+    notifier.send_digest(unnotified, subject=subject)
+
+    # send_digest sets r.notified_digest = True on each Result object.
+    # Mirror that back into the live index dicts so storage.save() persists it.
+    notified_urls = {r.url for r in unnotified if r.notified_digest}
+    for result_dicts in index.values():
+        for d in result_dicts:
+            if d.get("url") in notified_urls:
+                d["notified_digest"] = True
+
+    storage.save()
+    logger.info("Digest: sent %d results", len(notified_urls))

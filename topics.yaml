@@ -78,6 +78,7 @@ topics:
               - "https://www.theatermania.com/rss"
               - "https://www.americantheatre.org/feed/"
               - "https://playbill.com/rss/news"
+              - "https://www.broadwayworld.com/rss/news.cfm"
         - source: google_news
           terms:
             - "NYC theater"
@@ -269,6 +270,23 @@ topics:
               - "https://www.technologyreview.com/feed/"
 
       discovery:
+        - source: biorxiv
+          terms:
+            - "YOUR CONDITION"
+          filters:
+            days_back: 14
+            max_results: 20
+        - source: medrxiv
+          terms:
+            - "YOUR CONDITION"
+          filters:
+            days_back: 14
+            max_results: 20
+        - source: semantic_scholar
+          terms:
+            - "YOUR CONDITION treatment"
+          filters:
+            limit: 15
         - source: arxiv
           terms:
             - "YOUR CONDITION therapy"
@@ -523,6 +541,12 @@ topics:
               - "https://www.technologyreview.com/feed/"
               - "https://feeds.arstechnica.com/arstechnica/index"
 
+        - source: semantic_scholar
+          terms:
+            - "large language model"
+            - "AI safety alignment"
+          filters:
+            limit: 15
         - source: pubmed
           terms:
             - "artificial intelligence clinical"

@@ -1,0 +1,42 @@
+name: Topic Tracker Weekly Digest
+
+on:
+  schedule:
+    # Sundays at 10:00 UTC
+    - cron: "0 10 * * 0"
+  workflow_dispatch: {}
+
+concurrency:
+  group: topic-tracker-state
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send digest
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+          FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
+        run: python -c "from tracker.poller import run_digest; run_digest()"
+
+      - name: Commit updated notified flags
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results/index.json || true
+          git diff --cached --quiet || git commit -m "chore: mark digest results notified [skip ci]"
+          git push

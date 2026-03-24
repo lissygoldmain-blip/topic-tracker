@@ -1,5 +1,6 @@
 from tracker.adapters.adzuna import AdzunaAdapter
 from tracker.adapters.arxiv import ArxivAdapter
+from tracker.adapters.biorxiv import BioRxivAdapter
 from tracker.adapters.bluesky import BlueskyAdapter
 from tracker.adapters.camelcamelcamel import CamelCamelCamelAdapter
 from tracker.adapters.ebay import EbayAdapter
@@ -18,6 +19,7 @@ from tracker.adapters.nytimes import NYTimesAdapter
 from tracker.adapters.playbill_jobs import PlaybillJobsAdapter
 from tracker.adapters.pubmed import PubMedAdapter
 from tracker.adapters.reddit import RedditAdapter
+from tracker.adapters.semantic_scholar import SemanticScholarAdapter
 from tracker.adapters.slickdeals import SlickdealsAdapter
 from tracker.adapters.tmdb import TMDbAdapter
 from tracker.adapters.usitt_jobs import USITTJobsAdapter
@@ -27,6 +29,7 @@ from tracker.adapters.youtube import YouTubeAdapter
 __all__ = [
     "AdzunaAdapter",
     "ArxivAdapter",
+    "BioRxivAdapter",
     "BlueskyAdapter",
     "CamelCamelCamelAdapter",
     "EbayAdapter",
@@ -45,6 +48,7 @@ __all__ = [
     "PlaybillJobsAdapter",
     "PubMedAdapter",
     "RedditAdapter",
+    "SemanticScholarAdapter",
     "SlickdealsAdapter",
     "TMDbAdapter",
     "USITTJobsAdapter",

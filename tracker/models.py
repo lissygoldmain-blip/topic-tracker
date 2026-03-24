@@ -40,6 +40,31 @@ class Result:
     notified_push: bool = False
     notified_digest: bool = False
 
+    @classmethod
+    def from_dict(cls, data: dict) -> "Result":
+        fetched_at = data.get("fetched_at")
+        if isinstance(fetched_at, str):
+            fetched_at = datetime.fromisoformat(fetched_at)
+        elif fetched_at is None:
+            fetched_at = datetime.now()
+        return cls(
+            url=data["url"],
+            title=data["title"],
+            snippet=data.get("snippet", ""),
+            source=data["source"],
+            source_type=data["source_type"],
+            topic_name=data["topic_name"],
+            fetched_at=fetched_at,
+            price=data.get("price"),
+            novelty_score=data.get("novelty_score"),
+            summary=data.get("summary"),
+            tags=data.get("tags", []),
+            escalation_trigger=data.get("escalation_trigger"),
+            action_url=data.get("action_url"),
+            notified_push=data.get("notified_push", False),
+            notified_digest=data.get("notified_digest", False),
+        )
+
     def to_dict(self) -> dict:
         return {
             "url": self.url,

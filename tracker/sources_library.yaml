@@ -1,0 +1,256 @@
+# tracker/sources_library.yaml
+# ──────────────────────────────────────────────────────────────────────────────
+# Verified catalog of sources available to the Topic Tracker.
+# Used by tracker/suggest.py to power the Source Suggester feature.
+#
+# Each entry documents:
+#   adapter:       the source key used in topics.yaml
+#   credentials:   required env vars (empty = free/no-key)
+#   categories:    topic domain tags for matching
+#   notes:         practical quirks, limits, or content focus
+# ──────────────────────────────────────────────────────────────────────────────
+
+sources:
+
+  # ── News ──────────────────────────────────────────────────────────────────
+
+  - adapter: google_news
+    credentials: []
+    categories: [news, general, breaking, local, product, person, event]
+    notes: >
+      Best general-purpose news source. No key needed. Good for product drops,
+      people in the news, event announcements, and breaking coverage.
+
+  - adapter: guardian
+    credentials: [GUARDIAN_API_KEY]
+    categories: [news, arts, culture, theater, politics, world, science]
+    notes: >
+      Excellent for arts, culture, theater, and international news. Supports
+      section filter (e.g. "stage", "science", "us-news"). Free API tier.
+
+  - adapter: nytimes
+    credentials: [NYTIMES_API_KEY]
+    categories: [news, arts, culture, nyc, local, science, health, politics]
+    notes: >
+      Strong NYC local coverage, arts, health, and science sections.
+      Rate-limited: 1 req/10s; adapter inserts delay automatically.
+
+  - adapter: newsapi
+    credentials: [NEWSAPI_KEY]
+    categories: [news, breaking, tech, business, health, science, general]
+    notes: >
+      Aggregates 150,000+ sources. Good for broad keyword sweeps across
+      many outlets simultaneously. Free tier: 100 req/day.
+
+  - adapter: gdelt
+    credentials: []
+    categories: [news, global, foreign_language, international, events]
+    notes: >
+      Global news in 65 languages, updated every 15 minutes. Best for
+      international coverage or topics with foreign-language coverage.
+      Supports sourcecountry and sourcelang filters.
+
+  # ── Science & Medicine ────────────────────────────────────────────────────
+
+  - adapter: pubmed
+    credentials: []
+    categories: [science, medicine, health, clinical, biology, genetics, pharma]
+    notes: >
+      NCBI PubMed: peer-reviewed biomedical literature. Best for disease
+      research, clinical trials, drug approvals, genetics. No key needed
+      (optional NCBI_API_KEY for higher rate limits). 365-day dedup window.
+
+  - adapter: arxiv
+    credentials: []
+    categories: [science, preprint, physics, math, cs, biology, economics, ai]
+    notes: >
+      arXiv preprints: cutting-edge research before peer review. Category
+      filters (e.g. cs.AI, q-bio.GN, econ.GN) narrow to specific fields.
+      Great for AI, computational biology, physics, math. 365-day dedup.
+
+  - adapter: rss
+    credentials: []
+    categories: [science, medicine, health, tech, feeds]
+    notes: >
+      Use for curated science/medical RSS feeds. Verified feeds include:
+      - https://www.sciencedaily.com/rss/all.xml  (ScienceDaily, broad science)
+      - https://feeds.nature.com/nature/rss/current  (Nature journal)
+      - https://www.science.org/rss/news_current.xml  (Science Magazine)
+      - https://www.thelancet.com/rssfeed/lanpub_en.xml  (The Lancet)
+      - https://feeds.jamanetwork.com/jama/rss/current  (JAMA)
+      - https://www.statnews.com/feed/  (STAT News, biopharma/health)
+      - https://www.technologyreview.com/feed/  (MIT Tech Review)
+      - https://news.mit.edu/rss/research  (MIT research news)
+
+  # ── Local & Hyperlocal (NYC) ──────────────────────────────────────────────
+
+  - adapter: rss
+    credentials: []
+    categories: [nyc, local, queens, jackson_heights, flushing, community]
+    notes: >
+      Verified NYC/Queens RSS feeds:
+      - https://qns.com/feed/  (QNS: Queens news)
+      - https://www.thecity.nyc/feed/  (The City NYC: investigative local)
+      - https://gothamist.com/feed  (Gothamist: NYC general)
+      - https://nyc.streetsblog.org/feed/  (Streetsblog: transit/streets)
+      - https://www.untappedcities.com/latest/rss  (Untapped Cities: urban)
+      - https://6sqft.com/feed/  (6sqft: NYC real estate/development)
+
+  - adapter: reddit
+    credentials: []
+    categories: [local, nyc, queens, community, social, discussion]
+    notes: >
+      Subreddits: JacksonHeights, queensnyc, AskNYC, FlusHing, nyc.
+      Use subreddits field (not terms) for subreddit-wide monitoring.
+
+  - adapter: bluesky
+    credentials: []
+    categories: [social, nyc, local, arts, community, discussion]
+    notes: >
+      Unauthenticated public search. Good for arts community, local NYC
+      discussion, event announcements.
+
+  # ── Arts, Culture & Theater ───────────────────────────────────────────────
+
+  - adapter: rss
+    credentials: []
+    categories: [arts, culture, theater, performance, dance, gallery, nyc]
+    notes: >
+      Verified arts/theater RSS feeds:
+      - https://www.theatermania.com/rss  (TheaterMania)
+      - https://www.americantheatre.org/feed/  (American Theatre)
+      - https://playbill.com/rss/news  (Playbill)
+      - https://hyperallergic.com/feed/  (Hyperallergic: visual arts)
+      - https://www.artsjournal.com/feed  (ArtsJournal: arts criticism)
+
+  - adapter: guardian
+    credentials: [GUARDIAN_API_KEY]
+    categories: [arts, culture, theater, film, music, dance]
+    notes: Use section filter "stage" or "culture" for arts coverage.
+
+  # ── Technology ────────────────────────────────────────────────────────────
+
+  - adapter: hacker_news
+    credentials: []
+    categories: [tech, startups, programming, ai, software, hardware]
+    notes: >
+      Algolia HN search. Best for developer tools, AI/ML announcements,
+      startup news. Social-type source: 90-day dedup window.
+
+  - adapter: rss
+    credentials: []
+    categories: [tech, ai, software, hardware, science]
+    notes: >
+      Verified tech RSS feeds:
+      - https://www.technologyreview.com/feed/  (MIT Tech Review)
+      - https://techcrunch.com/feed/  (TechCrunch)
+      - https://news.mit.edu/rss/research  (MIT research)
+      - https://feeds.arstechnica.com/arstechnica/index  (Ars Technica)
+
+  - adapter: youtube
+    credentials: [YOUTUBE_API_KEY]
+    categories: [tech, video, tutorials, reviews, ai, products]
+    notes: >
+      YouTube Data API v3. Good for product reviews, tech explainers,
+      AI research summaries. Use for video-heavy topics.
+
+  # ── Shopping & Products ───────────────────────────────────────────────────
+
+  - adapter: ebay
+    credentials: [EBAY_CLIENT_ID, EBAY_CLIENT_SECRET]
+    categories: [shopping, resale, collectibles, fashion, electronics]
+    notes: OAuth client-credentials flow, token auto-refreshed.
+
+  - adapter: etsy
+    credentials: [ETSY_API_KEY]
+    categories: [shopping, handmade, vintage, fashion, art, crafts]
+    notes: Good for handmade, vintage, and small-batch items.
+
+  - adapter: grailed
+    credentials: []
+    categories: [shopping, fashion, menswear, streetwear, luxury, resale]
+    notes: Menswear resale marketplace. No key. Good for designer/collab drops.
+
+  - adapter: mercari
+    credentials: []
+    categories: [shopping, resale, general, vintage, collectibles]
+    notes: General US resale. No key. Circuit breaker handles 401s gracefully.
+
+  - adapter: slickdeals
+    credentials: []
+    categories: [shopping, deals, coupons, electronics, appliances]
+    notes: Community deal aggregator. RSS-based, no key. Good for discount alerts.
+
+  - adapter: camelcamelcamel
+    credentials: []
+    categories: [shopping, amazon, price_tracking]
+    notes: >
+      Amazon price-drop tracking via ASIN-specific RSS.
+      Requires filters.asins list (e.g. ["B09G9HD6PD"]).
+      Find ASINs in Amazon product URLs.
+
+  # ── Jobs ─────────────────────────────────────────────────────────────────
+
+  - adapter: indeed
+    credentials: []
+    categories: [jobs, hiring, theater, arts, tech, general]
+    notes: >
+      Indeed RSS feed (free, no key). Supports location, radius, job type,
+      fromage (days since posting), and sort. Good for any role + city combo.
+      Limit capped at 25 per request. Use fromage to avoid stale listings.
+
+  - adapter: adzuna
+    credentials: [ADZUNA_APP_ID, ADZUNA_APP_KEY]
+    categories: [jobs, hiring, theater, arts, tech, general, linkedin]
+    notes: >
+      Best LinkedIn workaround: Adzuna aggregates from LinkedIn, Indeed,
+      company career pages, and 1000+ other boards. Free API, 50k req/month.
+      Returns structured salary data (salary_min/salary_max). Supports
+      country, location, sort_by (date|relevance|salary), max_days_old,
+      full_time, part_time, contract filters.
+      Register at developer.adzuna.com.
+      NOTE: Theater-specific boards (OffStageJobs, Playbill Jobs, TCG
+      ARTSEARCH, Working In Theatre) have NO public RSS or API as of 2026-03.
+      Adzuna + Indeed is the best available automated coverage.
+
+  # ── Social ────────────────────────────────────────────────────────────────
+
+  - adapter: reddit
+    credentials: []
+    categories: [social, discussion, community, news, hobbies, local]
+    notes: Public RSS feeds, no credentials. Use subreddits or terms fields.
+
+  - adapter: bluesky
+    credentials: []
+    categories: [social, arts, tech, news, community]
+    notes: Unauthenticated AT Protocol search. Growing arts/indie community.
+
+  - adapter: mastodon
+    credentials: []
+    categories: [social, tech, arts, academic, community]
+    notes: >
+      Unauthenticated v2 search on any instance (default: mastodon.social).
+      Use filters.instance to target academic (scholar.social),
+      arts (merveilles.town), or NYC instances.
+
+  # ── Weather ───────────────────────────────────────────────────────────────
+
+  - adapter: weather
+    credentials: []
+    categories: [weather, events, outdoor, travel, local]
+    notes: >
+      Open-Meteo global weather, no key. Notable conditions only by default
+      (notable_only: true). Use for event planning, outdoor topics.
+      filters: lat, lon, days (1-7), notable_only.
+
+  # ── Newsletters (Substack) ────────────────────────────────────────────────
+
+  - adapter: rss
+    credentials: []
+    categories: [newsletter, substack, feeds, independent, arts, local]
+    notes: >
+      Every public Substack has RSS at https://{handle}.substack.com/feed
+      Use the rss adapter with filters.feeds list.
+      Examples for NYC arts/culture:
+      - https://heyalma.substack.com/feed
+      - https://theoverspill.substack.com/feed

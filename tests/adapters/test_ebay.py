@@ -59,15 +59,15 @@ def make_topic(name="Keiji Kaneko suit"):
 
 
 class TestEbayAdapterInit:
-    def test_raises_if_client_id_missing(self, monkeypatch):
-        monkeypatch.delenv("EBAY_CLIENT_ID")
-        with pytest.raises(EnvironmentError, match="EBAY_CLIENT_ID"):
-            EbayAdapter()
-
-    def test_raises_if_client_secret_missing(self, monkeypatch):
-        monkeypatch.delenv("EBAY_CLIENT_SECRET")
-        with pytest.raises(EnvironmentError, match="EBAY_CLIENT_SECRET"):
-            EbayAdapter()
+    def test_missing_keys_returns_empty_and_sets_last_failed(self, monkeypatch):
+        monkeypatch.delenv("EBAY_CLIENT_ID", raising=False)
+        monkeypatch.delenv("EBAY_CLIENT_SECRET", raising=False)
+        from tests.conftest import make_full_topic
+        adapter = EbayAdapter()
+        source = SourceConfig(source="ebay", terms=[])
+        results = adapter.fetch(source, make_full_topic())
+        assert results == []
+        assert adapter._last_failed is True
 
     def test_source_type_is_shopping(self):
         assert EbayAdapter.source_type == "shopping"

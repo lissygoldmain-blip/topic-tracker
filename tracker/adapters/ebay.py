@@ -30,14 +30,8 @@ class EbayAdapter(BaseAdapter):
     source_type = "shopping"
 
     def __init__(self) -> None:
-        client_id = os.environ.get("EBAY_CLIENT_ID")
-        if not client_id:
-            raise EnvironmentError("EBAY_CLIENT_ID environment variable is not set.")
-        client_secret = os.environ.get("EBAY_CLIENT_SECRET")
-        if not client_secret:
-            raise EnvironmentError("EBAY_CLIENT_SECRET environment variable is not set.")
-        self._client_id = client_id
-        self._client_secret = client_secret
+        self._client_id = os.environ.get("EBAY_CLIENT_ID", "")
+        self._client_secret = os.environ.get("EBAY_CLIENT_SECRET", "")
         self._last_failed: bool = False
 
     def _get_token(self) -> str | None:
@@ -79,6 +73,10 @@ class EbayAdapter(BaseAdapter):
 
     def fetch(self, source_config: SourceConfig, topic: TopicConfig) -> list[Result]:
         self._last_failed = False
+        if not self._client_id or not self._client_secret:
+            logger.warning("EbayAdapter: EBAY_CLIENT_ID or EBAY_CLIENT_SECRET not set, skipping")
+            self._last_failed = True
+            return []
         token = self._get_token()
         if not token:
             self._last_failed = True

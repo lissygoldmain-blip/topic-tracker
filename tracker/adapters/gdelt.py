@@ -29,7 +29,11 @@ class GDELTAdapter(BaseAdapter):
 
     source_type = "news"
 
+    def __init__(self) -> None:
+        self._last_failed: bool = False
+
     def fetch(self, source_config: SourceConfig, topic: TopicConfig) -> list[Result]:
+        self._last_failed = False
         results = []
         for term in source_config.terms:
             try:
@@ -74,4 +78,5 @@ class GDELTAdapter(BaseAdapter):
                     )
             except Exception as exc:
                 logger.warning("GDELTAdapter error for term '%s': %s", term, exc)
+                self._last_failed = True
         return results

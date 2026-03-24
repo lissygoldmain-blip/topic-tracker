@@ -1,3 +1,4 @@
+import json
 from datetime import datetime, timedelta, timezone
 
 from tracker.models import Result
@@ -93,3 +94,31 @@ def test_state_roundtrip(tmp_path):
     s2.load()
     loaded = s2.load_state()
     assert loaded["circuit_breakers"]["My Topic"]["grailed"]["consecutive_failures"] == 2
+
+
+def test_add_result_writes_to_ndjson_archive(tmp_path):
+    s = Storage(data_dir=str(tmp_path))
+    s.load()
+    r = make_result()
+    s.add_result(r)
+
+    month = datetime.now(timezone.utc).strftime("%Y-%m")
+    archive_path = tmp_path / "results" / "archive" / f"{month}.ndjson"
+    assert archive_path.exists()
+    lines = archive_path.read_text().strip().split("\n")
+    assert len(lines) == 1
+    data = json.loads(lines[0])
+    assert data["url"] == "https://example.com/1"
+    assert data["topic_name"] == "Test Topic"
+
+
+def test_archive_appends_multiple_results(tmp_path):
+    s = Storage(data_dir=str(tmp_path))
+    s.load()
+    for i in range(3):
+        s.add_result(make_result(url=f"https://example.com/{i}"))
+
+    month = datetime.now(timezone.utc).strftime("%Y-%m")
+    archive_path = tmp_path / "results" / "archive" / f"{month}.ndjson"
+    lines = archive_path.read_text().strip().split("\n")
+    assert len(lines) == 3

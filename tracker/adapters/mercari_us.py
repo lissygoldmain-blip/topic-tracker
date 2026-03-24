@@ -38,7 +38,10 @@ class MercariUSAdapter(BaseAdapter):
         results: list[Result] = []
         for item in items:
             price_raw = getattr(item, "price", None)
-            price = f"${price_raw:.2f}" if price_raw is not None else None
+            try:
+                price = f"${float(price_raw):.2f}" if price_raw is not None else None
+            except (TypeError, ValueError):
+                price = str(price_raw) if price_raw is not None else None
             item_id = getattr(item, "id", "")
             url = getattr(item, "productURL", f"https://jp.mercari.com/item/{item_id}")
             title = getattr(item, "productName", "")

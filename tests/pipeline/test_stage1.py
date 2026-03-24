@@ -1,6 +1,6 @@
 import json
 from datetime import datetime, timezone
-from unittest.mock import MagicMock, patch
+from unittest.mock import MagicMock, call, patch
 
 from tracker.models import Result, TopicConfig
 from tracker.pipeline.stage1 import Stage1Filter
@@ -95,7 +95,14 @@ def test_multiple_items_filtered_independently():
         idx = mock_model.generate_content.call_count - 1
         return fake_gemini_response(scores[idx], ["noise"])
 
-    with patch("tracker.pipeline.stage1.genai") as mock_genai:
+    # _last_request_at starts at 0.0 in __init__. In production, the first
+    # monotonic() call returns a large number so elapsed >> interval → no sleep.
+    # Simulate that: start at 1000.0, then advance by 5.1s per item (> 5.0s interval).
+    # Each item calls monotonic() twice: once for elapsed check, once to record the time.
+    monotonic_values = iter([1000.0, 1000.0, 1005.1, 1005.1, 1010.2, 1010.2])
+    with patch("tracker.pipeline.stage1.genai") as mock_genai, \
+         patch("tracker.pipeline.stage1.time.sleep") as mock_sleep, \
+         patch("tracker.pipeline.stage1.time.monotonic", side_effect=monotonic_values):
         mock_model = MagicMock()
         mock_genai.GenerativeModel.return_value = mock_model
         mock_model.generate_content.side_effect = side_effect
@@ -103,3 +110,66 @@ def test_multiple_items_filtered_independently():
         passed = f.filter([(r, topic) for r in results])
 
     assert len(passed) == 2
+    assert mock_sleep.call_count == 0  # all elapsed times exceed _REQUEST_INTERVAL
+
+
+def test_rate_limit_429_retries_with_parsed_delay():
+    """On a 429 with 'retry in Xs', _score should sleep that delay + 2s then retry."""
+    topic = make_topic()
+    result = make_result()
+    call_count = 0
+
+    def side_effect(*args, **kwargs):
+        nonlocal call_count
+        call_count += 1
+        if call_count == 1:
+            raise Exception("429 Too Many Requests: retry in 5s, please wait")
+        return fake_gemini_response(0.8, [])
+
+    with patch("tracker.pipeline.stage1.genai") as mock_genai, \
+         patch("tracker.pipeline.stage1.time.sleep") as mock_sleep, \
+         patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
+        mock_model = MagicMock()
+        mock_genai.GenerativeModel.return_value = mock_model
+        mock_model.generate_content.side_effect = side_effect
+        f = Stage1Filter(api_key="fake")
+        passed = f.filter([(result, topic)])
+
+    assert len(passed) == 1
+    # First sleep: rate limit pacing (0s elapsed on first item, _last_request_at=0 → big elapsed)
+    # Second sleep: 429 retry — parsed delay is 5s + 2s = 7s
+    rate_limit_sleep = next(
+        (c.args[0] for c in mock_sleep.call_args_list if c.args[0] > 1), None
+    )
+    assert rate_limit_sleep is not None
+    assert abs(rate_limit_sleep - 7.0) < 0.1
+
+
+def test_rate_limit_429_no_retry_hint_uses_backoff():
+    """On a 429 without a retry delay hint, falls back to 30s * attempt."""
+    topic = make_topic()
+    result = make_result()
+    call_count = 0
+
+    def side_effect(*args, **kwargs):
+        nonlocal call_count
+        call_count += 1
+        if call_count == 1:
+            raise Exception("429 quota exceeded")
+        return fake_gemini_response(0.8, [])
+
+    with patch("tracker.pipeline.stage1.genai") as mock_genai, \
+         patch("tracker.pipeline.stage1.time.sleep") as mock_sleep, \
+         patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
+        mock_model = MagicMock()
+        mock_genai.GenerativeModel.return_value = mock_model
+        mock_model.generate_content.side_effect = side_effect
+        f = Stage1Filter(api_key="fake")
+        passed = f.filter([(result, topic)])
+
+    assert len(passed) == 1
+    # Fallback backoff for attempt 0 is 30 * (0+1) = 30s
+    backoff_sleep = next(
+        (c.args[0] for c in mock_sleep.call_args_list if c.args[0] >= 30), None
+    )
+    assert backoff_sleep == 30.0

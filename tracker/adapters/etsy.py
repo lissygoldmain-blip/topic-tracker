@@ -23,14 +23,15 @@ class EtsyAdapter(BaseAdapter):
     source_type = "shopping"
 
     def __init__(self) -> None:
-        api_key = os.environ.get("ETSY_API_KEY")
-        if not api_key:
-            raise EnvironmentError("ETSY_API_KEY environment variable is not set.")
-        self._api_key = api_key
+        self._api_key = os.environ.get("ETSY_API_KEY", "")
         self._last_failed: bool = False
 
     def fetch(self, source_config: SourceConfig, topic: TopicConfig) -> list[Result]:
         self._last_failed = False
+        if not self._api_key:
+            logger.warning("EtsyAdapter: ETSY_API_KEY not set, skipping")
+            self._last_failed = True
+            return []
         try:
             resp = requests.get(
                 SEARCH_URL,

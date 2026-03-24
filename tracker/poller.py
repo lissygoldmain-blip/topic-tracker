@@ -5,6 +5,8 @@ import os
 
 from tracker import circuit_breaker as cb
 from tracker.adapters import (
+    AdzunaAdapter,
+    ArxivAdapter,
     BlueskyAdapter,
     CamelCamelCamelAdapter,
     EbayAdapter,
@@ -15,12 +17,16 @@ from tracker.adapters import (
     GrailedAdapter,
     GuardianAdapter,
     HackerNewsAdapter,
+    IndeedAdapter,
     MastodonAdapter,
     MercariUSAdapter,
     NewsAPIAdapter,
     NYTimesAdapter,
+    PlaybillJobsAdapter,
+    PubMedAdapter,
     RedditAdapter,
     SlickdealsAdapter,
+    USITTJobsAdapter,
     WeatherAdapter,
     YouTubeAdapter,
 )
@@ -60,6 +66,12 @@ ADAPTERS: dict[str, type[BaseAdapter]] = {
     "gdelt": GDELTAdapter,
     "nytimes": NYTimesAdapter,
     "guardian": GuardianAdapter,
+    "pubmed": PubMedAdapter,
+    "arxiv": ArxivAdapter,
+    "indeed": IndeedAdapter,
+    "adzuna": AdzunaAdapter,
+    "playbill_jobs": PlaybillJobsAdapter,
+    "usitt_jobs": USITTJobsAdapter,
 }
 
 
@@ -69,10 +81,14 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
     """
     logging.basicConfig(level=logging.INFO)
 
-    gemini_key = os.environ["GEMINI_API_KEY"]
-    resend_key = os.environ["RESEND_API_KEY"]
-    to_email = os.environ.get("TO_EMAIL", "lissygold.junk@gmail.com")
-    from_email = os.environ.get("FROM_EMAIL", "tracker@updates.resend.dev")
+    gemini_key = os.environ.get("GEMINI_API_KEY", "")
+    if not gemini_key:
+        raise RuntimeError(
+            "GEMINI_API_KEY is not set. Add it to your .env file or GitHub Secrets."
+        )
+    resend_key = os.environ.get("RESEND_API_KEY", "")
+    to_email = os.environ.get("TO_EMAIL", "")
+    from_email = os.environ.get("FROM_EMAIL", "")
 
     topics = load_topics(topics_path)
     storage = Storage(data_dir=data_dir)
@@ -82,7 +98,9 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
     state = storage.load_state()
 
     stage1 = Stage1Filter(api_key=gemini_key)
-    notifier = EmailNotifier(api_key=resend_key, from_email=from_email, to_email=to_email)
+    notifier = EmailNotifier(
+        api_key=resend_key, from_email=from_email, to_email=to_email
+    ) if resend_key else None
 
     for topic in topics:
         tier_names = TIER_MAP.get(topic.urgency, ["discovery"])
@@ -140,7 +158,7 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
 
         for result, t in passed:
             storage.add_result(result)
-            if t.notifications.get("email") == "immediate":
+            if notifier and t.notifications.get("email") == "immediate":
                 notifier.send_immediate(result)
 
     storage.save_state(state)

@@ -48,10 +48,14 @@ def make_topic(name="Keiji Kaneko suit"):
 
 
 class TestEtsyAdapterInit:
-    def test_raises_if_api_key_missing(self, monkeypatch):
-        monkeypatch.delenv("ETSY_API_KEY")
-        with pytest.raises(EnvironmentError, match="ETSY_API_KEY"):
-            EtsyAdapter()
+    def test_missing_key_returns_empty_and_sets_last_failed(self, monkeypatch):
+        monkeypatch.delenv("ETSY_API_KEY", raising=False)
+        from tests.conftest import make_full_topic
+        adapter = EtsyAdapter()
+        source = SourceConfig(source="etsy", terms=[])
+        results = adapter.fetch(source, make_full_topic())
+        assert results == []
+        assert adapter._last_failed is True
 
     def test_source_type_is_shopping(self):
         assert EtsyAdapter.source_type == "shopping"

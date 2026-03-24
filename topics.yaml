@@ -236,3 +236,258 @@ topics:
     escalation:
       triggers: []
       auto_revert: true
+
+  - name: "Health research"
+    description: >
+      Personal health & ailment research: new treatments, clinical trials,
+      FDA approvals, and scientific papers relevant to conditions I follow.
+      Replace placeholder terms below with your actual conditions.
+    importance: high
+    urgency: low
+
+    source_categories:
+      - science
+      - news
+
+    polling:
+      frequent:
+        - source: pubmed
+          # Replace with search terms for your specific conditions, e.g.:
+          # "sickle cell gene therapy", "crohn's disease biologics",
+          # "migraine CGRP treatment", "long covid mechanisms"
+          terms:
+            - "YOUR CONDITION treatment 2026"
+            - "YOUR CONDITION clinical trial"
+          filters:
+            retmax: 10
+            sort: date
+
+        - source: rss
+          filters:
+            feeds:
+              - "https://www.statnews.com/feed/"
+              - "https://www.technologyreview.com/feed/"
+
+      discovery:
+        - source: arxiv
+          terms:
+            - "YOUR CONDITION therapy"
+          filters:
+            max_results: 10
+            # Add arXiv category codes if relevant, e.g.:
+            # categories: ["q-bio.GN", "q-bio.TO"]
+
+        - source: pubmed
+          terms:
+            - "YOUR CONDITION drug approval"
+          filters:
+            retmax: 20
+
+        - source: rss
+          filters:
+            feeds:
+              - "https://feeds.nature.com/nature/rss/current"
+              - "https://www.science.org/rss/news_current.xml"
+
+      broad:
+        - source: google_news
+          terms:
+            - "YOUR CONDITION new treatment"
+            - "YOUR CONDITION FDA approved"
+        - source: gdelt
+          terms:
+            - "YOUR CONDITION breakthrough"
+
+    notifications:
+      email: weekly_digest
+      novelty_push_threshold: 0.75
+
+    llm_filter:
+      novelty_threshold: 0.65
+      tags:
+        - clinical_trial
+        - fda_approval
+        - new_treatment
+        - study_published
+        - drug_approval
+        - breakthrough
+        - noise
+
+    escalation:
+      triggers:
+        - tag: fda_approval
+          bump_to: high
+          duration_hours: 168
+        - tag: clinical_trial
+          bump_to: high
+          duration_hours: 48
+      auto_revert: true
+
+  - name: "Jobs"
+    description: >
+      Theater, arts, production, and stage management jobs in NYC.
+      Includes off-Broadway, off-off-Broadway, major institutions,
+      and adjacent roles (production manager, TD, LD, SD, props).
+      Add or remove terms to match what you're actually looking for.
+    importance: high
+    urgency: low
+
+    source_categories:
+      - jobs
+
+    polling:
+      frequent:
+        - source: indeed
+          terms:
+            - "stage manager New York"
+            - "production manager theater NYC"
+            - "lighting designer theater NYC"
+          filters:
+            location: "New York, NY"
+            fromage: 7
+            sort: date
+
+        - source: adzuna
+          terms:
+            - "stage manager"
+            - "production manager theater"
+            - "theater arts NYC"
+          filters:
+            location: "New York"
+            max_days_old: 7
+            sort_by: date
+
+      discovery:
+        - source: playbill_jobs
+          terms:
+            - "stage manager"
+            - "production manager"
+            - "lighting designer"
+
+        - source: usitt_jobs
+          terms: []
+
+        - source: indeed
+          terms:
+            - "technical director theater NYC"
+            - "props master NYC"
+            - "sound designer theater New York"
+            - "costume designer theater NYC"
+          filters:
+            location: "New York, NY"
+            fromage: 14
+
+        - source: adzuna
+          terms:
+            - "off broadway production"
+            - "arts administrator NYC"
+            - "theater general manager"
+          filters:
+            location: "New York"
+            max_days_old: 14
+
+        - source: google_news
+          terms:
+            - "NYC theater jobs hiring"
+            - "off-broadway hiring 2026"
+
+      broad:
+        - source: adzuna
+          terms:
+            - "stage management"
+            - "theater production"
+          filters:
+            location: "New York"
+            max_days_old: 30
+
+    notifications:
+      push: true
+      email: weekly_digest
+      novelty_push_threshold: 0.7
+
+    llm_filter:
+      novelty_threshold: 0.5
+      tags:
+        - new_posting
+        - union
+        - non_union
+        - full_time
+        - contract
+        - internship
+        - noise
+
+    escalation:
+      triggers:
+        - tag: new_posting
+          bump_to: high
+          duration_hours: 48
+      auto_revert: true
+
+  - name: "AI & tech research"
+    description: >
+      AI, machine learning, and adjacent technology research. Preprints,
+      model releases, papers, and applied AI news.
+    importance: low
+    urgency: low
+
+    source_categories:
+      - science
+      - news
+      - social
+
+    polling:
+      frequent:
+        - source: hacker_news
+          terms:
+            - "large language model"
+            - "AI safety"
+            - "machine learning"
+
+        - source: arxiv
+          terms:
+            - "large language model"
+            - "diffusion model"
+          filters:
+            max_results: 15
+            categories: ["cs.AI", "cs.LG", "cs.CL"]
+
+      discovery:
+        - source: rss
+          filters:
+            feeds:
+              - "https://www.technologyreview.com/feed/"
+              - "https://feeds.arstechnica.com/arstechnica/index"
+
+        - source: pubmed
+          terms:
+            - "artificial intelligence clinical"
+            - "machine learning healthcare"
+          filters:
+            retmax: 10
+
+      broad:
+        - source: gdelt
+          terms:
+            - "artificial intelligence research"
+        - source: google_news
+          terms:
+            - "AI model release"
+            - "LLM benchmark"
+
+    notifications:
+      email: weekly_digest
+      novelty_push_threshold: 0.7
+
+    llm_filter:
+      novelty_threshold: 0.6
+      tags:
+        - model_release
+        - paper_published
+        - benchmark
+        - safety_research
+        - product_launch
+        - noise
+
+    escalation:
+      triggers: []
+      auto_revert: true

@@ -13,6 +13,8 @@ PRUNE_DAYS = {
     "video": 90,
     "feeds": 90,
     "weather": 7,
+    "science": 365,
+    "jobs": 30,
 }
 INDEX_MAX = 100
 

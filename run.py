@@ -25,6 +25,13 @@ if _env.exists():
 
 from tracker.poller import run_poll  # noqa: E402
 
-tier = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+try:
+    tier = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+    if tier not in (0, 1, 2, 3):
+        raise ValueError
+except ValueError:
+    print("Usage: python run.py [0|1|2|3] [topics_path]", file=sys.stderr)
+    sys.exit(1)
+
 topics = sys.argv[2] if len(sys.argv) > 2 else "topics.yaml"
 run_poll(tier_index=tier, topics_path=topics)

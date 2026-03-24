@@ -1,4 +1,7 @@
+from datetime import datetime, timedelta, timezone
+
 from tracker.circuit_breaker import (
+    COOLDOWN_HOURS,
     FAILURE_THRESHOLD,
     is_disabled,
     record_failure,
@@ -112,3 +115,77 @@ class TestReset:
         state = {}
         reset(state, "My Topic", "grailed")
         assert state["circuit_breakers"]["My Topic"]["grailed"]["disabled"] is False
+
+
+class TestCooldownAutoRecovery:
+    """Tests for the disabled_at timestamp and auto-recovery after COOLDOWN_HOURS."""
+
+    def _disable(self, state):
+        """Helper: trigger enough failures to disable the adapter."""
+        for _ in range(FAILURE_THRESHOLD):
+            record_failure(state, "My Topic", "grailed")
+
+    def test_disabled_at_is_recorded_when_adapter_trips(self):
+        state = {}
+        self._disable(state)
+        entry = state["circuit_breakers"]["My Topic"]["grailed"]
+        assert entry["disabled_at"] is not None
+
+    def test_auto_recovers_after_cooldown_elapsed(self):
+        state = {}
+        self._disable(state)
+        # Back-date disabled_at past the cooldown window
+        entry = state["circuit_breakers"]["My Topic"]["grailed"]
+        entry["disabled_at"] = (
+            datetime.now(timezone.utc) - timedelta(hours=COOLDOWN_HOURS + 1)
+        ).isoformat()
+
+        assert is_disabled(state, "My Topic", "grailed") is False
+        # State should be cleaned up in-place
+        assert entry["disabled"] is False
+        assert entry["consecutive_failures"] == 0
+
+    def test_does_not_auto_recover_before_cooldown_elapsed(self):
+        state = {}
+        self._disable(state)
+        entry = state["circuit_breakers"]["My Topic"]["grailed"]
+        entry["disabled_at"] = (
+            datetime.now(timezone.utc) - timedelta(hours=COOLDOWN_HOURS - 1)
+        ).isoformat()
+
+        assert is_disabled(state, "My Topic", "grailed") is True
+
+    def test_malformed_disabled_at_keeps_adapter_disabled(self):
+        """Corrupted state should fail safe — adapter stays disabled."""
+        state = {
+            "circuit_breakers": {
+                "My Topic": {
+                    "grailed": {
+                        "consecutive_failures": 5,
+                        "disabled": True,
+                        "disabled_at": "not-a-valid-iso-date",
+                    }
+                }
+            }
+        }
+        assert is_disabled(state, "My Topic", "grailed") is True
+
+    def test_reset_clears_disabled_at(self):
+        state = {}
+        self._disable(state)
+        reset(state, "My Topic", "grailed")
+        entry = state["circuit_breakers"]["My Topic"]["grailed"]
+        assert entry["disabled_at"] is None
+
+    def test_no_disabled_at_in_legacy_state_stays_disabled(self):
+        """Adapter disabled before disabled_at was introduced — must not crash."""
+        state = {
+            "circuit_breakers": {
+                "My Topic": {
+                    "grailed": {"consecutive_failures": 5, "disabled": True}
+                    # no disabled_at key at all
+                }
+            }
+        }
+        # Should return True (still disabled) and not raise
+        assert is_disabled(state, "My Topic", "grailed") is True

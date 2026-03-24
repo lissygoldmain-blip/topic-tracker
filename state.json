@@ -1,1 +1,64 @@
-{}
+{
+  "circuit_breakers": {
+    "Keiji Kaneko suit": {
+      "grailed": {
+        "consecutive_failures": 0,
+        "disabled": false
+      },
+      "mercari": {
+        "consecutive_failures": 0,
+        "disabled": false
+      },
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false
+      }
+    },
+    "NYC theater & arts": {
+      "gdelt": {
+        "consecutive_failures": 0,
+        "disabled": false
+      },
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false
+      }
+    },
+    "Queens & NYC local": {
+      "guardian": {
+        "consecutive_failures": 0,
+        "disabled": false
+      },
+      "gdelt": {
+        "consecutive_failures": 0,
+        "disabled": false
+      }
+    },
+    "Health research": {
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false
+      },
+      "gdelt": {
+        "consecutive_failures": 0,
+        "disabled": false
+      }
+    },
+    "Jobs": {
+      "adzuna": {
+        "consecutive_failures": 2,
+        "disabled": false
+      }
+    },
+    "AI & tech research": {
+      "gdelt": {
+        "consecutive_failures": 0,
+        "disabled": false
+      },
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false
+      }
+    }
+  }
+}

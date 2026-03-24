@@ -5,14 +5,18 @@ import os
 
 from tracker import circuit_breaker as cb
 from tracker.adapters import (
+    BlueskyAdapter,
     EbayAdapter,
     EtsyAdapter,
     GenericRSSAdapter,
     GoogleNewsAdapter,
     GrailedAdapter,
     HackerNewsAdapter,
+    MastodonAdapter,
     MercariUSAdapter,
+    NewsAPIAdapter,
     RedditAdapter,
+    YouTubeAdapter,
 )
 from tracker.adapters.base import BaseAdapter
 from tracker.config import load_topics
@@ -40,6 +44,10 @@ ADAPTERS: dict[str, type[BaseAdapter]] = {
     "hacker_news": HackerNewsAdapter,
     "reddit": RedditAdapter,
     "rss": GenericRSSAdapter,
+    "bluesky": BlueskyAdapter,
+    "mastodon": MastodonAdapter,
+    "youtube": YouTubeAdapter,
+    "newsapi": NewsAPIAdapter,
 }
 
 

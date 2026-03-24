@@ -37,19 +37,38 @@ class Stage1Filter:
     # 5s minimum gap → at most 12 req/min.
     _REQUEST_INTERVAL = 5.0
 
+    # Hard cap on items scored per run to protect the daily quota (1500 RPD free tier).
+    # On a first run with many new items, this prevents a single poll from exhausting
+    # the quota for the whole day. Remaining items are simply deferred to the next run.
+    MAX_ITEMS_PER_RUN = 60
+
     def __init__(self, api_key: str):
         genai.configure(api_key=api_key)
         self._model = genai.GenerativeModel("gemini-2.0-flash")
         # Tracks when the last Gemini request was made (monotonic seconds).
         # Initialised to 0 so the very first call never waits.
         self._last_request_at: float = 0.0
+        # Set to True when a 429 with no retry hint is received, indicating
+        # daily quota exhaustion (not just RPM throttling). When set, the
+        # batch is aborted immediately rather than retrying each item for minutes.
+        self._quota_exhausted: bool = False
 
     def filter(
         self, items: list[tuple[Result, TopicConfig]]
     ) -> list[tuple[Result, TopicConfig]]:
         """Score each item and return only those above the topic's novelty_threshold."""
+        if len(items) > self.MAX_ITEMS_PER_RUN:
+            logger.warning(
+                "Stage1: %d items exceed cap of %d — deferring excess to next run",
+                len(items), self.MAX_ITEMS_PER_RUN,
+            )
+            items = items[: self.MAX_ITEMS_PER_RUN]
+
         passed = []
         for result, topic in items:
+            if self._quota_exhausted:
+                logger.warning("Stage1: daily quota exhausted — skipping remaining items")
+                break
             # Enforce rate limit based on elapsed time since last request.
             # If the Gemini call itself took 4.8s, we only sleep 0.2s more.
             elapsed = time.monotonic() - self._last_request_at
@@ -90,15 +109,25 @@ class Stage1Filter:
             except Exception as e:
                 error_str = str(e)
                 if "429" in error_str or "quota" in error_str.lower():
-                    # Respect the API's suggested retry delay
                     match = _RETRY_SECONDS_RE.search(error_str)
-                    wait = float(match.group(1)) + 2 if match else 30 * (attempt + 1)
-                    logger.warning(
-                        "Stage1 rate limited, waiting %.0fs (attempt %d/4)",
-                        wait, attempt + 1,
-                    )
-                    time.sleep(wait)
-                    continue
+                    if match:
+                        # RPM limit: API told us exactly how long to wait — respect it.
+                        wait = float(match.group(1)) + 2
+                        logger.warning(
+                            "Stage1 RPM limited, waiting %.0fs (attempt %d/4)",
+                            wait, attempt + 1,
+                        )
+                        time.sleep(wait)
+                        continue
+                    else:
+                        # No retry hint = daily quota exhausted, not an RPM blip.
+                        # Abort immediately — retrying will just waste minutes per item.
+                        logger.warning(
+                            "Stage1 daily quota exhausted for '%s' — aborting batch",
+                            result.url,
+                        )
+                        self._quota_exhausted = True
+                        return None
                 logger.error("Stage1 Gemini API error for '%s': %s", result.url, e)
                 break
         return None

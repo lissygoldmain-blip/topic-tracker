@@ -145,18 +145,13 @@ def test_rate_limit_429_retries_with_parsed_delay():
     assert abs(rate_limit_sleep - 7.0) < 0.1
 
 
-def test_rate_limit_429_no_retry_hint_uses_backoff():
-    """On a 429 without a retry delay hint, falls back to 30s * attempt."""
+def test_rate_limit_429_no_retry_hint_aborts_batch():
+    """On a 429 without a retry hint (daily quota exhausted), abort immediately — no sleep."""
     topic = make_topic()
-    result = make_result()
-    call_count = 0
+    results = [make_result(url=f"https://example.com/{i}") for i in range(3)]
 
     def side_effect(*args, **kwargs):
-        nonlocal call_count
-        call_count += 1
-        if call_count == 1:
-            raise Exception("429 quota exceeded")
-        return fake_gemini_response(0.8, [])
+        raise Exception("429 quota exceeded")  # no "retry in Xs"
 
     with patch("tracker.pipeline.stage1.genai") as mock_genai, \
          patch("tracker.pipeline.stage1.time.sleep") as mock_sleep, \
@@ -165,11 +160,28 @@ def test_rate_limit_429_no_retry_hint_uses_backoff():
         mock_genai.GenerativeModel.return_value = mock_model
         mock_model.generate_content.side_effect = side_effect
         f = Stage1Filter(api_key="fake")
-        passed = f.filter([(result, topic)])
+        passed = f.filter([(r, topic) for r in results])
 
-    assert len(passed) == 1
-    # Fallback backoff for attempt 0 is 30 * (0+1) = 30s
-    backoff_sleep = next(
-        (c.args[0] for c in mock_sleep.call_args_list if c.args[0] >= 30), None
-    )
-    assert backoff_sleep == 30.0
+    assert passed == []
+    assert f._quota_exhausted is True
+    # Should NOT have slept a long backoff — aborts immediately
+    long_sleeps = [c.args[0] for c in mock_sleep.call_args_list if c.args[0] >= 30]
+    assert long_sleeps == []
+
+
+def test_items_capped_at_max_per_run():
+    """Items exceeding MAX_ITEMS_PER_RUN are silently deferred (truncated)."""
+    topic = make_topic()
+    n = Stage1Filter.MAX_ITEMS_PER_RUN + 10
+    items = [(make_result(url=f"https://example.com/{i}"), topic) for i in range(n)]
+
+    with patch("tracker.pipeline.stage1.genai") as mock_genai, \
+         patch("tracker.pipeline.stage1.time.sleep"), \
+         patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
+        mock_model = MagicMock()
+        mock_genai.GenerativeModel.return_value = mock_model
+        mock_model.generate_content.return_value = fake_gemini_response(0.9, [])
+        f = Stage1Filter(api_key="fake")
+        f.filter(items)
+
+    assert mock_model.generate_content.call_count == Stage1Filter.MAX_ITEMS_PER_RUN

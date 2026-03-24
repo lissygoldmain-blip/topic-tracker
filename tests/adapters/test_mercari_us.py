@@ -1,29 +1,33 @@
 from unittest.mock import MagicMock, patch
 
+import pytest
+
 from tracker.adapters.mercari_us import MercariUSAdapter
 from tracker.models import SourceConfig, TopicConfig
 
-
-def make_fake_item(item_id="m111", name="Keiji Kaneko Suit Jacket", price=350.0):
-    """Create a mock mercari Item object with the real library's attribute interface."""
-    item = MagicMock()
-    item.id = item_id
-    item.productName = name
-    item.productURL = f"https://jp.mercari.com/item/{item_id}"
-    item.price = price
-    item.status = "ITEM_STATUS_ON_SALE"
-    item.soldOut = False
-    return item
+FAKE_API_RESPONSE = {
+    "items": [
+        {"id": "m111", "name": "Keiji Kaneko Suit Jacket", "price": 35000,
+         "status": "ITEM_STATUS_ON_SALE"},
+        {"id": "m222", "name": "1960s Japanese Suit", "price": 20000,
+         "status": "ITEM_STATUS_ON_SALE"},
+    ]
+}
 
 
-FAKE_ITEMS = [
-    make_fake_item("m111", "Keiji Kaneko Suit Jacket", 350.0),
-    make_fake_item("m222", "1960s Japanese Suit", 200.0),
-]
+def make_mock_response(json_data=None, status_code=200):
+    mock = MagicMock()
+    mock.status_code = status_code
+    mock.json.return_value = json_data or {}
+    if status_code >= 400:
+        mock.raise_for_status.side_effect = Exception(f"HTTP {status_code}")
+    else:
+        mock.raise_for_status.return_value = None
+    return mock
 
 
-def make_source_config():
-    return SourceConfig(source="mercari")
+def make_source_config(**kwargs):
+    return SourceConfig(source="mercari", **kwargs)
 
 
 def make_topic(name="Keiji Kaneko suit"):
@@ -47,58 +51,71 @@ class TestMercariUSAdapterMeta:
 
 class TestMercariUSFetch:
     def test_successful_fetch_returns_results(self):
-        with patch("tracker.adapters.mercari_us.mercari_lib.search") as mock_search:
-            mock_search.return_value = iter(FAKE_ITEMS)
-
+        with patch("tracker.adapters.mercari_us.requests.post") as mock_post:
+            mock_post.return_value = make_mock_response(FAKE_API_RESPONSE)
             adapter = MercariUSAdapter()
             results = adapter.fetch(make_source_config(), make_topic())
 
         assert len(results) == 2
         assert results[0].title == "Keiji Kaneko Suit Jacket"
         assert results[0].url == "https://jp.mercari.com/item/m111"
-        assert results[0].price == "$350.00"
+        assert results[0].price == "¥35,000"
         assert results[0].source == "mercari"
         assert results[0].source_type == "shopping"
 
-    def test_search_called_with_topic_name(self):
-        with patch("tracker.adapters.mercari_us.mercari_lib.search") as mock_search:
-            mock_search.return_value = iter([])
+    def test_uses_source_terms_when_provided(self):
+        with patch("tracker.adapters.mercari_us.requests.post") as mock_post:
+            mock_post.return_value = make_mock_response({"items": []})
+            adapter = MercariUSAdapter()
+            adapter.fetch(make_source_config(terms=["kaneko suit", "fruit loom kaneko"]),
+                          make_topic())
 
+        assert mock_post.call_count == 2  # one call per term
+
+    def test_falls_back_to_topic_name_when_no_terms(self):
+        with patch("tracker.adapters.mercari_us.requests.post") as mock_post:
+            mock_post.return_value = make_mock_response({"items": []})
             adapter = MercariUSAdapter()
             adapter.fetch(make_source_config(), make_topic("My Topic"))
 
-            mock_search.assert_called_once_with("My Topic")
+        body = mock_post.call_args.kwargs.get("data") or mock_post.call_args.args[1]
+        import json
+        parsed = json.loads(body)
+        assert parsed["searchCondition"]["keyword"] == "My Topic"
 
-    def test_empty_result_returns_empty(self):
-        with patch("tracker.adapters.mercari_us.mercari_lib.search") as mock_search:
-            mock_search.return_value = iter([])
-
+    def test_empty_items_returns_empty_list(self):
+        with patch("tracker.adapters.mercari_us.requests.post") as mock_post:
+            mock_post.return_value = make_mock_response({"items": []})
             adapter = MercariUSAdapter()
             results = adapter.fetch(make_source_config(), make_topic())
         assert results == []
 
-    def test_returns_empty_list_on_exception(self):
-        with patch("tracker.adapters.mercari_us.mercari_lib.search") as mock_search:
-            mock_search.side_effect = Exception("timeout")
-
+    def test_http_error_returns_empty_and_sets_last_failed(self):
+        with patch("tracker.adapters.mercari_us.requests.post") as mock_post:
+            mock_post.return_value = make_mock_response(status_code=403)
             adapter = MercariUSAdapter()
             results = adapter.fetch(make_source_config(), make_topic())
         assert results == []
         assert adapter._last_failed is True
 
     def test_item_without_price_maps_to_none(self):
-        item_no_price = make_fake_item("m333", "No Price Item", None)
-        with patch("tracker.adapters.mercari_us.mercari_lib.search") as mock_search:
-            mock_search.return_value = iter([item_no_price])
-
+        response = {"items": [{"id": "m333", "name": "No Price Item"}]}
+        with patch("tracker.adapters.mercari_us.requests.post") as mock_post:
+            mock_post.return_value = make_mock_response(response)
             adapter = MercariUSAdapter()
             results = adapter.fetch(make_source_config(), make_topic())
         assert results[0].price is None
 
     def test_last_failed_false_on_success(self):
-        with patch("tracker.adapters.mercari_us.mercari_lib.search") as mock_search:
-            mock_search.return_value = iter(FAKE_ITEMS)
-
+        with patch("tracker.adapters.mercari_us.requests.post") as mock_post:
+            mock_post.return_value = make_mock_response(FAKE_API_RESPONSE)
             adapter = MercariUSAdapter()
             adapter.fetch(make_source_config(), make_topic())
         assert adapter._last_failed is False
+
+    def test_raw_contains_full_item(self):
+        with patch("tracker.adapters.mercari_us.requests.post") as mock_post:
+            mock_post.return_value = make_mock_response(FAKE_API_RESPONSE)
+            adapter = MercariUSAdapter()
+            results = adapter.fetch(make_source_config(), make_topic())
+        assert results[0].raw["id"] == "m111"

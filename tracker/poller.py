@@ -6,8 +6,10 @@ import os
 from tracker import circuit_breaker as cb
 from tracker.adapters import (
     BlueskyAdapter,
+    CamelCamelCamelAdapter,
     EbayAdapter,
     EtsyAdapter,
+    GDELTAdapter,
     GenericRSSAdapter,
     GoogleNewsAdapter,
     GrailedAdapter,
@@ -16,6 +18,8 @@ from tracker.adapters import (
     MercariUSAdapter,
     NewsAPIAdapter,
     RedditAdapter,
+    SlickdealsAdapter,
+    WeatherAdapter,
     YouTubeAdapter,
 )
 from tracker.adapters.base import BaseAdapter
@@ -48,6 +52,10 @@ ADAPTERS: dict[str, type[BaseAdapter]] = {
     "mastodon": MastodonAdapter,
     "youtube": YouTubeAdapter,
     "newsapi": NewsAPIAdapter,
+    "slickdeals": SlickdealsAdapter,
+    "camelcamelcamel": CamelCamelCamelAdapter,
+    "weather": WeatherAdapter,
+    "gdelt": GDELTAdapter,
 }
 
 

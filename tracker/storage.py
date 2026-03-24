@@ -6,7 +6,14 @@ from pathlib import Path
 
 from tracker.models import Result
 
-PRUNE_DAYS = {"news": 90, "social": 90, "shopping": 365, "video": 90, "feeds": 90}
+PRUNE_DAYS = {
+    "news": 90,
+    "social": 90,
+    "shopping": 365,
+    "video": 90,
+    "feeds": 90,
+    "weather": 7,
+}
 INDEX_MAX = 100
 
 

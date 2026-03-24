@@ -57,3 +57,182 @@ topics:
           bump_to: high
           duration_hours: 24
       auto_revert: true
+
+  - name: "NYC theater & arts"
+    description: >
+      Theater, performance, dance, gallery openings, and arts news in New York City.
+      Off-Broadway, off-off-Broadway, Queens venues, and major institutions.
+    importance: high
+    urgency: low
+
+    source_categories:
+      - news
+      - feeds
+      - social
+
+    polling:
+      frequent:
+        - source: rss
+          filters:
+            feeds:
+              - "https://www.theatermania.com/rss"
+              - "https://www.americantheatre.org/feed/"
+              - "https://playbill.com/rss/news"
+        - source: google_news
+          terms:
+            - "NYC theater"
+            - "New York City arts"
+            - "off-broadway"
+
+      discovery:
+        - source: rss
+          filters:
+            feeds:
+              - "https://hyperallergic.com/feed/"
+              - "https://www.artsjournal.com/feed"
+              - "https://gothamist.com/feed"
+        - source: guardian
+          terms: ["New York theater", "NYC performance art"]
+          filters: {section: "stage"}
+        - source: nytimes
+          terms: ["New York theater", "NYC arts"]
+        - source: reddit
+          subreddits: [nyc, AskNYC, theater]
+          terms: ["NYC theater", "off broadway"]
+        - source: bluesky
+          terms: ["NYC theater", "offbroadway"]
+
+      broad:
+        - source: gdelt
+          terms: ["New York City theater arts performance"]
+        - source: google_news
+          terms: ["Queens theater", "Queens arts", "Jackson Heights arts"]
+
+    notifications:
+      email: weekly_digest
+      novelty_push_threshold: 0.75
+
+    llm_filter:
+      novelty_threshold: 0.6
+      tags:
+        - opening_night
+        - closing_soon
+        - free_event
+        - tickets_available
+        - review
+        - announcement
+        - noise
+
+    escalation:
+      triggers:
+        - tag: opening_night
+          bump_to: medium
+          duration_hours: 48
+      auto_revert: true
+
+  - name: "Queens & NYC local"
+    description: >
+      Hyperlocal news for Queens, NYC. Community events, development, transit,
+      food, politics. Jackson Heights and Flushing focus but all five boroughs.
+    importance: high
+    urgency: low
+
+    source_categories:
+      - news
+      - feeds
+      - social
+
+    polling:
+      frequent:
+        - source: rss
+          filters:
+            feeds:
+              - "https://qns.com/feed/"
+              - "https://www.thecity.nyc/feed/"
+              - "https://gothamist.com/feed"
+        - source: google_news
+          terms:
+            - "Jackson Heights Queens"
+            - "Flushing Queens"
+            - "Queens New York news"
+
+      discovery:
+        - source: rss
+          filters:
+            feeds:
+              - "https://nyc.streetsblog.org/feed/"
+              - "https://www.untappedcities.com/latest/rss"
+              - "https://6sqft.com/feed/"
+        - source: reddit
+          subreddits: [JacksonHeights, queensnyc, AskNYC, FlusHing]
+          terms: []
+        - source: nytimes
+          terms: ["Jackson Heights", "Flushing Queens", "Queens New York"]
+          filters: {section: "nyregion"}
+        - source: bluesky
+          terms: ["Jackson Heights", "Flushing Queens", "Queens NYC"]
+
+      broad:
+        - source: guardian
+          terms: ["New York City Queens neighborhood"]
+        - source: gdelt
+          terms: ["Jackson Heights New York", "Flushing New York"]
+
+    notifications:
+      email: weekly_digest
+      novelty_push_threshold: 0.72
+
+    llm_filter:
+      novelty_threshold: 0.6
+      tags:
+        - development
+        - transit
+        - community_event
+        - food_opening
+        - politics
+        - free_event
+        - noise
+
+    escalation:
+      triggers: []
+      auto_revert: true
+
+  - name: "Substack picks"
+    description: >
+      Newsletters from independent writers covering NYC arts, culture, theater,
+      and Queens. Add Substack handles you follow to the feeds list.
+    importance: low
+    urgency: low
+
+    source_categories:
+      - feeds
+
+    polling:
+      frequent: []
+
+      discovery:
+        - source: rss
+          filters:
+            feeds:
+              # Format: https://{handle}.substack.com/feed
+              # Add any Substacks you follow here — every public Substack has RSS
+              - "https://gothamist.com/feed"  # placeholder until you add real Substacks
+
+      broad: []
+
+    notifications:
+      email: weekly_digest
+      novelty_push_threshold: 0.7
+
+    llm_filter:
+      novelty_threshold: 0.55
+      tags:
+        - essay
+        - review
+        - event_preview
+        - longread
+        - noise
+
+    escalation:
+      triggers: []
+      auto_revert: true

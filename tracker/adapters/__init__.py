@@ -21,6 +21,7 @@ from tracker.adapters.pubmed import PubMedAdapter
 from tracker.adapters.reddit import RedditAdapter
 from tracker.adapters.semantic_scholar import SemanticScholarAdapter
 from tracker.adapters.slickdeals import SlickdealsAdapter
+from tracker.adapters.substack import SubstackAdapter
 from tracker.adapters.tmdb import TMDbAdapter
 from tracker.adapters.usitt_jobs import USITTJobsAdapter
 from tracker.adapters.weather import WeatherAdapter
@@ -50,6 +51,7 @@ __all__ = [
     "RedditAdapter",
     "SemanticScholarAdapter",
     "SlickdealsAdapter",
+    "SubstackAdapter",
     "TMDbAdapter",
     "USITTJobsAdapter",
     "WeatherAdapter",

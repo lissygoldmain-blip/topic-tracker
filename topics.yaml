@@ -201,7 +201,8 @@ topics:
   - name: "Substack picks"
     description: >
       Newsletters from independent writers covering NYC arts, culture, theater,
-      and Queens. Add Substack handles you follow to the feeds list.
+      and Queens. Automatically discovers relevant Substacks by topic search;
+      add specific handles to filters.feeds to always include them.
     importance: low
     urgency: low
 
@@ -212,12 +213,21 @@ topics:
       frequent: []
 
       discovery:
-        - source: rss
+        # Dynamic discovery: searches Substack for publications matching these terms
+        - source: substack
+          terms:
+            - "NYC theater arts"
+            - "New York City culture"
+            - "Queens New York"
           filters:
-            feeds:
-              # Format: https://{handle}.substack.com/feed
-              # Add any Substacks you follow here — every public Substack has RSS
-              - "https://gothamist.com/feed"  # placeholder until you add real Substacks
+            max_pubs: 5       # newsletters per search term
+            max_per_feed: 8   # articles per newsletter
+
+        # Direct subscriptions: add specific Substack handles here
+        # - source: substack
+        #   filters:
+        #     feeds:
+        #       - "https://yourhandle.substack.com/feed"
 
       broad: []
 

@@ -28,6 +28,7 @@ from tracker.adapters import (
     RedditAdapter,
     SemanticScholarAdapter,
     SlickdealsAdapter,
+    SubstackAdapter,
     TMDbAdapter,
     USITTJobsAdapter,
     WeatherAdapter,
@@ -77,6 +78,7 @@ ADAPTERS: dict[str, type[BaseAdapter]] = {
     "semantic_scholar": SemanticScholarAdapter,
     "indeed": IndeedAdapter,
     "adzuna": AdzunaAdapter,
+    "substack": SubstackAdapter,
     "playbill_jobs": PlaybillJobsAdapter,
     "usitt_jobs": USITTJobsAdapter,
 }

@@ -15,6 +15,7 @@ PRUNE_DAYS = {
     "weather": 7,
     "science": 365,
     "jobs": 30,
+    "entertainment": 180,
 }
 INDEX_MAX = 100
 

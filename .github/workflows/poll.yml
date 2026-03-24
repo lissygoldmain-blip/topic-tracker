@@ -73,6 +73,7 @@ jobs:
           EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
           ETSY_API_KEY: ${{ secrets.ETSY_API_KEY }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TIER_INDEX: ${{ steps.tier.outputs.index }}
         run: python -c "from tracker.poller import run_poll; run_poll(tier_index=int('$TIER_INDEX'))"
 

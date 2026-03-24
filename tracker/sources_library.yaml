@@ -243,6 +243,22 @@ sources:
       (notable_only: true). Use for event planning, outdoor topics.
       filters: lat, lon, days (1-7), notable_only.
 
+  # ── Entertainment ─────────────────────────────────────────────────────────
+
+  - adapter: tmdb
+    credentials: [TMDB_API_KEY]
+    categories: [entertainment, film, tv, releases, production_news]
+    notes: >
+      The Movie Database API v3. Two modes:
+      (1) Discover mode (no terms): rolling window of upcoming releases via
+          /discover/movie + /discover/tv. Use filters: media_type, days_ahead,
+          region, max_results.
+      (2) Search mode (terms provided): /search/multi for specific titles,
+          franchises, or studios. Person results are filtered out automatically.
+      Auth: Bearer token. Rate limit: 40 req/sec (very generous).
+      Register at themoviedb.org/settings/api (free, instant approval).
+      source_type: "entertainment" — 180-day dedup window.
+
   # ── Newsletters (Substack) ────────────────────────────────────────────────
 
   - adapter: rss

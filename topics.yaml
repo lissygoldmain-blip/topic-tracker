@@ -423,6 +423,71 @@ topics:
           duration_hours: 48
       auto_revert: true
 
+  - name: "Film & TV"
+    description: >
+      Upcoming movie and TV releases, production news, and entertainment announcements.
+      Covers theatrical releases, streaming premieres, and NYC-relevant theater adaptations.
+    importance: low
+    urgency: low
+
+    source_categories:
+      - entertainment
+      - news
+
+    polling:
+      frequent: []
+
+      discovery:
+        # Upcoming releases in the next 90 days (no terms = discover mode)
+        - source: tmdb
+          filters:
+            media_type: both
+            days_ahead: 90
+            region: US
+            max_results: 15
+        # Entertainment news from established outlets
+        - source: rss
+          filters:
+            feeds:
+              - "https://deadline.com/feed/"
+              - "https://variety.com/feed/"
+              - "https://www.indiewire.com/feed/"
+        - source: google_news
+          terms:
+            - "movie release 2026"
+            - "new TV show premiere"
+
+      broad:
+        # Track specific franchises or studios you care about
+        # Add terms here like: ["A24", "HBO", "Neon", "Searchlight"]
+        - source: tmdb
+          terms: []
+          filters:
+            language: en-US
+        - source: google_news
+          terms:
+            - "NYC theater adaptation film"
+            - "Broadway musical movie"
+
+    notifications:
+      email: weekly_digest
+      novelty_push_threshold: 0.75
+
+    llm_filter:
+      novelty_threshold: 0.6
+      tags:
+        - release_date_announced
+        - trailer_dropped
+        - now_playing
+        - streaming_premiere
+        - production_news
+        - nyc_screening
+        - noise
+
+    escalation:
+      triggers: []
+      auto_revert: true
+
   - name: "AI & tech research"
     description: >
       AI, machine learning, and adjacent technology research. Preprints,

@@ -19,6 +19,7 @@ from tracker.adapters.playbill_jobs import PlaybillJobsAdapter
 from tracker.adapters.pubmed import PubMedAdapter
 from tracker.adapters.reddit import RedditAdapter
 from tracker.adapters.slickdeals import SlickdealsAdapter
+from tracker.adapters.tmdb import TMDbAdapter
 from tracker.adapters.usitt_jobs import USITTJobsAdapter
 from tracker.adapters.weather import WeatherAdapter
 from tracker.adapters.youtube import YouTubeAdapter
@@ -45,6 +46,7 @@ __all__ = [
     "PubMedAdapter",
     "RedditAdapter",
     "SlickdealsAdapter",
+    "TMDbAdapter",
     "USITTJobsAdapter",
     "WeatherAdapter",
     "YouTubeAdapter",

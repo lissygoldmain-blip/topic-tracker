@@ -4,6 +4,7 @@ import logging
 import os
 
 from tracker import circuit_breaker as cb
+from tracker import escalation as esc
 from tracker.adapters import (
     AdzunaAdapter,
     ArxivAdapter,
@@ -112,7 +113,8 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
     ) if resend_key else None
 
     for topic in topics:
-        tier_names = TIER_MAP.get(topic.urgency, ["discovery"])
+        urgency = esc.effective_urgency(state, topic)
+        tier_names = TIER_MAP.get(urgency, ["discovery"])
         if tier_index >= len(tier_names):
             continue  # this urgency level has no tier at this index
         tier_name = tier_names[tier_index]
@@ -164,6 +166,8 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
         logger.info(
             "%d/%d results passed Stage 1 for '%s'", len(passed), len(raw_results), topic.name
         )
+
+        esc.check_and_apply(state, passed)
 
         for result, t in passed:
             storage.add_result(result)

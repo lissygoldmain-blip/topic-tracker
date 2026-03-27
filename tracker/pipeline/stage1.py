@@ -37,10 +37,11 @@ class Stage1Filter:
     # 5s minimum gap → at most 12 req/min.
     _REQUEST_INTERVAL = 5.0
 
-    # Hard cap on items scored per run to protect the daily quota (1500 RPD free tier).
-    # On a first run with many new items, this prevents a single poll from exhausting
-    # the quota for the whole day. Remaining items are simply deferred to the next run.
-    # Kept low (20) to avoid RPM spirals on first run when seen_urls.json is empty.
+    # Hard cap on items scored across the ENTIRE run (all topics combined) to protect
+    # the daily quota (1500 RPD free tier) and prevent RPM spirals on first run when
+    # seen_urls.json is empty. With 8 topics × many new items each, per-topic caps are
+    # not enough — we need a single budget shared across all filter() calls.
+    # At 5s/item this is ~100s of Gemini calls, well within the 45-min job timeout.
     MAX_ITEMS_PER_RUN = 20
 
     def __init__(self, api_key: str):
@@ -53,17 +54,27 @@ class Stage1Filter:
         # daily quota exhaustion (not just RPM throttling). When set, the
         # batch is aborted immediately rather than retrying each item for minutes.
         self._quota_exhausted: bool = False
+        # Global counter across ALL filter() calls in this run. Compared against
+        # MAX_ITEMS_PER_RUN so the cap applies to the full run, not per topic.
+        self._items_scored_this_run: int = 0
 
     def filter(
         self, items: list[tuple[Result, TopicConfig]]
     ) -> list[tuple[Result, TopicConfig]]:
         """Score each item and return only those above the topic's novelty_threshold."""
-        if len(items) > self.MAX_ITEMS_PER_RUN:
-            logger.warning(
-                "Stage1: %d items exceed cap of %d — deferring excess to next run",
-                len(items), self.MAX_ITEMS_PER_RUN,
+        remaining_budget = self.MAX_ITEMS_PER_RUN - self._items_scored_this_run
+        if remaining_budget <= 0:
+            logger.info(
+                "Stage1: global run cap of %d reached — skipping %d items",
+                self.MAX_ITEMS_PER_RUN, len(items),
             )
-            items = items[: self.MAX_ITEMS_PER_RUN]
+            return []
+        if len(items) > remaining_budget:
+            logger.warning(
+                "Stage1: %d items but only %d slots remain in run cap — deferring excess",
+                len(items), remaining_budget,
+            )
+            items = items[:remaining_budget]
 
         passed = []
         for result, topic in items:
@@ -77,6 +88,7 @@ class Stage1Filter:
             if remaining > 0:
                 time.sleep(remaining)
             self._last_request_at = time.monotonic()
+            self._items_scored_this_run += 1
             score = self._score(result, topic)
             if score is not None and score >= topic.novelty_threshold:
                 result.novelty_score = score

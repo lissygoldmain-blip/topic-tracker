@@ -123,8 +123,10 @@ class Stage1Filter:
                 error_str = str(e)
                 if "429" in error_str or "quota" in error_str.lower():
                     match = _RETRY_SECONDS_RE.search(error_str)
-                    if match:
-                        # RPM limit: API told us exactly how long to wait — respect it.
+                    if match and attempt == 0:
+                        # First attempt hit RPM limit: wait the hint time and retry ONCE.
+                        # If the retry ALSO returns 429, the daily quota is exhausted
+                        # (Gemini includes retry hints on daily quota errors too).
                         wait = float(match.group(1)) + 2
                         logger.warning(
                             "Stage1 RPM limited, waiting %.0fs (attempt %d/2)",
@@ -133,10 +135,10 @@ class Stage1Filter:
                         time.sleep(wait)
                         continue
                     else:
-                        # No retry hint = daily quota exhausted, not an RPM blip.
-                        # Abort immediately — retrying will just waste minutes per item.
+                        # Either no retry hint, or retry also returned 429.
+                        # Both mean daily quota is exhausted — abort the whole batch.
                         logger.warning(
-                            "Stage1 daily quota exhausted for '%s' — aborting batch",
+                            "Stage1 quota exhausted for '%s' — aborting batch",
                             result.url,
                         )
                         self._quota_exhausted = True

@@ -40,7 +40,8 @@ class Stage1Filter:
     # Hard cap on items scored per run to protect the daily quota (1500 RPD free tier).
     # On a first run with many new items, this prevents a single poll from exhausting
     # the quota for the whole day. Remaining items are simply deferred to the next run.
-    MAX_ITEMS_PER_RUN = 60
+    # Kept low (20) to avoid RPM spirals on first run when seen_urls.json is empty.
+    MAX_ITEMS_PER_RUN = 20
 
     def __init__(self, api_key: str):
         genai.configure(api_key=api_key)
@@ -91,7 +92,7 @@ class Stage1Filter:
             f"Snippet: {result.snippet}\n"
             f"Source: {result.source}"
         )
-        for attempt in range(4):
+        for attempt in range(2):
             try:
                 response = self._model.generate_content(
                     [SYSTEM_PROMPT, prompt],
@@ -100,7 +101,7 @@ class Stage1Filter:
                 data = json.loads(response.text)
                 return float(data["novelty_score"])
             except (json.JSONDecodeError, KeyError) as e:
-                if attempt < 3:
+                if attempt < 1:
                     logger.warning("Stage1 JSON parse failed, retrying: %s", e)
                     continue
                 logger.error(
@@ -114,7 +115,7 @@ class Stage1Filter:
                         # RPM limit: API told us exactly how long to wait — respect it.
                         wait = float(match.group(1)) + 2
                         logger.warning(
-                            "Stage1 RPM limited, waiting %.0fs (attempt %d/4)",
+                            "Stage1 RPM limited, waiting %.0fs (attempt %d/2)",
                             wait, attempt + 1,
                         )
                         time.sleep(wait)

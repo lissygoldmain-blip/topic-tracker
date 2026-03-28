@@ -63,7 +63,7 @@ topics:
       Theater, performance, dance, gallery openings, and arts news in New York City.
       Off-Broadway, off-off-Broadway, Queens venues, and major institutions.
     importance: high
-    urgency: low
+    urgency: medium
 
     source_categories:
       - news
@@ -136,7 +136,7 @@ topics:
       Hyperlocal news for Queens, NYC. Community events, development, transit,
       food, politics. Jackson Heights and Flushing focus but all five boroughs.
     importance: high
-    urgency: low
+    urgency: medium
 
     source_categories:
       - news
@@ -353,77 +353,98 @@ topics:
 
   - name: "Jobs"
     description: >
-      Theater, arts, production, and stage management jobs in NYC.
-      Includes off-Broadway, off-off-Broadway, major institutions,
-      and adjacent roles (production manager, TD, LD, SD, props).
-      Add or remove terms to match what you're actually looking for.
+      Performing arts and event production jobs in NYC. Target roles: Production Associate,
+      Production Coordinator, Production Manager, Event Operations Coordinator, Stage Manager
+      (institutional only — not touring), Artistic Programming Coordinator/Associate,
+      Artist Services Associate, Technical Director (small institutions only).
+
+      Full-time permanent preferred ($55K minimum, targeting $60–75K). Freelance/overhire
+      welcomed at major institutions. Contract acceptable with clear pathway. Remote acceptable
+      for coordination, programming, or administrative roles where presence isn't required.
+      NYC metro only — no relocation. Queens or transit-accessible preferred.
+
+      PRIORITY organizations (boost relevance): Lincoln Center / LCPA, Jazz at Lincoln Center,
+      The Public Theater / Joe's Pub, Brooklyn Academy of Music (BAM), New York Philharmonic,
+      Carnegie Hall, Park Avenue Armory, Queens Theatre, Queens Museum, Kupferberg Center,
+      CIG member institutions broadly, Soho Rep and peer presenters, National Sawdust, Roulette,
+      Barbès, Jalopy, festivals and residency programs, presenter collectives with strong
+      artistic identity, small orgs with outsized curatorial reputation.
+
+      BOOST signals: jazz, world music, global music, presenting, multidisciplinary programming,
+      community-rooted NYC mission, "load-in," "changeover," "run of show," "advancing,"
+      "artist liaison," "artist services," CIG member.
+
+      FLAG or deprioritize: Kennedy Center (hard exclude — skip entirely), listings that
+      claim full-time but appear on-call-shaped (no benefits, irregular hours language),
+      full-time roles at small orgs with no salary disclosure, any org with known anti-union
+      or exploitative labor practices at scale.
     importance: high
-    urgency: low
+    urgency: high
 
     source_categories:
       - jobs
 
     polling:
       frequent:
-        - source: indeed
-          terms:
-            - "stage manager New York"
-            - "production manager theater NYC"
-            - "lighting designer theater NYC"
-          filters:
-            location: "New York, NY"
-            fromage: 7
-            sort: date
-
         - source: adzuna
           terms:
-            - "stage manager"
-            - "production manager theater"
-            - "theater arts NYC"
+            - "production associate performing arts"
+            - "production coordinator theater"
+            - "stage manager institutional"
+            - "artist services associate"
+            - "event operations coordinator arts"
           filters:
             location: "New York"
             max_days_old: 7
             sort_by: date
 
-      discovery:
+        - source: indeed
+          terms:
+            - "production associate performing arts New York"
+            - "production coordinator theater NYC"
+            - "artistic programming coordinator New York"
+            - "artist services associate NYC"
+          filters:
+            location: "New York, NY"
+            fromage: 7
+            sort: date
+
         - source: playbill_jobs
           terms:
+            - "production"
             - "stage manager"
-            - "production manager"
-            - "lighting designer"
+            - "artist services"
+            - "programming"
 
+      discovery:
         - source: usitt_jobs
           terms: []
 
-        - source: indeed
-          terms:
-            - "technical director theater NYC"
-            - "props master NYC"
-            - "sound designer theater New York"
-            - "costume designer theater NYC"
-          filters:
-            location: "New York, NY"
-            fromage: 14
-
         - source: adzuna
           terms:
-            - "off broadway production"
-            - "arts administrator NYC"
-            - "theater general manager"
+            - "production manager arts nonprofit"
+            - "technical director performing arts"
+            - "arts administrator programming NYC"
+            - "event production coordinator nonprofit"
           filters:
             location: "New York"
             max_days_old: 14
 
-        - source: google_news
+        - source: indeed
           terms:
-            - "NYC theater jobs hiring"
-            - "off-broadway hiring 2026"
+            - "production manager arts organization NYC"
+            - "technical director small theater New York"
+            - "presenting organization coordinator NYC"
+          filters:
+            location: "New York, NY"
+            fromage: 14
 
       broad:
         - source: adzuna
           terms:
-            - "stage management"
-            - "theater production"
+            - "performing arts production New York"
+            - "jazz presenting coordinator NYC"
+            - "world music production associate"
           filters:
             location: "New York"
             max_days_old: 30
@@ -431,21 +452,28 @@ topics:
     notifications:
       push: true
       email: weekly_digest
-      novelty_push_threshold: 0.7
+      novelty_push_threshold: 0.65
 
     llm_filter:
-      novelty_threshold: 0.5
+      novelty_threshold: 0.45
       tags:
         - new_posting
+        - priority_org
         - union
         - non_union
         - full_time
         - contract
+        - freelance_overhire
+        - flag_no_salary
+        - flag_suspicious_ft
         - internship
         - noise
 
     escalation:
       triggers:
+        - tag: priority_org
+          bump_to: urgent
+          duration_hours: 72
         - tag: new_posting
           bump_to: high
           duration_hours: 48

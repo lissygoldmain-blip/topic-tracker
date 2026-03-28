@@ -508,6 +508,8 @@ topics:
       marketing budget or wide release.
 
       For TV: prestige limited series, queer-led shows, documentary series.
+      Specifically track: The Pitt (HBO) — surface new episodes, cast news,
+      renewals, and notable reviews.
       Not procedurals, reality TV (except Drag Race — surface that separately),
       or generic streaming content.
 
@@ -525,6 +527,7 @@ topics:
 
       discovery:
         - source: tmdb
+          terms: ["The Pitt"]
           filters:
             media_type: both
             days_ahead: 45
@@ -542,6 +545,7 @@ topics:
             - "Neon film release"
             - "queer film festival"
             - "LGBTQ film premiere"
+            - "The Pitt HBO"
 
       broad:
         - source: google_news

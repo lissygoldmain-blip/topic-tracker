@@ -2,12 +2,13 @@ name: Topic Tracker Poll
 
 on:
   schedule:
-    # Tier 1: every 2h (maps to "high" urgency frequent tier)
+    # Tier 0: every 2h (frequent sources)
     - cron: "0 */2 * * *"
-    # Tier 2: every 6h (discovery)
-    - cron: "0 */6 * * *"
-    # Tier 3: daily at 8am UTC
-    - cron: "0 8 * * *"
+    # Tier 1: every 6h, offset by 1h so it never fires at the same time as tier 0
+    # fires at 01:00, 07:00, 13:00, 19:00 UTC
+    - cron: "0 1,7,13,19 * * *"
+    # Tier 2: daily at 09:00 UTC (offset from tier 0's 08:00 and tier 1's 07:00)
+    - cron: "0 9 * * *"
   workflow_dispatch:
     inputs:
       tier:
@@ -52,9 +53,9 @@ jobs:
               0|1|2) echo "index=$DISPATCH_TIER" >> $GITHUB_OUTPUT ;;
               *) echo "index=0" >> $GITHUB_OUTPUT ;;
             esac
-          elif [ "$((10#$HOUR % 6))" = "0" ] && [ "$((10#$MINUTE))" -lt "10" ]; then
+          elif [ "$((10#$HOUR % 6))" = "1" ] && [ "$((10#$MINUTE))" -lt "10" ]; then
             echo "index=1" >> $GITHUB_OUTPUT
-          elif [ "$((10#$HOUR))" = "8" ] && [ "$((10#$MINUTE))" -lt "10" ]; then
+          elif [ "$((10#$HOUR))" = "9" ] && [ "$((10#$MINUTE))" -lt "10" ]; then
             echo "index=2" >> $GITHUB_OUTPUT
           else
             echo "index=0" >> $GITHUB_OUTPUT
@@ -78,7 +79,7 @@ jobs:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TIER_INDEX: ${{ steps.tier.outputs.index }}
-          STAGE1_MAX_ITEMS_PER_RUN: ${{ vars.STAGE1_MAX_ITEMS_PER_RUN || '20' }}
+          STAGE1_MAX_ITEMS_PER_RUN: ${{ vars.STAGE1_MAX_ITEMS_PER_RUN || '10' }}
         run: python -c "from tracker.poller import run_poll; run_poll(tier_index=int('$TIER_INDEX'))"
 
       - name: Commit updated state

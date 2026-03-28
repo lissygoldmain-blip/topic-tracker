@@ -36,10 +36,11 @@ class GenericRSSAdapter(BaseAdapter):
                 response = requests.get(url, timeout=_TIMEOUT, headers={"User-Agent": "Mozilla/5.0"})
                 response.raise_for_status()
                 feed = feedparser.parse(response.content)
+                now = datetime.now(timezone.utc)
                 for entry in feed.entries:
-                    published = datetime.now(timezone.utc)
+                    published_at = None
                     if hasattr(entry, "published_parsed") and entry.published_parsed:
-                        published = datetime(
+                        published_at = datetime(
                             *entry.published_parsed[:6], tzinfo=timezone.utc
                         )
                     results.append(
@@ -50,7 +51,8 @@ class GenericRSSAdapter(BaseAdapter):
                             source="rss",
                             source_type=self.source_type,
                             topic_name=topic.name,
-                            fetched_at=published,
+                            fetched_at=now,
+                            published_at=published_at,
                         )
                     )
             except Exception as exc:

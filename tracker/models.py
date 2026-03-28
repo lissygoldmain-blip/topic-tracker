@@ -23,6 +23,10 @@ class Result:
     topic_name: str
     fetched_at: datetime
 
+    # When the article/item was originally published (set by adapters that know it).
+    # None for sources that don't surface a pub date (shopping, jobs, etc.).
+    published_at: datetime | None = None
+
     # Shopping adapters
     price: str | None = None
 
@@ -47,6 +51,9 @@ class Result:
             fetched_at = datetime.fromisoformat(fetched_at)
         elif fetched_at is None:
             fetched_at = datetime.now()
+        published_at = data.get("published_at")
+        if isinstance(published_at, str):
+            published_at = datetime.fromisoformat(published_at)
         return cls(
             url=data["url"],
             title=data["title"],
@@ -55,6 +62,7 @@ class Result:
             source_type=data["source_type"],
             topic_name=data["topic_name"],
             fetched_at=fetched_at,
+            published_at=published_at,
             price=data.get("price"),
             novelty_score=data.get("novelty_score"),
             summary=data.get("summary"),
@@ -74,6 +82,7 @@ class Result:
             "source_type": self.source_type,
             "topic_name": self.topic_name,
             "fetched_at": self.fetched_at.isoformat(),
+            "published_at": self.published_at.isoformat() if self.published_at else None,
             "price": self.price,
             "novelty_score": self.novelty_score,
             "summary": self.summary,

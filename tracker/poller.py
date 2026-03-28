@@ -4,6 +4,7 @@ import json
 import logging
 import math
 import os
+from datetime import datetime, timedelta, timezone
 from dataclasses import dataclass as _dataclass
 
 from tracker import circuit_breaker as cb
@@ -200,6 +201,26 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
                     within_run_seen.add(r.url)
 
         run_stats[topic.name].new += len(raw_results)
+
+        # Staleness filter: drop news/feeds/social items older than 7 days,
+        # science items older than 30 days. Jobs and shopping pass through
+        # (they don't set published_at, or recency is managed by adapter filters).
+        _stale_cutoffs = {"news": 7, "feeds": 7, "social": 7, "science": 30}
+        _now = datetime.now(timezone.utc)
+        fresh_results = []
+        for r, t in raw_results:
+            cutoff_days = _stale_cutoffs.get(r.source_type)
+            if cutoff_days and r.published_at:
+                age = _now - r.published_at.replace(tzinfo=timezone.utc) if r.published_at.tzinfo is None else _now - r.published_at
+                if age > timedelta(days=cutoff_days):
+                    continue
+            fresh_results.append((r, t))
+        if len(fresh_results) < len(raw_results):
+            logger.info(
+                "Staleness filter: dropped %d old items for '%s'",
+                len(raw_results) - len(fresh_results), topic.name,
+            )
+        raw_results = fresh_results
 
         if not raw_results:
             logger.info("No new results for topic '%s' at tier '%s'", topic.name, tier_name)

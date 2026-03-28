@@ -22,6 +22,31 @@
       "google_news": {
         "consecutive_failures": 0,
         "disabled": false
+      },
+      "rss": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "guardian": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "nytimes": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "reddit": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "bluesky": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
       }
     },
     "Queens & NYC local": {
@@ -32,6 +57,26 @@
       "gdelt": {
         "consecutive_failures": 3,
         "disabled": false
+      },
+      "rss": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "reddit": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "nytimes": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "bluesky": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
       }
     },
     "Health research": {
@@ -40,7 +85,7 @@
         "disabled": false
       },
       "gdelt": {
-        "consecutive_failures": 3,
+        "consecutive_failures": 4,
         "disabled": false
       }
     },
@@ -48,11 +93,21 @@
       "adzuna": {
         "consecutive_failures": 0,
         "disabled": false
+      },
+      "indeed": {
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "playbill_jobs": {
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       }
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 3,
+        "consecutive_failures": 4,
         "disabled": false
       },
       "google_news": {
@@ -66,6 +121,73 @@
         "disabled": false,
         "disabled_at": null
       },
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      }
+    },
+    "Drag Race & drag": {
+      "tmdb": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "reddit": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      }
+    },
+    "Queer & trans": {
+      "guardian": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "nytimes": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "reddit": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      }
+    },
+    "Immigration & ICE": {
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "rss": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      }
+    },
+    "Politics & world": {
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      }
+    },
+    "Queens food & dining": {
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      }
+    },
+    "Wildfang": {
       "google_news": {
         "consecutive_failures": 0,
         "disabled": false,

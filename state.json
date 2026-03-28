@@ -16,7 +16,7 @@
     },
     "NYC theater & arts": {
       "gdelt": {
-        "consecutive_failures": 2,
+        "consecutive_failures": 3,
         "disabled": false
       },
       "google_news": {
@@ -30,7 +30,7 @@
         "disabled": false
       },
       "gdelt": {
-        "consecutive_failures": 2,
+        "consecutive_failures": 3,
         "disabled": false
       }
     },
@@ -40,7 +40,7 @@
         "disabled": false
       },
       "gdelt": {
-        "consecutive_failures": 2,
+        "consecutive_failures": 3,
         "disabled": false
       }
     },
@@ -52,7 +52,7 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 2,
+        "consecutive_failures": 3,
         "disabled": false
       },
       "google_news": {

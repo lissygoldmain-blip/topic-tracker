@@ -87,6 +87,10 @@ class Stage1Filter:
             items = items[:remaining_budget]
 
         passed = []
+        # Titles of items that have already passed this batch, per topic.
+        # Injected into subsequent prompts so Gemini can score near-duplicates low.
+        passed_titles: list[str] = []
+
         for result, topic in items:
             if self._quota_exhausted:
                 logger.warning("Stage1: daily quota exhausted — skipping remaining items")
@@ -99,13 +103,14 @@ class Stage1Filter:
                 time.sleep(remaining)
             self._last_request_at = time.monotonic()
             self._items_scored_this_run += 1
-            score = self._score(result, topic)
+            score = self._score(result, topic, passed_titles=passed_titles)
             if score is not None and score >= topic.novelty_threshold:
                 result.novelty_score = score
                 passed.append((result, topic))
+                passed_titles.append(result.title)
         return passed
 
-    def _score(self, result: Result, topic: TopicConfig) -> float | None:
+    def _score(self, result: Result, topic: TopicConfig, passed_titles: list[str] | None = None) -> float | None:
         # Build feedback context for this specific topic (most recent 8 entries)
         feedback_text = ""
         topic_fb = [f for f in self._feedback if f.get("topic") == topic.name]
@@ -121,6 +126,17 @@ class Stage1Filter:
                 + "\n".join(lines)
             )
 
+        # Already-passed titles for this batch — Gemini should score near-duplicates low
+        dedup_text = ""
+        if passed_titles:
+            listed = "\n".join(f"- {t[:80]}" for t in passed_titles[-15:])
+            dedup_text = (
+                "\n\nAlready accepted in this batch (same topic, this run):\n"
+                + listed
+                + "\nIf this item covers the same story or event as any of the above, "
+                "score its novelty_score below 0.4 regardless of source."
+            )
+
         prompt = (
             f"Topic: {topic.name}\n"
             f"Description: {topic.description}\n"
@@ -129,6 +145,7 @@ class Stage1Filter:
             f"Snippet: {result.snippet}\n"
             f"Source: {result.source}"
             + feedback_text
+            + dedup_text
         )
         for attempt in range(3):
             try:

@@ -4,11 +4,14 @@ import logging
 from datetime import datetime, timezone
 
 import feedparser
+import requests
 
 from tracker.adapters.base import BaseAdapter
 from tracker.models import Result, SourceConfig, TopicConfig
 
 logger = logging.getLogger(__name__)
+
+_TIMEOUT = 15
 
 
 class GenericRSSAdapter(BaseAdapter):
@@ -30,7 +33,9 @@ class GenericRSSAdapter(BaseAdapter):
         results = []
         for url in feed_urls:
             try:
-                feed = feedparser.parse(url)
+                response = requests.get(url, timeout=_TIMEOUT, headers={"User-Agent": "Mozilla/5.0"})
+                response.raise_for_status()
+                feed = feedparser.parse(response.content)
                 for entry in feed.entries:
                     published = datetime.now(timezone.utc)
                     if hasattr(entry, "published_parsed") and entry.published_parsed:

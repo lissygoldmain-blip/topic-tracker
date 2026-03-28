@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from urllib.parse import urlencode
 
 import feedparser
+import requests
 
 from tracker.adapters.base import BaseAdapter
 from tracker.models import Result, SourceConfig, TopicConfig
@@ -12,6 +13,7 @@ from tracker.models import Result, SourceConfig, TopicConfig
 logger = logging.getLogger(__name__)
 
 GOOGLE_NEWS_URL = "https://news.google.com/rss/search"
+_TIMEOUT = 15
 
 
 class GoogleNewsAdapter(BaseAdapter):
@@ -23,7 +25,9 @@ class GoogleNewsAdapter(BaseAdapter):
             try:
                 params = urlencode({"q": term, "hl": "en-US", "gl": "US", "ceid": "US:en"})
                 url = f"{GOOGLE_NEWS_URL}?{params}"
-                feed = feedparser.parse(url)
+                response = requests.get(url, timeout=_TIMEOUT, headers={"User-Agent": "Mozilla/5.0"})
+                response.raise_for_status()
+                feed = feedparser.parse(response.content)
                 for entry in feed.entries:
                     published = datetime.now(timezone.utc)
                     if hasattr(entry, "published_parsed") and entry.published_parsed:

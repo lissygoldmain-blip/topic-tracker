@@ -34,8 +34,17 @@ def make_topic():
     )
 
 
+def _mock_response(content=b"<feed />"):
+    resp = MagicMock()
+    resp.content = content
+    resp.raise_for_status = MagicMock()
+    return resp
+
+
 def test_fetch_returns_results():
-    with patch("tracker.adapters.google_news.feedparser.parse") as mock_parse:
+    with patch("tracker.adapters.google_news.requests.get") as mock_get, \
+         patch("tracker.adapters.google_news.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
         mock_parse.return_value = make_feed([make_feed_entry()])
         adapter = GoogleNewsAdapter()
         source = SourceConfig(source="google_news", terms=["Keiji Kaneko suit"])
@@ -50,20 +59,23 @@ def test_fetch_returns_results():
 
 
 def test_fetch_multiple_terms():
-    with patch("tracker.adapters.google_news.feedparser.parse") as mock_parse:
+    with patch("tracker.adapters.google_news.requests.get") as mock_get, \
+         patch("tracker.adapters.google_news.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
         mock_parse.return_value = make_feed([make_feed_entry()])
         adapter = GoogleNewsAdapter()
         source = SourceConfig(source="google_news", terms=["Kaneko", "Fruit of Loom"])
         results = adapter.fetch(source, make_topic())
 
-    # Two terms = two feedparser calls; same item returned twice (dedup happens upstream)
+    # Two terms = two requests + two feedparser calls
     assert len(results) == 2
+    assert mock_get.call_count == 2
     assert mock_parse.call_count == 2
 
 
 def test_fetch_returns_empty_on_network_error():
-    with patch("tracker.adapters.google_news.feedparser.parse") as mock_parse:
-        mock_parse.side_effect = Exception("timeout")
+    with patch("tracker.adapters.google_news.requests.get") as mock_get:
+        mock_get.side_effect = Exception("timeout")
         adapter = GoogleNewsAdapter()
         source = SourceConfig(source="google_news", terms=["test"])
         results = adapter.fetch(source, make_topic())
@@ -72,7 +84,9 @@ def test_fetch_returns_empty_on_network_error():
 
 
 def test_fetch_empty_feed_returns_empty():
-    with patch("tracker.adapters.google_news.feedparser.parse") as mock_parse:
+    with patch("tracker.adapters.google_news.requests.get") as mock_get, \
+         patch("tracker.adapters.google_news.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
         mock_parse.return_value = make_feed([])
         adapter = GoogleNewsAdapter()
         source = SourceConfig(source="google_news", terms=["test"])
@@ -82,12 +96,30 @@ def test_fetch_empty_feed_returns_empty():
 
 
 def test_fetch_uses_google_news_url():
-    with patch("tracker.adapters.google_news.feedparser.parse") as mock_parse:
+    """The URL built and passed to requests.get must point to news.google.com with the search term."""
+    with patch("tracker.adapters.google_news.requests.get") as mock_get, \
+         patch("tracker.adapters.google_news.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
         mock_parse.return_value = make_feed([])
         adapter = GoogleNewsAdapter()
         source = SourceConfig(source="google_news", terms=["kaneko suit"])
         adapter.fetch(source, make_topic())
 
-    call_url = mock_parse.call_args[0][0]
+    call_url = mock_get.call_args[0][0]
     assert "news.google.com" in call_url
     assert "kaneko+suit" in call_url or "kaneko%20suit" in call_url or "kaneko suit" in call_url
+
+
+def test_fetch_uses_timeout():
+    """requests.get must always be called with a timeout to prevent hanging."""
+    with patch("tracker.adapters.google_news.requests.get") as mock_get, \
+         patch("tracker.adapters.google_news.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
+        mock_parse.return_value = make_feed([])
+        GoogleNewsAdapter().fetch(
+            SourceConfig(source="google_news", terms=["test"]), make_topic()
+        )
+
+    _, kwargs = mock_get.call_args
+    assert "timeout" in kwargs
+    assert kwargs["timeout"] > 0

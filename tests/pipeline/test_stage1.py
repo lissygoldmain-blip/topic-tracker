@@ -185,3 +185,79 @@ def test_items_capped_at_max_per_run():
         f.filter(items)
 
     assert mock_model.generate_content.call_count == Stage1Filter.MAX_ITEMS_PER_RUN
+
+
+def test_global_cap_applies_across_multiple_filter_calls():
+    """MAX_ITEMS_PER_RUN is a per-run budget shared across all filter() calls (i.e. all topics)."""
+    topic = make_topic()
+    # First call uses up the full budget
+    items_a = [(make_result(url=f"https://a.com/{i}"), topic) for i in range(Stage1Filter.MAX_ITEMS_PER_RUN)]
+    # Second call (simulating a second topic) should be skipped entirely
+    items_b = [(make_result(url=f"https://b.com/{i}"), topic) for i in range(5)]
+
+    with patch("tracker.pipeline.stage1.genai") as mock_genai, \
+         patch("tracker.pipeline.stage1.time.sleep"), \
+         patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
+        mock_model = MagicMock()
+        mock_genai.GenerativeModel.return_value = mock_model
+        mock_model.generate_content.return_value = fake_gemini_response(0.9, [])
+        f = Stage1Filter(api_key="fake")
+        f.filter(items_a)
+        result_b = f.filter(items_b)
+
+    assert result_b == []
+    assert mock_model.generate_content.call_count == Stage1Filter.MAX_ITEMS_PER_RUN
+
+
+def test_global_cap_partial_remaining_budget():
+    """Second filter() call uses only the remaining budget slots, not the full cap."""
+    topic = make_topic()
+    first_batch = Stage1Filter.MAX_ITEMS_PER_RUN - 5
+    items_a = [(make_result(url=f"https://a.com/{i}"), topic) for i in range(first_batch)]
+    # Only 5 slots remain — 10 items offered but only 5 should be scored
+    items_b = [(make_result(url=f"https://b.com/{i}"), topic) for i in range(10)]
+
+    with patch("tracker.pipeline.stage1.genai") as mock_genai, \
+         patch("tracker.pipeline.stage1.time.sleep"), \
+         patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
+        mock_model = MagicMock()
+        mock_genai.GenerativeModel.return_value = mock_model
+        mock_model.generate_content.return_value = fake_gemini_response(0.9, [])
+        f = Stage1Filter(api_key="fake")
+        f.filter(items_a)
+        f.filter(items_b)
+
+    assert mock_model.generate_content.call_count == Stage1Filter.MAX_ITEMS_PER_RUN
+
+
+def test_retry_429_also_fails_aborts_quota():
+    """If the retry attempt also returns 429 (even with a hint), treat as daily quota exhausted.
+
+    This is the key fix for the 43-minute hang: Gemini includes retry hints on daily quota
+    errors too, so 'hint present' no longer means 'just RPM throttling'. If the retry still
+    fails, we abort immediately rather than looping through all remaining items.
+    """
+    topic = make_topic()
+    results = [make_result(url=f"https://example.com/{i}") for i in range(3)]
+
+    def side_effect(*args, **kwargs):
+        raise Exception("429 Too Many Requests: retry in 60s, please wait")
+
+    with patch("tracker.pipeline.stage1.genai") as mock_genai, \
+         patch("tracker.pipeline.stage1.time.sleep") as mock_sleep, \
+         patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
+        mock_model = MagicMock()
+        mock_genai.GenerativeModel.return_value = mock_model
+        mock_model.generate_content.side_effect = side_effect
+        f = Stage1Filter(api_key="fake")
+        passed = f.filter([(r, topic) for r in results])
+
+    assert passed == []
+    assert f._quota_exhausted is True
+    # Only 2 Gemini calls: attempt 0 and attempt 1 for the first item, then abort.
+    # Items 2 and 3 are never attempted.
+    assert mock_model.generate_content.call_count == 2
+    # Exactly one retry sleep (attempt 0's hint: 60s + 2 = 62s), then abort — no further sleeps.
+    long_sleeps = [c.args[0] for c in mock_sleep.call_args_list if c.args[0] >= 30]
+    assert len(long_sleeps) == 1
+    assert abs(long_sleeps[0] - 62.0) < 0.1

@@ -133,8 +133,19 @@ topics:
 
   - name: "Queens & NYC local"
     description: >
-      Hyperlocal news for Queens, NYC. Community events, development, transit,
-      food, politics. Jackson Heights and Flushing focus but all five boroughs.
+      Hyperlocal news for Queens and NYC. Community events, development, transit,
+      local politics, and neighborhood news. Jackson Heights (user's neighborhood)
+      and Flushing (user works at Flushing Town Hall) are highest priority.
+
+      Include: Community Board 3 (Jackson Heights/East Elmhurst/Corona) and
+      Community Board 7 (Flushing) news, City Council District 25 updates,
+      local development and zoning, transit changes affecting Queens,
+      community events, politics at the borough and city level, news about
+      Flushing Town Hall and the broader Flushing arts scene, Jackson Heights
+      neighborhood organizing and community news.
+
+      Also covers: NYC-wide policy with direct Queens impact, borough president
+      news, school board, local elections.
     importance: high
     urgency: medium
 
@@ -481,8 +492,27 @@ topics:
 
   - name: "Film & TV"
     description: >
-      Upcoming movie and TV releases, production news, and entertainment announcements.
-      Covers theatrical releases, streaming premieres, and NYC-relevant theater adaptations.
+      Film and TV releases curated for taste — not volume. Surface things worth
+      actually watching, not every new release.
+
+      STRONG YES: A24, Neon, Searchlight, MUBI, Criterion-adjacent, IFC Films;
+      queer and trans stories; music documentaries and performing arts films;
+      NYC-set films with a real sense of place; international and world cinema;
+      films by queer, Black, or underrepresented directors; small prestige films
+      with singular vision; documentary features on arts, culture, or social
+      justice; anything with strong word-of-mouth from trusted tastemakers.
+
+      DEPRIORITIZE: Marvel, DC, superhero films, franchise sequels, generic
+      blockbusters, Disney live-action remakes, films without a distinct
+      artistic identity. Do not surface a film just because it has a large
+      marketing budget or wide release.
+
+      For TV: prestige limited series, queer-led shows, documentary series.
+      Not procedurals, reality TV (except Drag Race — surface that separately),
+      or generic streaming content.
+
+      Only flag something as immediately relevant if it is releasing within
+      30 days, just opened, or just hit streaming. Skip distant announcements.
     importance: low
     urgency: low
 
@@ -494,54 +524,415 @@ topics:
       frequent: []
 
       discovery:
-        # Upcoming releases in the next 90 days (no terms = discover mode)
         - source: tmdb
           filters:
             media_type: both
-            days_ahead: 90
+            days_ahead: 45
             region: US
-            max_results: 15
-        # Entertainment news from established outlets
+            max_results: 10
         - source: rss
           filters:
             feeds:
-              - "https://deadline.com/feed/"
-              - "https://variety.com/feed/"
               - "https://www.indiewire.com/feed/"
+              - "https://www.rogerebert.com/feed"
+              - "https://deadline.com/feed/"
         - source: google_news
           terms:
-            - "movie release 2026"
-            - "new TV show premiere"
+            - "A24 film release"
+            - "Neon film release"
+            - "queer film festival"
+            - "LGBTQ film premiere"
 
       broad:
-        # Track specific franchises or studios you care about
-        # Add terms here like: ["A24", "HBO", "Neon", "Searchlight"]
-        - source: tmdb
-          terms: []
-          filters:
-            language: en-US
         - source: google_news
           terms:
-            - "NYC theater adaptation film"
-            - "Broadway musical movie"
+            - "NYC film opening"
+            - "performing arts documentary"
+            - "music documentary 2026"
 
     notifications:
       email: weekly_digest
       novelty_push_threshold: 0.75
 
     llm_filter:
-      novelty_threshold: 0.6
+      novelty_threshold: 0.65
       tags:
-        - release_date_announced
-        - trailer_dropped
         - now_playing
         - streaming_premiere
-        - production_news
-        - nyc_screening
+        - trailer_dropped
+        - queer_cinema
+        - music_doc
+        - world_cinema
         - noise
 
     escalation:
       triggers: []
+      auto_revert: true
+
+  - name: "Drag, queer & trans"
+    description: >
+      RuPaul's Drag Race and all international franchises (UK, España, Down Under,
+      Canada, France, Philippines, etc.), NYC drag scene and local performers,
+      queer arts and culture, LGBTQ+ community news, trans rights and legislation.
+
+      Include: new season/cast announcements, episode discussion worth reading,
+      NYC drag show and event announcements, trans rights developments, anti-trans
+      legislation and court decisions, queer cultural events and openings,
+      community news. Also: drag performers making news, queer nightlife in NYC.
+
+      Deprioritize: fandom beef and social media drama without substance,
+      hot takes with no new information, gossip that doesn't add anything real.
+    importance: high
+    urgency: medium
+
+    source_categories:
+      - news
+      - feeds
+      - social
+
+    polling:
+      frequent:
+        - source: google_news
+          terms:
+            - "RuPaul's Drag Race"
+            - "Drag Race UK"
+            - "NYC drag"
+            - "trans rights legislation"
+        - source: rss
+          filters:
+            feeds:
+              - "https://www.out.com/rss"
+              - "https://www.advocate.com/rss.xml"
+              - "https://www.them.us/feed/rss"
+
+      discovery:
+        - source: tmdb
+          terms: ["RuPaul"]
+          filters:
+            media_type: tv
+            days_ahead: 90
+            max_results: 5
+        - source: reddit
+          subreddits: [rupaulsdragrace, dragrace, LGBT, trans]
+          terms: ["Drag Race", "trans rights", "NYC drag"]
+        - source: guardian
+          terms: ["RuPaul Drag Race", "trans rights", "LGBTQ legislation"]
+        - source: nytimes
+          terms: ["trans rights", "transgender legislation", "drag"]
+
+      broad:
+        - source: google_news
+          terms:
+            - "transgender rights 2026"
+            - "anti-trans legislation"
+            - "drag queen NYC"
+
+    notifications:
+      push: true
+      email: weekly_digest
+      novelty_push_threshold: 0.7
+
+    llm_filter:
+      novelty_threshold: 0.6
+      tags:
+        - new_season
+        - cast_announced
+        - episode_news
+        - nyc_event
+        - trans_legislation
+        - community_news
+        - noise
+
+    escalation:
+      triggers:
+        - tag: trans_legislation
+          bump_to: high
+          duration_hours: 72
+      auto_revert: true
+
+  - name: "Immigration & ICE"
+    description: >
+      Immigration enforcement activity in New York City — especially Queens,
+      Jackson Heights, Flushing, and surrounding neighborhoods. ICE operations,
+      arrests, detentions, and community alerts. Also covers federal immigration
+      policy changes, court decisions affecting immigrants, and local sanctuary
+      policies.
+
+      Jackson Heights and Flushing are the highest priority locations (user
+      lives and works there). Flag any confirmed or credible reports of
+      enforcement activity in these areas immediately.
+
+      Include: confirmed ICE activity in NYC/Queens, policy changes with direct
+      local impact, know-your-rights resources, community organization updates
+      (RAICES, Make the Road NY, New Sanctuary Coalition), court injunctions
+      or rulings affecting enforcement. Include credible secondhand reports
+      from community organizations even if not in major news outlets.
+
+      Deprioritize: general national immigration debates without local impact,
+      partisan commentary, and unconfirmed social media rumors without
+      corroboration.
+    importance: high
+    urgency: high
+
+    source_categories:
+      - news
+      - feeds
+      - social
+
+    polling:
+      frequent:
+        - source: google_news
+          terms:
+            - "ICE raid Queens New York"
+            - "ICE arrest Jackson Heights"
+            - "ICE enforcement New York City"
+            - "immigration raid NYC"
+        - source: rss
+          filters:
+            feeds:
+              - "https://www.thecity.nyc/feed/"
+              - "https://qns.com/feed/"
+              - "https://gothamist.com/feed"
+
+      discovery:
+        - source: reddit
+          subreddits: [nyc, JacksonHeights, queensnyc, immigration]
+          terms: ["ICE", "immigration enforcement", "raid"]
+        - source: bluesky
+          terms: ["ICE Queens", "ICE Jackson Heights", "ICE NYC", "immigration enforcement NYC"]
+        - source: nytimes
+          terms: ["ICE New York", "immigration enforcement Queens"]
+        - source: guardian
+          terms: ["ICE New York", "immigration enforcement New York"]
+
+      broad:
+        - source: google_news
+          terms:
+            - "Make the Road New York"
+            - "NYC sanctuary city immigration"
+            - "immigration policy New York"
+
+    notifications:
+      push: true
+      email: weekly_digest
+      novelty_push_threshold: 0.5
+
+    llm_filter:
+      novelty_threshold: 0.4
+      tags:
+        - confirmed_activity
+        - community_alert
+        - policy_change
+        - court_ruling
+        - resource
+        - noise
+
+    escalation:
+      triggers:
+        - tag: confirmed_activity
+          bump_to: urgent
+          duration_hours: 24
+      auto_revert: true
+
+  - name: "Politics & world"
+    description: >
+      US politics and global news. This is a "need to know" filter, not a
+      firehose. Be highly selective — surface only developments that materially
+      change something: major legislation passed or blocked, election results,
+      significant court decisions, international conflicts escalating or
+      resolving, diplomatic shifts, major policy implementations.
+
+      EXPLICITLY SKIP: partisan hot takes, social media outrage cycles,
+      incremental polling updates, punditry, horse-race political coverage,
+      and doom-spiral content that generates anxiety without actionable
+      information. If an item is primarily about reactions to an event rather
+      than the event itself, score it low.
+
+      Include genuinely significant global news that is underreported in
+      US mainstream media. Prioritize coverage with direct impact on NYC,
+      Queens immigrant communities, arts funding, LGBTQ+ rights, or
+      labor/worker issues.
+    importance: medium
+    urgency: low
+
+    source_categories:
+      - news
+
+    polling:
+      frequent: []
+
+      discovery:
+        - source: guardian
+          terms:
+            - "US politics"
+            - "global news"
+            - "international"
+          filters: {section: "world"}
+        - source: nytimes
+          terms:
+            - "Congress legislation"
+            - "Supreme Court"
+            - "executive order"
+          filters: {section: "us"}
+        - source: rss
+          filters:
+            feeds:
+              - "https://feeds.npr.org/1001/rss.xml"
+              - "https://www.democracynow.org/democracynow.rss"
+
+      broad:
+        - source: google_news
+          terms:
+            - "Congress vote legislation"
+            - "Supreme Court ruling"
+            - "international conflict"
+            - "NYC budget arts funding"
+
+    notifications:
+      email: weekly_digest
+      novelty_push_threshold: 0.82
+
+    llm_filter:
+      novelty_threshold: 0.8
+      tags:
+        - legislation
+        - court_ruling
+        - election
+        - international
+        - local_impact
+        - noise
+
+    escalation:
+      triggers: []
+      auto_revert: true
+
+  - name: "Queens food & dining"
+    description: >
+      New restaurant openings, pop-ups, food news, and dining recommendations
+      in Jackson Heights, Flushing, and Queens broadly. Focus on independent,
+      locally-owned spots with strong community roots or distinct cuisines.
+
+      Jackson Heights is the highest priority (user's neighborhood) — South
+      Asian, Latin American, Tibetan, and other immigrant cuisines. Flushing
+      is also high priority (user works at Flushing Town Hall) — Chinese,
+      Korean, Taiwanese, and pan-Asian food scene.
+
+      Include: new openings, notable closings, food events, night markets,
+      new chefs, underrated gems, late-night spots, seasonal menus, pop-ups.
+      Also Queens-wide food coverage.
+
+      Deprioritize: national chain openings, generic Manhattan "best of NYC"
+      roundups unless specifically Queens-focused, influencer content without
+      substance.
+    importance: low
+    urgency: low
+
+    source_categories:
+      - news
+      - feeds
+
+    polling:
+      frequent: []
+
+      discovery:
+        - source: rss
+          filters:
+            feeds:
+              - "https://ny.eater.com/rss/index.xml"
+              - "https://www.grubstreet.com/rss/current_stories.xml"
+              - "https://qns.com/feed/"
+        - source: google_news
+          terms:
+            - "Jackson Heights restaurant opening"
+            - "Flushing restaurant new"
+            - "Queens food dining"
+        - source: reddit
+          subreddits: [FoodNYC, queensnyc, JacksonHeights]
+          terms: ["restaurant", "food", "opening", "new spot"]
+
+      broad:
+        - source: google_news
+          terms:
+            - "Queens New York food scene"
+            - "Jackson Heights food"
+            - "Flushing dining"
+
+    notifications:
+      email: weekly_digest
+      novelty_push_threshold: 0.65
+
+    llm_filter:
+      novelty_threshold: 0.55
+      tags:
+        - new_opening
+        - closing
+        - pop_up
+        - event
+        - recommendation
+        - noise
+
+    escalation:
+      triggers: []
+      auto_revert: true
+
+  - name: "Wildfang"
+    description: >
+      Wildfang clothing brand: new collection drops, sales, collaborations,
+      limited releases, and significant product launches. Gender-neutral
+      and queer-forward fashion. Flag sales and drops especially.
+    importance: low
+    urgency: low
+
+    source_categories:
+      - shopping
+      - news
+
+    polling:
+      frequent:
+        - source: google_news
+          terms:
+            - "Wildfang"
+            - "Wildfang new collection"
+
+      discovery:
+        - source: rss
+          filters:
+            feeds:
+              - "https://www.wildfang.com/blogs/news.atom"
+        - source: ebay
+          terms:
+            - "wildfang"
+          filters:
+            price_max: 200
+
+      broad:
+        - source: google_news
+          terms:
+            - "Wildfang sale"
+            - "Wildfang collab"
+
+    notifications:
+      push: true
+      email: weekly_digest
+      novelty_push_threshold: 0.6
+
+    llm_filter:
+      novelty_threshold: 0.5
+      tags:
+        - new_drop
+        - sale
+        - collab
+        - limited_release
+        - noise
+
+    escalation:
+      triggers:
+        - tag: sale
+          bump_to: high
+          duration_hours: 48
+        - tag: new_drop
+          bump_to: medium
+          duration_hours: 72
       auto_revert: true
 
   - name: "AI & tech research"

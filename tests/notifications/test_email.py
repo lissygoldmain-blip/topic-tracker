@@ -90,3 +90,21 @@ def test_price_shown_in_email():
         notifier.send_immediate(result)
         html = mock_send.call_args[0][0]["html"]
         assert "$245.00 USD" in html
+
+
+def test_html_special_chars_escaped():
+    """Titles/snippets with HTML special chars must be escaped before rendering."""
+    notifier = EmailNotifier(
+        api_key="fake",
+        from_email="tracker@updates.resend.dev",
+        to_email="test@example.com",
+    )
+    result = make_result(title='<script>alert("xss")</script>')
+    result.summary = "<b>bold</b> & 'quoted'"
+    with patch("tracker.notifications.email.resend.Emails.send") as mock_send:
+        mock_send.return_value = {"id": "999"}
+        notifier.send_immediate(result)
+        html = mock_send.call_args[0][0]["html"]
+    assert "<script>" not in html
+    assert "&lt;script&gt;" in html
+    assert "&amp;" in html

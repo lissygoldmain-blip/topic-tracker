@@ -1,4 +1,5 @@
 import json
+import os
 from datetime import datetime, timezone
 from unittest.mock import MagicMock, call, patch
 
@@ -261,3 +262,35 @@ def test_retry_429_also_fails_aborts_quota():
     long_sleeps = [c.args[0] for c in mock_sleep.call_args_list if c.args[0] >= 30]
     assert len(long_sleeps) == 1
     assert abs(long_sleeps[0] - 62.0) < 0.1
+
+
+# ── Configurable cap tests ────────────────────────────────────────────────────
+
+
+def test_max_items_constructor_param():
+    """Constructor param overrides the class-level default."""
+    with patch("tracker.pipeline.stage1.genai"):
+        f = Stage1Filter(api_key="fake", max_items_per_run=5)
+    assert f.MAX_ITEMS_PER_RUN == 5
+
+
+def test_max_items_env_var():
+    """STAGE1_MAX_ITEMS_PER_RUN env var sets the cap when no constructor param given."""
+    env = os.environ.copy()
+    os.environ["STAGE1_MAX_ITEMS_PER_RUN"] = "7"
+    try:
+        with patch("tracker.pipeline.stage1.genai"):
+            f = Stage1Filter(api_key="fake")
+        assert f.MAX_ITEMS_PER_RUN == 7
+    finally:
+        if "STAGE1_MAX_ITEMS_PER_RUN" in env:
+            os.environ["STAGE1_MAX_ITEMS_PER_RUN"] = env["STAGE1_MAX_ITEMS_PER_RUN"]
+        else:
+            del os.environ["STAGE1_MAX_ITEMS_PER_RUN"]
+
+
+def test_max_items_class_default_unchanged():
+    """Instance-level overrides don't mutate the class-level constant."""
+    with patch("tracker.pipeline.stage1.genai"):
+        Stage1Filter(api_key="fake", max_items_per_run=999)
+    assert Stage1Filter.MAX_ITEMS_PER_RUN == 20

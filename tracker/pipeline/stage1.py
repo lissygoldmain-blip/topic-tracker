@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import logging
+import os
 import re
 import time
 
@@ -44,7 +45,7 @@ class Stage1Filter:
     # At 5s/item this is ~100s of Gemini calls, well within the 45-min job timeout.
     MAX_ITEMS_PER_RUN = 20
 
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, max_items_per_run: int | None = None):
         genai.configure(api_key=api_key)
         self._model = genai.GenerativeModel("gemini-2.0-flash")
         # Tracks when the last Gemini request was made (monotonic seconds).
@@ -57,6 +58,13 @@ class Stage1Filter:
         # Global counter across ALL filter() calls in this run. Compared against
         # MAX_ITEMS_PER_RUN so the cap applies to the full run, not per topic.
         self._items_scored_this_run: int = 0
+        # Allow the cap to be tuned without a code change: constructor param takes
+        # precedence (useful in tests), then STAGE1_MAX_ITEMS_PER_RUN env var,
+        # then the class-level default of 20.
+        if max_items_per_run is not None:
+            self.MAX_ITEMS_PER_RUN = max_items_per_run
+        elif "STAGE1_MAX_ITEMS_PER_RUN" in os.environ:
+            self.MAX_ITEMS_PER_RUN = int(os.environ["STAGE1_MAX_ITEMS_PER_RUN"])
 
     def filter(
         self, items: list[tuple[Result, TopicConfig]]

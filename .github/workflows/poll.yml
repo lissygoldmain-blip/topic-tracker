@@ -76,6 +76,7 @@ jobs:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TIER_INDEX: ${{ steps.tier.outputs.index }}
+          STAGE1_MAX_ITEMS_PER_RUN: ${{ vars.STAGE1_MAX_ITEMS_PER_RUN || '20' }}
         run: python -c "from tracker.poller import run_poll; run_poll(tier_index=int('$TIER_INDEX'))"
 
       - name: Commit updated state

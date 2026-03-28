@@ -47,7 +47,7 @@ class Stage1Filter:
 
     def __init__(self, api_key: str, max_items_per_run: int | None = None):
         genai.configure(api_key=api_key)
-        self._model = genai.GenerativeModel("gemini-2.0-flash-lite")
+        self._model = genai.GenerativeModel("gemini-2.5-flash-lite")
         # Tracks when the last Gemini request was made (monotonic seconds).
         # Initialised to 0 so the very first call never waits.
         self._last_request_at: float = 0.0

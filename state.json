@@ -85,8 +85,9 @@
         "disabled": false
       },
       "gdelt": {
-        "consecutive_failures": 4,
-        "disabled": false
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-03-28T22:24:11.849197+00:00"
       }
     },
     "Jobs": {
@@ -95,20 +96,21 @@
         "disabled": false
       },
       "indeed": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 2,
         "disabled": false,
         "disabled_at": null
       },
       "playbill_jobs": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 2,
         "disabled": false,
         "disabled_at": null
       }
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 4,
-        "disabled": false
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-03-28T22:34:13.717166+00:00"
       },
       "google_news": {
         "consecutive_failures": 0,

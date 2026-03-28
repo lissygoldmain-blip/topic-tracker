@@ -16,7 +16,7 @@
     },
     "NYC theater & arts": {
       "gdelt": {
-        "consecutive_failures": 0,
+        "consecutive_failures": 1,
         "disabled": false
       },
       "google_news": {
@@ -30,7 +30,7 @@
         "disabled": false
       },
       "gdelt": {
-        "consecutive_failures": 0,
+        "consecutive_failures": 1,
         "disabled": false
       }
     },
@@ -40,24 +40,36 @@
         "disabled": false
       },
       "gdelt": {
-        "consecutive_failures": 0,
+        "consecutive_failures": 1,
         "disabled": false
       }
     },
     "Jobs": {
       "adzuna": {
-        "consecutive_failures": 2,
+        "consecutive_failures": 0,
         "disabled": false
       }
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 0,
+        "consecutive_failures": 1,
         "disabled": false
       },
       "google_news": {
         "consecutive_failures": 0,
         "disabled": false
+      }
+    },
+    "Film & TV": {
+      "tmdb": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
       }
     }
   }

@@ -547,7 +547,13 @@ topics:
   - name: "AI & tech research"
     description: >
       AI, machine learning, and adjacent technology research. Preprints,
-      model releases, papers, and applied AI news.
+      model releases, papers, and applied AI news. Be highly selective —
+      only surface genuinely significant developments: major model releases,
+      important safety research, meaningful capability breakthroughs, or
+      landmark papers. Deprioritize incremental benchmark improvements,
+      minor API updates, routine product announcements, and hype-driven
+      coverage. Prefer primary sources (papers, official announcements)
+      over downstream commentary.
     importance: low
     urgency: low
 
@@ -606,7 +612,7 @@ topics:
       novelty_push_threshold: 0.7
 
     llm_filter:
-      novelty_threshold: 0.6
+      novelty_threshold: 0.75
       tags:
         - model_release
         - paper_published

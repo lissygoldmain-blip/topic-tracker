@@ -569,19 +569,19 @@ topics:
       triggers: []
       auto_revert: true
 
-  - name: "Drag, queer & trans"
+  - name: "Drag Race & drag"
     description: >
       RuPaul's Drag Race and all international franchises (UK, España, Down Under,
-      Canada, France, Philippines, etc.), NYC drag scene and local performers,
-      queer arts and culture, LGBTQ+ community news, trans rights and legislation.
+      Canada, France, Philippines, All Stars, etc.) plus NYC drag scene and
+      drag culture broadly.
 
-      Include: new season/cast announcements, episode discussion worth reading,
-      NYC drag show and event announcements, trans rights developments, anti-trans
-      legislation and court decisions, queer cultural events and openings,
-      community news. Also: drag performers making news, queer nightlife in NYC.
+      Include: new season and cast announcements, premiere dates, episode
+      recaps worth reading, elimination news, reunion and finale coverage,
+      NYC drag show and event announcements, notable drag performers making
+      news, queer nightlife openings, drag festivals.
 
-      Deprioritize: fandom beef and social media drama without substance,
-      hot takes with no new information, gossip that doesn't add anything real.
+      Deprioritize: fandom infighting, social media beef without substance,
+      hot takes with no new information.
     importance: high
     urgency: medium
 
@@ -596,36 +596,112 @@ topics:
           terms:
             - "RuPaul's Drag Race"
             - "Drag Race UK"
+            - "Drag Race España"
+            - "All Stars Drag Race"
             - "NYC drag"
-            - "trans rights legislation"
         - source: rss
           filters:
             feeds:
               - "https://www.out.com/rss"
-              - "https://www.advocate.com/rss.xml"
               - "https://www.them.us/feed/rss"
 
       discovery:
         - source: tmdb
-          terms: ["RuPaul"]
+          terms: ["RuPaul", "Drag Race"]
           filters:
             media_type: tv
             days_ahead: 90
-            max_results: 5
+            max_results: 8
         - source: reddit
-          subreddits: [rupaulsdragrace, dragrace, LGBT, trans]
-          terms: ["Drag Race", "trans rights", "NYC drag"]
+          subreddits: [rupaulsdragrace, dragrace]
+          terms: ["season", "cast", "premiere", "NYC drag"]
+        - source: google_news
+          terms:
+            - "drag show NYC event"
+            - "drag performer announcement"
+
+      broad:
+        - source: google_news
+          terms:
+            - "drag queen festival"
+            - "NYC queer nightlife"
+
+    notifications:
+      push: true
+      email: weekly_digest
+      novelty_push_threshold: 0.65
+
+    llm_filter:
+      novelty_threshold: 0.55
+      tags:
+        - new_season
+        - cast_announced
+        - episode_news
+        - premiere_date
+        - nyc_event
+        - noise
+
+    escalation:
+      triggers:
+        - tag: new_season
+          bump_to: high
+          duration_hours: 72
+        - tag: cast_announced
+          bump_to: medium
+          duration_hours: 48
+      auto_revert: true
+
+  - name: "Queer & trans"
+    description: >
+      LGBTQ+ community news, trans rights and legislation, queer advocacy,
+      and policy affecting queer and trans people. Covers both national
+      and NYC-local angles.
+
+      Include: trans rights developments, anti-trans legislation and court
+      decisions, LGBTQ+ federal and state policy, NYC-specific queer community
+      news, notable advocacy wins and losses, queer cultural and political
+      milestones, healthcare access for trans people, community organization
+      updates. Intersections with immigration and race are especially relevant.
+
+      Deprioritize: celebrity gossip, social media drama, and content that
+      is about queer entertainment rather than rights or community — that
+      belongs in Drag Race & drag or Film & TV.
+    importance: high
+    urgency: medium
+
+    source_categories:
+      - news
+      - feeds
+
+    polling:
+      frequent:
+        - source: google_news
+          terms:
+            - "trans rights legislation"
+            - "transgender policy"
+            - "LGBTQ rights"
+        - source: rss
+          filters:
+            feeds:
+              - "https://www.advocate.com/rss.xml"
+              - "https://www.them.us/feed/rss"
+              - "https://www.out.com/rss"
+
+      discovery:
         - source: guardian
-          terms: ["RuPaul Drag Race", "trans rights", "LGBTQ legislation"]
+          terms: ["trans rights", "LGBTQ legislation", "transgender policy"]
         - source: nytimes
-          terms: ["trans rights", "transgender legislation", "drag"]
+          terms: ["trans rights", "transgender legislation", "LGBTQ policy"]
+        - source: reddit
+          subreddits: [lgbt, trans, LGBTnews]
+          terms: ["legislation", "rights", "policy", "court"]
 
       broad:
         - source: google_news
           terms:
             - "transgender rights 2026"
             - "anti-trans legislation"
-            - "drag queen NYC"
+            - "LGBTQ community NYC"
 
     notifications:
       push: true
@@ -635,17 +711,19 @@ topics:
     llm_filter:
       novelty_threshold: 0.6
       tags:
-        - new_season
-        - cast_announced
-        - episode_news
-        - nyc_event
-        - trans_legislation
+        - legislation
+        - court_ruling
+        - policy_change
         - community_news
+        - healthcare
         - noise
 
     escalation:
       triggers:
-        - tag: trans_legislation
+        - tag: legislation
+          bump_to: high
+          duration_hours: 72
+        - tag: court_ruling
           bump_to: high
           duration_hours: 72
       auto_revert: true

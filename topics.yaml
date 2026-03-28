@@ -834,7 +834,7 @@ topics:
       US mainstream media. Prioritize coverage with direct impact on NYC,
       Queens immigrant communities, arts funding, LGBTQ+ rights, or
       labor/worker issues.
-    importance: medium
+    importance: low
     urgency: low
 
     source_categories:

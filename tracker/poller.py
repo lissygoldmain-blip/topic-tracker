@@ -112,6 +112,13 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
         api_key=resend_key, from_email=from_email, to_email=to_email
     ) if resend_key else None
 
+    # In-memory dedup for the current run only. Prevents the same URL from being
+    # scored twice if two adapters (or two topics) return it in a single run.
+    # Kept separate from storage.mark_seen() so that URLs which are fetched but
+    # NOT passed by Stage1 (e.g. quota hit) are NOT permanently recorded as seen
+    # — they remain eligible for re-scoring on the next run.
+    within_run_seen: set[str] = set()
+
     for topic in topics:
         urgency = esc.effective_urgency(state, topic)
         tier_names = TIER_MAP.get(urgency, ["discovery"])
@@ -154,9 +161,9 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
                 results = []
 
             for r in results:
-                if not storage.is_seen(r.url):
+                if not storage.is_seen(r.url) and r.url not in within_run_seen:
                     raw_results.append((r, topic))
-                    storage.mark_seen(r.url, source_type=r.source_type)
+                    within_run_seen.add(r.url)
 
         if not raw_results:
             logger.info("No new results for topic '%s' at tier '%s'", topic.name, tier_name)
@@ -170,6 +177,9 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
         esc.check_and_apply(state, passed)
 
         for result, t in passed:
+            # Only persist URLs that actually passed Stage1 — items deferred due to
+            # quota exhaustion stay absent from seen_urls.json and will be retried.
+            storage.mark_seen(result.url, source_type=result.source_type)
             storage.add_result(result)
             if notifier and t.notifications.get("email") == "immediate":
                 notifier.send_immediate(result)

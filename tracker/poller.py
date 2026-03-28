@@ -1,7 +1,9 @@
 from __future__ import annotations
 
 import logging
+import math
 import os
+from dataclasses import dataclass as _dataclass
 
 from tracker import circuit_breaker as cb
 from tracker import escalation as esc
@@ -43,6 +45,15 @@ from tracker.pipeline.stage1 import Stage1Filter
 from tracker.storage import Storage
 
 logger = logging.getLogger(__name__)
+
+
+@_dataclass
+class _TopicRun:
+    fetched: int = 0   # all items returned by adapters (including already-seen)
+    new: int = 0       # items that passed in-run dedup (entered Stage1 queue)
+    scored: int = 0    # items actually sent to Stage1 after per-topic budget cap
+    passed: int = 0    # items that passed Stage1 quality filter
+
 
 # Maps urgency level to list of tier names by index (tier1=0, tier2=1, tier3=2, tier4=3)
 TIER_MAP = {
@@ -119,7 +130,18 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
     # — they remain eligible for re-scoring on the next run.
     within_run_seen: set[str] = set()
 
+    # Proportional budget: each topic gets a fair share of the remaining Gemini
+    # slots. Topics that are skipped (tier mismatch, no sources, CB disabled)
+    # donate their allocation to later topics because remaining_topics is
+    # decremented unconditionally at the top of each iteration.
+    remaining_topics = len(topics)
+    run_stats: dict[str, _TopicRun] = {}
+
     for topic in topics:
+        global_remaining = stage1.MAX_ITEMS_PER_RUN - stage1._items_scored_this_run
+        per_topic_budget = math.ceil(global_remaining / remaining_topics) if remaining_topics > 0 else 0
+        remaining_topics -= 1
+        run_stats.setdefault(topic.name, _TopicRun())
         urgency = esc.effective_urgency(state, topic)
         tier_names = TIER_MAP.get(urgency, ["discovery"])
         if tier_index >= len(tier_names):
@@ -160,16 +182,28 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
                 cb.record_failure(state, topic.name, source_config.source)
                 results = []
 
+            run_stats[topic.name].fetched += len(results)
             for r in results:
                 if not storage.is_seen(r.url) and r.url not in within_run_seen:
                     raw_results.append((r, topic))
                     within_run_seen.add(r.url)
 
+        run_stats[topic.name].new += len(raw_results)
+
         if not raw_results:
             logger.info("No new results for topic '%s' at tier '%s'", topic.name, tier_name)
             continue
 
+        if len(raw_results) > per_topic_budget:
+            logger.info(
+                "Budget: capping '%s' at %d items (fair share of %d remaining slots)",
+                topic.name, per_topic_budget, global_remaining,
+            )
+            raw_results = raw_results[:per_topic_budget]
+
+        run_stats[topic.name].scored += len(raw_results)
         passed = stage1.filter(raw_results)
+        run_stats[topic.name].passed += len(passed)
         logger.info(
             "%d/%d results passed Stage 1 for '%s'", len(passed), len(raw_results), topic.name
         )
@@ -186,6 +220,19 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
 
     storage.save_state(state)
     storage.save()
+
+    # ── Per-topic summary ─────────────────────────────────────────────────────
+    logger.info("── Poll summary %s", "─" * 50)
+    logger.info("  %-26s %7s %5s %6s %6s", "Topic", "Fetched", "New", "Scored", "Passed")
+    logger.info("  %-26s %7s %5s %6s %6s", "─" * 26, "─" * 7, "─" * 5, "─" * 6, "─" * 6)
+    for tname, s in run_stats.items():
+        logger.info("  %-26s %7d %5d %6d %6d", tname, s.fetched, s.new, s.scored, s.passed)
+    used = stage1._items_scored_this_run
+    logger.info("  Gemini slots used: %d / %d", used, stage1.MAX_ITEMS_PER_RUN)
+    if stage1._quota_exhausted:
+        logger.warning("  ⚠ Daily quota exhausted during this run")
+    logger.info("─" * 66)
+
     logger.info("Poll complete.")
 
 

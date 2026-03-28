@@ -73,6 +73,8 @@ def _run(tmp_path, topics, stage1_passed):
     mock_stage1_instance = mock_stage1_cls.return_value
     mock_stage1_instance.filter.return_value = stage1_passed
     mock_stage1_instance._quota_exhausted = False
+    mock_stage1_instance.MAX_ITEMS_PER_RUN = 20
+    mock_stage1_instance._items_scored_this_run = 0
 
     mock_cb = MagicMock()
     mock_cb.is_disabled.return_value = False
@@ -144,6 +146,8 @@ def test_within_run_dedup_prevents_duplicate_scoring(tmp_path):
     mock_stage1_cls = MagicMock()
     mock_stage1_instance = mock_stage1_cls.return_value
     mock_stage1_instance._quota_exhausted = False
+    mock_stage1_instance.MAX_ITEMS_PER_RUN = 20
+    mock_stage1_instance._items_scored_this_run = 0
     # capture what Stage1 actually receives
     received: list[list] = []
     def capture_filter(items):
@@ -172,3 +176,56 @@ def test_within_run_dedup_prevents_duplicate_scoring(tmp_path):
     all_items = [item for batch in received for item in batch]
     urls_sent = [res.url for res, _ in all_items]
     assert urls_sent.count(shared_url) == 1
+
+
+def test_proportional_budget_caps_first_topic(tmp_path):
+    """
+    With a global cap of 2 and two topics each returning 5 items, each topic
+    should receive at most ceil(2/2)=1 Gemini slot — the first topic must NOT
+    eat both slots and leave the second topic with nothing.
+    """
+    topic_a = _topic("Topic A", sources=[{"source": "adapter_a", "terms": ["test"]}])
+    topic_b = _topic("Topic B", sources=[{"source": "adapter_b", "terms": ["test"]}])
+
+    results_a = [_result(f"https://a.com/{i}", "Topic A") for i in range(5)]
+    results_b = [_result(f"https://b.com/{i}", "Topic B") for i in range(5)]
+
+    mock_stage1_cls = MagicMock()
+    mock_stage1_instance = mock_stage1_cls.return_value
+    mock_stage1_instance._quota_exhausted = False
+    mock_stage1_instance._items_scored_this_run = 0
+    mock_stage1_instance.MAX_ITEMS_PER_RUN = 2  # tight cap: 1 item per topic
+
+    received: list[list] = []
+    def capture_filter(items):
+        received.append(list(items))
+        # Simulate scoring: each call advances the counter
+        mock_stage1_instance._items_scored_this_run += len(items)
+        return []
+    mock_stage1_instance.filter.side_effect = capture_filter
+
+    mock_cb = MagicMock()
+    mock_cb.is_disabled.return_value = False
+    mock_esc = MagicMock()
+    mock_esc.effective_urgency.side_effect = lambda state, topic: topic.urgency
+
+    storage = Storage(data_dir=str(tmp_path))
+    storage.load()
+
+    with patch.dict("os.environ", {"GEMINI_API_KEY": "fake"}), \
+         patch("tracker.poller.load_topics", return_value=[topic_a, topic_b]), \
+         patch("tracker.poller.Storage", return_value=storage), \
+         patch("tracker.poller.Stage1Filter", mock_stage1_cls), \
+         patch("tracker.poller.cb", mock_cb), \
+         patch("tracker.poller.esc", mock_esc), \
+         patch.dict("tracker.poller.ADAPTERS", {
+             "adapter_a": _mock_adapter(results_a),
+             "adapter_b": _mock_adapter(results_b),
+         }):
+        run_poll(tier_index=0, data_dir=str(tmp_path))
+
+    # Each batch passed to filter() must be at most 1 item (ceil(2/2)=1 per topic)
+    for batch in received:
+        assert len(batch) <= 1, f"Batch exceeded per-topic budget: {len(batch)} items"
+    # Both topics must have had a chance — filter() called at least twice (once per topic)
+    assert len(received) >= 2

@@ -45,9 +45,11 @@ class Stage1Filter:
     # At 5s/item this is ~100s of Gemini calls, well within the 45-min job timeout.
     MAX_ITEMS_PER_RUN = 20
 
-    def __init__(self, api_key: str, max_items_per_run: int | None = None):
+    def __init__(self, api_key: str, max_items_per_run: int | None = None, feedback: list | None = None):
         genai.configure(api_key=api_key)
         self._model = genai.GenerativeModel("gemini-2.5-flash-lite")
+        # Feedback from feedback.json — list of {url, title, topic, vote, note, ts}
+        self._feedback: list = feedback or []
         # Tracks when the last Gemini request was made (monotonic seconds).
         # Initialised to 0 so the very first call never waits.
         self._last_request_at: float = 0.0
@@ -104,6 +106,21 @@ class Stage1Filter:
         return passed
 
     def _score(self, result: Result, topic: TopicConfig) -> float | None:
+        # Build feedback context for this specific topic (most recent 8 entries)
+        feedback_text = ""
+        topic_fb = [f for f in self._feedback if f.get("topic") == topic.name]
+        if topic_fb:
+            lines = []
+            for fb in topic_fb[-8:]:
+                sign = "\U0001f44d" if fb.get("vote") == 1 else "\U0001f44e"
+                title_trunc = str(fb.get("title", ""))[:70]
+                note = f' \u2014 "{fb["note"]}"' if fb.get("note") else ""
+                lines.append(f'{sign} "{title_trunc}"{note}')
+            feedback_text = (
+                "\n\nUser preference history for this topic (use to calibrate your scoring):\n"
+                + "\n".join(lines)
+            )
+
         prompt = (
             f"Topic: {topic.name}\n"
             f"Description: {topic.description}\n"
@@ -111,6 +128,7 @@ class Stage1Filter:
             f"Title: {result.title}\n"
             f"Snippet: {result.snippet}\n"
             f"Source: {result.source}"
+            + feedback_text
         )
         for attempt in range(3):
             try:

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import logging
 import math
 import os
@@ -118,7 +119,17 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
 
     state = storage.load_state()
 
-    stage1 = Stage1Filter(api_key=gemini_key)
+    feedback_path = os.path.join(data_dir, "feedback.json")
+    feedback: list = []
+    if os.path.exists(feedback_path):
+        try:
+            with open(feedback_path) as _f:
+                feedback = json.load(_f)
+            logger.info("Loaded %d feedback entries from feedback.json", len(feedback))
+        except Exception as _e:
+            logger.warning("Could not load feedback.json: %s", _e)
+
+    stage1 = Stage1Filter(api_key=gemini_key, feedback=feedback)
     notifier = EmailNotifier(
         api_key=resend_key, from_email=from_email, to_email=to_email
     ) if resend_key else None

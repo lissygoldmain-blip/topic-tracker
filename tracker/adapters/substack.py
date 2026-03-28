@@ -95,7 +95,9 @@ class SubstackAdapter(BaseAdapter):
         results: list[Result] = []
         for url in feed_urls:
             try:
-                feed = feedparser.parse(url)
+                resp = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
+                resp.raise_for_status()
+                feed = feedparser.parse(resp.content)
                 if feed.bozo and not feed.entries:
                     logger.warning("SubstackAdapter: bad feed at '%s'", url)
                     continue

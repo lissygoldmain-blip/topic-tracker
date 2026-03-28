@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from urllib.parse import urlencode
 
 import feedparser
+import requests
 
 from tracker.adapters.base import BaseAdapter
 from tracker.models import Result, SourceConfig, TopicConfig
@@ -12,6 +13,7 @@ from tracker.models import Result, SourceConfig, TopicConfig
 logger = logging.getLogger(__name__)
 
 _SEARCH_URL = "https://slickdeals.net/newsearch.php"
+_TIMEOUT = 15
 
 
 class SlickdealsAdapter(BaseAdapter):
@@ -35,7 +37,9 @@ class SlickdealsAdapter(BaseAdapter):
             })
             url = f"{_SEARCH_URL}?{params}"
             try:
-                feed = feedparser.parse(url)
+                resp = requests.get(url, timeout=_TIMEOUT, headers={"User-Agent": "Mozilla/5.0"})
+                resp.raise_for_status()
+                feed = feedparser.parse(resp.content)
                 for entry in feed.entries:
                     published = datetime.now(timezone.utc)
                     if hasattr(entry, "published_parsed") and entry.published_parsed:

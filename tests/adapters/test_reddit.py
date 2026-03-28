@@ -20,7 +20,6 @@ def _make_entry(link, title, summary="", published_parsed=None):
     e.summary = summary
     if published_parsed:
         e.published_parsed = published_parsed
-        e.published_parsed = published_parsed
     else:
         del e.published_parsed  # not present on this entry
     return e
@@ -35,26 +34,37 @@ def _make_entry_no_date(link, title):
     return e
 
 
+def _mock_response(content=b"<feed />"):
+    resp = MagicMock()
+    resp.content = content
+    resp.raise_for_status = MagicMock()
+    return resp
+
+
 def test_subreddit_feeds_fetched():
     source = SourceConfig(
         source="reddit", subreddits=["malefashionadvice", "Grailed"]
     )
-    with patch("tracker.adapters.reddit.feedparser.parse") as mock_parse:
+    with patch("tracker.adapters.reddit.requests.get") as mock_get, \
+         patch("tracker.adapters.reddit.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
         mock_parse.return_value = _make_feed([])
         RedditAdapter().fetch(source, TOPIC)
-    assert mock_parse.call_count == 2
-    urls = [call.args[0] for call in mock_parse.call_args_list]
+    assert mock_get.call_count == 2
+    urls = [c[0][0] for c in mock_get.call_args_list]
     assert any("malefashionadvice" in u for u in urls)
     assert any("Grailed" in u for u in urls)
 
 
 def test_terms_searched():
     source = SourceConfig(source="reddit", terms=["keiji kaneko suit"])
-    with patch("tracker.adapters.reddit.feedparser.parse") as mock_parse:
+    with patch("tracker.adapters.reddit.requests.get") as mock_get, \
+         patch("tracker.adapters.reddit.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
         mock_parse.return_value = _make_feed([])
         RedditAdapter().fetch(source, TOPIC)
-    assert mock_parse.call_count == 1
-    url = mock_parse.call_args.args[0]
+    assert mock_get.call_count == 1
+    url = mock_get.call_args[0][0]
     assert "search.rss" in url
     assert "keiji" in url
 
@@ -67,7 +77,9 @@ def test_returns_results():
     entry.published_parsed = (2026, 3, 23, 10, 0, 0, 0, 0, 0)
 
     source = SourceConfig(source="reddit", subreddits=["malefashionadvice"])
-    with patch("tracker.adapters.reddit.feedparser.parse") as mock_parse:
+    with patch("tracker.adapters.reddit.requests.get") as mock_get, \
+         patch("tracker.adapters.reddit.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
         mock_parse.return_value = _make_feed([entry])
         results = RedditAdapter().fetch(source, TOPIC)
 
@@ -79,8 +91,8 @@ def test_returns_results():
 
 def test_feedparser_error_returns_empty():
     source = SourceConfig(source="reddit", subreddits=["malefashionadvice"])
-    with patch("tracker.adapters.reddit.feedparser.parse") as mock_parse:
-        mock_parse.side_effect = Exception("network error")
+    with patch("tracker.adapters.reddit.requests.get") as mock_get:
+        mock_get.side_effect = Exception("network error")
         results = RedditAdapter().fetch(source, TOPIC)
     assert results == []
 
@@ -91,7 +103,22 @@ def test_both_subreddits_and_terms():
         subreddits=["Grailed"],
         terms=["keiji kaneko"],
     )
-    with patch("tracker.adapters.reddit.feedparser.parse") as mock_parse:
+    with patch("tracker.adapters.reddit.requests.get") as mock_get, \
+         patch("tracker.adapters.reddit.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
         mock_parse.return_value = _make_feed([])
         RedditAdapter().fetch(source, TOPIC)
-    assert mock_parse.call_count == 2
+    assert mock_get.call_count == 2
+
+
+def test_fetch_uses_timeout():
+    """requests.get must always be called with a timeout to prevent hanging."""
+    source = SourceConfig(source="reddit", subreddits=["test"])
+    with patch("tracker.adapters.reddit.requests.get") as mock_get, \
+         patch("tracker.adapters.reddit.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
+        mock_parse.return_value = _make_feed([])
+        RedditAdapter().fetch(source, TOPIC)
+    _, kwargs = mock_get.call_args
+    assert "timeout" in kwargs
+    assert kwargs["timeout"] > 0

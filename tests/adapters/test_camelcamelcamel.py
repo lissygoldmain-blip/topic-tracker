@@ -29,12 +29,21 @@ def _make_entry(link, title, published_parsed=None):
     return e
 
 
+def _mock_response(content=b"<feed />"):
+    resp = MagicMock()
+    resp.content = content
+    resp.raise_for_status = MagicMock()
+    return resp
+
+
 def test_fetches_each_asin():
-    with patch("tracker.adapters.camelcamelcamel.feedparser.parse") as mock_parse:
+    with patch("tracker.adapters.camelcamelcamel.requests.get") as mock_get, \
+         patch("tracker.adapters.camelcamelcamel.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
         mock_parse.return_value = _make_feed([])
         CamelCamelCamelAdapter().fetch(SOURCE, TOPIC)
-    assert mock_parse.call_count == 2
-    urls = [c.args[0] for c in mock_parse.call_args_list]
+    assert mock_get.call_count == 2
+    urls = [c[0][0] for c in mock_get.call_args_list]
     assert any("B09XXXXXXX" in u for u in urls)
     assert any("B0AXXXXXXX" in u for u in urls)
 
@@ -48,7 +57,9 @@ def test_returns_results():
     source = SourceConfig(
         source="camelcamelcamel", filters={"asins": ["B09XXXXXXX"]}
     )
-    with patch("tracker.adapters.camelcamelcamel.feedparser.parse") as mock_parse:
+    with patch("tracker.adapters.camelcamelcamel.requests.get") as mock_get, \
+         patch("tracker.adapters.camelcamelcamel.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
         mock_parse.return_value = _make_feed([entry])
         results = CamelCamelCamelAdapter().fetch(source, TOPIC)
     assert len(results) == 1
@@ -63,7 +74,22 @@ def test_empty_asins_returns_empty():
 
 
 def test_error_returns_empty():
-    with patch("tracker.adapters.camelcamelcamel.feedparser.parse") as mock_parse:
-        mock_parse.side_effect = Exception("network error")
+    with patch("tracker.adapters.camelcamelcamel.requests.get") as mock_get:
+        mock_get.side_effect = Exception("network error")
         results = CamelCamelCamelAdapter().fetch(SOURCE, TOPIC)
     assert results == []
+
+
+def test_fetch_uses_timeout():
+    """requests.get must always be called with a timeout to prevent hanging."""
+    source = SourceConfig(
+        source="camelcamelcamel", filters={"asins": ["B09XXXXXXX"]}
+    )
+    with patch("tracker.adapters.camelcamelcamel.requests.get") as mock_get, \
+         patch("tracker.adapters.camelcamelcamel.feedparser.parse") as mock_parse:
+        mock_get.return_value = _mock_response()
+        mock_parse.return_value = _make_feed([])
+        CamelCamelCamelAdapter().fetch(source, TOPIC)
+    _, kwargs = mock_get.call_args
+    assert "timeout" in kwargs
+    assert kwargs["timeout"] > 0

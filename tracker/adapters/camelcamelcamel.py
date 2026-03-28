@@ -4,6 +4,7 @@ import logging
 from datetime import datetime, timezone
 
 import feedparser
+import requests
 
 from tracker.adapters.base import BaseAdapter
 from tracker.models import Result, SourceConfig, TopicConfig
@@ -12,6 +13,7 @@ logger = logging.getLogger(__name__)
 
 _CCC_RSS = "https://camelcamelcamel.com/product/{asin}.rss"
 _AGENT = "topic-tracker/1.0 (personal price tracking)"
+_TIMEOUT = 15
 
 
 class CamelCamelCamelAdapter(BaseAdapter):
@@ -38,7 +40,9 @@ class CamelCamelCamelAdapter(BaseAdapter):
         for asin in asins:
             url = _CCC_RSS.format(asin=asin)
             try:
-                feed = feedparser.parse(url, agent=_AGENT)
+                resp = requests.get(url, timeout=_TIMEOUT, headers={"User-Agent": _AGENT})
+                resp.raise_for_status()
+                feed = feedparser.parse(resp.content)
                 for entry in feed.entries:
                     published = datetime.now(timezone.utc)
                     if hasattr(entry, "published_parsed") and entry.published_parsed:

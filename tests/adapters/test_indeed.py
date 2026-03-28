@@ -32,8 +32,17 @@ EMPTY_FEED.bozo = False
 EMPTY_FEED.entries = []
 
 
+def _mock_response(content=b"<feed />"):
+    resp = MagicMock()
+    resp.content = content
+    resp.raise_for_status = MagicMock()
+    return resp
+
+
 def test_returns_results():
-    with patch("tracker.adapters.indeed.feedparser.parse", return_value=FAKE_FEED):
+    with patch("tracker.adapters.indeed.requests.get") as mock_get, \
+         patch("tracker.adapters.indeed.feedparser.parse", return_value=FAKE_FEED):
+        mock_get.return_value = _mock_response()
         results = IndeedAdapter().fetch(SOURCE, TOPIC)
     assert len(results) == 2
     assert results[0].source == "indeed"
@@ -42,7 +51,9 @@ def test_returns_results():
 
 
 def test_html_stripped_from_snippet():
-    with patch("tracker.adapters.indeed.feedparser.parse", return_value=FAKE_FEED):
+    with patch("tracker.adapters.indeed.requests.get") as mock_get, \
+         patch("tracker.adapters.indeed.feedparser.parse", return_value=FAKE_FEED):
+        mock_get.return_value = _mock_response()
         results = IndeedAdapter().fetch(SOURCE, TOPIC)
     assert "<p>" not in results[0].snippet
     assert "<b>" not in results[0].snippet
@@ -50,7 +61,9 @@ def test_html_stripped_from_snippet():
 
 
 def test_empty_feed_returns_empty():
-    with patch("tracker.adapters.indeed.feedparser.parse", return_value=EMPTY_FEED):
+    with patch("tracker.adapters.indeed.requests.get") as mock_get, \
+         patch("tracker.adapters.indeed.feedparser.parse", return_value=EMPTY_FEED):
+        mock_get.return_value = _mock_response()
         results = IndeedAdapter().fetch(SOURCE, TOPIC)
     assert results == []
 
@@ -59,7 +72,9 @@ def test_bozo_feed_sets_last_failed():
     bozo = MagicMock()
     bozo.bozo = True
     bozo.entries = []
-    with patch("tracker.adapters.indeed.feedparser.parse", return_value=bozo):
+    with patch("tracker.adapters.indeed.requests.get") as mock_get, \
+         patch("tracker.adapters.indeed.feedparser.parse", return_value=bozo):
+        mock_get.return_value = _mock_response()
         adapter = IndeedAdapter()
         results = adapter.fetch(SOURCE, TOPIC)
     assert results == []
@@ -67,7 +82,8 @@ def test_bozo_feed_sets_last_failed():
 
 
 def test_exception_sets_last_failed():
-    with patch("tracker.adapters.indeed.feedparser.parse", side_effect=Exception("timeout")):
+    with patch("tracker.adapters.indeed.requests.get") as mock_get:
+        mock_get.side_effect = Exception("timeout")
         adapter = IndeedAdapter()
         results = adapter.fetch(SOURCE, TOPIC)
     assert results == []
@@ -80,9 +96,11 @@ def test_location_filter_in_url():
         terms=["lighting designer"],
         filters={"location": "Brooklyn, NY", "fromage": 7},
     )
-    with patch("tracker.adapters.indeed.feedparser.parse", return_value=EMPTY_FEED) as mock_parse:
+    with patch("tracker.adapters.indeed.requests.get") as mock_get, \
+         patch("tracker.adapters.indeed.feedparser.parse", return_value=EMPTY_FEED):
+        mock_get.return_value = _mock_response()
         IndeedAdapter().fetch(source, TOPIC)
-    url = mock_parse.call_args.args[0]
+    url = mock_get.call_args[0][0]
     assert "Brooklyn" in url
     assert "fromage=7" in url
 
@@ -91,16 +109,31 @@ def test_limit_capped_at_25():
     source = SourceConfig(
         source="indeed", terms=["director"], filters={"limit": 100}
     )
-    with patch("tracker.adapters.indeed.feedparser.parse", return_value=EMPTY_FEED) as mock_parse:
+    with patch("tracker.adapters.indeed.requests.get") as mock_get, \
+         patch("tracker.adapters.indeed.feedparser.parse", return_value=EMPTY_FEED):
+        mock_get.return_value = _mock_response()
         IndeedAdapter().fetch(source, TOPIC)
-    url = mock_parse.call_args.args[0]
+    url = mock_get.call_args[0][0]
     assert "limit=25" in url
 
 
 def test_published_date_parsed():
     from datetime import timezone
-    with patch("tracker.adapters.indeed.feedparser.parse", return_value=FAKE_FEED):
+    with patch("tracker.adapters.indeed.requests.get") as mock_get, \
+         patch("tracker.adapters.indeed.feedparser.parse", return_value=FAKE_FEED):
+        mock_get.return_value = _mock_response()
         results = IndeedAdapter().fetch(SOURCE, TOPIC)
     assert results[0].fetched_at.year == 2026
     assert results[0].fetched_at.month == 3
     assert results[0].fetched_at.tzinfo == timezone.utc
+
+
+def test_fetch_uses_timeout():
+    """requests.get must always be called with a timeout to prevent hanging."""
+    with patch("tracker.adapters.indeed.requests.get") as mock_get, \
+         patch("tracker.adapters.indeed.feedparser.parse", return_value=EMPTY_FEED):
+        mock_get.return_value = _mock_response()
+        IndeedAdapter().fetch(SOURCE, TOPIC)
+    _, kwargs = mock_get.call_args
+    assert "timeout" in kwargs
+    assert kwargs["timeout"] > 0

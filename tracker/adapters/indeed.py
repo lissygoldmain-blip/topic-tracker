@@ -6,6 +6,7 @@ from datetime import datetime, timezone
 from urllib.parse import urlencode
 
 import feedparser
+import requests
 
 from tracker.adapters.base import BaseAdapter
 from tracker.models import Result, SourceConfig, TopicConfig
@@ -14,6 +15,7 @@ logger = logging.getLogger(__name__)
 
 INDEED_RSS_URL = "https://www.indeed.com/rss"
 _HTML_TAG = re.compile(r"<[^>]+>")
+_TIMEOUT = 15
 
 
 class IndeedAdapter(BaseAdapter):
@@ -60,7 +62,9 @@ class IndeedAdapter(BaseAdapter):
                     params["jt"] = jt
 
                 url = f"{INDEED_RSS_URL}?{urlencode(params)}"
-                feed = feedparser.parse(url)
+                resp = requests.get(url, timeout=_TIMEOUT, headers={"User-Agent": "Mozilla/5.0"})
+                resp.raise_for_status()
+                feed = feedparser.parse(resp.content)
 
                 if feed.bozo and not feed.entries:
                     logger.warning("IndeedAdapter: feedparser error for term '%s'", term)

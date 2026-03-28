@@ -4,6 +4,7 @@ import logging
 from datetime import datetime, timezone
 
 import feedparser
+import requests
 
 from tracker.adapters.base import BaseAdapter
 from tracker.models import Result, SourceConfig, TopicConfig
@@ -13,6 +14,7 @@ logger = logging.getLogger(__name__)
 _AGENT = "topic-tracker/1.0 (personal use; contact via GitHub)"
 _SUBREDDIT_RSS = "https://www.reddit.com/r/{subreddit}/new.rss"
 _SEARCH_RSS = "https://www.reddit.com/search.rss"
+_TIMEOUT = 15
 
 
 class RedditAdapter(BaseAdapter):
@@ -40,7 +42,9 @@ class RedditAdapter(BaseAdapter):
 
     def _parse_feed(self, url: str, topic: TopicConfig) -> list[Result]:
         try:
-            feed = feedparser.parse(url, agent=_AGENT)
+            resp = requests.get(url, timeout=_TIMEOUT, headers={"User-Agent": _AGENT})
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
             out = []
             for entry in feed.entries:
                 published = datetime.now(timezone.utc)

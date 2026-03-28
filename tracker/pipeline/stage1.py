@@ -112,7 +112,7 @@ class Stage1Filter:
             f"Snippet: {result.snippet}\n"
             f"Source: {result.source}"
         )
-        for attempt in range(2):
+        for attempt in range(3):
             try:
                 response = self._model.generate_content(
                     [SYSTEM_PROMPT, prompt],
@@ -121,7 +121,7 @@ class Stage1Filter:
                 data = json.loads(response.text)
                 return float(data["novelty_score"])
             except (json.JSONDecodeError, KeyError) as e:
-                if attempt < 1:
+                if attempt < 2:
                     logger.warning("Stage1 JSON parse failed, retrying: %s", e)
                     continue
                 logger.error(
@@ -131,26 +131,31 @@ class Stage1Filter:
                 error_str = str(e)
                 if "429" in error_str or "quota" in error_str.lower():
                     match = _RETRY_SECONDS_RE.search(error_str)
-                    if match and attempt == 0:
-                        # First attempt hit RPM limit: wait the hint time and retry ONCE.
-                        # If the retry ALSO returns 429, the daily quota is exhausted
-                        # (Gemini includes retry hints on daily quota errors too).
+                    if match:
                         wait = float(match.group(1)) + 2
-                        logger.warning(
-                            "Stage1 RPM limited, waiting %.0fs (attempt %d/2)",
-                            wait, attempt + 1,
-                        )
-                        time.sleep(wait)
-                        continue
-                    else:
-                        # Either no retry hint, or retry also returned 429.
-                        # Both mean daily quota is exhausted — abort the whole batch.
-                        logger.warning(
-                            "Stage1 quota exhausted for '%s' — aborting batch",
-                            result.url,
-                        )
-                        self._quota_exhausted = True
-                        return None
+                        if wait > 300:
+                            # Retry hint > 5 min = RPD exhausted (resets at UTC midnight).
+                            logger.warning(
+                                "Stage1 quota exhausted for '%s' — aborting batch",
+                                result.url,
+                            )
+                            self._quota_exhausted = True
+                            return None
+                        if attempt < 2:
+                            # Short retry hint = RPM pressure. Wait and retry (up to 3×).
+                            logger.warning(
+                                "Stage1 RPM limited, waiting %.0fs (attempt %d/3)",
+                                wait, attempt + 1,
+                            )
+                            time.sleep(wait)
+                            continue
+                    # No retry hint, or all 3 attempts exhausted — treat as RPD exhausted.
+                    logger.warning(
+                        "Stage1 quota exhausted for '%s' — aborting batch",
+                        result.url,
+                    )
+                    self._quota_exhausted = True
+                    return None
                 logger.error("Stage1 Gemini API error for '%s': %s", result.url, e)
                 break
         return None

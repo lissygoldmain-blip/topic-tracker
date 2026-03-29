@@ -44,6 +44,7 @@ from tracker.adapters.base import BaseAdapter
 from tracker.config import load_topics
 from tracker.models import Result, TopicConfig
 from tracker.notifications.email import EmailNotifier
+from tracker.notifications.ntfy import NtfyNotifier
 from tracker.pipeline.stage1 import Stage1Filter
 from tracker.storage import Storage
 
@@ -136,6 +137,8 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
     notifier = EmailNotifier(
         api_key=resend_key, from_email=from_email, to_email=to_email
     ) if resend_key else None
+    ntfy_topic = os.environ.get("NTFY_TOPIC", "")
+    push_notifier = NtfyNotifier(ntfy_topic) if ntfy_topic else None
 
     # In-memory dedup for the current run only. Prevents the same URL from being
     # scored twice if two adapters (or two topics) return it in a single run.
@@ -251,6 +254,14 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
             storage.add_result(result)
             if notifier and t.notifications.get("email") == "immediate":
                 notifier.send_immediate(result)
+            if push_notifier and t.notifications.get("push"):
+                should_push = (
+                    result.escalation_trigger is not None
+                    or (result.novelty_score or 0) >= t.novelty_push_threshold
+                )
+                if should_push:
+                    urgency = esc.effective_urgency(state, t)
+                    push_notifier.send(result, urgency=urgency)
 
     storage.save_state(state)
     storage.save()

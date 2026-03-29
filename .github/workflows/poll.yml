@@ -79,6 +79,7 @@ jobs:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TIER_INDEX: ${{ steps.tier.outputs.index }}
           STAGE1_MAX_ITEMS_PER_RUN: ${{ vars.STAGE1_MAX_ITEMS_PER_RUN || '10' }}

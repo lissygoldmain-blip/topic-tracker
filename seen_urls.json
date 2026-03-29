@@ -962,5 +962,25 @@
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0JNLUdiMHBIZ1dCeXF4SXEwMEtjRzBuZmV4LUtfcF9UZ1pGbUpPVENwVlU5SnMzczE3T085UkNwNnAzcUFaVzRUbl9DMEN6ZkNqTTl5X3RZbVh5Vmhfc0FaSzg5QV90TUk3SDVrTmRQWmlnRlBKOTdiNmRnNFg0b1dFWEdGQWlKalhwN2VDT2ZVNkdVVW84Tw?oc=5": {
     "seen_at": "2026-03-29T04:06:22.008498+00:00",
     "source_type": "news"
+  },
+  "https://hyperallergic.com/whitney-biennial-can-you-hear-us/": {
+    "seen_at": "2026-03-29T04:34:23.180860+00:00",
+    "source_type": "feeds"
+  },
+  "https://dancemagazine.com/international-dance-league/#new_tab": {
+    "seen_at": "2026-03-29T04:34:23.181174+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.themoviedb.org/tv/155431": {
+    "seen_at": "2026-03-29T04:39:28.259783+00:00",
+    "source_type": "entertainment"
+  },
+  "https://www.themoviedb.org/tv/200870": {
+    "seen_at": "2026-03-29T04:39:28.260088+00:00",
+    "source_type": "entertainment"
+  },
+  "https://www.thecity.nyc/2026/03/26/bushwick-city-farm-eviction-closed-locked/": {
+    "seen_at": "2026-03-29T04:43:45.237349+00:00",
+    "source_type": "feeds"
   }
 }

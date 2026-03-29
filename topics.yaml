@@ -21,6 +21,9 @@ topics:
           terms:
             - "Keiji Kaneko suit"
             - "Fruit of the Loom Kaneko"
+        - source: bluesky
+          profiles:
+            - "wildfang.bsky.social"
         - source: ebay
           terms:
             - "keiji kaneko suit"

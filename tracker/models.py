@@ -11,6 +11,7 @@ class SourceConfig:
     terms: list[str] = field(default_factory=list)
     filters: dict[str, Any] = field(default_factory=dict)
     subreddits: list[str] = field(default_factory=list)
+    profiles: list[str] = field(default_factory=list)  # e.g. Bluesky handles
 
 
 @dataclass

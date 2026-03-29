@@ -108,9 +108,10 @@ def test_published_date_parsed():
         mock_parse.return_value = _make_feed([entry])
         results = GenericRSSAdapter().fetch(source, TOPIC)
 
-    assert results[0].fetched_at.year == 2026
-    assert results[0].fetched_at.month == 1
-    assert results[0].fetched_at.day == 15
+    # published_at carries the article date; fetched_at is set to now()
+    assert results[0].published_at.year == 2026
+    assert results[0].published_at.month == 1
+    assert results[0].published_at.day == 15
 
 
 def test_fetch_uses_timeout():

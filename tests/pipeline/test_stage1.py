@@ -255,13 +255,15 @@ def test_retry_429_also_fails_aborts_quota():
 
     assert passed == []
     assert f._quota_exhausted is True
-    # Only 2 Gemini calls: attempt 0 and attempt 1 for the first item, then abort.
+    # All 3 attempts are made for the first item (each gets a 60s retry hint,
+    # which is < 300s so not immediately treated as RPD exhaustion). After
+    # attempt 2 (the last), the code falls through to the quota-abort path.
     # Items 2 and 3 are never attempted.
-    assert mock_model.generate_content.call_count == 2
-    # Exactly one retry sleep (attempt 0's hint: 60s + 2 = 62s), then abort — no further sleeps.
+    assert mock_model.generate_content.call_count == 3
+    # Two retry sleeps: attempt 0→1 and attempt 1→2 (each 62s).
     long_sleeps = [c.args[0] for c in mock_sleep.call_args_list if c.args[0] >= 30]
-    assert len(long_sleeps) == 1
-    assert abs(long_sleeps[0] - 62.0) < 0.1
+    assert len(long_sleeps) == 2
+    assert all(abs(s - 62.0) < 0.1 for s in long_sleeps)
 
 
 # ── Configurable cap tests ────────────────────────────────────────────────────

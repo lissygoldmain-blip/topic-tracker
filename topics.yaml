@@ -21,8 +21,6 @@ topics:
           terms:
             - "Keiji Kaneko suit"
             - "Fruit of the Loom Kaneko"
-            - "Wildfang"
-            - "Wildfang new collection"
         - source: ebay
           terms:
             - "keiji kaneko suit"
@@ -49,8 +47,6 @@ topics:
         - source: google_news
           terms:
             - "Keiji Kaneko"
-            - "Wildfang sale"
-            - "Wildfang collab"
 
     notifications:
       push: true

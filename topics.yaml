@@ -36,13 +36,12 @@ topics:
         - source: mercari
           terms:
             - "kaneko suit"
-        - source: rss
-          filters:
-            feeds:
-              - "https://www.wildfang.com/blogs/news.atom"
         - source: google_news
           terms:
             - "fruit of the loom collaboration 2026"
+            - "Wildfang sale"
+            - "Wildfang new collection"
+            - "Wildfang collab"
       broad:
         - source: google_news
           terms:

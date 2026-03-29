@@ -292,9 +292,24 @@ topics:
 
   - name: "Health research"
     description: >
-      Personal health & ailment research: new treatments, clinical trials,
-      FDA approvals, and scientific papers relevant to conditions I follow.
-      Replace placeholder terms below with your actual conditions.
+      Personal health research for two conditions:
+
+      1. Cannabinoid Hyperemesis Syndrome (CHS) — looking for anything that
+         advances understanding or treatment: mechanisms, triggers, potential
+         cures, long-term recovery data, case studies. This is a priority.
+         Surface anything genuinely new — there is very little research so
+         even small findings matter. Do not surface generic cannabis/THC news.
+
+      2. GLP-1 agonists (semaglutide, tirzepatide, etc.) — cautious interest.
+         Surface only significant findings: new safety data, long-term outcome
+         studies, discontinuation effects, research beyond weight loss (e.g.
+         neurological, addiction, cardiovascular). Skip routine "Ozempic is
+         popular" coverage and minor incremental updates. This is for informed
+         decision-making, not hype.
+
+      Prioritize: peer-reviewed research, clinical trials, FDA actions,
+      MedRxiv/BioRxiv preprints. Deprioritize: opinion pieces, mainstream
+      health journalism rehashing existing findings, anything without new data.
     importance: high
     urgency: low
 
@@ -305,12 +320,9 @@ topics:
     polling:
       frequent:
         - source: pubmed
-          # Replace with search terms for your specific conditions, e.g.:
-          # "sickle cell gene therapy", "crohn's disease biologics",
-          # "migraine CGRP treatment", "long covid mechanisms"
           terms:
-            - "YOUR CONDITION treatment 2026"
-            - "YOUR CONDITION clinical trial"
+            - "cannabinoid hyperemesis syndrome"
+            - "CHS cannabinoid hyperemesis"
           filters:
             retmax: 10
             sort: date
@@ -319,37 +331,36 @@ topics:
           filters:
             feeds:
               - "https://www.statnews.com/feed/"
-              - "https://www.technologyreview.com/feed/"
 
       discovery:
-        - source: biorxiv
-          terms:
-            - "YOUR CONDITION"
-          filters:
-            days_back: 14
-            max_results: 20
         - source: medrxiv
           terms:
-            - "YOUR CONDITION"
+            - "cannabinoid hyperemesis syndrome"
+            - "GLP-1 long-term outcomes"
+            - "semaglutide discontinuation"
+            - "tirzepatide safety"
           filters:
-            days_back: 14
+            days_back: 30
             max_results: 20
+        - source: biorxiv
+          terms:
+            - "cannabinoid hyperemesis"
+            - "endocannabinoid hyperemesis"
+          filters:
+            days_back: 30
+            max_results: 10
         - source: semantic_scholar
           terms:
-            - "YOUR CONDITION treatment"
+            - "cannabinoid hyperemesis syndrome treatment"
+            - "CHS pathophysiology"
+            - "GLP-1 agonist neurological effects"
           filters:
             limit: 15
-        - source: arxiv
-          terms:
-            - "YOUR CONDITION therapy"
-          filters:
-            max_results: 10
-            # Add arXiv category codes if relevant, e.g.:
-            # categories: ["q-bio.GN", "q-bio.TO"]
-
         - source: pubmed
           terms:
-            - "YOUR CONDITION drug approval"
+            - "GLP-1 receptor agonist long term"
+            - "semaglutide safety outcomes"
+            - "cannabinoid hyperemesis cure"
           filters:
             retmax: 20
 
@@ -357,29 +368,28 @@ topics:
           filters:
             feeds:
               - "https://feeds.nature.com/nature/rss/current"
-              - "https://www.science.org/rss/news_current.xml"
 
       broad:
         - source: google_news
           terms:
-            - "YOUR CONDITION new treatment"
-            - "YOUR CONDITION FDA approved"
-        - source: gdelt
-          terms:
-            - "YOUR CONDITION breakthrough"
+            - "cannabinoid hyperemesis syndrome research"
+            - "CHS treatment breakthrough"
+            - "GLP-1 new study findings"
+            - "semaglutide long term effects research"
 
     notifications:
       email: weekly_digest
-      novelty_push_threshold: 0.75
+      novelty_push_threshold: 0.7
 
     llm_filter:
-      novelty_threshold: 0.65
+      novelty_threshold: 0.6
       tags:
         - clinical_trial
         - fda_approval
         - new_treatment
         - study_published
-        - drug_approval
+        - safety_data
+        - case_study
         - breakthrough
         - noise
 

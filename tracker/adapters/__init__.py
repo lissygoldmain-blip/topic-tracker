@@ -2,6 +2,7 @@ from tracker.adapters.adzuna import AdzunaAdapter
 from tracker.adapters.arxiv import ArxivAdapter
 from tracker.adapters.biorxiv import BioRxivAdapter
 from tracker.adapters.bluesky import BlueskyAdapter
+from tracker.adapters.email_newsletter import EmailNewsletterAdapter
 from tracker.adapters.camelcamelcamel import CamelCamelCamelAdapter
 from tracker.adapters.ebay import EbayAdapter
 from tracker.adapters.etsy import EtsyAdapter
@@ -32,6 +33,7 @@ __all__ = [
     "ArxivAdapter",
     "BioRxivAdapter",
     "BlueskyAdapter",
+    "EmailNewsletterAdapter",
     "CamelCamelCamelAdapter",
     "EbayAdapter",
     "EtsyAdapter",

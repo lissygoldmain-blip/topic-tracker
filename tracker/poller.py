@@ -14,6 +14,7 @@ from tracker.adapters import (
     ArxivAdapter,
     BioRxivAdapter,
     BlueskyAdapter,
+    EmailNewsletterAdapter,
     CamelCamelCamelAdapter,
     EbayAdapter,
     EtsyAdapter,
@@ -67,6 +68,7 @@ TIER_MAP = {
 
 ADAPTERS: dict[str, type[BaseAdapter]] = {
     "google_news": GoogleNewsAdapter,
+    "email": EmailNewsletterAdapter,
     "ebay": EbayAdapter,
     "etsy": EtsyAdapter,
     "grailed": GrailedAdapter,

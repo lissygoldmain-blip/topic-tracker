@@ -1,6 +1,7 @@
 beautifulsoup4==4.12.3
 cryptography>=41.0
 feedparser==6.0.12
+imap-tools==1.7.2
 google-generativeai==0.8.4
 grailed_api==0.1.5
 PyYAML==6.0.2

@@ -982,5 +982,25 @@
   "https://www.thecity.nyc/2026/03/26/bushwick-city-farm-eviction-closed-locked/": {
     "seen_at": "2026-03-29T04:43:45.237349+00:00",
     "source_type": "feeds"
+  },
+  "https://www.grailed.com/listings/61865548": {
+    "seen_at": "2026-03-29T06:55:32.616056+00:00",
+    "source_type": "shopping"
+  },
+  "https://news.artnet.com/art-world/book-of-kells-origin-portmahomack-study-2758771#new_tab": {
+    "seen_at": "2026-03-29T06:57:06.927600+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.reddit.com/r/rupaulsdragrace/comments/1s6gbhq/hormona_congratulates_spoiler/": {
+    "seen_at": "2026-03-29T07:02:30.289697+00:00",
+    "source_type": "social"
+  },
+  "https://www.thecity.nyc/2026/03/26/census-immigration-population-new-york-city/": {
+    "seen_at": "2026-03-29T07:06:42.248613+00:00",
+    "source_type": "feeds"
+  },
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRbTNUdGRGQ2lVWHZxdFBGQlpfQVhPQURhekVDdC1zZWFocF8tcm9XdVhtWE1PZGhaYWt5T2ZQaFRCTmFnWE5sUk1TanJRdUZlUUk4YWlmVkp6dGVUbjR5T01qUUNVekdHa1ZMLUhScXlTQkhMQjJGR2VnNWNBdw?oc=5": {
+    "seen_at": "2026-03-29T07:08:32.179769+00:00",
+    "source_type": "news"
   }
 }

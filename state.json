@@ -96,12 +96,12 @@
         "disabled": false
       },
       "indeed": {
-        "consecutive_failures": 2,
+        "consecutive_failures": 3,
         "disabled": false,
         "disabled_at": null
       },
       "playbill_jobs": {
-        "consecutive_failures": 2,
+        "consecutive_failures": 0,
         "disabled": false,
         "disabled_at": null
       }
@@ -190,6 +190,23 @@
       }
     },
     "Wildfang": {
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      }
+    },
+    "Shopping": {
+      "grailed": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "mercari": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
       "google_news": {
         "consecutive_failures": 0,
         "disabled": false,

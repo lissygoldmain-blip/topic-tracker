@@ -1,47 +1,74 @@
 topics:
-  - name: "Keiji Kaneko suit"
-    description: "Fruit of the Loom x Keiji Kaneko double-breasted athletic formal suit"
+  - name: "Shopping"
+    description: >
+      Personal shopping watchlist. Two items tracked:
+      1. Keiji Kaneko suit — Fruit of the Loom x Keiji Kaneko double-breasted
+         athletic formal suit. Flag any new listing, restock rumor, or drop
+         confirmation immediately. eBay/Grailed/Mercari listings welcome.
+      2. Wildfang — gender-neutral queer-forward clothing brand. Flag sales,
+         new collection drops, collabs, and limited releases. Routine product
+         pages are noise; only surface noteworthy moments.
     importance: high
     urgency: medium
 
     source_categories:
       - shopping
       - news
-      - social
 
     polling:
       frequent:
         - source: google_news
-          terms: ["Keiji Kaneko suit", "Fruit of the Loom Kaneko"]
+          terms:
+            - "Keiji Kaneko suit"
+            - "Fruit of the Loom Kaneko"
+            - "Wildfang"
+            - "Wildfang new collection"
         - source: ebay
-          terms: ["keiji kaneko suit", "kaneko athletic formal double"]
+          terms:
+            - "keiji kaneko suit"
+            - "kaneko athletic formal double"
+            - "wildfang"
           filters:
             price_max: 300
       discovery:
         - source: grailed
-          terms: ["kaneko fruit of the loom", "kaneko athletic suit"]
+          terms:
+            - "kaneko fruit of the loom"
+            - "kaneko athletic suit"
         - source: mercari
-          terms: ["kaneko suit"]
+          terms:
+            - "kaneko suit"
+        - source: rss
+          filters:
+            feeds:
+              - "https://www.wildfang.com/blogs/news.atom"
         - source: google_news
-          terms: ["fruit of the loom collaboration 2026"]
+          terms:
+            - "fruit of the loom collaboration 2026"
       broad:
         - source: google_news
-          terms: ["Keiji Kaneko"]
+          terms:
+            - "Keiji Kaneko"
+            - "Wildfang sale"
+            - "Wildfang collab"
 
     notifications:
       push: true
       email: weekly_digest
-      novelty_push_threshold: 0.7
+      novelty_push_threshold: 0.6
 
     llm_filter:
-      novelty_threshold: 0.65
-      semantic_dedup_threshold: 0.85
+      novelty_threshold: 0.55
       tags:
         - new_listing
         - price_drop
+        - sale
         - upcoming_drop
         - restock_rumored
         - drop_confirmed
+        - new_drop
+        - collab
+        - limited_release
         - sold_out
         - noise
 
@@ -50,12 +77,18 @@ topics:
         - tag: drop_confirmed
           bump_to: urgent
           duration_hours: 72
+        - tag: sale
+          bump_to: high
+          duration_hours: 48
         - tag: upcoming_drop
           bump_to: high
           duration_hours: 48
         - tag: restock_rumored
           bump_to: high
           duration_hours: 24
+        - tag: new_drop
+          bump_to: medium
+          duration_hours: 72
       auto_revert: true
 
   - name: "NYC theater & arts"
@@ -957,65 +990,6 @@ topics:
       triggers: []
       auto_revert: true
 
-  - name: "Wildfang"
-    description: >
-      Wildfang clothing brand: new collection drops, sales, collaborations,
-      limited releases, and significant product launches. Gender-neutral
-      and queer-forward fashion. Flag sales and drops especially.
-    importance: low
-    urgency: low
-
-    source_categories:
-      - shopping
-      - news
-
-    polling:
-      frequent:
-        - source: google_news
-          terms:
-            - "Wildfang"
-            - "Wildfang new collection"
-
-      discovery:
-        - source: rss
-          filters:
-            feeds:
-              - "https://www.wildfang.com/blogs/news.atom"
-        - source: ebay
-          terms:
-            - "wildfang"
-          filters:
-            price_max: 200
-
-      broad:
-        - source: google_news
-          terms:
-            - "Wildfang sale"
-            - "Wildfang collab"
-
-    notifications:
-      push: true
-      email: weekly_digest
-      novelty_push_threshold: 0.6
-
-    llm_filter:
-      novelty_threshold: 0.5
-      tags:
-        - new_drop
-        - sale
-        - collab
-        - limited_release
-        - noise
-
-    escalation:
-      triggers:
-        - tag: sale
-          bump_to: high
-          duration_hours: 48
-        - tag: new_drop
-          bump_to: medium
-          duration_hours: 72
-      auto_revert: true
 
   - name: "AI & tech research"
     description: >

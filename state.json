@@ -96,19 +96,19 @@
         "disabled": false
       },
       "indeed": {
-        "consecutive_failures": 4,
-        "disabled": false,
-        "disabled_at": null
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-03-29T18:34:28.270244+00:00"
       },
       "playbill_jobs": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 2,
         "disabled": false,
         "disabled_at": null
       }
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 2,
         "disabled": false,
         "disabled_at": null
       },

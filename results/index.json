@@ -1,6 +1,42 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.sfchronicle.com/entertainment/movies-tv/article/julian-schnabel-sonoma-walkouts-22157052.php",
+      "title": "Why Did So Many People Walk Out Of Julian Schnabel\u2019s Newest Movie?",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/03/Screenshot-2026-03-29-at-08.47.28-150x150.png\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cAn audience member shouted to the stage that the movie was too violent. \u2018Well, life is violent,\u2019 Schnabel responded.\u201d &#8211; San Francisco Chronicle",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-03-29T18:30:40.445027+00:00",
+      "published_at": "2026-03-29T17:30:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://hyperallergic.com/taking-a-seat-at-robert-therriens-table/",
+      "title": "Taking a Seat at Robert Therrien\u2019s Table",
+      "snippet": "The Broad invites us into the late artist\u2019s obsessively iterative practice, where oversized tables and chairs give way to more elusive, personal forms.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-03-29T18:30:39.925153+00:00",
+      "published_at": "2026-03-27T19:08:43+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.nytimes.com/2026/03/26/arts/design/paul-klee-angelus-novus-israel.html",
       "title": "The Paul Klee That Can\u2019t Leave The Middle East Because Of The War",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/03/Screenshot-2026-03-28-at-15.45.09-150x150.png\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cAngelus Novus is renowned not just in its own right, but for what its most famous owner made of it. \u2026 It was purchased in Munich in 1921 by the German-Jewish writer Walter Benjamin, a titanic figure in 20th-century letters.\u201d Now, ironically, it\u2019s represented by \u201can authorized facsimile.\u201d &#8211; The New York Times",
@@ -627,6 +663,24 @@
     }
   ],
   "Health research": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45NjVlV1R1RW9mdXQyazFXeFhoSUtUZGNIQi1hTHpOVjlTamJXT19mOTJqUTktekRJVnBDc3JGTlcwS0lCOVNFOTRjLWNKc1cxUHlpYXpSb1FsX1VXOWc4dWlyVmJqM1RaQTJxazFaSQ?oc=5",
+      "title": "Analyst: Novo Nordisk posts \"remarkably strong\" blood sugar results in new study - medwatch.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE45NjVlV1R1RW9mdXQyazFXeFhoSUtUZGNIQi1hTHpOVjlTamJXT19mOTJqUTktekRJVnBDc3JGTlcwS0lCOVNFOTRjLWNKc1cxUHlpYXpSb1FsX1VXOWc4dWlyVmJqM1RaQTJxazFaSQ?oc=5\" target=\"_blank\">Analyst: Novo Nordisk posts \"remarkably strong\" blood sugar results in new study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">medwatch.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-03-29T18:34:03.156843+00:00",
+      "published_at": "2026-03-25T09:28:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BbnVCRmtxNjhGczRGV0ZwOTd3Tlg4d1dvblJUVmlxMWFKZDlmd2JMYlN6WE9tcGhTQkowNzY3cXF1MEtjbmhubUdRX1IwV1NWTTZ4TzMtWjRnZk1ZUzhpNw?oc=5",
       "title": "Weight Loss Drugs May Reduce Addiction Risk, New Research Finds - Parriva",
@@ -3449,6 +3503,24 @@
   ],
   "Drag Race & drag": [
     {
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1s6xef5/bianca_live_in_houston_with_mib/",
+      "title": "Bianca LIVE in Houston with MIB",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1s6xef5/bianca_live_in_houston_with_mib/\"> <img alt=\"Bianca LIVE in Houston with MIB\" src=\"https://external-preview.redd.it/MjM2cWhzYXIwMHNnMX05OdNJWjeVk0C3SPLi0mGojVbwQrSKTKCmNMxj44vv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=be7d0f798e10383797ad1e49d364df9c991c3d70\" title=\"Bianca LIVE in Houston with MIB\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Bianca del Rio was in Houston with Mistress Isabelle Brooks on Friday! It was PACKED but so fun! I am so happy I was able to see Bianca in the flesh especially since she doesn\u2019t generally do club appearances. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/88momma\"> /u/88momma </a> <br /> <span><a href=\"https://v.redd.it/0d9e63st00sg1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1s6xef5/bianca_live_in_houston_with_mib/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-03-29T15:01:57+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1s6gbhq/hormona_congratulates_spoiler/",
       "title": "Hormona congratulates [Spoiler!]",
       "snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hormona Lisa\u2019s bob has finally won her first maxi challenge after two years in the werkroom. Hard work pays off!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ok-Addition-4961\"> /u/Ok-Addition-4961 </a> <br /> <span><a href=\"https://i.redd.it/g28ldr52mvrg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1s6gbhq/hormona_congratulates_spoiler/\">[comments]</a></span>",
@@ -3686,6 +3758,24 @@
     }
   ],
   "Immigration & ICE": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXFkZ2hrSFVUV1VfSXNvenlkUVROYmNHbGF6ZVNPcmdvQlJpR3NNanItS3RoT2t4aFR3am5YYlRPcWVfei05XzZzSjVPYk43V3lvU0pkRFFHbGdsb3ZvNzF5djRxLUtIeGdfTHEtUHdBOXNHX2hFZmt1N3piRmdOZTRDbjFQbjc0RUl6eE1zZTRfVGVnZ0NwSzZWLUJQQ0NycmlGQU5oM09jR1BJSmZLTw?oc=5",
+      "title": "NYC Mayor Calls for Abolishing ICE, Calls Agency 'Rogue' - National Today",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXFkZ2hrSFVUV1VfSXNvenlkUVROYmNHbGF6ZVNPcmdvQlJpR3NNanItS3RoT2t4aFR3am5YYlRPcWVfei05XzZzSjVPYk43V3lvU0pkRFFHbGdsb3ZvNzF5djRxLUtIeGdfTHEtUHdBOXNHX2hFZmt1N3piRmdOZTRDbjFQbjc0RUl6eE1zZTRfVGVnZ0NwSzZWLUJQQ0NycmlGQU5oM09jR1BJSmZLTw?oc=5\" target=\"_blank\">NYC Mayor Calls for Abolishing ICE, Calls Agency 'Rogue'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-03-29T18:40:34.046575+00:00",
+      "published_at": "2026-03-28T17:19:24+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXB1SHZmY3kwRmROR1ZEamRpZVJ6Ykw2eXhFVHlwNldtTHczdGh6NjJlU2JtV29vdllqQ2V1el8yUXNGNzdKUnF4NnppTVF3eXYxMmN4RVNHblJDVDlfSUNjYk9VMEpTdERFRUEzTHRRLUJzUVRLSC0zYjl3cUlJSkFxOW91OXJubUZpUTdNOTBidUFDMnoxeDV1R1JJbERKYTZ5WERBRW5iWUI4?oc=5",
       "title": "New immigration bill requires local law enforcement to serve under ICE - fox17.com",
@@ -4086,6 +4176,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEtaWW1wSExpVGxGN19RLTV5Y0pLSWRUX3hiRDFpeEtSMkRWQ21NTkNTdjhMcmU4dVpLTGJzLXdha29ZVlNlZE1TR18tNndmWkUzRnp0aGpoWlVhM0NnWnhIVGVSMG5lX0lZYUQ5SHFwWmZpclAyRlFtRmJkY012VkVhSQ?oc=5",
+      "title": "'Meltdown': DHS shutdown set to drag on after House GOP rejects Senate deal - Politico",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEtaWW1wSExpVGxGN19RLTV5Y0pLSWRUX3hiRDFpeEtSMkRWQ21NTkNTdjhMcmU4dVpLTGJzLXdha29ZVlNlZE1TR18tNndmWkUzRnp0aGpoWlVhM0NnWnhIVGVSMG5lX0lZYUQ5SHFwWmZpclAyRlFtRmJkY012VkVhSQ?oc=5\" target=\"_blank\">'Meltdown': DHS shutdown set to drag on after House GOP rejects Senate deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-03-29T18:42:27.681647+00:00",
+      "published_at": "2026-03-28T03:52:09+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN0FUbFdhNEVNRkhfQlpQd3E5SVpsN3BMcUZZMF9KSURDNjJ2U25WVGw4ZURoVDFheXY5OXg2QkpJenJjdjZCQURjLXZ3T1JFSTFIbHd4THpoYTBoSDA2aXp5THoxdkdiNTVnelpic0xBNkhJeG9ET1UyekZudTFzb21SZFdDWmNvZVBJdGVpV2tZWWU5Vm9JOE90RWVFcDRtNGpFQTdEQ2V4dUx0UEUtWldBMUIyQQ?oc=5",
       "title": "House Republicans reject DHS funding package earlier passed by Senate - The Guardian",

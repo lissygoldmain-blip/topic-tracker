@@ -461,12 +461,16 @@ topics:
             - "artist services"
             - "programming"
 
-        # Arts-specific job boards via RSS — reliable and performing-arts-focused
-        - source: rss
+        # Broader Adzuna search to catch nonprofit/admin arts roles
+        - source: adzuna
+          terms:
+            - "arts administrator New York"
+            - "nonprofit arts coordinator NYC"
+            - "performing arts manager New York"
           filters:
-            feeds:
-              - "https://www.nyfa.org/jobs/rss/"                # NYFA — NYC arts jobs board
-              - "https://www.artsadministration.org/jobs/feed/" # Arts Admin job board
+            location: "New York"
+            max_days_old: 7
+            sort_by: date
 
       discovery:
         - source: usitt_jobs

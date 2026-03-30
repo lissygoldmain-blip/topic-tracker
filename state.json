@@ -77,6 +77,11 @@
         "consecutive_failures": 0,
         "disabled": false,
         "disabled_at": null
+      },
+      "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
       }
     },
     "Health research": {
@@ -101,7 +106,7 @@
         "disabled_at": "2026-03-30T08:24:32.655425+00:00"
       },
       "playbill_jobs": {
-        "consecutive_failures": 0,
+        "consecutive_failures": 1,
         "disabled": false,
         "disabled_at": null
       }
@@ -124,6 +129,11 @@
         "disabled_at": null
       },
       "google_news": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "rss": {
         "consecutive_failures": 0,
         "disabled": false,
         "disabled_at": null
@@ -192,6 +202,16 @@
         "consecutive_failures": 0,
         "disabled": false,
         "disabled_at": null
+      },
+      "rss": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "reddit": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
       }
     },
     "Wildfang": {
@@ -214,6 +234,13 @@
       },
       "google_news": {
         "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      }
+    },
+    "Substack picks": {
+      "substack": {
+        "consecutive_failures": 2,
         "disabled": false,
         "disabled_at": null
       }

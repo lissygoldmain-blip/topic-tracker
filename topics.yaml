@@ -206,7 +206,7 @@ topics:
             - "Queens Community Board"
             - "Flushing Town Hall"
         - source: reddit
-          subreddits: [JacksonHeights, queensnyc, AskNYC, FlusHing]
+          subreddits: [JacksonHeights, queens, AskNYC, flushing]
           terms: []
         - source: nytimes
           terms: ["Jackson Heights", "Flushing Queens", "Queens New York"]
@@ -834,7 +834,7 @@ topics:
 
       discovery:
         - source: reddit
-          subreddits: [nyc, JacksonHeights, queensnyc, immigration]
+          subreddits: [nyc, JacksonHeights, queens, immigration]
           terms: ["ICE", "immigration enforcement", "raid"]
         - source: bluesky
           terms: ["ICE Queens", "ICE Jackson Heights", "ICE NYC", "immigration enforcement NYC"]
@@ -978,7 +978,6 @@ topics:
           filters:
             feeds:
               - "https://ny.eater.com/rss/index.xml"
-              - "https://www.grubstreet.com/rss/current_stories.xml"
               - "https://qns.com/feed/"
         - source: google_news
           terms:
@@ -986,7 +985,7 @@ topics:
             - "Flushing Queens food"
             - "Queens new restaurant opening"
         - source: reddit
-          subreddits: [FoodNYC, queensnyc, JacksonHeights]
+          subreddits: [FoodNYC, queens, JacksonHeights]
           terms: ["restaurant", "food", "opening", "new spot"]
 
       broad:

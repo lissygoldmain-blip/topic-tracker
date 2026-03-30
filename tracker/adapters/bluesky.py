@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+import os
 from datetime import datetime, timezone
 
 import requests
@@ -10,16 +11,39 @@ from tracker.models import Result, SourceConfig, TopicConfig
 
 logger = logging.getLogger(__name__)
 
-BSKY_SEARCH_URL    = "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts"
-BSKY_AUTHOR_URL    = "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed"
+BSKY_SEARCH_URL  = "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts"
+BSKY_AUTHOR_URL  = "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed"
+BSKY_SESSION_URL = "https://bsky.social/xrpc/com.atproto.server.createSession"
+
+
+def _get_access_token() -> str | None:
+    """Exchange BSKY_IDENTIFIER + BSKY_APP_PASSWORD for a short-lived access JWT."""
+    identifier = os.environ.get("BSKY_IDENTIFIER", "")
+    password   = os.environ.get("BSKY_APP_PASSWORD", "")
+    if not identifier or not password:
+        return None
+    try:
+        resp = requests.post(
+            BSKY_SESSION_URL,
+            json={"identifier": identifier, "password": password},
+            timeout=10,
+        )
+        resp.raise_for_status()
+        return resp.json().get("accessJwt")
+    except Exception as exc:
+        logger.warning("BlueskyAdapter: could not create session: %s", exc)
+        return None
 
 
 class BlueskyAdapter(BaseAdapter):
     """
-    Fetches Bluesky posts via the public AT Protocol AppView.
-    No credentials required.
-    - source_config.terms: keyword search across all posts
-    - source_config.profiles: pull directly from specific account feeds
+    Fetches Bluesky posts via the AT Protocol AppView.
+    - source_config.terms: keyword search (requires BSKY_IDENTIFIER + BSKY_APP_PASSWORD)
+    - source_config.profiles: pull directly from specific account feeds (no auth needed)
+
+    Optional env vars:
+        BSKY_IDENTIFIER    — handle or DID (e.g. "user.bsky.social")
+        BSKY_APP_PASSWORD  — Bluesky app password (Settings → App Passwords)
     """
 
     source_type = "social"
@@ -41,18 +65,28 @@ class BlueskyAdapter(BaseAdapter):
             except Exception as exc:
                 logger.warning("BlueskyAdapter author feed error for '%s': %s", handle, exc)
 
-        for term in source_config.terms:
-            try:
-                resp = requests.get(
-                    BSKY_SEARCH_URL,
-                    params={"q": term, "limit": 25},
-                    timeout=10,
+        if source_config.terms:
+            token = _get_access_token()
+            headers = {"Authorization": f"Bearer {token}"} if token else {}
+            if not token:
+                logger.warning(
+                    "BlueskyAdapter: BSKY_IDENTIFIER/BSKY_APP_PASSWORD not set — "
+                    "search may be blocked from datacenter IPs"
                 )
-                resp.raise_for_status()
-                for post in resp.json().get("posts", []):
-                    results.append(self._post_to_result(post, topic))
-            except Exception as exc:
-                logger.warning("BlueskyAdapter search error for term '%s': %s", term, exc)
+
+            for term in source_config.terms:
+                try:
+                    resp = requests.get(
+                        BSKY_SEARCH_URL,
+                        params={"q": term, "limit": 25},
+                        headers=headers,
+                        timeout=10,
+                    )
+                    resp.raise_for_status()
+                    for post in resp.json().get("posts", []):
+                        results.append(self._post_to_result(post, topic))
+                except Exception as exc:
+                    logger.warning("BlueskyAdapter search error for term '%s': %s", term, exc)
 
         return results
 

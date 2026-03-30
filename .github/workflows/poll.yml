@@ -81,6 +81,8 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          BSKY_IDENTIFIER: ${{ secrets.BSKY_IDENTIFIER }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
           TIER_INDEX: ${{ steps.tier.outputs.index }}
           STAGE1_MAX_ITEMS_PER_RUN: ${{ vars.STAGE1_MAX_ITEMS_PER_RUN || '10' }}
         run: python -c "from tracker.poller import run_poll; run_poll(tier_index=int('$TIER_INDEX'))"

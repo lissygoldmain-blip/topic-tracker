@@ -1,3 +1,4 @@
+import os
 from unittest.mock import MagicMock, patch
 
 from tests.conftest import make_full_topic
@@ -149,3 +150,52 @@ def test_profile_feed_error_returns_empty_gracefully():
     with patch("tracker.adapters.bluesky.requests.get", side_effect=Exception("timeout")):
         results = BlueskyAdapter().fetch(source, TOPIC)
     assert results == []
+
+
+# ── Auth / createSession tests ────────────────────────────────────────────
+
+def _mock_session_post(jwt="test-jwt-token"):
+    resp = MagicMock()
+    resp.raise_for_status = MagicMock()
+    resp.json.return_value = {"accessJwt": jwt}
+    return resp
+
+
+def test_search_passes_auth_header_when_credentials_set():
+    """When BSKY credentials are set, the Authorization: Bearer header is sent."""
+    env = {"BSKY_IDENTIFIER": "user.bsky.social", "BSKY_APP_PASSWORD": "app-pw"}
+    with patch.dict(os.environ, env):
+        with patch("tracker.adapters.bluesky.requests.post", return_value=_mock_session_post()) as mock_post:
+            with patch("tracker.adapters.bluesky.requests.get", return_value=_mock_get(BSKY_RESPONSE)) as mock_get:
+                results = BlueskyAdapter().fetch(SOURCE, TOPIC)
+
+    mock_post.assert_called_once()
+    call_kwargs = mock_get.call_args[1]
+    assert call_kwargs["headers"] == {"Authorization": "Bearer test-jwt-token"}
+    assert len(results) == 2
+
+
+def test_search_no_auth_header_without_credentials():
+    """Without BSKY credentials, search proceeds with empty headers (no auth)."""
+    env = {"BSKY_IDENTIFIER": "", "BSKY_APP_PASSWORD": ""}
+    with patch.dict(os.environ, env):
+        with patch("tracker.adapters.bluesky.requests.post") as mock_post:
+            with patch("tracker.adapters.bluesky.requests.get", return_value=_mock_get(BSKY_RESPONSE)) as mock_get:
+                BlueskyAdapter().fetch(SOURCE, TOPIC)
+
+    mock_post.assert_not_called()
+    call_kwargs = mock_get.call_args[1]
+    assert call_kwargs["headers"] == {}
+
+
+def test_search_continues_if_session_creation_fails():
+    """If createSession raises, search still proceeds (graceful degradation)."""
+    env = {"BSKY_IDENTIFIER": "user.bsky.social", "BSKY_APP_PASSWORD": "app-pw"}
+    with patch.dict(os.environ, env):
+        with patch("tracker.adapters.bluesky.requests.post", side_effect=Exception("network error")):
+            with patch("tracker.adapters.bluesky.requests.get", return_value=_mock_get(BSKY_RESPONSE)) as mock_get:
+                results = BlueskyAdapter().fetch(SOURCE, TOPIC)
+
+    assert len(results) == 2
+    call_kwargs = mock_get.call_args[1]
+    assert call_kwargs["headers"] == {}

@@ -1,6 +1,42 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/new-protest-art-lampoons-trumps-gaudy-bathroom-redesign/",
+      "title": "New Protest Art Lampoons Trump's Gaudy Bathroom Redesign",
+      "snippet": "\u201cIn a time of unprecedented division,\u201d reads a plaque, \u201cPresident Trump focused on what truly mattered: remodeling the Lincoln bathroom in the White House.\u201d",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-03-30T22:27:21.646148+00:00",
+      "published_at": "2026-03-30T19:25:19+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://hyperallergic.com/brooklyn-museums-africa-collection-to-get-a-brand-new-space/",
+      "title": "Brooklyn Museum\u2019s Africa Collection to Get a Brand New Space",
+      "snippet": "The new exhibition space will connect the art and historical legacy of Ancient Egypt and North Africa to that of the rest of the continent.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-03-30T22:27:21.646148+00:00",
+      "published_at": "2026-03-30T21:24:51+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://aeon.co/videos/a-joyful-dance-celebration-of-indigenous-matriarchy",
       "title": "Bringing Indigenous Culture To The Billboards Of Times Square",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/03/Screenshot_29-3-2026_213643_aeon.co_-150x150.jpeg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />By bringing this ancestral dance to Times Square\u2019s glowing billboards, Jeffrey Gibson turns a space of mass consumption into one of visibility and spiritual invocation \u2013 what\u00a0he describes as\u00a0\u2018an ancestral call for strength and healing for all Indigenous people\u2019. &#8211; Aeon",
@@ -2264,6 +2300,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeGg3eGZ4dXpLaFdMalo2VkhNaWZkbmVodlFEcWktTEtxM1A1V1JvQzdPQlJ1RU1Fc1QzMVlMQm1mY3BwaXUwdFZmbUN3OTduSWw4dlhnVWU0RVgtdkZsVDVqRHAzSTFyeFAyVDB4OFZqcWREYkpyZF9IQXVWMkRqeDNlX2NCUVZMalJGYTBzRkVLLWV2UW11ZGktMlFhT1Z5MHJfV3piUmJwejh0M1BmTnlzcVRpMldWejI0T3hMRXlISW5WNFdCaG1aWkp4UFgwLVpnMVJBVDgtWERGTDJieUtsUnRMSXo0czZXN3VnS3dfQdIB9wFBVV95cUxOUHJ3NC1fVjFfLVNTQTYxR3RoV2hLbVNLSmxGNzR2VXdjRVlrMUd5MldweUFpODZ3dEI5ckVZZXBfTUhBWG1zVk0xZUgzdjZGRDVpdWhQTEJzMzBNTGM2MlNuOEIwdmx1cEMzaXFNRjFreHg4dmRHdnl5V3dWcE1TWFREdVFkcHpFWi1BX0FqWGlWWl92SEZQU3ZBWDRpNlVYajJmWFJqNklBQklDVzI2Y0Z2dk4tZ0poblU2M1ltbmRyMkU5UWF5QXRuZDBYZm04SnRxYUV1MDFoaDFINzU4dXJVOTFjU29sVk15cF9SVWVGZmhjV2Jn?oc=5",
+      "title": "Microsoft AI Releases Harrier-OSS-v1: A New Family of Multilingual Embedding Models Hitting SOTA on Multilingual MTEB v2 - MarkTechPost",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeGg3eGZ4dXpLaFdMalo2VkhNaWZkbmVodlFEcWktTEtxM1A1V1JvQzdPQlJ1RU1Fc1QzMVlMQm1mY3BwaXUwdFZmbUN3OTduSWw4dlhnVWU0RVgtdkZsVDVqRHAzSTFyeFAyVDB4OFZqcWREYkpyZF9IQXVWMkRqeDNlX2NCUVZMalJGYTBzRkVLLWV2UW11ZGktMlFhT1Z5MHJfV3piUmJwejh0M1BmTnlzcVRpMldWejI0T3hMRXlISW5WNFdCaG1aWkp4UFgwLVpnMVJBVDgtWERGTDJieUtsUnRMSXo0czZXN3VnS3dfQdIB9wFBVV95cUxOUHJ3NC1fVjFfLVNTQTYxR3RoV2hLbVNLSmxGNzR2VXdjRVlrMUd5MldweUFpODZ3dEI5ckVZZXBfTUhBWG1zVk0xZUgzdjZGRDVpdWhQTEJzMzBNTGM2MlNuOEIwdmx1cEMzaXFNRjFreHg4dmRHdnl5V3dWcE1TWFREdVFkcHpFWi1BX0FqWGlWWl92SEZQU3ZBWDRpNlVYajJmWFJqNklBQklDVzI2Y0Z2dk4tZ0poblU2M1ltbmRyMkU5UWF5QXRuZDBYZm04SnRxYUV1MDFoaDFINzU4dXJVOTFjU29sVk15cF9SVWVGZmhjV2Jn?oc=5\" target=\"_blank\">Microsoft AI Releases Harrier-OSS-v1: A New Family of Multilingual Embedding Models Hitting SOTA on Multilingual MTEB v2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarkTechPost</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-03-30T22:42:06.937430+00:00",
+      "published_at": "2026-03-30T22:22:49+00:00",
+      "price": null,
+      "novelty_score": 0.9,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFJtT1NYMkJvY2s0WWZDdEFvVUhJT1gzZjNhZ2JjYjluWlJMWW1HV2VEVWJpWWRjS2Q0RUdVVWp4c2FQbDdIcjNMV1JveUY0akJ5d19vV0ZyVnhUNkU5ZUlCYzZCV09YckNLSER4RlU5UkhVbFp4dVhqY1FGTUZuS09XeFNjOElfY1R3aGlYUkxjZWhVT0dIUNIBlwFBVV95cUxQRmVhUXVCX2tVYmxwOXhMRWhGWENRVURMV2tCQ3ZNcF9vVVEyUHpPTk9kV19TU1Yyb3NaeHpUUUdsQ2JjV3VPUklwU3RkSU5wZGZyUGRqSFRQU2w1Z0NSMndRT1huYXhHRWEzMzQ2OTE2aVdOb21Fa1BMY1VZYXUzNGJBRG1PN2x3ZElOTWI4Z1N3N1ZOVW5R?oc=5",
       "title": "Claude's creator accidentally declassified their most powerful AI model - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFJtT1NYMkJvY2s0WWZDdEFvVUhJT1gzZjNhZ2JjYjluWlJMWW1HV2VEVWJpWWRjS2Q0RUdVVWp4c2FQbDdIcjNMV1JveUY0akJ5d19vV0ZyVnhUNkU5ZUlCYzZCV09YckNLSER4RlU5UkhVbFp4dVhqY1FGTUZuS09XeFNjOElfY1R3aGlYUkxjZWhVT0dIUNIBlwFBVV95cUxQRmVhUXVCX2tVYmxwOXhMRWhGWENRVURMV2tCQ3ZNcF9vVVEyUHpPTk9kV19TU1Yyb3NaeHpUUUdsQ2JjV3VPUklwU3RkSU5wZGZyUGRqSFRQU2w1Z0NSMndRT1huYXhHRWEzMzQ2OTE2aVdOb21Fa1BMY1VZYXUzNGJBRG1PN2x3ZElOTWI4Z1N3N1ZOVW5R?oc=5\" target=\"_blank\">Claude's creator accidentally declassified their most powerful AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)</font>",
@@ -3665,6 +3719,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://qns.com/2026/03/fatal-flushing-fire-deemed-homicide/",
+      "title": "Four-alarm fire in Flushing that killed four residents, including 3-year-old girl, deemed a homicide: NYPD",
+      "snippet": "The massive four-alarm fire that tore through two neighboring residential buildings in Flushing killing four residents, including a young girl, on Monday, March 16, was deemed a homicide by the city\u2019s Office of the Chief Medical Examiner on March 27. Two residents of 132-05 Avery Ave. were identified as Chengri Cui, a 50-year-old man and...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/03/fatal-flushing-fire-deemed-homicide/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-03-30T22:28:54.273134+00:00",
+      "published_at": "2026-03-30T21:05:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.thecity.nyc/2026/03/27/express-bus-wheelchair-lift-driver-training/",
       "title": "MTA Aims to Teach More Drivers How to Use Wheelchair Lifts on Express Buses",
       "snippet": "<figure><img alt=\"An express bus in Lower Manhattan displayed its wheelchair accessible lift,\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2026/03/032526_express_bus_wheelchair.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The MTA is aiming to boost the reliability of express bus lifts that are essential for wheelchair users who often encounter mechanical glitches and drivers who don\u2019t know how they work. The head of New York City Transit said Wednesday that the agency is upping the frequency of training for bus operators on how to [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/03/27/express-bus-wheelchair-lift-driver-training/\">MTA Aims to Teach More Drivers How to Use Wheelchair Lifts on Express Buses</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
@@ -4350,6 +4422,24 @@
     }
   ],
   "Queer & trans": [
+    {
+      "url": "https://www.theguardian.com/us-news/2026/mar/30/minnesota-trans-athletes-lawsuit-trump-administration",
+      "title": "Trump administration sues Minnesota for allowing trans athletes in girls\u2019 sports",
+      "snippet": "Justice department claims the state is violating Title IX \u2013 the federal law that prohibits sex-based discrimination",
+      "source": "guardian:US news",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-03-30T21:37:09+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWFWQzY5VHBKZEdRTkI3UG5iZUlNeF9XcXhyU2pNSnhRdVM3UnltZ0dPNnByOHAyaVB4bi04eWxNM2dTLU9fZ3hPOXVGUlhNLWJ2dG1OTnhpQW4weEdMdldLbEp5RWEwYXdvU0VWcEhZU2U2TjNSdFBvNk9Rd2ZJdkpRN1AwRDhGLXZWNEw1NUJGallzd3FYR2tIR0d5RXhBam9GUFFKY0Nrblk4b2pHaXpNaDhCUzdWRHc?oc=5",
       "title": "Douglas County judge sets hearing over Kansas anti-trans \u2018bathroom bill\u2019 for Sept. 29 - Kansas Reflector",
@@ -5149,6 +5239,24 @@
   ],
   "Politics & world": [
     {
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNNkoyZk9JQ25oWm10am8wWVNQUlVLWkxTZkJuWFpvSEpTVzlkNmNiOV9qb3Zab1c5cjQwR0tqcFdIMWRtYlhuM3NaVl9ua0J4VXdueE5KQ3dOVTB0dHh1V1FPMExKaTVxdUFnM2xlNnIzMmN4YXVodWN5SXlNdHIzMl9aTGJPMUo3MjVKTjJnZGN0MTlENWtadUNzWmZzMjV0X2hSWmNWejNEeXdSUTM0LVFIbEdIa0xlSnJqVDNwVnprZkhnaXBGWmFrZ0ZseWNZdHRpT0w0bXRzbHlYdzFBU1Q2Ul81bTRpZ2I2dWIwbHJXNVdKVlBqNmVLRWJReDNDTnIzSGNPdG9HN2Jwc1JNWi1UOVFCalMzTldNZGhwNmdIWGNRWncyNnZQbVNobGFVSm9xZi1YNEVvUWFQbThKOWkzV3hiSGJ6SElSUXI4VlFqVWFoQkdadzVyejV1NlhaT2wtZWdYbXV1NnRBT2FERThFakRMTU1IZGxvOTc3ZFJnNlh1ME9aYmVKT0d6X19YWEpnd0xNSUJNWEFDbVN2OVc3QXRQLVBpX0FFTTFLNGVXdnBCaHFr?oc=5",
+      "title": "Trump Takes Executive Action to Pay TSA Workers as Funding Stalls in Congress - WSJ",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxNNkoyZk9JQ25oWm10am8wWVNQUlVLWkxTZkJuWFpvSEpTVzlkNmNiOV9qb3Zab1c5cjQwR0tqcFdIMWRtYlhuM3NaVl9ua0J4VXdueE5KQ3dOVTB0dHh1V1FPMExKaTVxdUFnM2xlNnIzMmN4YXVodWN5SXlNdHIzMl9aTGJPMUo3MjVKTjJnZGN0MTlENWtadUNzWmZzMjV0X2hSWmNWejNEeXdSUTM0LVFIbEdIa0xlSnJqVDNwVnprZkhnaXBGWmFrZ0ZseWNZdHRpT0w0bXRzbHlYdzFBU1Q2Ul81bTRpZ2I2dWIwbHJXNVdKVlBqNmVLRWJReDNDTnIzSGNPdG9HN2Jwc1JNWi1UOVFCalMzTldNZGhwNmdIWGNRWncyNnZQbVNobGFVSm9xZi1YNEVvUWFQbThKOWkzV3hiSGJ6SElSUXI4VlFqVWFoQkdadzVyejV1NlhaT2wtZWdYbXV1NnRBT2FERThFakRMTU1IZGxvOTc3ZFJnNlh1ME9aYmVKT0d6X19YWEpnd0xNSUJNWEFDbVN2OVc3QXRQLVBpX0FFTTFLNGVXdnBCaHFr?oc=5\" target=\"_blank\">Trump Takes Executive Action to Pay TSA Workers as Funding Stalls in Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-03-30T22:37:26.151215+00:00",
+      "published_at": "2026-03-28T04:51:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOb2UxQ3RBb3gtNk8zcmdfcXJtZ0k5OGhXM3dUdElXRENMQ1NyblcxQ3FkOFp1QU5wdmpFSjBxLVAzekNKNHFQenRFZll5Zk03a0VDUVFlM3BBSG5ERURmaElBdUl6ZFZpZjBoc3BHVjlpaFUyVnZBZS12RDBvcGRvWWVXXzVkc1dQRHhxcnc3cUx3aXNEeXJweGV0MXA4ZHU1MGU3U0VORV9lOE43MGVPNF9hai1Pc3pfekxFeDBqWnhFWEZjQnVlNVJrUE83QUZzZjZfVFR2MFFGN21sY0t6cWJfRUpiTFVYa0Nsc05LYm9wY2ZScjR5YjZvWXFfazFhRTB3cnpaVGMtTVBNWm52NzBWNEduMXpEeHpyMjlraDlldzNrR09xMTVEMmhlUktHZ1RhYU9WZGpuamlSWUFraWdKb2ZsUUI0UmthbzA4M0tRaDZsRVBvMFNMWW55dUlHS21rSE9BY1FFYnYxeEIwcW5kemVLNWxGTW5WY0h2Tm1zMTBzWVNGM3MwaTQzOGZpSlJENDJ2TmdXY1NNMzYyNnlPOTA1ejU4YWlFOE44WFZOMEdmNTdn?oc=5",
       "title": "Trump Takes Executive Action to Pay TSA Workers as Funding Stalls in Congress - wsj.com",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxOb2UxQ3RBb3gtNk8zcmdfcXJtZ0k5OGhXM3dUdElXRENMQ1NyblcxQ3FkOFp1QU5wdmpFSjBxLVAzekNKNHFQenRFZll5Zk03a0VDUVFlM3BBSG5ERURmaElBdUl6ZFZpZjBoc3BHVjlpaFUyVnZBZS12RDBvcGRvWWVXXzVkc1dQRHhxcnc3cUx3aXNEeXJweGV0MXA4ZHU1MGU3U0VORV9lOE43MGVPNF9hai1Pc3pfekxFeDBqWnhFWEZjQnVlNVJrUE83QUZzZjZfVFR2MFFGN21sY0t6cWJfRUpiTFVYa0Nsc05LYm9wY2ZScjR5YjZvWXFfazFhRTB3cnpaVGMtTVBNWm52NzBWNEduMXpEeHpyMjlraDlldzNrR09xMTVEMmhlUktHZ1RhYU9WZGpuamlSWUFraWdKb2ZsUUI0UmthbzA4M0tRaDZsRVBvMFNMWW55dUlHS21rSE9BY1FFYnYxeEIwcW5kemVLNWxGTW5WY0h2Tm1zMTBzWVNGM3MwaTQzOGZpSlJENDJ2TmdXY1NNMzYyNnlPOTA1ejU4YWlFOE44WFZOMEdmNTdn?oc=5\" target=\"_blank\">Trump Takes Executive Action to Pay TSA Workers as Funding Stalls in Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsj.com</font>",
@@ -5653,6 +5761,26 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
+    }
+  ],
+  "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1s7wm9k/action_bronson_eats_with_nyc_mayor_zohran_mamdani/",
+      "title": "Action Bronson Eats with NYC Mayor Zohran Mamdani: FTD",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1s7wm9k/action_bronson_eats_with_nyc_mayor_zohran_mamdani/\"> <img alt=\"Action Bronson Eats with NYC Mayor Zohran Mamdani: FTD\" src=\"https://external-preview.redd.it/qGPYxuR6V3HorXXJDiJKZZfN-cz_tYqzbG79rGZVdMw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7d73c92a754317557d1919b3370751437903fc57\" title=\"Action Bronson Eats with NYC Mayor Zohran Mamdani: FTD\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jcrckstdy\"> /u/jcrckstdy </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=JSYjv7QprJw\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1s7wm9k/action_bronson_eats_with_nyc_mayor_zohran_mamdani/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-03-30T17:07:34+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
     }
   ]
 }

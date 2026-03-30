@@ -96,7 +96,7 @@
         "disabled": false
       },
       "indeed": {
-        "consecutive_failures": 3,
+        "consecutive_failures": 4,
         "disabled": false,
         "disabled_at": null
       },
@@ -108,7 +108,7 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 2,
         "disabled": false,
         "disabled_at": null
       },

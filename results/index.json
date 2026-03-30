@@ -700,6 +700,24 @@
   ],
   "Health research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWEs0X0hxZUNFdmM3TS1CdlRyQ0ZPemdVVEVDQkctQS1nTk5vb2NhN1p4MEljeFdTTk5fU2dRWDFzWDdzOFd4cGhaaHp1c3hyZ01ybmE1R1VCZ0tUOTNQbWRweXdaTVJwbkhsWWIzZGE0bEROaGlMNUpfMUpZQmNieEZR?oc=5",
+      "title": "Stopping Ozempic? New study reveals surprising weight regain results after GLP-1s - AOL.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWEs0X0hxZUNFdmM3TS1CdlRyQ0ZPemdVVEVDQkctQS1nTk5vb2NhN1p4MEljeFdTTk5fU2dRWDFzWDdzOFd4cGhaaHp1c3hyZ01ybmE1R1VCZ0tUOTNQbWRweXdaTVJwbkhsWWIzZGE0bEROaGlMNUpfMUpZQmNieEZR?oc=5\" target=\"_blank\">Stopping Ozempic? New study reveals surprising weight regain results after GLP-1s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-03-30T01:33:15.755303+00:00",
+      "published_at": "2026-03-24T04:30:13+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45NjVlV1R1RW9mdXQyazFXeFhoSUtUZGNIQi1hTHpOVjlTamJXT19mOTJqUTktekRJVnBDc3JGTlcwS0lCOVNFOTRjLWNKc1cxUHlpYXpSb1FsX1VXOWc4dWlyVmJqM1RaQTJxazFaSQ?oc=5",
       "title": "Analyst: Novo Nordisk posts \"remarkably strong\" blood sugar results in new study - medwatch.com",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE45NjVlV1R1RW9mdXQyazFXeFhoSUtUZGNIQi1hTHpOVjlTamJXT19mOTJqUTktekRJVnBDc3JGTlcwS0lCOVNFOTRjLWNKc1cxUHlpYXpSb1FsX1VXOWc4dWlyVmJqM1RaQTJxazFaSQ?oc=5\" target=\"_blank\">Analyst: Novo Nordisk posts \"remarkably strong\" blood sugar results in new study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">medwatch.com</font>",
@@ -3412,6 +3430,24 @@
     }
   ],
   "Queens & NYC local": [
+    {
+      "url": "https://www.6sqft.com/mamdani-appeals-housing-voucher-expansion-breaking-campaign-pledge/",
+      "title": "Mamdani appeals housing voucher expansion, breaking campaign pledge",
+      "snippet": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"682\" src=\"https://thumbs.6sqft.com/wp-content/uploads/2026/03/26110008/Mamdani-Budget-Announcement-1040x693.jpg?w=768&amp;format=webp\" width=\"1024\" /><p>After failing to reach a deal with housing advocates, Mayor Zohran Mamdani has appealed a court ruling that ordered New York City to expand its housing voucher program, a move that departs from one of his key campaign pledges. Filed on Tuesday, the appeal puts Mamdani in the position once held by former Mayor Eric&#160;[...]</p>\n<p>The post <a href=\"https://www.6sqft.com/mamdani-appeals-housing-voucher-expansion-breaking-campaign-pledge/\">Mamdani appeals housing voucher expansion, breaking campaign pledge</a> first appeared on <a href=\"https://www.6sqft.com\">6sqft</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-03-30T01:31:29.764984+00:00",
+      "published_at": "2026-03-26T16:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.6sqft.com/mta-launches-new-app-with-real-time-subway-and-bus-tracking/",
       "title": "MTA launches new app with real-time subway and bus tracking",

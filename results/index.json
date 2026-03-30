@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/talking-raphael/",
+      "title": "Talking Raphael",
+      "snippet": "One-on-one with the curator of a historic Raphael exhibition at The Met, Robert Therrien's oversized furniture, artists against nuclear weapons, and how to save yourself from AI.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-03-30T10:56:55.428695+00:00",
+      "published_at": "2026-03-30T10:00:01+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.vulture.com/article/lion-king-comedian-circle-of-life-translation-lawsuit.html",
       "title": "The Lion King Lyrics Legal Battle Is Unfolding Before Our Eyes",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/03/Screenshot-2026-03-28-at-16.05.20-150x150.png\" style=\"float: left; margin-right: 5px;\" width=\"150\" />So \u2026 does the opening line really mean \u201cLook, there\u2019s a lion; oh my God\u201d? Or is all of this just a big GoFundMe scam? &#8211; Vulture",
@@ -4118,6 +4136,24 @@
     }
   ],
   "Immigration & ICE": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ1FvSi1UdHBEYWVvRmZRTmFOYUZkc2NINUpneWhhemdQeXJyTEVSUDdKUlFreHNweVZ2Z3NEZURaWngyOGZ2OUwwV3VVcnpTNFo4R01DcHdiWXlGQXJWaXhLSUh0bTh1aGI4cFJzcXdlMzFta1lCeXFkWkJVYjQ4QUFxTTlFRU1U?oc=5",
+      "title": "ICE arrests Latin Kings member after NYC sanctuary release despite assault charge on first responder - Yahoo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ1FvSi1UdHBEYWVvRmZRTmFOYUZkc2NINUpneWhhemdQeXJyTEVSUDdKUlFreHNweVZ2Z3NEZURaWngyOGZ2OUwwV3VVcnpTNFo4R01DcHdiWXlGQXJWaXhLSUh0bTh1aGI4cFJzcXdlMzFta1lCeXFkWkJVYjQ4QUFxTTlFRU1U?oc=5\" target=\"_blank\">ICE arrests Latin Kings member after NYC sanctuary release despite assault charge on first responder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-03-30T11:05:47.451242+00:00",
+      "published_at": "2026-03-27T22:34:41+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd0w0WEFJeXFyVzhodGt5TnEyVl81Q09mcWw0SWlLdjV2R0VJSFVkMmk5M1pTdEh6ZGNacXVqSVZnQTRxT2RWR0lhUG0tZXJPc3BwRjc4bEZCQ2dvU1RocTVjZlBENE1pUHU0ZU5OZUZ0WXVFaEFRZ3BrT0FUNEZxdEpDY3E?oc=5",
       "title": "ICE agents begin patrols at JFK Airport in New York, Newark Airport in New Jersey - CBS News",

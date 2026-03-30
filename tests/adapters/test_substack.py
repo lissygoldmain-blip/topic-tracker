@@ -196,7 +196,9 @@ def test_result_fields_populated():
     assert r.source == "substack"
     assert r.source_type == "feeds"
     assert r.title == "The Post Title"
-    assert r.fetched_at.year == 2026
+    assert r.published_at is not None
+    assert r.published_at.year == 2026
+    assert r.published_at.month == 3
     assert r.raw["newsletter"] == "Test Newsletter"
 
 

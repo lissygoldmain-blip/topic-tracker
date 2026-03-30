@@ -92,6 +92,25 @@ def test_price_shown_in_email():
         assert "$245.00 USD" in html
 
 
+def test_digest_groups_by_topic():
+    """Results from different topics should appear under their own topic headers."""
+    notifier = EmailNotifier(api_key="fake", from_email="a@b.com", to_email="c@d.com")
+    r1 = make_result(title="Job A", topic="Jobs")
+    r2 = make_result(title="Film B", topic="Film & TV")
+    # pre-sort by topic as run_digest does
+    results = sorted([r1, r2], key=lambda r: r.topic_name)
+    with patch("tracker.notifications.email.resend.Emails.send") as mock_send:
+        mock_send.return_value = {"id": "1"}
+        notifier.send_digest(results, subject="Weekly")
+        html = mock_send.call_args[0][0]["html"]
+    # Both topic headers should appear
+    assert "Jobs" in html
+    assert "Film &amp; TV" in html or "Film & TV" in html
+    # Both result titles should appear
+    assert "Job A" in html
+    assert "Film B" in html
+
+
 def test_html_special_chars_escaped():
     """Titles/snippets with HTML special chars must be escaped before rendering."""
     notifier = EmailNotifier(

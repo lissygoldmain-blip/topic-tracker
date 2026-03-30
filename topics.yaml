@@ -198,6 +198,8 @@ topics:
             - "Jackson Heights Queens"
             - "Flushing Queens"
             - "Queens New York news"
+            - "Queens Community Board"
+            - "Flushing Town Hall"
 
       discovery:
         - source: rss
@@ -223,10 +225,10 @@ topics:
 
     notifications:
       email: weekly_digest
-      novelty_push_threshold: 0.72
+      novelty_push_threshold: 0.65
 
     llm_filter:
-      novelty_threshold: 0.6
+      novelty_threshold: 0.5
       tags:
         - development
         - transit
@@ -243,8 +245,8 @@ topics:
   - name: "Substack picks"
     description: >
       Newsletters from independent writers covering NYC arts, culture, theater,
-      and Queens. Automatically discovers relevant Substacks by topic search;
-      add specific handles to filters.feeds to always include them.
+      queer life, and Queens. Curated direct subscriptions plus dynamic
+      discovery for new voices.
     importance: low
     urgency: low
 
@@ -252,7 +254,15 @@ topics:
       - feeds
 
     polling:
-      frequent: []
+      frequent:
+        # Direct subscriptions — reliably good newsletters
+        - source: substack
+          filters:
+            feeds:
+              - "https://hellgatenyc.substack.com/feed"          # Hell Gate NYC — hyperlocal news/culture
+              - "https://flaminghydra.substack.com/feed"         # Flaming Hydra — indie writers collective
+              - "https://www.thegaycritique.com/feed"            # queer arts criticism
+            max_per_feed: 5
 
       discovery:
         # Dynamic discovery: searches Substack for publications matching these terms
@@ -260,16 +270,10 @@ topics:
           terms:
             - "NYC theater arts"
             - "New York City culture"
-            - "Queens New York"
+            - "queer arts New York"
           filters:
-            max_pubs: 5       # newsletters per search term
-            max_per_feed: 8   # articles per newsletter
-
-        # Direct subscriptions: add specific Substack handles here
-        # - source: substack
-        #   filters:
-        #     feeds:
-        #       - "https://yourhandle.substack.com/feed"
+            max_pubs: 4       # newsletters per search term
+            max_per_feed: 5   # articles per newsletter
 
       broad: []
 
@@ -450,23 +454,19 @@ topics:
             max_days_old: 7
             sort_by: date
 
-        - source: indeed
-          terms:
-            - "production associate performing arts New York"
-            - "production coordinator theater NYC"
-            - "artistic programming coordinator New York"
-            - "artist services associate NYC"
-          filters:
-            location: "New York, NY"
-            fromage: 7
-            sort: date
-
         - source: playbill_jobs
           terms:
             - "production"
             - "stage manager"
             - "artist services"
             - "programming"
+
+        # Arts-specific job boards via RSS — reliable and performing-arts-focused
+        - source: rss
+          filters:
+            feeds:
+              - "https://www.nyfa.org/jobs/rss/"                # NYFA — NYC arts jobs board
+              - "https://www.artsadministration.org/jobs/feed/" # Arts Admin job board
 
       discovery:
         - source: usitt_jobs
@@ -482,6 +482,7 @@ topics:
             location: "New York"
             max_days_old: 14
 
+        # Indeed 403s from datacenter IPs — keeping as fallback but expect circuit breaker
         - source: indeed
           terms:
             - "production manager arts organization NYC"
@@ -490,6 +491,13 @@ topics:
           filters:
             location: "New York, NY"
             fromage: 14
+
+        - source: google_news
+          terms:
+            - "Lincoln Center hiring now open"
+            - "BAM Brooklyn Academy Music jobs"
+            - "Carnegie Hall production coordinator job"
+            - "performing arts organization NYC hiring"
 
       broad:
         - source: adzuna
@@ -564,29 +572,37 @@ topics:
       - news
 
     polling:
-      frequent: []
-
-      discovery:
-        - source: tmdb
-          terms: ["The Pitt"]
-          filters:
-            media_type: both
-            days_ahead: 45
-            region: US
-            max_results: 10
+      frequent:
+        # Curated film/TV criticism RSS feeds — updated frequently, surface relevant reviews
         - source: rss
           filters:
             feeds:
               - "https://www.indiewire.com/feed/"
               - "https://www.rogerebert.com/feed"
               - "https://deadline.com/feed/"
+              - "https://pitchfork.com/feed/feed-film/json"     # Pitchfork film coverage
         - source: google_news
           terms:
-            - "A24 film release"
-            - "Neon film release"
-            - "queer film festival"
+            - "A24 new film"
+            - "Neon film"
+            - "The Pitt HBO season"
+            - "queer film award"
             - "LGBTQ film premiere"
-            - "The Pitt HBO"
+
+      discovery:
+        - source: tmdb
+          terms: ["The Pitt"]
+          filters:
+            media_type: both
+            days_ahead: 14    # reduced from 45 — only near-term releases
+            region: US
+            max_results: 5
+        - source: google_news
+          terms:
+            - "A24 film release 2026"
+            - "Neon film release"
+            - "queer cinema documentary"
+            - "world cinema NYC screening"
 
       broad:
         - source: google_news
@@ -955,9 +971,8 @@ topics:
       - feeds
 
     polling:
-      frequent: []
-
-      discovery:
+      frequent:
+        # Food-focused RSS feeds — moved to frequent so they don't get skipped by budget pressure
         - source: rss
           filters:
             feeds:
@@ -966,12 +981,19 @@ topics:
               - "https://qns.com/feed/"
         - source: google_news
           terms:
-            - "Jackson Heights restaurant opening"
-            - "Flushing restaurant new"
-            - "Queens food dining"
+            - "Jackson Heights restaurant"
+            - "Flushing Queens food"
+            - "Queens new restaurant opening"
+
+      discovery:
         - source: reddit
           subreddits: [FoodNYC, queensnyc, JacksonHeights]
           terms: ["restaurant", "food", "opening", "new spot"]
+        - source: google_news
+          terms:
+            - "Jackson Heights food pop-up"
+            - "Flushing night market"
+            - "Queens dining guide"
 
       broad:
         - source: google_news

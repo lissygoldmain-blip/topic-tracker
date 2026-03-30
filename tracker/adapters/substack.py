@@ -107,10 +107,10 @@ class SubstackAdapter(BaseAdapter):
 
                 for entry in feed.entries[:max_per_feed]:
                     pub_parsed = getattr(entry, "published_parsed", None)
-                    published = (
+                    published_at = (
                         datetime(*pub_parsed[:6], tzinfo=timezone.utc)
                         if pub_parsed
-                        else datetime.now(timezone.utc)
+                        else None
                     )
                     link = getattr(entry, "link", "")
                     title = getattr(entry, "title", "")
@@ -125,7 +125,8 @@ class SubstackAdapter(BaseAdapter):
                             source="substack",
                             source_type=self.source_type,
                             topic_name=topic.name,
-                            fetched_at=published,
+                            fetched_at=datetime.now(timezone.utc),
+                            published_at=published_at,
                             raw={"newsletter": newsletter_name, "feed_url": url},
                         )
                     )

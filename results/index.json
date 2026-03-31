@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.yahoo.com/entertainment/celebrity/articles/ben-stevenson-texas-most-famous-215123289.html#new_tab",
+      "title": "Choreographer Ben Stevenson, Who Brought Houston Ballet To Prominence, Has Died At 89",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/03/533-2-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />&#8220;Known for the organic beauty, narrative drive and humor of his productions, (he)\u00a0became the most famous ballet choreographer in Texas, and one of the most celebrated in the country, during almost three decades at the helm of Houston Ballet and later at Fort Worth-based Texas Ballet Theater.\u201d &#8211; The Dallas Morning News (Yahoo!)",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-03-31T14:25:57.274588+00:00",
+      "published_at": "2026-03-31T12:33:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.theguardian.com/artanddesign/2026/mar/30/rembrandt-old-man-with-a-gold-chain-painting-copy-art-institute-chicago#new_tab",
       "title": "Is There A New Rembrandt At The Art Institute Of Chicago?",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/03/504-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />A portrait, currently on loan to the Institute, in a UK collection that has long been dismissed as a workshop copy of an almost identical painting by\u00a0Rembrandt\u00a0was, in fact, also painted by the Dutch master, according to a leading scholar. (Scholars at the Art Institute are not yet convinced.) &#8211; The Guardian",
@@ -4384,6 +4402,24 @@
     }
   ],
   "Drag Race & drag": [
+    {
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1s8k5mu/rupaul_drag_race_frontrunners_going_home/",
+      "title": "RuPaul Drag Race Frontrunners going home",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1s8k5mu/rupaul_drag_race_frontrunners_going_home/\"> <img alt=\"RuPaul Drag Race Frontrunners going home\" src=\"https://preview.redd.it/i1l3icrc3dsg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3129ccd4c078e0341a78312b21aeac044a524f3f\" title=\"RuPaul Drag Race Frontrunners going home\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JimatJimat\"> /u/JimatJimat </a> <br /> <span><a href=\"https://i.redd.it/i1l3icrc3dsg1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1s8k5mu/rupaul_drag_race_frontrunners_going_home/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-03-31T10:56:56+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1s87r5h/the_queens_did_not_see_each_others_challenge/",
       "title": "The queens did not see each other\u2019s challenge performances in S18E13\u2026",

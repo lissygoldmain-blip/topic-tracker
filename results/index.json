@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/mondays-at-pratt-institute-weekly-openings-of-work-by-graduating-artists/",
+      "title": "Mondays at Pratt Institute: Weekly Openings of Work by Graduating Artists",
+      "snippet": "Free and open to the public, Pratt Shows celebrate the school\u2019s graduating students. MFA and BFA work is on view this spring in Brooklyn, New York.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-03-31T03:48:29.002911+00:00",
+      "published_at": "2026-03-30T16:00:59+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/new-protest-art-lampoons-trumps-gaudy-bathroom-redesign/",
       "title": "New Protest Art Lampoons Trump's Gaudy Bathroom Redesign",
       "snippet": "\u201cIn a time of unprecedented division,\u201d reads a plaque, \u201cPresident Trump focused on what truly mattered: remodeling the Lincoln bathroom in the White House.\u201d",
@@ -3737,6 +3755,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://www.thecity.nyc/2026/03/26/rent-freeze-board-mamdani-landlord-income/",
+      "title": "Landlord Income Up 6% Key Report Says as Board Weighs Rent Freeze in Earnest",
+      "snippet": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2022/12/750WashingtonAve_1-scaled.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Mayor Zohran Mamdani promised to freeze the rent on nearly a million regulated apartments as a signature part of his campaign. \u201cFreeze the rent\u201d became a call-and-response chant during rallies and a pitch his army of canvassers made to voters when knocking on doors. But his rent-freeze promise rests on the votes of the nine [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/03/26/rent-freeze-board-mamdani-landlord-income/\">Landlord Income Up 6% Key Report Says as Board Weighs Rent Freeze in Earnest</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-03-31T03:50:03.283717+00:00",
+      "published_at": "2026-03-26T19:54:08+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://qns.com/2026/03/creep-groped-woman-q77-bus-queens-village/",
       "title": "Creep wanted for grinding his body against a woman on board a Q77 MTA bus in Queens Village: NYPD",
       "snippet": "Police from the 105th Precinct in Queens Village are looking for the creep who allegedly subjected a 35-year-old woman to forcible touching on board a Q77 MTA bus on the morning of Friday, March 27. Police say the victim was aboard the bus in the vicinity of Hollis Avenue and Francis Lewis Boulevard in Queens...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/03/creep-groped-woman-q77-bus-queens-village/\">Read More</a>",
@@ -5600,6 +5636,24 @@
     }
   ],
   "Shopping": [
+    {
+      "url": "https://jp.mercari.com/item/m75007881430",
+      "title": "INGEBORG \u30ce\u30fc\u30ab\u30e9\u30fc \u30c4\u30a4\u30fc\u30c9 \u91d1\u30dc\u30bf\u30f3 \u30bb\u30c3\u30c8\u30a2\u30c3\u30d7 N2443",
+      "snippet": "",
+      "source": "mercari",
+      "source_type": "shopping",
+      "topic_name": "Shopping",
+      "fetched_at": "2026-03-31T03:47:11.861762+00:00",
+      "published_at": null,
+      "price": "\u00a522,630",
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.grailed.com/listings/81819028",
       "title": "oc11z0725 Size: OS/ Vltn Leather Shopping Bag in Black",

@@ -1418,5 +1418,17 @@
   "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWY0twQk04NVhHSHNORDcyaGdiNERVX1RYV1p3WW9sNHRwcTdtZ0RVYnROTHRjNTJmM25TRWhpaXdBeFhQTFJHVmhPZTBBTDQ3SmFCTWRWdE9SSkRCSlZGNDJ5WWlWYmZhREtCWk1QOU1wZTZNdVdxV2c1SDc?oc=5": {
     "seen_at": "2026-03-31T01:42:42.443454+00:00",
     "source_type": "news"
+  },
+  "https://jp.mercari.com/item/m75007881430": {
+    "seen_at": "2026-03-31T03:48:28.920031+00:00",
+    "source_type": "shopping"
+  },
+  "https://hyperallergic.com/mondays-at-pratt-institute-weekly-openings-of-work-by-graduating-artists/": {
+    "seen_at": "2026-03-31T03:50:02.713936+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.thecity.nyc/2026/03/26/rent-freeze-board-mamdani-landlord-income/": {
+    "seen_at": "2026-03-31T03:51:50.563975+00:00",
+    "source_type": "feeds"
   }
 }

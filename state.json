@@ -16,8 +16,9 @@
     },
     "NYC theater & arts": {
       "gdelt": {
-        "consecutive_failures": 4,
-        "disabled": false
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-03-31T07:03:02.994836+00:00"
       },
       "google_news": {
         "consecutive_failures": 0,
@@ -55,8 +56,9 @@
         "disabled": false
       },
       "gdelt": {
-        "consecutive_failures": 4,
-        "disabled": false
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-03-31T07:03:46.307054+00:00"
       },
       "rss": {
         "consecutive_failures": 0,
@@ -101,11 +103,21 @@
         "disabled": false
       },
       "indeed": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-03-30T08:24:32.655425+00:00"
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       },
       "playbill_jobs": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "usitt_jobs": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "google_news": {
         "consecutive_failures": 0,
         "disabled": false,
         "disabled_at": null
@@ -188,6 +200,26 @@
         "consecutive_failures": 0,
         "disabled": false,
         "disabled_at": null
+      },
+      "reddit": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "bluesky": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "nytimes": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
+      },
+      "guardian": {
+        "consecutive_failures": 0,
+        "disabled": false,
+        "disabled_at": null
       }
     },
     "Politics & world": {
@@ -240,9 +272,9 @@
     },
     "Substack picks": {
       "substack": {
-        "consecutive_failures": 4,
-        "disabled": false,
-        "disabled_at": null
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-03-31T07:05:12.463782+00:00"
       }
     }
   }

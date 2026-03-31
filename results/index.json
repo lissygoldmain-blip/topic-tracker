@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/fastest-art-heist-in-history/",
+      "title": "Fastest Art Heist in History?",
+      "snippet": "Thieves walk off with three masterpieces in under three minutes, photos from No Kings, new galleries for the Brooklyn Museum's Africa collection, and more.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-03-31T10:06:42.034252+00:00",
+      "published_at": "2026-03-31T10:00:18+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/mondays-at-pratt-institute-weekly-openings-of-work-by-graduating-artists/",
       "title": "Mondays at Pratt Institute: Weekly Openings of Work by Graduating Artists",
       "snippet": "Free and open to the public, Pratt Shows celebrate the school\u2019s graduating students. MFA and BFA work is on view this spring in Brooklyn, New York.",
@@ -3773,6 +3791,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://qns.com/2026/03/rajkumar-womens-empowerment-woodhaven/",
+      "title": "AM Rajkumar hosts Women\u2019s Empowerment Celebration in Woodhaven",
+      "snippet": "Assembly Member Jenifer Rajkumar hosted the Women\u2019s Empowerment Celebration at Woodhaven\u2019s American Legion Post 118 on Saturday, March 28, honoring female community leaders and trailblazers in south Queens, including the late Assembly Member Catherine Nolan. Rajkumar, the first South Asian woman elected to the New York State Assembly, concluded Women\u2019s History Month with a commemoration...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/03/rajkumar-womens-empowerment-woodhaven/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-03-31T10:08:15.211786+00:00",
+      "published_at": "2026-03-30T20:30:55+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://qns.com/2026/03/queens-no-kings-protest/",
       "title": "Queens Says No Kings: Over 1,000 turn out for Forest Hills protest",
       "snippet": "Over 1,000 Queens residents attended Saturday\u2019s No Kings protest, which brought together elected leaders, artists and residents of all ages for a peaceful protest against the Trump Administration and its harsh treatment of immigrants, members of the LGBTQ+ community, and civilian populations in nations he&#8217;s waged wars in across the world. Attendees gathered at MacDonald...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/03/queens-no-kings-protest/\">Read More</a>",
@@ -5037,6 +5073,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRzJLbUV5ZlV5aGZUQ1pWMkszazZPM1VTaTFmcmU2LTlZc19ITXY2S1piSmVfd1JRWjFYY0hVNEQyVExrbV9rYU1ON3pPRHZ0QzJjM1dVTGItNFkwUnRKRDZ2UnZLcS1lSjZQRzYwaDNsejVha2ppM2tXamJUN3IyWjlMclBCVE5nc2lfUjZETGh3NjgxSGs5UUN2bEl6bVAzRlVqcnUwaVBvQWZoZ3MtZzM2RDhXTGx1d0dzUUxLVWt2ZVRMcTdwbHlMcnpNQQ?oc=5",
+      "title": "Cordova students embark on East Coast trip, after district communicates ICE response protocols - thecordovatimes.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNRzJLbUV5ZlV5aGZUQ1pWMkszazZPM1VTaTFmcmU2LTlZc19ITXY2S1piSmVfd1JRWjFYY0hVNEQyVExrbV9rYU1ON3pPRHZ0QzJjM1dVTGItNFkwUnRKRDZ2UnZLcS1lSjZQRzYwaDNsejVha2ppM2tXamJUN3IyWjlMclBCVE5nc2lfUjZETGh3NjgxSGs5UUN2bEl6bVAzRlVqcnUwaVBvQWZoZ3MtZzM2RDhXTGx1d0dzUUxLVWt2ZVRMcTdwbHlMcnpNQQ?oc=5\" target=\"_blank\">Cordova students embark on East Coast trip, after district communicates ICE response protocols</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecordovatimes.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-03-31T10:16:07.911304+00:00",
+      "published_at": "2026-03-30T21:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQW45b0ZCOWQwWi13bTR6Z3BOZWxJUUtHMUJhaUhkWU9UMnhNTnBHWWtoR29zV0xjR0RfYThPXzY2NGhlM2gtTUZuSkp4SzM4cEtTSEpiam56cUk4TTVLMS1vQl9HZGNsV2NDUmUxVEg5RjVEdlVRSktBMHJuN24yRlFhOHk4RF9NTk1FbW80bTREeDlIcFdkX1VBQkdiS3E5bEFVcEVQTDJWY1h0SkNwMEduM3I0Rm1tWGxkR3JoTEotODhpS1plUmZ0UnN4cGpvNjItYQ?oc=5",
       "title": "Mexican Immigrant Died in US Immigration Custody, ICE Says, Marking 14 Deaths in 2026 - U.S. News & World Report",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQW45b0ZCOWQwWi13bTR6Z3BOZWxJUUtHMUJhaUhkWU9UMnhNTnBHWWtoR29zV0xjR0RfYThPXzY2NGhlM2gtTUZuSkp4SzM4cEtTSEpiam56cUk4TTVLMS1vQl9HZGNsV2NDUmUxVEg5RjVEdlVRSktBMHJuN24yRlFhOHk4RF9NTk1FbW80bTREeDlIcFdkX1VBQkdiS3E5bEFVcEVQTDJWY1h0SkNwMEduM3I0Rm1tWGxkR3JoTEotODhpS1plUmZ0UnN4cGpvNjItYQ?oc=5\" target=\"_blank\">Mexican Immigrant Died in US Immigration Custody, ICE Says, Marking 14 Deaths in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News & World Report</font>",
@@ -5598,6 +5652,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQbC1iRFFKTkFEZTBMM3BKaGJ0SDliMDF6MTFPeEstV2o0eDNTYVZfT1h4MVFiZmFQQVlyVFVEb0xFNFFKSWl6UzB0WDJNMnhFYi12eTRjSHJra21NUHNHcldUMGhiU09vS0FOTUdJQXMtTzkzaExrWkVPVUwxN1B4WkJGMkxQcHV5aDFVazBOTWQ1bTdwemxJdUJfVjRmYXp3YTVISGprb1lqTWQ5aVl5cVA5UzViWWJrby1NbDFCYnRST2tmX3N1MlhpWTRxQVRQMTlTTjl3c09BUjhISTdtRG1PVERJVGk0c2ZzbkFuV05QR2Z4cGVjVUFoUmhmMklFTjNxN244UGpWX1pTbk52YTExNThLZmMyTFN2WUhiWVFvTHMwaUhfZWhMM19OVkRHanZ5VTU3Xy16UWxZVWdHZlpWMHI1bFZVWTN2dFE0M25kSU5aRUV3WkliU2xoS0p0enRRNWlZM25HNDhnbjFCTHV4VWV0MjEtSXIwX2lEdkNUSUtJY3h0YWx2d0ktWE5KODJzQVpGSlBpX05NT3BJRkZLekZtRmVJRFRLUXZ0MmxoWVNaY3pj?oc=5",
+      "title": "Trump Takes Executive Action to Pay TSA Workers as Funding Stalls in Congress - WSJ",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxQbC1iRFFKTkFEZTBMM3BKaGJ0SDliMDF6MTFPeEstV2o0eDNTYVZfT1h4MVFiZmFQQVlyVFVEb0xFNFFKSWl6UzB0WDJNMnhFYi12eTRjSHJra21NUHNHcldUMGhiU09vS0FOTUdJQXMtTzkzaExrWkVPVUwxN1B4WkJGMkxQcHV5aDFVazBOTWQ1bTdwemxJdUJfVjRmYXp3YTVISGprb1lqTWQ5aVl5cVA5UzViWWJrby1NbDFCYnRST2tmX3N1MlhpWTRxQVRQMTlTTjl3c09BUjhISTdtRG1PVERJVGk0c2ZzbkFuV05QR2Z4cGVjVUFoUmhmMklFTjNxN244UGpWX1pTbk52YTExNThLZmMyTFN2WUhiWVFvTHMwaUhfZWhMM19OVkRHanZ5VTU3Xy16UWxZVWdHZlpWMHI1bFZVWTN2dFE0M25kSU5aRUV3WkliU2xoS0p0enRRNWlZM25HNDhnbjFCTHV4VWV0MjEtSXIwX2lEdkNUSUtJY3h0YWx2d0ktWE5KODJzQVpGSlBpX05NT3BJRkZLekZtRmVJRFRLUXZ0MmxoWVNaY3pj?oc=5\" target=\"_blank\">Trump Takes Executive Action to Pay TSA Workers as Funding Stalls in Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-03-31T10:16:31.717662+00:00",
+      "published_at": "2026-03-28T04:51:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd2gyOENvd2JHWGhPZW0zVmhEZEt3UXZqQzNYVldvMHFFU1ZzeElFTjJrWmZDYU1zN2dGY29EU0VLZXRLc1ZJencxWURpTl9MMVpNN0NEV2Y3VEJCM01aV1lTMTJsLVB3ajYtbWVHaENzZ2dReU8wMDVyVVIzY3BjUGdmenhDeWhYUjhIQVFYbVdCd1RXX0x4RFNxQXdidUZuNzhmYTdyR3lDb2RoamxNaTFkVHJNLTE3ZHJnZ2JFczNaTGx6aVpiNlVtSQ?oc=5",
       "title": "Hours after Kansas governor rejects pregnancy center protections, Legislature overrides her veto - Kansas Reflector",

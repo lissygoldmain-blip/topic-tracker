@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/30/rembrandt-old-man-with-a-gold-chain-painting-copy-art-institute-chicago#new_tab",
+      "title": "Is There A New Rembrandt At The Art Institute Of Chicago?",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/03/504-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />A portrait, currently on loan to the Institute, in a UK collection that has long been dismissed as a workshop copy of an almost identical painting by\u00a0Rembrandt\u00a0was, in fact, also painted by the Dutch master, according to a leading scholar. (Scholars at the Art Institute are not yet convinced.) &#8211; The Guardian",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-03-31T12:57:09.759627+00:00",
+      "published_at": "2026-03-31T12:05:56+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/fastest-art-heist-in-history/",
       "title": "Fastest Art Heist in History?",
       "snippet": "Thieves walk off with three masterpieces in under three minutes, photos from No Kings, new galleries for the Brooklyn Museum's Africa collection, and more.",
@@ -3826,6 +3844,24 @@
     }
   ],
   "Queens & NYC local": [
+    {
+      "url": "https://nyc.streetsblog.org/2026/03/31/non-profit-throws-financial-lifeline-to-open-street-programs-department-of-transportation-new-york-mamdani",
+      "title": "\u2018Game-Changer\u2019: Non-Profit Throws Financial Lifeline to Open Streets Program",
+      "snippet": "The Citizens Committee for New York City will provide volunteer groups with an immediate lifeline before the start of the season.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-03-31T12:58:44.640116+00:00",
+      "published_at": "2026-03-31T04:02:00+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.thecity.nyc/2026/03/31/rikers-311-calls-complaints-jail/",
       "title": "More Than 40k 311 Calls From Rikers Go Into a Black Hole Every Year",

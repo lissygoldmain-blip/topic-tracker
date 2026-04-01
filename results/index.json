@@ -4313,6 +4313,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://www.thecity.nyc/2026/04/01/flooding-blue-zones-climate-change-building/",
+      "title": "A Fifth of NYC Built on Bygone Water Now at Risk: Study Maps City\u2019s \u2018Blue Zones\u2019",
+      "snippet": "<figure><img alt=\"Newtown Creek ran between residential buildings straddling the western Brooklyn-Queens border,\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2026/03/032726_newtown_creek.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Peering at New York City\u2019s landscape more than 400 years in the past \u2014 when the marshes, ponds and streams crisscrossed our string of islands \u2014 can help planners and policymakers better understand the city\u2019s flooding future. Researchers at the New York Botanical Garden looked at where water used to be, where there\u2019s water now [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/01/flooding-blue-zones-climate-change-building/\">A Fifth of NYC Built on Bygone Water Now at Risk: Study Maps City\u2019s &#8216;Blue Zones&#8217;</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-01T10:08:57.910662+00:00",
+      "published_at": "2026-04-01T09:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://nyc.streetsblog.org/2026/04/01/mamdani-to-convert-streets-into-rome-style-piazzas-starting-in-paladino-and-ariolas-districts-on-april-fools-day",
       "title": "PLAZA SWEET: Mamdani To Convert Streets Into Rome-Style \u2018Piazzas,\u2019 Starting in Paladino and Ariola\u2019s Districts",
       "snippet": "\"How could they object to bringing one of the best things about Italy to New York?\" a city source told Streetsblog.",
@@ -5448,6 +5466,24 @@
     }
   ],
   "Queer & trans": [
+    {
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/apr/01/raise-our-heads-and-resist-how-europes-civil-society-is-fighting-back-against-the-far-right",
+      "title": "\u2018Raise our heads and resist\u2019: how Europe\u2019s civil society is fighting back against the far right",
+      "snippet": "Rightwing parties are using parliamentary queries, legal traps and policing to target NGOs and stifle dissent ",
+      "source": "guardian:World news",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-04-01T06:30:40+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1dXX1ZOYUgxY2lQRURfRm9pOFpSM0IyTmk2NnVxbXZqa2tBWGxqYjNKemwtLS12akFybW5vQkpEOHIxa1BFdTFKeXFyanB0aW5yRVpVTjhDZXlTMkx2cFA3dGkxakZtSFFHdF9qcThXdEk5Q2NMb181MElWTFFBZER6R0pndk04a0hWMEFPWEFONGhDR3BySDIweDV5UWc0bGJZZEUxY0xseFFuUlE?oc=5",
       "title": "Trans people in Metro Vancouver from India express safety fears after legislation - CBC",
@@ -6822,6 +6858,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2ZDTjNfemExcDRab2Q4MXViTExkQl82S1Z5RzNodmFwVThIMmp0ZFhFdW5NV05JSXJDcmU3blVCWHV5QlEtN2V2eThBcGNZOFYxdTBteV9kLUlhRUFhSFBDMkp6c0NoRWNMajJzLVBZc24xckhFc2pZdkI5VGxKdC00am8yRk90RmlNUUdvaUY?oc=5",
+      "title": "Supreme Court considers a historic case about who is \u2014 and isn't \u2014 born a citizen - NPR",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2ZDTjNfemExcDRab2Q4MXViTExkQl82S1Z5RzNodmFwVThIMmp0ZFhFdW5NV05JSXJDcmU3blVCWHV5QlEtN2V2eThBcGNZOFYxdTBteV9kLUlhRUFhSFBDMkp6c0NoRWNMajJzLVBZc24xckhFc2pZdkI5VGxKdC00am8yRk90RmlNUUdvaUY?oc=5\" target=\"_blank\">Supreme Court considers a historic case about who is \u2014 and isn't \u2014 born a citizen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-01T10:17:27.774608+00:00",
+      "published_at": "2026-04-01T09:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONFNoc3BRaE9temdYVFhvWDFobUpTaHBMbzNSVXFWWU44eWY4WEFrR1FXcTJsTWpMUmx0ZkNjR193VEZkS2RjVHp1Z1JGVjF3NGZNSU80VGhLOFpQRUVHRVpEbUU2cFEyR0V6TkdIY0NTUUJoQnhvb3pCWjVVZm9VYkJXck9DUjZOY3ZkQ2IwUzNIVnJzNE5VNk0xMGszQWE5TUNiMnNmajhSWW9ETVJSRzVDMNIBuAFBVV95cUxPVXJ5ZVowc0VrRWp1Z3I3UVc4TFROeC1JcmRYU3pub195WlJER0xib0VVbzZWQnFDQ2ROTFpUTWJCTU5DcVFIc0p0b0JTWi1YTGxCSnU3LThGcEVNOXN3MWlELW5aU1NmVG1rbElEXzdlZjJZakVvUk9mb2hCZWt0NG5GbDgxNUZKV09mX3RqRVh1SlFoaFBOUXN1bFBlNXdxa1F5bTlOSnpueG0wYTgxVUM5eEwzdE1F?oc=5",
       "title": "Colorado tried to silence me for helping gender-confused kids. The Supreme Court just ruled 8-1 in my favor - Fox News",

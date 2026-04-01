@@ -6117,6 +6117,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTlBZkI5NTMwUjBuVHJnc2hMVGdIbTduZFczaHhybUpkS0JrTUg3elRzSTA3ZEdBczFNN0ZfRUFxYzFDSDVfQmVFNFZqSmk5a0ZqclRQclllcnBWSWNSYm1iaFdlNDdfaUV0a3RaMHYtakF3a1l6VGhTOFZOc21yRHhXVUxYR0hGbGxDWGE5NUVCeW5iNHJtajNucllLb0xqT3RJdkYwNW8xRVVtSmU4RGZhQTY?oc=5",
+      "title": "ICE, HSI Involved in Long Island Child Assault Case Amid New York Bail Law Constraints - lamag.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTlBZkI5NTMwUjBuVHJnc2hMVGdIbTduZFczaHhybUpkS0JrTUg3elRzSTA3ZEdBczFNN0ZfRUFxYzFDSDVfQmVFNFZqSmk5a0ZqclRQclllcnBWSWNSYm1iaFdlNDdfaUV0a3RaMHYtakF3a1l6VGhTOFZOc21yRHhXVUxYR0hGbGxDWGE5NUVCeW5iNHJtajNucllLb0xqT3RJdkYwNW8xRVVtSmU4RGZhQTY?oc=5\" target=\"_blank\">ICE, HSI Involved in Long Island Child Assault Case Amid New York Bail Law Constraints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lamag.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-01T09:05:44.175818+00:00",
+      "published_at": "2026-03-31T21:06:09+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoV0xuVi1LV2pxOGhraTR1M2tmaHIxdVlocTlneVdfaWktZ2ZicjV4M2JldHpWWHR1MzlVRVdhUGFnQ1B2UXJsc2RXcjZDWGdmQXFDRV9JaWQxOWhKaUFiclFGdWRIVWJxVTY1Tkk0SXhLRnFiZUw3aQ?oc=5",
       "title": "A NYC Social Worker Referred a Shelter Resident to ICE - Hell Gate",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBoV0xuVi1LV2pxOGhraTR1M2tmaHIxdVlocTlneVdfaWktZ2ZicjV4M2JldHpWWHR1MzlVRVdhUGFnQ1B2UXJsc2RXcjZDWGdmQXFDRV9JaWQxOWhKaUFiclFGdWRIVWJxVTY1Tkk0SXhLRnFiZUw3aQ?oc=5\" target=\"_blank\">A NYC Social Worker Referred a Shelter Resident to ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hell Gate</font>",
@@ -7672,6 +7690,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1s94948/thai_diner/",
+      "title": "Thai diner",
+      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>We got the cheese steak, disco fries and the drunken noodles with chicken. Incredible bites and flavor. I also love their bar - the cheesesteak is absolute packed with flavor but might be too much to have by yourself. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Low_Refrigerator_666\"> /u/Low_Refrigerator_666 </a> <br /> <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1s94948/thai_diner/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1s94948/thai_diner/\">[comments]</a></span>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-03-31T23:48:52+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1s8u7nm/went_to_ambassadors_clubhouse_last_night/",
       "title": "Went to Ambassador's Clubhouse last night",

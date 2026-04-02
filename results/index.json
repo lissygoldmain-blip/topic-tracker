@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.artsjournal.com/2026/04/good-morning-138.html",
+      "title": "Good Morning",
+      "snippet": "The Met Museum&#8217;s first-ever Native American curator, Patricia Marroquin Norby, has resigned \u2014 a hire once celebrated as a watershed (ARTnews). Institutions rewriting their own stories is today&#8217;s quiet theme. A sharp piece argues that arts organizations are still governed by inherited structures that assume a centrality that no longer exists (ArtsHub). Australia is testing [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-02T01:24:04.371108+00:00",
+      "published_at": "2026-04-01T23:04:34+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/kamrooz-aram-breaks-down-the-grid/",
       "title": "Kamrooz Aram Breaks Down the Grid",
       "snippet": "Rather than deconstruct Western modernism or reinsert Islamic visual idioms, the artist loosens the grip of the grid.",
@@ -4601,6 +4619,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://www.thecity.nyc/2026/04/01/zhan-johnny-petrosyants-eric-adams-insurance-fraud/",
+      "title": "Feds Indict Another Eric Adams Pal, This One for Insurance Fraud",
+      "snippet": "<figure><img alt=\"Johnny Petrosyants looks at artwork with then-Mayor Eric Adams in 2023.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2026/04/petrosyants_and_adams_2023.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A longtime pal of ex-Mayor Eric Adams who ran one of the nightlife mayor&#8217;s favorite haunts was indicted Wednesday in an alleged scheme to submit tens of millions of dollars of bogus no-fault car insurance claims. Zhan &#8220;Johnny&#8221; Petrosyants, 44, was taken into custody late Tuesday and was set to be presented in court Wednesday. [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/01/zhan-johnny-petrosyants-eric-adams-insurance-fraud/\">Feds Indict Another Eric Adams Pal, This One for Insurance Fraud</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-02T01:25:37.283814+00:00",
+      "published_at": "2026-04-01T22:26:45+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://qns.com/2026/04/sunnyside-restaurant-week-returns-april/",
       "title": "Sunnyside Restaurant Week to return this month with over 50 restaurants",
       "snippet": "The annual Sunnyside Restaurant Week is set to return later in April with deals at more than 50 local restaurants as part of an effort to help local businesses and showcase the neighborhood as a true culinary destination. The two-week culinary celebration, which runs from April 20 through May 4, gives out-of-towners and local residents...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/sunnyside-restaurant-week-returns-april/\">Read More</a>",
@@ -6729,6 +6765,42 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS1dOSXpiT2FvNWxGRl9uOFVsWHhTR1pSd09uRlNURzB3a1NqbHBIdUh0VlAwYlpkUU50ejY2WFNkXzJLZUFKOHNEX0tWaXZYbnppZGhIakNLSXF6VzNEWmlSdF9EOHNrRWgxU0FQM1d3Q1RCYVdGeU9tY0p3ZmNpbXNMS3hjdUdzZVJYai1LdW00VmNac3QxaGx2dDM1UVBkRTI2WXlVV0JKd1lCZWFj?oc=5",
+      "title": "DOJ Admits ICE Engaged in Illegal Courthouse Arrests - National Today",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOS1dOSXpiT2FvNWxGRl9uOFVsWHhTR1pSd09uRlNURzB3a1NqbHBIdUh0VlAwYlpkUU50ejY2WFNkXzJLZUFKOHNEX0tWaXZYbnppZGhIakNLSXF6VzNEWmlSdF9EOHNrRWgxU0FQM1d3Q1RCYVdGeU9tY0p3ZmNpbXNMS3hjdUdzZVJYai1LdW00VmNac3QxaGx2dDM1UVBkRTI2WXlVV0JKd1lCZWFj?oc=5\" target=\"_blank\">DOJ Admits ICE Engaged in Illegal Courthouse Arrests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-02T01:33:26.065029+00:00",
+      "published_at": "2026-04-01T17:34:18+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkUmF3R1JHd2o1dHBwN2NTZ2c3T2J2bGFIcWJZWGhJTHNPaFNEbUl4d0VVTFJiY1dIMzMyZ0pVVWM1YTdFY0xCaU9QcjB1LVhaZld1MW4wSzNfcEo4clRTYTljSQ?oc=5",
+      "title": "House and Senate Republicans Reach Deal to End Homeland Security Shutdown - The New York Times",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkUmF3R1JHd2o1dHBwN2NTZ2c3T2J2bGFIcWJZWGhJTHNPaFNEbUl4d0VVTFJiY1dIMzMyZ0pVVWM1YTdFY0xCaU9QcjB1LVhaZld1MW4wSzNfcEo4clRTYTljSQ?oc=5\" target=\"_blank\">House and Senate Republicans Reach Deal to End Homeland Security Shutdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-02T01:33:26.065029+00:00",
+      "published_at": "2026-04-02T00:52:56+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpT0lmczdWSTdQcUV4dzNlTURJdzN0cmluYnZwbzVlckM3Rk1GWmRhWk9NbWFIcEVwTmhiWUVBTGVYSUljYkp6R3k0NGx6dFhpZjVmMVVORkxybE4yNXFxdXlxNVliOTFhV3fSAW9BVV95cUxPQ1hRQUhUcUtoak5GUEZFbm9HdW9BdkIwekxvVzZ4OWlCUjc1TkxkV0tRdlBBeW94YlJGRXRzUFVjX1VhLUt6ZzdjRjJMV0FUWjdWMVlfZzhUOWtnZE4zMEdDME1faExfeHdqaXVfZlE?oc=5",
       "title": "Democrats demand ICE limits as Buffalo refugee\u2019s death ruled a homicide - NEWS10 ABC",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBpT0lmczdWSTdQcUV4dzNlTURJdzN0cmluYnZwbzVlckM3Rk1GWmRhWk9NbWFIcEVwTmhiWUVBTGVYSUljYkp6R3k0NGx6dFhpZjVmMVVORkxybE4yNXFxdXlxNVliOTFhV3fSAW9BVV95cUxPQ1hRQUhUcUtoak5GUEZFbm9HdW9BdkIwekxvVzZ4OWlCUjc1TkxkV0tRdlBBeW94YlJGRXRzUFVjX1VhLUt6ZzdjRjJMV0FUWjdWMVlfZzhUOWtnZE4zMEdDME1faExfeHdqaXVfZlE?oc=5\" target=\"_blank\">Democrats demand ICE limits as Buffalo refugee\u2019s death ruled a homicide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NEWS10 ABC</font>",
@@ -7452,6 +7524,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5LUDNXTTJNd2R0d2tNRlBIS1RUVjRLSm9RLTdpTWQ5bnl2ZF9jNWJGYkMwd1d5NzhwNFJDNFRyYXZJTWVzYmVmdVl1ZGhnQ3BHeEx3VWtFUHh5UHlaYWphWHgxV3Z6Wkk3WndnMlBOTXVlRUVpaWhfLVRaX2hvQTBfRE5QVEJTZVRCRllCNU5ZY0xFTTVpRk1pcXppaG5jN2dYdGViU3psVmR6VFAwY3hB?oc=5",
+      "title": "Supreme Court appears likely to side against Trump on birthright citizenship - SCOTUSblog",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5LUDNXTTJNd2R0d2tNRlBIS1RUVjRLSm9RLTdpTWQ5bnl2ZF9jNWJGYkMwd1d5NzhwNFJDNFRyYXZJTWVzYmVmdVl1ZGhnQ3BHeEx3VWtFUHh5UHlaYWphWHgxV3Z6Wkk3WndnMlBOTXVlRUVpaWhfLVRaX2hvQTBfRE5QVEJTZVRCRllCNU5ZY0xFTTVpRk1pcXppaG5jN2dYdGViU3psVmR6VFAwY3hB?oc=5\" target=\"_blank\">Supreme Court appears likely to side against Trump on birthright citizenship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SCOTUSblog</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-02T01:34:05.627995+00:00",
+      "published_at": "2026-04-01T22:31:43+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmp4ZVNCNEllOVl5MEFhakpzQS1DXzRhUklNcFVPMVE4VGU1XzBSZXcxMjhTZkxXTUp4U3FXVGpLa2lzV3gtX1ZSLTlKaXFVWG80UXJpbUVSVFpEUEt1RDRqNVlSY3VSbkFnMWNtSkgzWEw5RDdpM09kSDhkaUN1UHVrbC1GUUJX?oc=5",
       "title": "Supreme Court appears skeptical over Trump\u2019s push to restrict citizenship at birth - The 19th News",

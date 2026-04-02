@@ -7867,6 +7867,24 @@
   ],
   "Politics & world": [
     {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnBiRGhPcWlPUEY2NHNpZGNrWWhLMUhWbHl0OWw3Y255MUhOZ1B1Z2d3bGp5ZWVVTDdiMVNzVDJxQmg3WVpVUlo5ZDRGZlVhT3F1a1o1SmNUVHJDR1NNc3J6cFdjckNDaE5HVmdZR0hmUU13c2VuQjhfbzNQVXE5dlFjNThnYnBLVFBxcEpJNHEtcF9qQmQwMTBvYkZMdzRWejkyZw?oc=5",
+      "title": "Live Coverage: Birthright Citizenship SCOTUS Oral Arguments - American Civil Liberties Union",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnBiRGhPcWlPUEY2NHNpZGNrWWhLMUhWbHl0OWw3Y255MUhOZ1B1Z2d3bGp5ZWVVTDdiMVNzVDJxQmg3WVpVUlo5ZDRGZlVhT3F1a1o1SmNUVHJDR1NNc3J6cFdjckNDaE5HVmdZR0hmUU13c2VuQjhfbzNQVXE5dlFjNThnYnBLVFBxcEpJNHEtcF9qQmQwMTBvYkZMdzRWejkyZw?oc=5\" target=\"_blank\">Live Coverage: Birthright Citizenship SCOTUS Oral Arguments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Civil Liberties Union</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-02T08:56:55.182364+00:00",
+      "published_at": "2026-04-01T14:32:50+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkI2bUwzNUxkOVo3b2ZvSjVQTkZxcDNweGMwTFB6eWkyOEg0S2FIeDlyMkhVLWxaNTVZR2gzNk1OQmxPbnNNOTVMcUdCZXNOWng1TTg3cFZEd2t5bE1Sa2JPSmZhT3c1RFBUTWQ2bTZWRng5bXJDU1VvRlhmTHlJenlOQkxrUDZCZ0NVcUREcnRjVWtxLUE?oc=5",
       "title": "Senate and House Republicans Strike Deal to End DHS Shutdown - The New York Times",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkI2bUwzNUxkOVo3b2ZvSjVQTkZxcDNweGMwTFB6eWkyOEg0S2FIeDlyMkhVLWxaNTVZR2gzNk1OQmxPbnNNOTVMcUdCZXNOWng1TTg3cFZEd2t5bE1Sa2JPSmZhT3c1RFBUTWQ2bTZWRng5bXJDU1VvRlhmTHlJenlOQkxrUDZCZ0NVcUREcnRjVWtxLUE?oc=5\" target=\"_blank\">Senate and House Republicans Strike Deal to End DHS Shutdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
@@ -8732,6 +8750,24 @@
     }
   ],
   "Shopping": [
+    {
+      "url": "https://jp.mercari.com/item/m51130084105",
+      "title": "KANEKO ISAO \u30d4\u30f3\u30af\u30b9\u30fc\u30c4\u30bb\u30c3\u30c8",
+      "snippet": "",
+      "source": "mercari",
+      "source_type": "shopping",
+      "topic_name": "Shopping",
+      "fetched_at": "2026-04-02T08:45:45.936078+00:00",
+      "published_at": null,
+      "price": "\u00a53,500",
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://jp.mercari.com/item/m60364385129",
       "title": "KANEKO ISAO \u30ab\u30cd\u30b3\u30a4\u30b5\u30aa \u30bb\u30c3\u30c8\u30a2\u30c3\u30d7",

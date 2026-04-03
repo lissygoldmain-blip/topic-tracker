@@ -2470,5 +2470,17 @@
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU1JOanBtajN4N0ctcDZBV3RNVXo0cjhIR1VHX0t4RUFVYWZPQUxUTGptZkhMRnc5Z1F3a2JOYzBYUDVnRDJWTElCSG8wODdtZXhueDFsNzVMNWR4Q2VLOGtIS1g0NXBSYTM1NHAtdVh2cXNYOVdsWV9BejJjdlVIV0R5M29QRURyX0V6WUNRUG1QbFlFaUplOThhZlZUaVlhR21KdHVfbXVGOXFqOTMw?oc=5": {
     "seen_at": "2026-04-03T03:59:38.956902+00:00",
     "source_type": "news"
+  },
+  "https://jp.mercari.com/item/2JPKArCKNM9gT4wbes54Ca": {
+    "seen_at": "2026-04-03T04:24:00.293234+00:00",
+    "source_type": "shopping"
+  },
+  "https://nyc.streetsblog.org/2026/04/03/state-bill-would-stop-highway-expansions-near-vulnerable-new-yorkers": {
+    "seen_at": "2026-04-03T04:27:20.361541+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.indiewire.com/features/podcast/pizza-movie-britanick-interview-hulu-stoner-comedy-1235186684/": {
+    "seen_at": "2026-04-03T04:29:21.993688+00:00",
+    "source_type": "feeds"
   }
 }

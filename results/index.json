@@ -2149,6 +2149,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://www.indiewire.com/features/craft/mike-and-nick-and-nick-and-alice-director-interview-1235186469/",
+      "title": "Two Vince Vaughns Are Better Than One for the Director of \u2018Mike & Nick & Nick & Alice\u2019",
+      "snippet": "Writer/director BenDavid Grabinski tells IndieWire about the surprising complexity behind his time-traveling buddy comedy.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-03T07:03:08.289085+00:00",
+      "published_at": "2026-04-02T21:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.indiewire.com/features/podcast/pizza-movie-britanick-interview-hulu-stoner-comedy-1235186684/",
       "title": "The Sketch Comedy Team Behind \u2018Pizza Movie\u2019 Delivers a Stoner Comedy High on Cinema Itself",
       "snippet": "BriTANicK's Brian McElhaney and Nick Kocher tell IndieWire about making their feature debut with a visually inventive Hulu comedy that elevates low comedy to high art.",
@@ -3721,6 +3739,24 @@
     }
   ],
   "AI & tech research": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLUtWbk9lazVTQ3V0ZDhZZG5rWFViSjQ0aTlGT0E5NGJrWGd0UEEwWUgwOExLMXRiclZqZ3ZPa0gwaHlhTnp5T21ESU1jSTAzTU1ncV9odVlqMThDYXI4a2lpcS1fQ1UzdE8tcHlEVENQSHVzdDVKUk5FVGFaclQ0WWN0N1Nyd9IBiwFBVV95cUxPUVpsaFdUX3g0VjRxNnN3Ny1fZThyMVJlWVYzN19HTTVEdUdxQ1RVR3FLaUJUQVRrSWxHcjEwY0FNSm50bWt4NjJDQTVDSW1fTzhPYVM2cFktZUZHTzVSdWJPSW42VTlmUHlhU0xfdDhESk5QQmlkQjRyeHdFWVdJaGFzRkFPM0poNVlB?oc=5",
+      "title": "Anthropic leaks part of Claude Code's internal source code - CNBC",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNLUtWbk9lazVTQ3V0ZDhZZG5rWFViSjQ0aTlGT0E5NGJrWGd0UEEwWUgwOExLMXRiclZqZ3ZPa0gwaHlhTnp5T21ESU1jSTAzTU1ncV9odVlqMThDYXI4a2lpcS1fQ1UzdE8tcHlEVENQSHVzdDVKUk5FVGFaclQ0WWN0N1Nyd9IBiwFBVV95cUxPUVpsaFdUX3g0VjRxNnN3Ny1fZThyMVJlWVYzN19HTTVEdUdxQ1RVR3FLaUJUQVRrSWxHcjEwY0FNSm50bWt4NjJDQTVDSW1fTzhPYVM2cFktZUZHTzVSdWJPSW42VTlmUHlhU0xfdDhESk5QQmlkQjRyeHdFWVdJaGFzRkFPM0poNVlB?oc=5\" target=\"_blank\">Anthropic leaks part of Claude Code's internal source code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-03T07:14:21.653008+00:00",
+      "published_at": "2026-03-31T20:56:15+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU1JOanBtajN4N0ctcDZBV3RNVXo0cjhIR1VHX0t4RUFVYWZPQUxUTGptZkhMRnc5Z1F3a2JOYzBYUDVnRDJWTElCSG8wODdtZXhueDFsNzVMNWR4Q2VLOGtIS1g0NXBSYTM1NHAtdVh2cXNYOVdsWV9BejJjdlVIV0R5M29QRURyX0V6WUNRUG1QbFlFaUplOThhZlZUaVlhR21KdHVfbXVGOXFqOTMw?oc=5",
       "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize - VentureBeat",

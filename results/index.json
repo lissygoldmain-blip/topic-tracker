@@ -3776,6 +3776,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUHF1OGZZU0RRRGl6ZHJDRDBkb25pQ3VTSC1YbGcyRXY4UFF4VzBMb1o3dEpjOE0yZGtoNGZQSFlEWUF6VVdkRXZ4aGlPbGRpbkhhOF8tNF9EVmdfQzU4cldDOE8wdThlN0IzWnVXcmFJUW9WS2o0Y3lTVDRqb0YtV19xUmNjdGt0eUlhN0tWZEw4RktLdlc3MEJJZERiVGJteHhv?oc=5",
+      "title": "Google And Nvidia Launch Gemma 4 AI Models For Data Centres And Edge Devices - SMBtech",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUHF1OGZZU0RRRGl6ZHJDRDBkb25pQ3VTSC1YbGcyRXY4UFF4VzBMb1o3dEpjOE0yZGtoNGZQSFlEWUF6VVdkRXZ4aGlPbGRpbkhhOF8tNF9EVmdfQzU4cldDOE8wdThlN0IzWnVXcmFJUW9WS2o0Y3lTVDRqb0YtV19xUmNjdGt0eUlhN0tWZEw4RktLdlc3MEJJZERiVGJteHhv?oc=5\" target=\"_blank\">Google And Nvidia Launch Gemma 4 AI Models For Data Centres And Edge Devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SMBtech</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-03T08:59:27.122564+00:00",
+      "published_at": "2026-04-03T02:37:06+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNGU1LW5rZE93QnZGV0QwQkdLTW8yY2ZMTy1fSUxqclZEanI5UF8tUlBvWDl3MkxKTmxucnI2eFptV1I3TFVxMHFVSkllX3F6QXRRSC1BZy1jUlZidDBDMVRHSkVIZ3pwVDVfdm41dWZJbkxfY0xqZEpkVGRucHNWenJYWE1icFYxcG91VVlPV3dlTlRYQnR0eEFSUEtObExaRGRqa0hmQU9XQnMzOHBtZXFlWUVUZDQ5RDJrdEZUSGthSXppSlF2ZENDNTdlWWfSAdQBQVVfeXFMT2NocWQzSGRPdWpuMFF3ZTVDYk5jc0FOSUtqS2FJNWRXVFJkM0Q5S2VOVWFFS29jMlFYUE5LTWpFall3Y2NGY1B1WWV0ZDdCVUh0MVFnSjJ4TG1TN2lRS293T1pmbWFJdDdlYV9mcTdGMWtuQ21xb1FTMDFjR2NYWFlnUkhoc18ydm5qZGtROTlhOW4tWU9CNk42SnBCLUlzSHVVWkwwRnFIZVMxZGY1TTVpbW9DMlMzNTZqM0V2bGZSWFdGZVpIV2VLdE9CUGQ4dk80WjI?oc=5",
       "title": "Microsoft to take to Ai competitors with launch of three cutting-edge foundational models - Firstpost",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPNGU1LW5rZE93QnZGV0QwQkdLTW8yY2ZMTy1fSUxqclZEanI5UF8tUlBvWDl3MkxKTmxucnI2eFptV1I3TFVxMHFVSkllX3F6QXRRSC1BZy1jUlZidDBDMVRHSkVIZ3pwVDVfdm41dWZJbkxfY0xqZEpkVGRucHNWenJYWE1icFYxcG91VVlPV3dlTlRYQnR0eEFSUEtObExaRGRqa0hmQU9XQnMzOHBtZXFlWUVUZDQ5RDJrdEZUSGthSXppSlF2ZENDNTdlWWfSAdQBQVVfeXFMT2NocWQzSGRPdWpuMFF3ZTVDYk5jc0FOSUtqS2FJNWRXVFJkM0Q5S2VOVWFFS29jMlFYUE5LTWpFall3Y2NGY1B1WWV0ZDdCVUh0MVFnSjJ4TG1TN2lRS293T1pmbWFJdDdlYV9mcTdGMWtuQ21xb1FTMDFjR2NYWFlnUkhoc18ydm5qZGtROTlhOW4tWU9CNk42SnBCLUlzSHVVWkwwRnFIZVMxZGY1TTVpbW9DMlMzNTZqM0V2bGZSWFdGZVpIV2VLdE9CUGQ4dk80WjI?oc=5\" target=\"_blank\">Microsoft to take to Ai competitors with launch of three cutting-edge foundational models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firstpost</font>",
@@ -5480,26 +5498,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEVBdDhIajZlV21pdUwwaktqc0tnSWdqRUhzS3Q5RGktMEsxSndfazRFd29zZ3pZMjROa0ZfTGw1dnJyekswcFpxeTBaTmk2c21ZUFdBeGVmQjdtWXhVTFd3SGdrXzRsaEtmXzJFMnJmcGo5aklUbGJFNk94ZERMcGdWdndxVkxYX25zRVlDcDNLcksxSi1UaEMtTXd2REU0X1FEUnk5QlVvalB4Ymw4M0plR2pOZUhwcGluRjFLY0lYRnJEU1RNR0NZQ2VWSkNDSVBwb0tRWnExTDhpcjAybWNfOA?oc=5",
-      "title": "Exclusive: Anthropic is testing \u2018Mythos,\u2019 its \u2018most powerful AI model ever developed\u2019 - fortune.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEVBdDhIajZlV21pdUwwaktqc0tnSWdqRUhzS3Q5RGktMEsxSndfazRFd29zZ3pZMjROa0ZfTGw1dnJyekswcFpxeTBaTmk2c21ZUFdBeGVmQjdtWXhVTFd3SGdrXzRsaEtmXzJFMnJmcGo5aklUbGJFNk94ZERMcGdWdndxVkxYX25zRVlDcDNLcksxSi1UaEMtTXd2REU0X1FEUnk5QlVvalB4Ymw4M0plR2pOZUhwcGluRjFLY0lYRnJEU1RNR0NZQ2VWSkNDSVBwb0tRWnExTDhpcjAybWNfOA?oc=5\" target=\"_blank\">Exclusive: Anthropic is testing \u2018Mythos,\u2019 its \u2018most powerful AI model ever developed\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fortune.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-03-27T03:27:00+00:00",
+      "url": "https://nyc.streetsblog.org/2026/04/02/highway-therapy-lawsuit-reveals-alarming-details-of-nypds-rampant-car-culture",
+      "title": "\u2018Highway Therapy\u2019: Lawsuit Reveals Alarming Details Of NYPD\u2019s Rampant Car Culture",
+      "snippet": "An NYPD officer is suing the city and three current and former members of the police department, alleging unlawful retaliation for failing to recognize a superior and writing parking tickets to teachers.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-03T08:46:11.389730+00:00",
+      "published_at": "2026-04-02T04:03:00+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcTlNQkZFdEZKQXdYZzJaOWtjYVYyR3FRc3RPM1F4RF9reHRHRVMzdWU1TjFPa3pqZFVMT21Cb1VFTDhkUjhnTFNvN3Q0UkVLb3RZY01wRUVJRUY5ZUNLMHpnYThQZ0RncWxCS1R6OWdPMDlPTnFDbWg2RUpPTHlJS3c1M1FSSEQ2RXNXc1RScXdiY054WmJBM1ZBbFNKbHMyM2tWQW92eGdOUWFoT1NRODJaX29iaGIyRFo2N2NzU3k5Zw?oc=5",
       "title": "Man and woman fatally shot in apparent murder-suicide at Queens apartment: sources - Audacy",
@@ -8295,6 +8314,42 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0YxV1d6VzlYa0EzVnIyUXU2Vk9LRkM0cjQ5U0lmZ1IzR3lNb1BzdGFaQ0ZiLXI5akt1bHpPYnpjSElzQ3JMUlNoNU1CdVd6QmZaMGZURVQtUktPNUhCTUNpdHQ0SUh2aHlxbXBTaXRKNUhFU0E0ZFdlTUZacjdPOHNrSVo3TmpFTlNCamJBXzJtTHhQTUpkX2RyVG9mS1l3Y2QxcHpLTUZCaDAtZjV1blVFclg2OXFN?oc=5",
+      "title": "NYC councilwoman\u2019s house raided over corruption scandal linked to migrant shelters - Washington Examiner",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0YxV1d6VzlYa0EzVnIyUXU2Vk9LRkM0cjQ5U0lmZ1IzR3lNb1BzdGFaQ0ZiLXI5akt1bHpPYnpjSElzQ3JMUlNoNU1CdVd6QmZaMGZURVQtUktPNUhCTUNpdHQ0SUh2aHlxbXBTaXRKNUhFU0E0ZFdlTUZacjdPOHNrSVo3TmpFTlNCamJBXzJtTHhQTUpkX2RyVG9mS1l3Y2QxcHpLTUZCaDAtZjV1blVFclg2OXFN?oc=5\" target=\"_blank\">NYC councilwoman\u2019s house raided over corruption scandal linked to migrant shelters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-03T08:54:12.315253+00:00",
+      "published_at": "2026-04-02T19:37:44+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLS1jQXpMUVU1cXNJeEhObkhjUklWUjNEem1fYnphb2FnWmRSbWlvQVQwNlQ0Z3VMc2ZUbjU3a1JZRHVzMXQ1MWlCWTFQdXlCempJVTNRMTZYZDVwcF92b29sUnhQNE9KRnRtaTdxTGhtN1M5TTQ0Q0R0djRpT2xDZXZqdW5KS0NDd2U3OHp2RTjSAZYBQVVfeXFMT3cyV241c2w2MlFKaDk1Y2J4M0I2OHNEdnE0SFFjMThsNGhFQ214X3BXRkt6RUxta2pMdHFMcmVJMUc1S3hmaFdvdVBHZnZPY3J1cmVXaVJ1amhtNl9XcHRZbmFnNjMtYWFqWFBqNkMwTVNrY212eFVaYUNoY09Cd0h0WDJmNTlPRlVXbWVDVEhHUmNyNThn?oc=5",
+      "title": "NJ pastor detained by ICE being held at Delaney Hall in Newark - ABC7 New York",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPLS1jQXpMUVU1cXNJeEhObkhjUklWUjNEem1fYnphb2FnWmRSbWlvQVQwNlQ0Z3VMc2ZUbjU3a1JZRHVzMXQ1MWlCWTFQdXlCempJVTNRMTZYZDVwcF92b29sUnhQNE9KRnRtaTdxTGhtN1M5TTQ0Q0R0djRpT2xDZXZqdW5KS0NDd2U3OHp2RTjSAZYBQVVfeXFMT3cyV241c2w2MlFKaDk1Y2J4M0I2OHNEdnE0SFFjMThsNGhFQ214X3BXRkt6RUxta2pMdHFMcmVJMUc1S3hmaFdvdVBHZnZPY3J1cmVXaVJ1amhtNl9XcHRZbmFnNjMtYWFqWFBqNkMwTVNrY212eFVaYUNoY09Cd0h0WDJmNTlPRlVXbWVDVEhHUmNyNThn?oc=5\" target=\"_blank\">NJ pastor detained by ICE being held at Delaney Hall in Newark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 New York</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-03T08:54:11.733347+00:00",
+      "published_at": "2026-04-02T20:19:10+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmFGVktwd1gzV0ZINTJYb0ptdV94OUVsRUc0b091TmtyS2JUZzNUckJLWl9KQ1dlTWhSRzNtd1hIZ3JfV0dtX2J0alJfaExlNmVuUE9YM19PdlMzZTZJM0VRQ3ZzNW9aa2haU3NmaGQ1NlUtYTdaN1dESF9IUWg4Mg?oc=5",
       "title": "New Jersey pastor detained by ICE weeks before Easter - CBS News",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmFGVktwd1gzV0ZINTJYb0ptdV94OUVsRUc0b091TmtyS2JUZzNUckJLWl9KQ1dlTWhSRzNtd1hIZ3JfV0dtX2J0alJfaExlNmVuUE9YM19PdlMzZTZJM0VRQ3ZzNW9aa2haU3NmaGQ1NlUtYTdaN1dESF9IUWg4Mg?oc=5\" target=\"_blank\">New Jersey pastor detained by ICE weeks before Easter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
@@ -9180,6 +9235,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnRPaGMyVF9scjR3MGZzYUl3U0RqSEQ4ODJvWFhpMm9kd3JoNVZSek45M3BVNWR0QU41SEZaMVBodkZ5WG9Gei1NOVBkdjZwaEVGX2FQYWlJeW15YU1ia0sxcWQxbGdrZmZyR3EyZWJTclNtZDhvbzlsUHVVSzRMRUdjVEo4SGc0NThjS2lvSi1FaEw0dDZteVhyc1liLUtpQjdkd1NId0JHbUFNdE1mUUlqU0R4WXlUb25QZ3gzUTNHaE5MakJRdl9OOW1ORGhRaTFIQmxRRU5XaHE1MGxqdnRkT0NhcnM?oc=5",
+      "title": "Aurora forced to revisit hundreds of criminal cases after Supreme Court ruling - Denver7",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxORnRPaGMyVF9scjR3MGZzYUl3U0RqSEQ4ODJvWFhpMm9kd3JoNVZSek45M3BVNWR0QU41SEZaMVBodkZ5WG9Gei1NOVBkdjZwaEVGX2FQYWlJeW15YU1ia0sxcWQxbGdrZmZyR3EyZWJTclNtZDhvbzlsUHVVSzRMRUdjVEo4SGc0NThjS2lvSi1FaEw0dDZteVhyc1liLUtpQjdkd1NId0JHbUFNdE1mUUlqU0R4WXlUb25QZ3gzUTNHaE5MakJRdl9OOW1ORGhRaTFIQmxRRU5XaHE1MGxqdnRkT0NhcnM?oc=5\" target=\"_blank\">Aurora forced to revisit hundreds of criminal cases after Supreme Court ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Denver7</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-03T08:54:46.555692+00:00",
+      "published_at": "2026-04-03T07:02:14+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRi1zNDZhX0xtRWJaREF5ZjliZ1FCMDJSR044WTBsTzVKRWttdFFBQjh3MXBPb0FsZ3FqREliNWlKYUI2TTVjU3AxZmdoRXl1OUZvb2tmLUZlZHZBMkwyT0RUVDF5dEQ0Q1JWaldyTmprWGRtS2JmWnZhb3JESkU1WUZkSTJoQQ?oc=5",
       "title": "NC Supreme Court throws out multibillion-dollar plan, ends long-running Leandro lawsuit - WRAL",

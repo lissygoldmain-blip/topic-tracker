@@ -3830,6 +3830,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZC1FeFpIRnFPb1lwbWpuMy0ySW1IbExPeVhWZlZXLXZaNjhZLXFCUWwweEZIZ0xkNGY2SzZNS3pPd0NkTVF5dlhBNWRxWlRVV0lKRmZkLWRhXzhNcWwyVC0tWkRyb3hzZDh4STFkRG9oWHl6SGllLXB3R2ZUQVdzWjNkcXFWOVpDZ1RZ?oc=5",
+      "title": "Google Launches Gemma 4 Open AI Models Under Apache 2.0 License - MLQ.ai",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZC1FeFpIRnFPb1lwbWpuMy0ySW1IbExPeVhWZlZXLXZaNjhZLXFCUWwweEZIZ0xkNGY2SzZNS3pPd0NkTVF5dlhBNWRxWlRVV0lKRmZkLWRhXzhNcWwyVC0tWkRyb3hzZDh4STFkRG9oWHl6SGllLXB3R2ZUQVdzWjNkcXFWOVpDZ1RZ?oc=5\" target=\"_blank\">Google Launches Gemma 4 Open AI Models Under Apache 2.0 License</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLQ.ai</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-03T12:57:36.066594+00:00",
+      "published_at": "2026-04-03T11:45:02+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2VMVGRGZXdaUWREUUIzT0hlYXBZTDkybEgyeFVTUDg3Q04yZjZTMUpXZGEweEpnUnptZWYweTNPbG9ZU0JfbDZEN1lxc3NCU2hCdnZ1d1ZadDY5Y0ZrcElfTnZQbUxSUU5oV1BLZHhZajF1MVo1dlVKczJyMXRyeHFuU1FMcDZEX0RTcThiYkVSeTlDYmRiaHNfUQ?oc=5",
       "title": "Google Gemma AI Model: New Release, Productivity Boost & More - Deccan Herald",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2VMVGRGZXdaUWREUUIzT0hlYXBZTDkybEgyeFVTUDg3Q04yZjZTMUpXZGEweEpnUnptZWYweTNPbG9ZU0JfbDZEN1lxc3NCU2hCdnZ1d1ZadDY5Y0ZrcElfTnZQbUxSUU5oV1BLZHhZajF1MVo1dlVKczJyMXRyeHFuU1FMcDZEX0RTcThiYkVSeTlDYmRiaHNfUQ?oc=5\" target=\"_blank\">Google Gemma AI Model: New Release, Productivity Boost & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
@@ -5537,26 +5555,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEhwUnRPVTlWdURYTmt4TlB0djZNU1k1dlpiY0xaZXVOTi12SGZyOG5Ub0JPMlRpczlmcnBfVGVZMUhFLVFtdU1ZWk1ic2JnUkF4bmxBUnF2aVR3RTRta2RwTHRSYW5pLTJTVnpqVjFpaEdDY3cxSWZmYW16ZlM5ZHFDS1Bnb0dJWHl4aktCNHpBd2VvMTAwWUJOc2FEUQ?oc=5",
-      "title": "OpenAI\u2019s Next AI Model Will Have \u2018Extreme\u2019 Reasoning - theinformation.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcEhwUnRPVTlWdURYTmt4TlB0djZNU1k1dlpiY0xaZXVOTi12SGZyOG5Ub0JPMlRpczlmcnBfVGVZMUhFLVFtdU1ZWk1ic2JnUkF4bmxBUnF2aVR3RTRta2RwTHRSYW5pLTJTVnpqVjFpaEdDY3cxSWZmYW16ZlM5ZHFDS1Bnb0dJWHl4aktCNHpBd2VvMTAwWUJOc2FEUQ?oc=5\" target=\"_blank\">OpenAI\u2019s Next AI Model Will Have \u2018Extreme\u2019 Reasoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theinformation.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-03-04T08:00:00+00:00",
+      "url": "https://www.amny.com/news/bernie-sanders-ny-7-race-back-mamdanis-pick/",
+      "title": "Bernie Sanders wades into NY-7 race to back Mamdani\u2019s pick to replace Vel\u00e1zquez",
+      "snippet": "U.S. Sen. Bernie Sanders endorsed Assembly Member Claire Valdez on Thursday in the Democratic primary for New York\u2019s 7th Congressional District, giving Mayor Zohran Mamdani\u2019s preferred candidate a major boost in the race to succeed retiring U.S. Rep. Nydia Vel\u00e1zquez. The endorsement puts Sanders, one of the biggest champions of democratic socialism in American\u2026 <a class=\"read-more\" href=\"https://www.amny.com/news/bernie-sanders-ny-7-race-back-mamdanis-pick/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-03T12:44:48.749772+00:00",
+      "published_at": "2026-04-03T12:25:02+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://nyc.streetsblog.org/2026/04/02/highway-therapy-lawsuit-reveals-alarming-details-of-nypds-rampant-car-culture",
       "title": "\u2018Highway Therapy\u2019: Lawsuit Reveals Alarming Details Of NYPD\u2019s Rampant Car Culture",

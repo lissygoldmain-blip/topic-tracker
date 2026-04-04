@@ -1474,6 +1474,24 @@
   ],
   "Health research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVJFcUtRSnEtYjFxVll1eDVTWTlYYWFVX3pQYVhUeHh3c1BmQmcxNFV0VmgzRlNhT191UTUtMlM0WGpwRzRhemNmaVczZEdyQVZPNVRsWFVkMVdVWVFCUmZNMzY0WWdrRUpoWmc1R09oNXBYSXB3YUdFRWZoTm5vQlZGTlV6Y0YtMGoybDV2LTZPbmpVX1kxY0hicm5XSXRfSEdWMmdEQjBWRDQzRElV?oc=5",
+      "title": "Could Ozempic, a Diabetes medication, act as an antidepressant? New findings suggest a link - Explained PH",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVJFcUtRSnEtYjFxVll1eDVTWTlYYWFVX3pQYVhUeHh3c1BmQmcxNFV0VmgzRlNhT191UTUtMlM0WGpwRzRhemNmaVczZEdyQVZPNVRsWFVkMVdVWVFCUmZNMzY0WWdrRUpoWmc1R09oNXBYSXB3YUdFRWZoTm5vQlZGTlV6Y0YtMGoybDV2LTZPbmpVX1kxY0hicm5XSXRfSEdWMmdEQjBWRDQzRElV?oc=5\" target=\"_blank\">Could Ozempic, a Diabetes medication, act as an antidepressant? New findings suggest a link</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Explained PH</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-04-04T03:34:26.754856+00:00",
+      "published_at": "2026-04-02T12:39:41+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSklWUzVteHFvMVo2dVJiNUFyVF9yWXBULVA2eDJ0c2dVVG0yNHM5SjJuaGVDRlFmRmFfamhERTRvQndUcVhNcUg4OFVsWGF0cUxVdjQ2NnRPR3VSUi01NG9BX1hVaXRaVldXRVo1RmdoNEtoVVJjTGhtZUZWcEo0Z1llUGxKZDFrTTlfZE56ZjUzSzZiMWY0bVhEazlRZw?oc=5",
       "title": "Can Taking a GLP-1 Before Pregnancy Endanger Mother or Baby? - everydayhealth.com",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNSklWUzVteHFvMVo2dVJiNUFyVF9yWXBULVA2eDJ0c2dVVG0yNHM5SjJuaGVDRlFmRmFfamhERTRvQndUcVhNcUg4OFVsWGF0cUxVdjQ2NnRPR3VSUi01NG9BX1hVaXRaVldXRVo1RmdoNEtoVVJjTGhtZUZWcEo0Z1llUGxKZDFrTTlfZE56ZjUzSzZiMWY0bVhEazlRZw?oc=5\" target=\"_blank\">Can Taking a GLP-1 Before Pregnancy Endanger Mother or Baby?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">everydayhealth.com</font>",
@@ -3992,6 +4010,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3BxcXljd0k5Y2taSTFPZjc5ODdKUllWWjg1M2RrWm44WE9lY1l6WXBrN2dGT1JaZmZQbkVmTXRIbkpjRTlGaHdqYjF5V3kwbFlONTRucHQ5NVh1aW41ZnBHYzQ1c082UTBTNHEzcVplQTdHTHpQQk9BelhQZms4WDVSdmJGT2tQMVRMMjJCdk1RZ05pNHJKLV9GNms?oc=5",
+      "title": "Google launches Gemma 4, a new open-source model: How to try it - Mashable",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxON3BxcXljd0k5Y2taSTFPZjc5ODdKUllWWjg1M2RrWm44WE9lY1l6WXBrN2dGT1JaZmZQbkVmTXRIbkpjRTlGaHdqYjF5V3kwbFlONTRucHQ5NVh1aW41ZnBHYzQ1c082UTBTNHEzcVplQTdHTHpQQk9BelhQZms4WDVSdmJGT2tQMVRMMjJCdk1RZ05pNHJKLV9GNms?oc=5\" target=\"_blank\">Google launches Gemma 4, a new open-source model: How to try it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-04T03:45:39.134205+00:00",
+      "published_at": "2026-04-03T23:02:11+00:00",
+      "price": null,
+      "novelty_score": 0.9,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEczNhZEtxSG51c01kS1dkM3RESWdTUWpndEpVeEYxSWJwaU0yWjVmRUk0cm5QYUdxOWJsaVNtV3JDMVIyVTlYc1lldVNMT3BOeTN2aGE0M0t5X29KSzR4Mmd3WkZEbkJCTk1VNVJrYnd3MTFPcy1n?oc=5",
       "title": "Microsoft launches three in-house AI models in direct challenge to OpenAI - thenextweb.com",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBEczNhZEtxSG51c01kS1dkM3RESWdTUWpndEpVeEYxSWJwaU0yWjVmRUk0cm5QYUdxOWJsaVNtV3JDMVIyVTlYc1lldVNMT3BOeTN2aGE0M0t5X29KSzR4Mmd3WkZEbkJCTk1VNVJrYnd3MTFPcy1n?oc=5\" target=\"_blank\">Microsoft launches three in-house AI models in direct challenge to OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thenextweb.com</font>",
@@ -5700,23 +5736,6 @@
       "fetched_at": "2026-03-27T03:25:00+00:00",
       "price": null,
       "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUZRMlRiOS1jRTQ5d20xcnRwck9JZ2pRdFlHNWFXSWJXODRGQlBTUHJ3bnh3ZkRXbWw5eUNLRGtZTXBodEgwb3dNZGVodEZhSnhqd2lSZGMxc2tlbmhLQ3hRTHNjdWxYYUVoU1VLUUU5OXM4cTBhOFNUR1NLYmpXMkVoR2d3M0hVM290eFJ4X3RmbkFVd0Jv?oc=5",
-      "title": "Source.ag releases new AI model for tomato harvest forecasting - Greenhouse Management",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUZRMlRiOS1jRTQ5d20xcnRwck9JZ2pRdFlHNWFXSWJXODRGQlBTUHJ3bnh3ZkRXbWw5eUNLRGtZTXBodEgwb3dNZGVodEZhSnhqd2lSZGMxc2tlbmhLQ3hRTHNjdWxYYUVoU1VLUUU5OXM4cTBhOFNUR1NLYmpXMkVoR2d3M0hVM290eFJ4X3RmbkFVd0Jv?oc=5\" target=\"_blank\">Source.ag releases new AI model for tomato harvest forecasting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Greenhouse Management</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-03-24T20:16:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -9766,6 +9785,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHQtbmlicUZ3Z19xSExsZXZwVE54cS1pTHVHQWM1WDM2RjBwTkVUTGw1TnFoWmxBZVFMRkJiNVVNUWU2c1pORURYWEpHa244VDlENl9zR3RJSlE0ZndyTmREZUE2NU83QWVjemFRQWIycXVXbnVWMk5Tc25uQ3RxTFhidEFJclpiQ2pJdkNraGdZNzR3cVdzN3Z0cUFXbzItYXZRbHFxQ2FSRUxKalRJU0hNenNNZzl4a3ZkZm1ISQ?oc=5",
+      "title": "Supreme Court justices skeptical of Trump order to restrict birthright citizenship - Reuters",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHQtbmlicUZ3Z19xSExsZXZwVE54cS1pTHVHQWM1WDM2RjBwTkVUTGw1TnFoWmxBZVFMRkJiNVVNUWU2c1pORURYWEpHa244VDlENl9zR3RJSlE0ZndyTmREZUE2NU83QWVjemFRQWIycXVXbnVWMk5Tc25uQ3RxTFhidEFJclpiQ2pJdkNraGdZNzR3cVdzN3Z0cUFXbzItYXZRbHFxQ2FSRUxKalRJU0hNenNNZzl4a3ZkZm1ISQ?oc=5\" target=\"_blank\">Supreme Court justices skeptical of Trump order to restrict birthright citizenship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-04T03:41:03.514198+00:00",
+      "published_at": "2026-04-03T06:56:22+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEVGTXhqNW9GUERPQUVqLWdLUzRDV213aFlhejdoMk5ZMlo4Z01LN3FYRElSRDdWNm9tQy1XbEpmQmFwb3YtSzZIUmRtMERQTDF2TXZMSEEwRmk0OGZpV0NUVVJkQnppbFdfQ1RzZWtnQkNSQ3lvcjMycm8ybTl2WnZOY0kyZTNDOTRROWhINEJUODkwNUg0?oc=5",
       "title": "Trump plans to attend Wednesday's Supreme Court hearing on birthright citizenship - NPR",

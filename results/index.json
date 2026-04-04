@@ -4082,6 +4082,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMX191LXNma3E1VUZPVDlZT1A4MVFCNjJQaU9NdDR1bGo4b2ZMd2Z1QUVTdXNJdXpBemJNNXU3LW9NemFFOEZoMzZuUnZib2dPbkxxYmdrcHRyMG5va2JSWW5UUE45Z0ZaMWVuTEp1eUhEN3Ra?oc=5",
+      "title": "Google announces open AI model 'Gemma 4' and changes its license to Apache 2.0. - GIGAZINE",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBMX191LXNma3E1VUZPVDlZT1A4MVFCNjJQaU9NdDR1bGo4b2ZMd2Z1QUVTdXNJdXpBemJNNXU3LW9NemFFOEZoMzZuUnZib2dPbkxxYmdrcHRyMG5va2JSWW5UUE45Z0ZaMWVuTEp1eUhEN3Ra?oc=5\" target=\"_blank\">Google announces open AI model 'Gemma 4' and changes its license to Apache 2.0.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-04T20:35:33.302038+00:00",
+      "published_at": "2026-04-03T02:18:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTlA0Vl9Oem9UWnlVUk5ZR3NPMHZQNFhldHgwaW9QVHMxQ21wWE1HdnlYWHNhQXVldk1oV1dnUEpyNnZNT2FubUloOTk2WWFHaG13RzJVZURhbVF1dmxMVm1JRWNjOGM2WF8yX3dubkVURmVLRDJIR2hmd3hVYnI1UUo0OUlmU2FCWVBQdVFnMWNpSUVsRXFROW9oMmlfVHBIUVZ3WFI1cnhYbnkxaG1FdNIBtgFBVV95cUxPd3lVam52MmNyenpYVTN4by1fcldNdEotcnJkNmhjLU53bXRaS0hEbEtyd2lEZjZGRkl0dE04cFJTQXJSOTFMQTg3SFlPTHJLMlM2UTJIVnRva0wteXlsU2xIVXpXeDhtMDR2VWY1RjNmZm10SDBjdG5DSl9mMGR2RlhCdkhMd3M3d1hQRVdWMThtY3FJRlJpQnNWWkNfaGdpOWJYVU5mT2w5T3haaXlnME9nN1lGdw?oc=5",
       "title": "Qehwa AI: Pakistani Developer Creates World\u2019s First Pashto AI LLM and Chatbot - ProPakistani",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTlA0Vl9Oem9UWnlVUk5ZR3NPMHZQNFhldHgwaW9QVHMxQ21wWE1HdnlYWHNhQXVldk1oV1dnUEpyNnZNT2FubUloOTk2WWFHaG13RzJVZURhbVF1dmxMVm1JRWNjOGM2WF8yX3dubkVURmVLRDJIR2hmd3hVYnI1UUo0OUlmU2FCWVBQdVFnMWNpSUVsRXFROW9oMmlfVHBIUVZ3WFI1cnhYbnkxaG1FdNIBtgFBVV95cUxPd3lVam52MmNyenpYVTN4by1fcldNdEotcnJkNmhjLU53bXRaS0hEbEtyd2lEZjZGRkl0dE04cFJTQXJSOTFMQTg3SFlPTHJLMlM2UTJIVnRva0wteXlsU2xIVXpXeDhtMDR2VWY1RjNmZm10SDBjdG5DSl9mMGR2RlhCdkhMd3M3d1hQRVdWMThtY3FJRlJpQnNWWkNfaGdpOWJYVU5mT2w5T3haaXlnME9nN1lGdw?oc=5\" target=\"_blank\">Qehwa AI: Pakistani Developer Creates World\u2019s First Pashto AI LLM and Chatbot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ProPakistani</font>",
@@ -5793,23 +5811,6 @@
       "fetched_at": "2026-03-05T08:00:00+00:00",
       "price": null,
       "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
-      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5\" target=\"_blank\">NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-03-16T07:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -11501,6 +11502,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1scdl5r/the_383_dinner_series_kicks_off_with_ritual_an/",
+      "title": "The 383 Dinner Series Kicks off with Ritual: An Asian-Creole Chef\u2019s Table | April 17th & 18th",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1scdl5r/the_383_dinner_series_kicks_off_with_ritual_an/\"> <img alt=\"The 383 Dinner Series Kicks off with Ritual: An Asian-Creole Chef\u2019s Table | April 17th &amp; 18th\" src=\"https://preview.redd.it/e55mv84n97tg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=23e1ad774dae4c4a2c41f73f7852e2c6da81517a\" title=\"The 383 Dinner Series Kicks off with Ritual: An Asian-Creole Chef\u2019s Table | April 17th &amp; 18th\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The 383 Dinner Series Kicks Off \u2014 Ritual: Asian-Creole Chef's Table | April 17 &amp; 18</p> <p>383 Studios in Fort Greene, Brooklyn is launching its new dinner series, and it's starting with something special: Chefs Christian Gill &amp; Eric Howard bringing their Asian-Creole supper club concept to our space.</p> <p>Multi-course fire-fueled dinner exploring the collision of Asian technique and Creole tradition \u2014 layered spices, slow braises, bright herbs, deep savory notes. This is the first of many dinners planned in what we want to become one of Brooklyn's most unique recurring supper club nights.</p> <p>\ud83d\udccd 383 Studios, 383 Myrtle Ave, Brooklyn</p> <p>\ud83d\udcc5 April 17 &amp; 18</p> <p>\ud83c\udf77 Ages 21+</p> <p>\ud83c\udf9f\ufe0f <a href=\"https://www.eventbrite.com/e/ritual-an-asian-creole-chefs-table-with-christian-gill-eric-howard-tickets-1984404905491\">https://www.eventbrite.com/e/ritual-an-asian-creole-chefs-table-with-christian-gill-eric-howard-tickets-1984404905491</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nitnedno\"> /u/nitnedno </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1scdl5r\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1scdl5r/the_383_dinner_series_kicks_off_with_ritual_an/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-04T16:25:35+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sbktcc/birthday_week_eats/",
       "title": "Birthday Week Eats",

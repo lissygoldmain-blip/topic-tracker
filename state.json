@@ -125,9 +125,9 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-04T22:36:13.656639+00:00"
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       },
       "google_news": {
         "consecutive_failures": 0,
@@ -260,7 +260,7 @@
         "disabled_at": null
       },
       "mercari": {
-        "consecutive_failures": 0,
+        "consecutive_failures": 1,
         "disabled": false,
         "disabled_at": null
       },

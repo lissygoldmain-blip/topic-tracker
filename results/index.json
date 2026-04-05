@@ -5880,6 +5880,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://nyc.streetsblog.org/2026/04/02/breaking-hit-and-run-driver-kills-woman-on-deadly-ocean-avenue",
+      "title": "UPDATE: Hit-And-Run Ambulance Driver Kills Woman on Deadly Ocean Avenue",
+      "snippet": "The victim was taken to Maimonides Hospital, where she died. The driver fled. It turns out, he was driving an ambulance.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-05T14:31:03.329643+00:00",
+      "published_at": "2026-04-02T19:03:12+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://qns.com/2026/04/historical-significance-welcome-to-woodhaven-sign/",
       "title": "The historical significance of the new \u2018Welcome to Woodhaven\u2019 sign: Our Neighborhood, The Way it Was",
       "snippet": "Those who visit or pass through Woodhaven, Queens, will soon be greeted by a brand-new \u201cWelcome to Woodhaven\u201d sign. The sign, which will be unveiled at 10 a.m. on Saturday, July 11, will sit at the corner of Woodhaven Boulevard and 91st Avenue. There is already a \u201cWelcome to Woodhaven\u201d sign on Woodhaven Boulevard near...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/historical-significance-welcome-to-woodhaven-sign/\">Read More</a>",

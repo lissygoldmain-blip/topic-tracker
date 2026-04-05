@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.artsjournal.com/2026/04/melvin-edwards-sculptor-who-welded-the-african-diaspora-has-died-at-88.html",
+      "title": "Melvin Edwards, Sculptor Who Welded The African Diaspora, Has Died At 88",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/Screenshot-2026-04-04-at-08.42.26-150x150.png\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cEdwards rose to prominence in 1963 with the first works of what would become his most notable series, \u2018Lynch Fragments.\u2019 \u2026 He combined fragments of found and recycled steel and welded them into forms of chains, sharp tools, barbed wire and other metal objects.\u201d &#8211; Los Angeles Times (MSN)",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-05T18:31:50.107142+00:00",
+      "published_at": "2026-04-05T17:30:00+00:00",
+      "price": null,
+      "novelty_score": 0.95,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.nytimes.com/2026/04/03/arts/modigliani-nazi-court-ruling.html",
       "title": "After 11 Years In Court, Heirs Reclaim A Modigliani Looted By The Nazis",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/Screenshot-2026-04-04-at-07.27.23-150x150.png\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cThe claim, registered in a New York lawsuit filed in 2015,\u00a0has long been\u00a0disputed by the Nahmad family, a prominent dynasty of art dealers that wields enormous power in the international art market.\u201d But a federal judge (finally) ruled for the claimants. &#8211; The New York Times",

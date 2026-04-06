@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.hollywoodreporter.com/business/business-news/writers-guild-tentative-four-year-deal-studios-1236555949/",
+      "title": "The Writers Guild Has Reached A Tentative Four-Year Deal With Studios",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/Screenshot-2026-04-04-at-16.38.28-150x150.png\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cIf given the stamp of approval, the deal will be notable for its unusually long term. Three-year deals have generally been the norm since at least the 1940s for Hollywood unions,\u201d but the extended 2023 strikes changed things. &#8211; The Hollywood Reporter",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-06T10:49:37.883250+00:00",
+      "published_at": "2026-04-05T20:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/15-shows-to-see-in-new-york-city-this-april/",
       "title": "15 Shows to See in New York City This April",
       "snippet": "Margaret Curtis\u2019s deconstruction of American myth, quotidian objects by Marsden Hartley, and Wendy Red Star\u2019s bead-inspired installation are among our picks.",
@@ -2419,6 +2437,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://www.indiewire.com/criticism/movies/the-blue-trail-movie-review-1235187370/",
+      "title": "\u2018The Blue Trail\u2019 Review: A 77-Year-Old Woman Finds Freedom in the Amazon in Brazil\u2019s Brilliant Dystopian Road Movie",
+      "snippet": "Gabriel Mascaro directs Denise Weinberg as a woman fleeing a fascist retirement camp to find herself in the Amazonian jungle. It's told with striking textures and deep feeling that transcend a mere timely narrative.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-06T10:53:02.576014+00:00",
+      "published_at": "2026-04-03T19:35:05+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/04/wga-deal-amptp-studios-health-plan-1236779810/",
       "title": "WGA & Studios Officially Confirm Tentative Deal; Guild Says \u201cThis Deal Protects Writers\u2019 Health Plan\u201d",
       "snippet": "It&#8217;s officially official: The Writers Guild of America has agreed to a tentative new four-year contract with the studios and streamers, says the Greg Hessinger-led Alliance of Motion Picture and Television Producers. The shocker deal, which was on very few people&#8217;s Holy Week and/or Passover bingo card, could prove transformative for how Hollywood labor works, [&#8230;]",
@@ -4166,23 +4202,6 @@
       "fetched_at": "2026-03-28T16:00:23.755367+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.themoviedb.org/movie/1658563",
-      "title": "Last Man's Land (2026-03-28)",
-      "snippet": "Last Man\u2019s Land follows Isiah, a hardened survivor navigating a post-apocalyptic America two years after the world\u2019s collapse. When a ruthless survivalist steals a cache of desperately needed medical supplies meant for a group of sick children, Isiah sets out across a dangerous, lawless landscape to",
-      "source": "tmdb",
-      "source_type": "entertainment",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-03-28T16:00:23.755359+00:00",
-      "price": null,
-      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

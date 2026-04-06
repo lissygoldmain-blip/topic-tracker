@@ -4193,6 +4193,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckhtalVISUhOUzF3Z0R4ZzRnTWppTG1GOW1ZcUpKV19CbXA5bjZiVGlxRTFnN1E4dVVaZjlaN20zUk5IeGZNRUg4aFNMa3FlTVM4WUI3eXFlVE1hSDF2bU9NYWhQMURVZTY3YWF6eVJSd2pLRExRRWVDdmdnWHdBeG5Ba2YtOUM4OTZucHZqNFRwLXhQYTJ4aWNZNDJMd1B5azVfWVpESjB6SEZUV3RHY0p5TktScy1XYng1dw?oc=5",
+      "title": "Microsoft Launches Three In-House AI Models to Challenge OpenAI - National Today",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQckhtalVISUhOUzF3Z0R4ZzRnTWppTG1GOW1ZcUpKV19CbXA5bjZiVGlxRTFnN1E4dVVaZjlaN20zUk5IeGZNRUg4aFNMa3FlTVM4WUI3eXFlVE1hSDF2bU9NYWhQMURVZTY3YWF6eVJSd2pLRExRRWVDdmdnWHdBeG5Ba2YtOUM4OTZucHZqNFRwLXhQYTJ4aWNZNDJMd1B5azVfWVpESjB6SEZUV3RHY0p5TktScy1XYng1dw?oc=5\" target=\"_blank\">Microsoft Launches Three In-House AI Models to Challenge OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-06T04:10:39.892602+00:00",
+      "published_at": "2026-04-03T19:57:37+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTB4czdySzRSbDJKYWxxX0Jva3RES29wc1J2bEV1WHN0TldzR2lERS14QnBERWZmOHN3R0NZWVZlelc2bFVJSlZ5UkRyOC1qY2pBWXZfVFVVTUpoVy05NDBzckhRWnE3LU9DN0ZqcnRrZEpvd2dXclhsZ1lBMEp2Zi1wbDVCc3Z1LUhSaWVTMWZPQl9BSEp1bHl1MDBtMlZsNjFYcFcxQ2YzRDRNUjJqdVFBbnZoek9BYzFz0gHAAUFVX3lxTFBWcnlKdTQ0WU5GSzB1SERsQ2pjazVTZW5DRXZBTjI0dldoa1FXSG5JZ1ItWE9wMkpqcVZDNnhYcGZBMUxMYkNnbE4zWFBJeHFvT19pMFNfRF82LTZFb0NvYWJVMkhBemZvQ0c2YU1LeU1yWWEzanRHRDNkaUh0UElNSE54RW53V2hCQVNQckUyZmVNeDFHazZYUlRkTUJ6SGpLaGZMN3ZNWFlWZmdFVG0xNUlDU3BsVEs3RV9tYXFaRA?oc=5",
       "title": "Microsoft Releases New AI Models That Can Generate Images, Audio and Transcribe Text - gadgets360.com",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTB4czdySzRSbDJKYWxxX0Jva3RES29wc1J2bEV1WHN0TldzR2lERS14QnBERWZmOHN3R0NZWVZlelc2bFVJSlZ5UkRyOC1qY2pBWXZfVFVVTUpoVy05NDBzckhRWnE3LU9DN0ZqcnRrZEpvd2dXclhsZ1lBMEp2Zi1wbDVCc3Z1LUhSaWVTMWZPQl9BSEp1bHl1MDBtMlZsNjFYcFcxQ2YzRDRNUjJqdVFBbnZoek9BYzFz0gHAAUFVX3lxTFBWcnlKdTQ0WU5GSzB1SERsQ2pjazVTZW5DRXZBTjI0dldoa1FXSG5JZ1ItWE9wMkpqcVZDNnhYcGZBMUxMYkNnbE4zWFBJeHFvT19pMFNfRF82LTZFb0NvYWJVMkhBemZvQ0c2YU1LeU1yWWEzanRHRDNkaUh0UElNSE54RW53V2hCQVNQckUyZmVNeDFHazZYUlRkTUJ6SGpLaGZMN3ZNWFlWZmdFVG0xNUlDU3BsVEs3RV9tYXFaRA?oc=5\" target=\"_blank\">Microsoft Releases New AI Models That Can Generate Images, Audio and Transcribe Text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gadgets360.com</font>",
@@ -5910,23 +5928,6 @@
       "fetched_at": "2026-03-25T19:36:14+00:00",
       "price": null,
       "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0tINkctcEJWMllGTkd2T2JxQ0pfeWZxNndfN04tRDRqbk90QmU0d1J0RFNDQzluQkU1Q1dEcVYtQWhoY3E5NUlUWHlMV252a24tYjVSVEE5bmFOZ2d3bFUwV0N4UkZlWFdRTC16NjJRSTFzR1JuV1l5eTgtSk9mRHZ3Z1B5UDNrY0U3SUo2LW5hUUVUaFFSYUlvT3A0WHlvbENxZ0tCYjRBV2JFbEHSAbMBQVVfeXFMTzBBbkMtQzlZRnBzNXcyNjhSNnYxUVRKamNDQVV2YXkzVE5PR2U2T2pDNjVZSldrZUZ6WV9qZlc1Y3dRZnVHbjBCdzBKNUc2MUtrMGRKWW4yYk5aLTQtMVlQb2xTS25aSVVpTXZoMU5JRlNKXzRMcFctSDN6SnpHS1FqcmExOXk5U3lYV3B0M2swaTVzVVkwbl9CcUMzanU0OHRsdTVHZE1XRUpmTGFfV0lVSlU?oc=5",
-      "title": "Sam Altman expects OpenAI to exit 'code red' by January after launch of GPT-5.2 model - CNBC",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0tINkctcEJWMllGTkd2T2JxQ0pfeWZxNndfN04tRDRqbk90QmU0d1J0RFNDQzluQkU1Q1dEcVYtQWhoY3E5NUlUWHlMV252a24tYjVSVEE5bmFOZ2d3bFUwV0N4UkZlWFdRTC16NjJRSTFzR1JuV1l5eTgtSk9mRHZ3Z1B5UDNrY0U3SUo2LW5hUUVUaFFSYUlvT3A0WHlvbENxZ0tCYjRBV2JFbEHSAbMBQVVfeXFMTzBBbkMtQzlZRnBzNXcyNjhSNnYxUVRKamNDQVV2YXkzVE5PR2U2T2pDNjVZSldrZUZ6WV9qZlc1Y3dRZnVHbjBCdzBKNUc2MUtrMGRKWW4yYk5aLTQtMVlQb2xTS25aSVVpTXZoMU5JRlNKXzRMcFctSDN6SnpHS1FqcmExOXk5U3lYV3B0M2swaTVzVVkwbl9CcUMzanU0OHRsdTVHZE1XRUpmTGFfV0lVSlU?oc=5\" target=\"_blank\">Sam Altman expects OpenAI to exit 'code red' by January after launch of GPT-5.2 model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2025-12-11T08:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -9145,6 +9146,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNalN6R1NPRGo2VmtYWlRMejBHTm40TUNhQTVVTlNMWTBaRTFtS2tXeFNTdGI2Smc3eURSRlI3ZDNpZ0RxbzFYZ2xwUlhwSVpBRXZ4NlFkUVNsc0taV1F6MndzbGxYYm9OVUN6NjdNWnZjLVF1SHVtSGYza1E2NTY2Z1puTk05T3pBMHJDZWQ4TjY?oc=5",
+      "title": "ICE Agents Detain Newlywed Spouse of Soldier Training to Deploy - The New York Times",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNalN6R1NPRGo2VmtYWlRMejBHTm40TUNhQTVVTlNMWTBaRTFtS2tXeFNTdGI2Smc3eURSRlI3ZDNpZ0RxbzFYZ2xwUlhwSVpBRXZ4NlFkUVNsc0taV1F6MndzbGxYYm9OVUN6NjdNWnZjLVF1SHVtSGYza1E2NTY2Z1puTk05T3pBMHJDZWQ4TjY?oc=5\" target=\"_blank\">ICE Agents Detain Newlywed Spouse of Soldier Training to Deploy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-06T04:05:45.584864+00:00",
+      "published_at": "2026-04-05T22:16:51+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFNjbGxQdlRMRmk4dlVtRi02cUc3enNYUXlVYzFqLV9USUttUUgzRDl1cmVkU0dGdVBmbkRaeHh2ZWdPRXJnYTYyYllVNW5TSGU4RE55aFJWR1Nvc1MtcFN1S0RDc2xrUWxHQUgtSWNhVnhSZ0RuaFhsaUo2bjJ6UFhqRkI5bjQ?oc=5",
       "title": "Judge Blocks Deportation of Man Who Was Detained by ICE After Exoneration - The New York Times",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFNjbGxQdlRMRmk4dlVtRi02cUc3enNYUXlVYzFqLV9USUttUUgzRDl1cmVkU0dGdVBmbkRaeHh2ZWdPRXJnYTYyYllVNW5TSGU4RE55aFJWR1Nvc1MtcFN1S0RDc2xrUWxHQUgtSWNhVnhSZ0RuaFhsaUo2bjJ6UFhqRkI5bjQ?oc=5\" target=\"_blank\">Judge Blocks Deportation of Man Who Was Detained by ICE After Exoneration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
@@ -10174,6 +10193,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN3JlWF9FckFtdzA0bG12ZnJvcHVQbUloTGtQVW4xVWVTTXlWY09DRXN2Qm1yU0hTdk42Y3dMcC1QSXVpcVlBUDc5V01kYTU0MTYtUFhGVHU5VEdpb0ZfdmF6ZVpvcGtEUEhJbF9SSE5BTkRRZ3VtRjE5cHRwdW9uT0ttVExocG9NMDZ5UGdRUEwwcmZhSlVkMnVDWDNyWTQ3UGJnZUoyY0M0THFSNGhka2ZRNWVnZXlZWFdFZTZVeXRvNWg2MkNaWExuMjRNNnlKZ0tMU2FRTU9rS2V3T2Yw?oc=5",
+      "title": "'Devastating': HRC President Reacts To Supreme Court Ruling Against Ban On LGBTQ Conversion Therapy - Forbes",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN3JlWF9FckFtdzA0bG12ZnJvcHVQbUloTGtQVW4xVWVTTXlWY09DRXN2Qm1yU0hTdk42Y3dMcC1QSXVpcVlBUDc5V01kYTU0MTYtUFhGVHU5VEdpb0ZfdmF6ZVpvcGtEUEhJbF9SSE5BTkRRZ3VtRjE5cHRwdW9uT0ttVExocG9NMDZ5UGdRUEwwcmZhSlVkMnVDWDNyWTQ3UGJnZUoyY0M0THFSNGhka2ZRNWVnZXlZWFdFZTZVeXRvNWg2MkNaWExuMjRNNnlKZ0tMU2FRTU9rS2V3T2Yw?oc=5\" target=\"_blank\">'Devastating': HRC President Reacts To Supreme Court Ruling Against Ban On LGBTQ Conversion Therapy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-06T04:06:05.196155+00:00",
+      "published_at": "2026-04-02T21:59:21+00:00",
+      "price": null,
+      "novelty_score": 0.9,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNTZTVl9sM2VrZzI0a0NjaGdUYkJjUlNVZ0tSYWk2Vlhabld6ZzZ6djA2bWpVc29fU05pQ3RYTHowVzdqeVlXbjlTQnR1SWF0cndjcEFuT1o4RjVTNFVjckw4ZlU4SHRJcFlEMktNdW8zVE5raWFuZ2JxWmRvLWxrb28xem9PLXhucE9CaUFhMm5nMVAyOGVaRlQ1Tndqal9uWXZXWUVvOURIbEFyRDl4NmV1YkloV2NWR0pSUFg2cWx6TFVaaXY3QVNiYmlGUm90S0M0YzFJclNnT3hqd0s0?oc=5",
       "title": "Senate passes bill to partially reopen DHS, teeing up future House vote - KIMT",
@@ -11780,6 +11817,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1sdnonl/the_corner_store_on_easter_weekend/",
+      "title": "The Corner Store on Easter weekend",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1sdnonl/the_corner_store_on_easter_weekend/\"> <img alt=\"The Corner Store on Easter weekend\" src=\"https://preview.redd.it/sw5557m2ehtg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=934a056c7b5462890be777993aa5e286ac085426\" title=\"The Corner Store on Easter weekend\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Went to The Corner Store last night and had a wonderful time. The staff was incredibly welcoming and the environment was lively. We got seated in a roomy booth. The lighting and music was soft, low, and made it easy to focus on the experience.</p> <p>If you go here, I recommend their martini service. The presentation was great. My favorite drinks were the dirty martini and the sour cream and onion martini, which comes with matching chips. </p> <p>For starters, we couldn't choose between them so we got all three. The lobster roll was outstanding, with soft-yet-crispy bread and a healthy serving of caviar on creamy lobster. It was about $19 per lobster roll. The artichoke dip was surprising because the chips are actually made in-house. They were thin, crispy, and coated in a popcorn salt which made them really addicting. Lastly, the pizza rolls were crispy with a side of hot honey and sour cream and were a hit of nostalgia.</p> <p>For entrees, we got the branzino which was bright and light, but what stole the show was a seasonal dish - the braised ribs, which they had as an Easter special. The meat was tender, the red wine sauce was rich and savory, and the carrots looked the ones Bugs Bunny munches on - hearty with stem attached. I highly recommend this while it's available.</p> <p>Finally, for dessert, the samoa sundae was the show-stopper, and I don't even really like desserts. The dish had crispy coconut flakes covering velvety coconut ice cream, and there were huge bits of shortbread cookie throughout. We were stuffed by the end of it.</p> <p>The food was fun and inventive, and the service was highly attentive without being overbearing. I could tell they put a lot of care in making the experience special, and I'll definitely visit again if I can get a res.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/StephenScript\"> /u/StephenScript </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1sdnonl\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1sdnonl/the_corner_store_on_easter_weekend/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-06T03:25:38+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1scdl5r/the_383_dinner_series_kicks_off_with_ritual_an/",
       "title": "The 383 Dinner Series Kicks off with Ritual: An Asian-Creole Chef\u2019s Table | April 17th & 18th",

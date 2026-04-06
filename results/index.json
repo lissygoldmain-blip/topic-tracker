@@ -1,6 +1,42 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/15-shows-to-see-in-new-york-city-this-april/",
+      "title": "15 Shows to See in New York City This April",
+      "snippet": "Margaret Curtis\u2019s deconstruction of American myth, quotidian objects by Marsden Hartley, and Wendy Red Star\u2019s bead-inspired installation are among our picks.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-06T01:29:55.466017+00:00",
+      "published_at": "2026-04-02T22:09:28+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://hyperallergic.com/leah-ke-yi-zheng-personal-i-ching/",
+      "title": "Leah Ke Yi Zheng\u2019s Personal I Ching",
+      "snippet": "The artist is synthesizing the divergent cultural histories of Western oil painting and Eastern ink painting into one.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-06T01:29:55.466017+00:00",
+      "published_at": "2026-04-03T20:40:03+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.artsjournal.com/2026/04/melvin-edwards-sculptor-who-welded-the-african-diaspora-has-died-at-88.html",
       "title": "Melvin Edwards, Sculptor Who Welded The African Diaspora, Has Died At 88",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/Screenshot-2026-04-04-at-08.42.26-150x150.png\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cEdwards rose to prominence in 1963 with the first works of what would become his most notable series, \u2018Lynch Fragments.\u2019 \u2026 He combined fragments of found and recycled steel and welded them into forms of chains, sharp tools, barbed wire and other metal objects.\u201d &#8211; Los Angeles Times (MSN)",
@@ -4157,6 +4193,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTB4czdySzRSbDJKYWxxX0Jva3RES29wc1J2bEV1WHN0TldzR2lERS14QnBERWZmOHN3R0NZWVZlelc2bFVJSlZ5UkRyOC1qY2pBWXZfVFVVTUpoVy05NDBzckhRWnE3LU9DN0ZqcnRrZEpvd2dXclhsZ1lBMEp2Zi1wbDVCc3Z1LUhSaWVTMWZPQl9BSEp1bHl1MDBtMlZsNjFYcFcxQ2YzRDRNUjJqdVFBbnZoek9BYzFz0gHAAUFVX3lxTFBWcnlKdTQ0WU5GSzB1SERsQ2pjazVTZW5DRXZBTjI0dldoa1FXSG5JZ1ItWE9wMkpqcVZDNnhYcGZBMUxMYkNnbE4zWFBJeHFvT19pMFNfRF82LTZFb0NvYWJVMkhBemZvQ0c2YU1LeU1yWWEzanRHRDNkaUh0UElNSE54RW53V2hCQVNQckUyZmVNeDFHazZYUlRkTUJ6SGpLaGZMN3ZNWFlWZmdFVG0xNUlDU3BsVEs3RV9tYXFaRA?oc=5",
+      "title": "Microsoft Releases New AI Models That Can Generate Images, Audio and Transcribe Text - gadgets360.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTB4czdySzRSbDJKYWxxX0Jva3RES29wc1J2bEV1WHN0TldzR2lERS14QnBERWZmOHN3R0NZWVZlelc2bFVJSlZ5UkRyOC1qY2pBWXZfVFVVTUpoVy05NDBzckhRWnE3LU9DN0ZqcnRrZEpvd2dXclhsZ1lBMEp2Zi1wbDVCc3Z1LUhSaWVTMWZPQl9BSEp1bHl1MDBtMlZsNjFYcFcxQ2YzRDRNUjJqdVFBbnZoek9BYzFz0gHAAUFVX3lxTFBWcnlKdTQ0WU5GSzB1SERsQ2pjazVTZW5DRXZBTjI0dldoa1FXSG5JZ1ItWE9wMkpqcVZDNnhYcGZBMUxMYkNnbE4zWFBJeHFvT19pMFNfRF82LTZFb0NvYWJVMkhBemZvQ0c2YU1LeU1yWWEzanRHRDNkaUh0UElNSE54RW53V2hCQVNQckUyZmVNeDFHazZYUlRkTUJ6SGpLaGZMN3ZNWFlWZmdFVG0xNUlDU3BsVEs3RV9tYXFaRA?oc=5\" target=\"_blank\">Microsoft Releases New AI Models That Can Generate Images, Audio and Transcribe Text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gadgets360.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-06T01:44:21.991492+00:00",
+      "published_at": "2026-04-03T13:12:37+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1JHTFpHVGRUcWpIMFRCZmprNUJ3OVBFeEhCbHZXeE5wcDhYaWkydjczWFdfY1NvaGhtMXVWZFZyX1o5cDJRdWNhZW15WTRhX3NVZklfdy1EQjg2SlBsS05vbHprandJUnllbzlKXzR4WnNQYW5sV2ZncF9JNnJORWRLdVBMWUQyaGVYbm1nbw?oc=5",
       "title": "Microsoft has released three AI platform models: the voice generation model 'MAI-Voice-1,' the voice recognition model 'MAI-Transcribe-1,' and the image generation model 'MAI-Image-2.' - GIGAZINE",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1JHTFpHVGRUcWpIMFRCZmprNUJ3OVBFeEhCbHZXeE5wcDhYaWkydjczWFdfY1NvaGhtMXVWZFZyX1o5cDJRdWNhZW15WTRhX3NVZklfdy1EQjg2SlBsS05vbHprandJUnllbzlKXzR4WnNQYW5sV2ZncF9JNnJORWRLdVBMWUQyaGVYbm1nbw?oc=5\" target=\"_blank\">Microsoft has released three AI platform models: the voice generation model 'MAI-Voice-1,' the voice recognition model 'MAI-Transcribe-1,' and the image generation model 'MAI-Image-2.'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
@@ -5879,26 +5933,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjhRdnpYeWwxd3M4SUVmR0VxNks1cG9nR1BLVEFZT3I5SFFDeWpIX1I0T3Z0MmU1WFN6WjZpSXliNkh3Q0JKcUQwTnpPLXU5c0F1MmE2MmNTN1IzYktfWTFyYjl5YWFlb2E2M3JBUGNhR0lqVEc4Sl9JRXZISmsyTGV3NEtSWDdJbV9uZVJsWldFNms?oc=5",
-      "title": "Mistral AI Releases Voxtral TTS, Lightweight Open-Source Speech Model - MLQ.ai",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjhRdnpYeWwxd3M4SUVmR0VxNks1cG9nR1BLVEFZT3I5SFFDeWpIX1I0T3Z0MmU1WFN6WjZpSXliNkh3Q0JKcUQwTnpPLXU5c0F1MmE2MmNTN1IzYktfWTFyYjl5YWFlb2E2M3JBUGNhR0lqVEc4Sl9JRXZISmsyTGV3NEtSWDdJbV9uZVJsWldFNms?oc=5\" target=\"_blank\">Mistral AI Releases Voxtral TTS, Lightweight Open-Source Speech Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLQ.ai</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-03-26T14:22:17+00:00",
+      "url": "https://politicsny.com/2026/04/03/inside-government-with-politicsny-a-qa-with-council-member-linda-lee/",
+      "title": "Inside Government with PoliticsNY: A Q&A; with Council Member Linda Lee",
+      "snippet": "Inside Government is a Q&#38;A series that gives New Yorkers a glimpse inside the role of the elected officials who represent them. This edition of Inside Government with PoliticsNY, sponsored by AARP New York City, features New York City Council Member Linda Lee. Council Member Lee represents the 23rd Council District in Queens which\u2026 <a class=\"read-more\" href=\"https://politicsny.com/2026/04/03/inside-government-with-politicsny-a-qa-with-council-member-linda-lee/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-06T01:31:28.724959+00:00",
+      "published_at": "2026-04-03T14:00:27+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://nyc.streetsblog.org/2026/04/02/breaking-hit-and-run-driver-kills-woman-on-deadly-ocean-avenue",
       "title": "UPDATE: Hit-And-Run Ambulance Driver Kills Woman on Deadly Ocean Avenue",
@@ -10119,6 +10174,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNTZTVl9sM2VrZzI0a0NjaGdUYkJjUlNVZ0tSYWk2Vlhabld6ZzZ6djA2bWpVc29fU05pQ3RYTHowVzdqeVlXbjlTQnR1SWF0cndjcEFuT1o4RjVTNFVjckw4ZlU4SHRJcFlEMktNdW8zVE5raWFuZ2JxWmRvLWxrb28xem9PLXhucE9CaUFhMm5nMVAyOGVaRlQ1Tndqal9uWXZXWUVvOURIbEFyRDl4NmV1YkloV2NWR0pSUFg2cWx6TFVaaXY3QVNiYmlGUm90S0M0YzFJclNnT3hqd0s0?oc=5",
+      "title": "Senate passes bill to partially reopen DHS, teeing up future House vote - KIMT",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNTZTVl9sM2VrZzI0a0NjaGdUYkJjUlNVZ0tSYWk2Vlhabld6ZzZ6djA2bWpVc29fU05pQ3RYTHowVzdqeVlXbjlTQnR1SWF0cndjcEFuT1o4RjVTNFVjckw4ZlU4SHRJcFlEMktNdW8zVE5raWFuZ2JxWmRvLWxrb28xem9PLXhucE9CaUFhMm5nMVAyOGVaRlQ1Tndqal9uWXZXWUVvOURIbEFyRDl4NmV1YkloV2NWR0pSUFg2cWx6TFVaaXY3QVNiYmlGUm90S0M0YzFJclNnT3hqd0s0?oc=5\" target=\"_blank\">Senate passes bill to partially reopen DHS, teeing up future House vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KIMT</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-06T01:39:41.966156+00:00",
+      "published_at": "2026-04-02T11:29:13+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJbnFIRXo2VmZpNWk2eU1kb1F5NFl0Vk9nTTlQOWZFZXppRll4ZHFZbTBTMEVXRlpSQ0pvQTVDRjNPS29FLTlKaGt0QTRjdEpZNTV1REJLMTdOMXBPclE4eVVfYzg3Y2lkQjhNSThTMEdDT1BR0gF6QVVfeXFMT2JHVzE3cE5hY2JPVm1aYkkwUkRyTU42bTA3RG1MLXFXOEFLUTNhdVVBYWluck5ta0M2a2pGa25mWW9YMndyb3c3WXFENWp3RkFrYjJrLVVjSmlKa1NpT1dpVGRselR2MTVrdkR2NG1BWUVKeGplZEcybEE?oc=5",
       "title": "DHS shutdown: Senate advances deal to fund agency with TSA, waits on House - CNBC",

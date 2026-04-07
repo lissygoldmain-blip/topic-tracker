@@ -1,6 +1,42 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.thetimes.com/culture/theatre-dance/article/secrets-of-the-seventysomething-ballet-dancers-my-spine-is-a-disaster-xjwflj990#new_tab",
+      "title": "Original Dancers In Pina Bausch\u2019s \u201cKontakthof\u201d Revive The Piece After Half A Century",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/1101-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cNearly 50 years since that first performance in 1978, Meryl Tankard is getting the\u00a0Kontakthof\u00a0band back together. Now a choreographer, she has assembled nine of the dancers (including herself) and adapted the piece to synchronise with black-and-white footage of their younger selves projected onto a giant screen behind them.\u201d &#8211; The Times (UK)",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-07T18:52:15.383455+00:00",
+      "published_at": "2026-04-07T18:01:00+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://hyperallergic.com/peep-the-wildest-costumes-of-this-years-easter-bonnet-parade/",
+      "title": "Peep the Wildest Costumes of This Year\u2019s Easter Bonnet Parade",
+      "snippet": "The decorous fashion show has evolved into a rambunctious and all-inclusive pageant of New York\u2019s crafters, artists, and street performers.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-07T18:52:15.121406+00:00",
+      "published_at": "2026-04-06T20:10:55+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.nytimes.com/2026/04/04/opinion/cats-musical-ballroom-culture-broadway.html#new_tab",
       "title": "Betty Buckley, Broadway\u2019s First Grizabella In \u201cCats\u201d, Writes About The New Drag-Ball Production",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/733-1-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cCats has always been a ballroom: Distinct personalities enter the floor, presenting their style and story, and a community watches to see who commands the room. This new production doesn\u2019t impose anything foreign onto the musical. For me, it illuminates what was always there.\u201d &#8211; The New York Times",
@@ -1743,15 +1779,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Health research": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGFOWTNCUE1FTHVVRU5BdWxkRGdxWGg3VzZGZUh3cFpjR2xGMjQ5Y3E5X1lFUjdEelFUcmVtbjFpcXRtV2dDVFpTRnVNeXpjSWhOX3FsUWFyODFKZ0sxbFdpajhXQlNTVzdZMEdrWmJPUGZuNFItdGYxWS1XeG5MSDR4YkRpdzhZb3NrQ3VYYXBGeHZBOF92bEVzakU2OWtYMXVmcDl4cEdrQkVyaklVcElfWGx4Z3Vhb2c?oc=5",
-      "title": "Norm Lewis, NaTasha Yvette Williams, Michael Urie, More Reunite for Chicken & Biscuits Reading - playbill.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGFOWTNCUE1FTHVVRU5BdWxkRGdxWGg3VzZGZUh3cFpjR2xGMjQ5Y3E5X1lFUjdEelFUcmVtbjFpcXRtV2dDVFpTRnVNeXpjSWhOX3FsUWFyODFKZ0sxbFdpajhXQlNTVzdZMEdrWmJPUGZuNFItdGYxWS1XeG5MSDR4YkRpdzhZb3NrQ3VYYXBGeHZBOF92bEVzakU2OWtYMXVmcDl4cEdrQkVyaklVcElfWGx4Z3Vhb2c?oc=5\" target=\"_blank\">Norm Lewis, NaTasha Yvette Williams, Michael Urie, More Reunite for Chicken & Biscuits Reading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">playbill.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObExKLVNlWGhobHMxTkJxTEZNc2F0RktNVkFZSmZ5Skd6SlpxMjRqY2VMT3dJcmFnZ0NTeDRJd3N4b25aYVhRSFpDdXNwZ1A5bm1YbFJ3ZEdXcS14M05kSnd2RS12c2RfbHZRdUhZaXc5aDltMklscFY2TWRNSzFrVHEwMVY0Q0JDa05vSkxjdVhKcVQ3a1dF?oc=5",
+      "title": "Ozempic Shows Startling New Side Effect, Says Massive Study - newsweek.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObExKLVNlWGhobHMxTkJxTEZNc2F0RktNVkFZSmZ5Skd6SlpxMjRqY2VMT3dJcmFnZ0NTeDRJd3N4b25aYVhRSFpDdXNwZ1A5bm1YbFJ3ZEdXcS14M05kSnd2RS12c2RfbHZRdUhZaXc5aDltMklscFY2TWRNSzFrVHEwMVY0Q0JDa05vSkxjdVhKcVQ3a1dF?oc=5\" target=\"_blank\">Ozempic Shows Startling New Side Effect, Says Massive Study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsweek.com</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2025-11-03T08:00:00+00:00",
+      "topic_name": "Health research",
+      "fetched_at": "2026-04-07T18:55:40.742910+00:00",
+      "published_at": "2026-04-07T00:00:00+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -1759,27 +1798,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
+      "notified_digest": false
     },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUlpmcncyV19qSUhFdmJ0N3N1T0Vib1o5MGlYemVRQ3B1Xzg3LTVNUEJRcjZXdlpuZ0ZQd2R1NVcwbmNVMVl2S3V0LVItcVByLUtZak40WWU1LW9fRXItbThHZEM1TWh3U2JoMmhLQy05b1YycjFGeGttY0lQckM3Q2JDWEVSN3JyVHBXaUFKWTl4dTlkNkc2cTh4akxEaGV1ZjBGOG9vSXN5QWowZWJLT1JxYTBadXBVdnBRNi1iUWlidHQxUlF0MGVzaXREWVk?oc=5",
-      "title": "Queens Theatre taps del Palacio as leader - Queens Chronicle",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPUlpmcncyV19qSUhFdmJ0N3N1T0Vib1o5MGlYemVRQ3B1Xzg3LTVNUEJRcjZXdlpuZ0ZQd2R1NVcwbmNVMVl2S3V0LVItcVByLUtZak40WWU1LW9fRXItbThHZEM1TWh3U2JoMmhLQy05b1YycjFGeGttY0lQckM3Q2JDWEVSN3JyVHBXaUFKWTl4dTlkNkc2cTh4akxEaGV1ZjBGOG9vSXN5QWowZWJLT1JxYTBadXBVdnBRNi1iUWlidHQxUlF0MGVzaXREWVk?oc=5\" target=\"_blank\">Queens Theatre taps del Palacio as leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Queens Chronicle</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2025-11-20T08:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Health research": [
     {
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3VNbU1lZHplbmwyMWxNUU02QTNFbnl5THowcFhza0hJMkRiSEZfYWZpaWUtSURFdGdMTVFWcEQ3Tkh6SjJlU3ZCUE9IbmZEcDJOTUdYZXdNUXRGN0ZLNnAxRkxzOEtUVXhad05JZUpWdzJ6WlZBYk1GVDdsd09NTkJWaUtxUms2RkJ4MlFnQXRNVmdvbU1EZnYzemEtOFVMdGplZ2VR?oc=5",
       "title": "Beyond Weight Loss: Long-Term GLP-1 Use Tied to Measurable Drop in Dementia Risk, Researchers Report - Altitudes Magazine",
@@ -4423,6 +4443,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWW5TVmtTMUFsWGswZFdJcFZxZG5hNUpuQzNMTmU5VnJLM2pSb0lkUk1leWVJWS1ha3BPdzQ1aU40RDM3bHdvUXk5Y2FmSE9VUHlkdENoMmpNdGtKanF4aWd0bXVoTzJJY1JLMXRBaG1FMjl5blhsNm1vc2k2dkNxREhJQzNPeHZWSEhrd0FJa2Zwa190SGtJek4zbmtIR2NYUTE3VENJLVVYUDNQdjRZ?oc=5",
+      "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly \u2014 so it built Project Glasswing - VentureBeat",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPWW5TVmtTMUFsWGswZFdJcFZxZG5hNUpuQzNMTmU5VnJLM2pSb0lkUk1leWVJWS1ha3BPdzQ1aU40RDM3bHdvUXk5Y2FmSE9VUHlkdENoMmpNdGtKanF4aWd0bXVoTzJJY1JLMXRBaG1FMjl5blhsNm1vc2k2dkNxREhJQzNPeHZWSEhrd0FJa2Zwa190SGtJek4zbmtIR2NYUTE3VENJLVVYUDNQdjRZ?oc=5\" target=\"_blank\">Anthropic says its most powerful AI cyber model is too dangerous to release publicly \u2014 so it built Project Glasswing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-07T19:07:13.319575+00:00",
+      "published_at": "2026-04-07T18:03:33+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTzBsT0plSFk4OFNyV2dUcnYyS0xBeFBkMTV2Mlc3TU5LVnJ1Q0FBOERsQUFIVG9uaWdHamViTDRfMEZmQnhwR2tiSS1fWldJdW9wbzZYbko4UjNCVXREdHBkSW5HQ0ItTEFoUXc5OHh3Y0dSZWpxUnhzZWQxZHJza2toQTRjTFpQWnp5aTAyZnUwemFDWWFOMVNCWWNqdFkxLUF6Ty1BcUh5UVFRaFhaQ3BOX0piQkpVanQtMUd1RThqMklHaWxaUWliMVluV2NUME43MGZuM1RRdjd6UUJEZllIQ0xtQVVvbHc?oc=5",
       "title": "Variational AI Releases Enki 4: Major Update to Foundation Model for Small-Molecule Drug Discovery - Business Wire",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTzBsT0plSFk4OFNyV2dUcnYyS0xBeFBkMTV2Mlc3TU5LVnJ1Q0FBOERsQUFIVG9uaWdHamViTDRfMEZmQnhwR2tiSS1fWldJdW9wbzZYbko4UjNCVXREdHBkSW5HQ0ItTEFoUXc5OHh3Y0dSZWpxUnhzZWQxZHJza2toQTRjTFpQWnp5aTAyZnUwemFDWWFOMVNCWWNqdFkxLUF6Ty1BcUh5UVFRaFhaQ3BOX0piQkpVanQtMUd1RThqMklHaWxaUWliMVluV2NUME43MGZuM1RRdjd6UUJEZllIQ0xtQVVvbHc?oc=5\" target=\"_blank\">Variational AI Releases Enki 4: Major Update to Foundation Model for Small-Molecule Drug Discovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
@@ -6154,26 +6192,45 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmcycGJtVHZxelpFYjVibVpKcnF5V1JWMkRJS1p0eHdiNHM1cm9tRUNLZVdTeFJMRmkxdE50UVVjbFpSNUo5Z3ZGN1EtZlZtdHA2QXMzNVh4T09hUTJodExLOWNUallOZV9FNVZncWR3T040dFdCc3psR20tOFV4QkFiQm10Q2NMRXFBWVIxYWZ4Rmo0NGx4V09kb19HLWl4SEYyWm5OOW9RN2J1QktacG9FS0RtdlBpT3k1a085ZjFkaWs?oc=5",
-      "title": "Exclusive: DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say - Reuters",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmcycGJtVHZxelpFYjVibVpKcnF5V1JWMkRJS1p0eHdiNHM1cm9tRUNLZVdTeFJMRmkxdE50UVVjbFpSNUo5Z3ZGN1EtZlZtdHA2QXMzNVh4T09hUTJodExLOWNUallOZV9FNVZncWR3T040dFdCc3psR20tOFV4QkFiQm10Q2NMRXFBWVIxYWZ4Rmo0NGx4V09kb19HLWl4SEYyWm5OOW9RN2J1QktacG9FS0RtdlBpT3k1a085ZjFkaWs?oc=5\" target=\"_blank\">Exclusive: DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-02-26T08:00:00+00:00",
+      "url": "https://qns.com/2026/04/queens-distance-runners-cultural-run-filipino/",
+      "title": "Queens Distance Runners relaunches Cultural Run Series with return of Filipino 4-Miler",
+      "snippet": "Queens Distance Runners (QDR) announces the return of its Cultural Run Series \u2014 community-centered runs that celebrate the borough&#8217;s diversity \u2014 with the Amihan Filipino Run on Saturday, April 11, at Flushing Meadows Corona Park. QDR, a grassroots nonprofit running organization, organizes affordable, neighborhood races that showcase its vibrant tapestry. The four-mile race marks the...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/queens-distance-runners-cultural-run-filipino/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-07T18:53:49.726538+00:00",
+      "published_at": "2026-04-07T17:00:45+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://qns.com/2026/04/father-bystander-murdered-kew-gardens-funeral/",
+      "title": "Father of innocent bystander murdered by gunmen in Kew Gardens prays he makes it through his son\u2019s funeral",
+      "snippet": "A deacon at a southeast Queens church is thanking his community for the outpouring of love and support his family has experienced since his son and namesake was murdered at a Kew Gardens burger bar last month. As an NYPD manhunt for two suspected killers has passed the two-week mark with no arrests, Demitri McKay,...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/father-bystander-murdered-kew-gardens-funeral/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-07T18:53:49.726538+00:00",
+      "published_at": "2026-04-07T17:40:05+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/teen-slashed-a-train-broad-channel/",
       "title": "Teen repeatedly slashed in the face on A train in Broad Channel: NYPD",
@@ -7937,45 +7994,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/03/mamdani-queens-phagwah-parade-richmond-hill/",
-      "title": "Photos: Mayor Mamdani joins Queens residents to celebrate 38th Annual Phagwah Parade in Richmond Hill",
-      "snippet": "Queens residents and leaders gathered along Liberty Avenue in Richmond Hill on Sunday, March 29, to celebrate the 38th Annual Phagwah Parade, which is in recognition of the Hindu festival of Holi. New York City Mayor Zohran Mamdani, the first South Asian Mayor in the City&#8217;s history, was the Grand Marshall for this year&#8217;s festivities,...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/03/mamdani-queens-phagwah-parade-richmond-hill/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-03-30T16:50:35.357950+00:00",
-      "published_at": "2026-03-30T15:15:13+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/03/won-womens-history-month-laguardia-catherine-nolan/",
-      "title": "CM Won holds Women\u2019s History Month luncheon at LaGuardia Community College, pays tribute to late Assemblywoman Catherine Nolan",
-      "snippet": "Council Member Julie Won hosted a Women&#8217;s History Month Celebration luncheon at LaGuardia Community College Friday afternoon in an event that paid tribute to the late Queens Assemblywoman Catherine Nolan. Nolan, who died at 67 earlier in March after a prolonged battle with cancer, was honored with a minute&#8217;s silence during the event, while a...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/03/won-womens-history-month-laguardia-catherine-nolan/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-03-30T16:50:35.357950+00:00",
-      "published_at": "2026-03-30T16:30:57+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Drag Race & drag": [
+    {
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1seup8g/kandy_muse_doing_ramadan_ads_in_the_middle_east/",
+      "title": "Kandy Muse doing Ramadan Ads in the Middle East now? \ud83d\ude33",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1seup8g/kandy_muse_doing_ramadan_ads_in_the_middle_east/\"> <img alt=\"Kandy Muse doing Ramadan Ads in the Middle East now? \ud83d\ude33\" src=\"https://preview.redd.it/sdk2rog8jrtg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e09daeb9ea1abecf799cf3e3e9687b0413bc1cff\" title=\"Kandy Muse doing Ramadan Ads in the Middle East now? \ud83d\ude33\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>As I was browsing the App Store, I couldn\u2019t help but notice Mr. Muse in his Middle Eastern attire in this ad, thought I\u2019d share \ud83e\udd2d</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Saintenance\"> /u/Saintenance </a> <br /> <span><a href=\"https://i.redd.it/sdk2rog8jrtg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1seup8g/kandy_muse_doing_ramadan_ads_in_the_middle_east/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-07T12:34:59+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sev7rd/xunamis_brother_has_passed_away_after_a_battle/",
       "title": "Xunami\u2019s brother has passed away after a battle with cancer. May he rest in peace. \ud83d\udd4a\ufe0f",
@@ -9942,6 +9981,42 @@
     }
   ],
   "Immigration & ICE": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTRmN0hUZDU3R3dpY0s4b0Zmc1lhLXQ2TkJOcVp0MGFBaDY1SnpoZm9seXRRVFAySTNramh6bExzV0xGUE5VdHd4RGFEWjdnQmJDZjJ2M0V0b2diVWpSMFUtdkc0TThlR3VwZ185LWtSQVpheUlrNUxYZ09ZQWotakNxN2YzenJvOWlBOEFKN0MwX1VXbEE?oc=5",
+      "title": "NYC's ICE office is arresting more immigrants, but deporting fewer - Gothamist",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTRmN0hUZDU3R3dpY0s4b0Zmc1lhLXQ2TkJOcVp0MGFBaDY1SnpoZm9seXRRVFAySTNramh6bExzV0xGUE5VdHd4RGFEWjdnQmJDZjJ2M0V0b2diVWpSMFUtdkc0TThlR3VwZ185LWtSQVpheUlrNUxYZ09ZQWotakNxN2YzenJvOWlBOEFKN0MwX1VXbEE?oc=5\" target=\"_blank\">NYC's ICE office is arresting more immigrants, but deporting fewer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gothamist</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-07T19:02:11.507333+00:00",
+      "published_at": "2026-04-07T17:01:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNckcxU2d1OVNRMjJVeE5sbmhnMzJPMHBtRkpwaFdxX3ZEQkd5NVVsbHZva0laTUhiVmszR3RHWlUzR3RqYlFPWklGTUl3UkphaFhNZmJHYk1sdmtXQU42X1Q0MkNtaUVlbi1kdHJwaHFCb0w5azlURG1aeGlWOHE3TDBLZGlhNkJ4U18xbEFOd1VTRUtsMXBHOFhjLW5Lc1hYcmxVVXR5cjdISF95UjVZWlZmaHBIQQ?oc=5",
+      "title": "SANCTUARY CALAMITY: ICE Arrests Criminal Illegal Alien Facing Kidnapping Charges Following His RELEASE from Jail by New York Sanctuary Politicians - Homeland Security (.gov)",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNckcxU2d1OVNRMjJVeE5sbmhnMzJPMHBtRkpwaFdxX3ZEQkd5NVVsbHZva0laTUhiVmszR3RHWlUzR3RqYlFPWklGTUl3UkphaFhNZmJHYk1sdmtXQU42X1Q0MkNtaUVlbi1kdHJwaHFCb0w5azlURG1aeGlWOHE3TDBLZGlhNkJ4U18xbEFOd1VTRUtsMXBHOFhjLW5Lc1hYcmxVVXR5cjdISF95UjVZWlZmaHBIQQ?oc=5\" target=\"_blank\">SANCTUARY CALAMITY: ICE Arrests Criminal Illegal Alien Facing Kidnapping Charges Following His RELEASE from Jail by New York Sanctuary Politicians</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Security (.gov)</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-07T19:02:11.507333+00:00",
+      "published_at": "2026-04-07T14:22:02+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnREREhBNDBLd01JeEdqS0JaUFp2WUNjZExyaWNBVjhFNUFMa1dxYko3a1Jza0NpMlVGa1VPZ2k3TmNKeHVEdjBRSFZ0QndSRUxKY21ETFM2ZjM1WGo2TC0wbEoxV2JwZWZnRUFjTlVTVEFEa0ZqUVBXRzdIWWMzSkdyT19JUFByV0pNT3ZPYTYySzJxdWpTWU9KWFpadVRETWxYeUtzWQ?oc=5",
       "title": "ICE has arrested more than 800 people following tips from the TSA - New York Post",

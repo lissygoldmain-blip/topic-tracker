@@ -108,7 +108,7 @@
         "disabled_at": null
       },
       "playbill_jobs": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 2,
         "disabled": false,
         "disabled_at": null
       },
@@ -272,9 +272,9 @@
     },
     "Substack picks": {
       "substack": {
-        "consecutive_failures": 4,
-        "disabled": false,
-        "disabled_at": null
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-04-07T04:31:14.716347+00:00"
       }
     }
   }

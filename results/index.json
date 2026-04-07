@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/dolores-huerta-is-the-goat/",
+      "title": "Dolores Huerta Is the GOAT",
+      "snippet": "A show rewrites the narrative of the farmworkers' movement, a permanent home for Ruth Asawa in San Francisco, the museum reviving New York's downtown performance scene, and the discovery of a 7.9-inch Ancient Roman phallus.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-07T10:08:18.218082+00:00",
+      "published_at": "2026-04-07T10:00:29+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/50-years-of-chicano-photography/",
       "title": "50 Years of Chicano Photography",
       "snippet": "Art books we're reading this spring, a deep dive into Frank O'Hara's curatorial gig at MoMA, and more.",
@@ -1743,6 +1761,24 @@
     }
   ],
   "Health research": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3VNbU1lZHplbmwyMWxNUU02QTNFbnl5THowcFhza0hJMkRiSEZfYWZpaWUtSURFdGdMTVFWcEQ3Tkh6SjJlU3ZCUE9IbmZEcDJOTUdYZXdNUXRGN0ZLNnAxRkxzOEtUVXhad05JZUpWdzJ6WlZBYk1GVDdsd09NTkJWaUtxUms2RkJ4MlFnQXRNVmdvbU1EZnYzemEtOFVMdGplZ2VR?oc=5",
+      "title": "Beyond Weight Loss: Long-Term GLP-1 Use Tied to Measurable Drop in Dementia Risk, Researchers Report - Altitudes Magazine",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3VNbU1lZHplbmwyMWxNUU02QTNFbnl5THowcFhza0hJMkRiSEZfYWZpaWUtSURFdGdMTVFWcEQ3Tkh6SjJlU3ZCUE9IbmZEcDJOTUdYZXdNUXRGN0ZLNnAxRkxzOEtUVXhad05JZUpWdzJ6WlZBYk1GVDdsd09NTkJWaUtxUms2RkJ4MlFnQXRNVmdvbU1EZnYzemEtOFVMdGplZ2VR?oc=5\" target=\"_blank\">Beyond Weight Loss: Long-Term GLP-1 Use Tied to Measurable Drop in Dementia Risk, Researchers Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Altitudes Magazine</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-04-07T10:11:43.371205+00:00",
+      "published_at": "2026-04-06T17:28:01+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTdEYWpEalJaU0FJSkhfLUtLZXRrdUFGRkR0NjhBLWppaGNKbkR1clFHOHVnS29rTnh1Wm41MDRGdmg0NHRNU2Q5TGpzM3hna0k3YW45bGN5Uk1JWHBiT2dOblU2aC00cjM4cjlnb003Nk1yZUdFNzJVSnlPX2M1Mk9vV25jd3NESi0zNnJfZU9LSzhIRU9OMERqek96RGZFbzdzN1dWTjRYZw?oc=5",
       "title": "Semaglutide's Cardiac Benefits Extend Beyond Weight Loss, Long-Term Study Data Confirms - altitudesmagazine.com",
@@ -6114,6 +6150,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://qns.com/2026/04/queens-families-barnyard-egg-hunt-farm/",
+      "title": "Photos: Queens families enjoy Barnyard Egg Hunt at Queens County Farm",
+      "snippet": "Numerous families gathered to celebrate Easter and participate in the Barnyard Egg Hunt on Saturday, April 5, at the orchard of the Queens County Farm, located at 73-50 Little Neck Pkwy. The Barnyard Egg Hunt, which took place every 30 minutes from 10:15 a.m. to 5 p.m., gave participants the opportunity to explore the expansive...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/queens-families-barnyard-egg-hunt-farm/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-07T10:09:52.079841+00:00",
+      "published_at": "2026-04-06T14:15:22+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://qns.com/2026/04/ride-share-services-fail-disabled-riders/",
       "title": "Report: Ride share services continue to fail disabled riders in NYC despite record profits",
       "snippet": "Ride share services led by companies like Uber and Lyft are failing disabled riders, despite reporting $15 billion in profits in 2024, according to a report by New York Lawyers for the Public Interest (NYLPI) last month. There are roughly 1 million NYC residents living with a disability, according to the most recent statistics released...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/ride-share-services-fail-disabled-riders/\">Read More</a>",
@@ -7894,16 +7948,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://www.6sqft.com/mamdani-launches-new-office-to-support-nyc-street-vendors/",
-      "title": "Mamdani launches new office to support NYC street vendors",
-      "snippet": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://thumbs.6sqft.com/wp-content/uploads/2026/03/26113732/High-Line-Food-Cart-1040x694.jpg?w=768&amp;format=webp\" width=\"1024\" /><p>A longtime advocate for New York City\u2019s street vendors will now represent the small businesses at City Hall. Mayor Zohran Mamdani on Monday officially launched the Office of Street Vendor Services and appointed Carina Kaufman-Gutierrez, co-director of the Street Vendor Project at the Urban Justice Center, as its first executive director. As part of the&#160;[...]</p>\n<p>The post <a href=\"https://www.6sqft.com/mamdani-launches-new-office-to-support-nyc-street-vendors/\">Mamdani launches new office to support NYC street vendors</a> first appeared on <a href=\"https://www.6sqft.com\">6sqft</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-03-29T10:27:04.613846+00:00",
-      "published_at": "2026-03-27T14:45:00+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sercai/production_on_s18_this_past_month/",
+      "title": "Production on S18 this past month\u2026",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sercai/production_on_s18_this_past_month/\"> <img alt=\"Production on S18 this past month\u2026\" src=\"https://preview.redd.it/87hno2fsoqtg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd4c73a03e1ba3caf0076bd525a232f72384c69a\" title=\"Production on S18 this past month\u2026\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Punkodramon\"> /u/Punkodramon </a> <br /> <span><a href=\"https://i.redd.it/87hno2fsoqtg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sercai/production_on_s18_this_past_month/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-07T09:44:19+00:00",
+      "published_at": null,
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -7911,10 +7967,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sds5gx/the_term_brick_used_by_lucian_massacare_is/",
       "title": "The term \"Brick\" used by LUCIAN MASSACARE is TRANPHOBIC",
@@ -10947,6 +11001,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdG80UWJ4cExvTUhXUnZLaDYweGJMTjYxV0dwRnZwNUFoelJmcDJwRzVNUmVLRjd3eWt4MVhrZld5eFNmdXl3alM0WDd4eEFwOUZIOFlnTVEyN203RFF0aWp1V0dVcWo3c08wX2tWQjFKZ3hUV1dPUjdYRWxMZVcwZmN0bVpFdENlNEUtMkQ1ZHNuZHNiRFRJRW5tV2NmRUF2ZEVtMUVBLXJHTUZ4MVRKUjQwRV82MEVWZG04WHFjbWY0c2c?oc=5",
+      "title": "House bill would ban social media for children under 14, bar phones from schools - The Berkshire Eagle",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdG80UWJ4cExvTUhXUnZLaDYweGJMTjYxV0dwRnZwNUFoelJmcDJwRzVNUmVLRjd3eWt4MVhrZld5eFNmdXl3alM0WDd4eEFwOUZIOFlnTVEyN203RFF0aWp1V0dVcWo3c08wX2tWQjFKZ3hUV1dPUjdYRWxMZVcwZmN0bVpFdENlNEUtMkQ1ZHNuZHNiRFRJRW5tV2NmRUF2ZEVtMUVBLXJHTUZ4MVRKUjQwRV82MEVWZG04WHFjbWY0c2c?oc=5\" target=\"_blank\">House bill would ban social media for children under 14, bar phones from schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Berkshire Eagle</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-07T10:18:00.955477+00:00",
+      "published_at": "2026-04-06T17:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uZ3JoeVotXzVDZmdmaWdtLTQtWGtQRlh0aE5TWU9tYmZ1RzVsT3NhdXJVc3BUSXFReFNTSnhJLTZNb2REQ1MwYlFUU0ROUUtLUl9LU05UZHlHbDNFMEVCTS03RQ?oc=5",
       "title": "Education Dept. to Pull Out of Civil Rights Settlements for Trans Students - The New York Times",

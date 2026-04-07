@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.nytimes.com/2026/04/04/opinion/cats-musical-ballroom-culture-broadway.html#new_tab",
+      "title": "Betty Buckley, Broadway\u2019s First Grizabella In \u201cCats\u201d, Writes About The New Drag-Ball Production",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/733-1-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cCats has always been a ballroom: Distinct personalities enter the floor, presenting their style and story, and a community watches to see who commands the room. This new production doesn\u2019t impose anything foreign onto the musical. For me, it illuminates what was always there.\u201d &#8211; The New York Times",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-07T15:01:53.008280+00:00",
+      "published_at": "2026-04-07T14:33:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.msn.com/en-us/music/news/temple-university-s-newest-arts-partner-opera-philadelphia/ar-AA20gcn9#new_tab",
       "title": "Temple University\u2019s Next Arts Partner: Opera Philadelphia",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/532-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cStudents will sit in on Opera Philadelphia rehearsals and attend master classes by opera artists, and emerging vocalists will have the opportunity to audition as cover artists (understudies) for small or non-singing roles in Opera Philadelphia productions.\u201d &#8211; The Philadelphia Inquirer (MSN)",
@@ -1751,23 +1769,6 @@
       "source_type": "news",
       "topic_name": "NYC theater & arts",
       "fetched_at": "2025-11-20T08:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02dWFiVDN6cmxYN3BreU55SFRsUTdtYndjVEp6bzJiWGd6aGhrR3VmWHJPOHpFb2hVNXJLUnBqblhWSzFJeDF5NGlYWC13Q0l3dl9xUTVETkFDbldtb3ZWSnFSWHg2NGhiVXJLdzZWbmtjS05QOHFrc28xaDJPQQ?oc=5",
-      "title": "Queens Theatre announces Taryn Sacramone is stepping down, appoints Julia del Palacio as new executive director - qns.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE02dWFiVDN6cmxYN3BreU55SFRsUTdtYndjVEp6bzJiWGd6aGhrR3VmWHJPOHpFb2hVNXJLUnBqblhWSzFJeDF5NGlYWC13Q0l3dl9xUTVETkFDbldtb3ZWSnFSWHg2NGhiVXJLdzZWbmtjS05QOHFrc28xaDJPQQ?oc=5\" target=\"_blank\">Queens Theatre announces Taryn Sacramone is stepping down, appoints Julia del Palacio as new executive director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qns.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2025-11-21T08:00:00+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,
@@ -6173,6 +6174,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://nyc.streetsblog.org/2026/04/07/report-safety-protections-have-not-kept-up-with-e-commerce-boom-and-last-mile-is-making-it-worse",
+      "title": "Report: Safety Protections Have Not Kept Up With E-Commerce Boom, And Last Mile Is Making It Worse",
+      "snippet": "A new report from the Teamsters concludes that the city has not kept up with the \"last-mile delivery\" boom from companies like Amazon.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-07T15:03:27.980991+00:00",
+      "published_at": "2026-04-07T04:03:00+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://nyc.streetsblog.org/2026/04/07/exclusive-mamdani-creates-curb-management-office-at-dot-seeking-long-sought-order-from-chaos",
       "title": "EXCLUSIVE: Mamdani Creates \u2018Curb Management\u2019 Office at DOT, Seeking Order From Chaos",
       "snippet": "Better management of this vital public space is needed for broader public uses such as safe deliveries, outdoor dining and containerized garbage pick-up.",
@@ -7953,27 +7972,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://www.6sqft.com/mamdani-appeals-housing-voucher-expansion-breaking-campaign-pledge/",
-      "title": "Mamdani appeals housing voucher expansion, breaking campaign pledge",
-      "snippet": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"682\" src=\"https://thumbs.6sqft.com/wp-content/uploads/2026/03/26110008/Mamdani-Budget-Announcement-1040x693.jpg?w=768&amp;format=webp\" width=\"1024\" /><p>After failing to reach a deal with housing advocates, Mayor Zohran Mamdani has appealed a court ruling that ordered New York City to expand its housing voucher program, a move that departs from one of his key campaign pledges. Filed on Tuesday, the appeal puts Mamdani in the position once held by former Mayor Eric&#160;[...]</p>\n<p>The post <a href=\"https://www.6sqft.com/mamdani-appeals-housing-voucher-expansion-breaking-campaign-pledge/\">Mamdani appeals housing voucher expansion, breaking campaign pledge</a> first appeared on <a href=\"https://www.6sqft.com\">6sqft</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-03-30T01:31:29.764984+00:00",
-      "published_at": "2026-03-26T16:00:00+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sev7rd/xunamis_brother_has_passed_away_after_a_battle/",
+      "title": "Xunami\u2019s brother has passed away after a battle with cancer. May he rest in peace. \ud83d\udd4a\ufe0f",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sev7rd/xunamis_brother_has_passed_away_after_a_battle/\"> <img alt=\"Xunami\u2019s brother has passed away after a battle with cancer. May he rest in peace. \ud83d\udd4a\ufe0f\" src=\"https://preview.redd.it/886037p5nrtg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2af3bfe44f44a7915d05c6280f2a5393000334ec\" title=\"Xunami\u2019s brother has passed away after a battle with cancer. May he rest in peace. \ud83d\udd4a\ufe0f\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DanielCracker\"> /u/DanielCracker </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1sev7rd\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sev7rd/xunamis_brother_has_passed_away_after_a_battle/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-07T12:56:58+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sewnpg/jewels_sparkles_is_finally_going_to_vegas/",
       "title": "Jewels Sparkles is finally going to Vegas",
@@ -9922,6 +9941,24 @@
     }
   ],
   "Immigration & ICE": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVRsODZDVkljM2ZRZGJQMXVNSnhnUjgtOXJxa3F2VWNZcklYaFFvRl9XRHpaWDB6U0t0MGc0WHp0ZTdNeVpwOFZSVmlvX1h4ZVN0LURYLXlsVDhXTWx5UG5jcXppeVRvZXJaM1Z4Z0lrTzNPQW5OMV85TTVJWThXei1YZ3gwbUY5WDdEU25XdkExRFJtT0FQYjRnbjNWaEM3RXJMdFl3?oc=5",
+      "title": "ICE's NYC unit mainly arrests people without criminal convictions, data shows - Spectrum News NY1",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVRsODZDVkljM2ZRZGJQMXVNSnhnUjgtOXJxa3F2VWNZcklYaFFvRl9XRHpaWDB6U0t0MGc0WHp0ZTdNeVpwOFZSVmlvX1h4ZVN0LURYLXlsVDhXTWx5UG5jcXppeVRvZXJaM1Z4Z0lrTzNPQW5OMV85TTVJWThXei1YZ3gwbUY5WDdEU25XdkExRFJtT0FQYjRnbjNWaEM3RXJMdFl3?oc=5\" target=\"_blank\">ICE's NYC unit mainly arrests people without criminal convictions, data shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News NY1</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-07T15:11:37.638727+00:00",
+      "published_at": "2026-04-07T14:45:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmVFLUVEOVRBTThUUkZOLUhQUkxISTZua1VCU25WVEFmNGFJcE5vWkliWjc4U3VKdzV4TEdwRXFYbHdxV29UV3l4dTRWUGxDSDAtbnV5S0EyR3o2ckpuVXk0eTFvZEM0d2dkNHNjZ0JxUG1lbGh0V254QTNiVVRuYnpkYzVvaklmUjJiVWxBYTlyb25uTUNnRlVCOHM1OXl0dHlIYk9BdVN5WTd5d1BVbzdoT1hSQmpXS201eTU5bERnTmp1Mm9VdUJwVl9BQUJH?oc=5",
       "title": "DHS Secretary Markwayne Mullin plans to \u2018take a hard look\u2019 at international airports in sanctuary cities - New York Post",

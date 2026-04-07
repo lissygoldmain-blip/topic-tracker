@@ -4446,6 +4446,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGVIOHpQMmdmYkxmckJEMHZqdFYtcWxQNlpIVHI2MkFaaEVvTXhiMzZhSnQydkFib0F6ODR0QWtWUjg4alFSVEhaQU93cGZYdkdjcG5mMjlLRnprYTAtTDNlX1pPd1g5TVA0YVRKOWJzQlU5a3V4eVlYMGgzWmUxWWtSMnM1MzNmNmhfRTVnYm12YWh3Yl9vNEZoWWRkNHBy?oc=5",
+      "title": "Anthropic says its latest AI model is too powerful for public release and that it broke containment during testing - Business Insider",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGVIOHpQMmdmYkxmckJEMHZqdFYtcWxQNlpIVHI2MkFaaEVvTXhiMzZhSnQydkFib0F6ODR0QWtWUjg4alFSVEhaQU93cGZYdkdjcG5mMjlLRnprYTAtTDNlX1pPd1g5TVA0YVRKOWJzQlU5a3V4eVlYMGgzWmUxWWtSMnM1MzNmNmhfRTVnYm12YWh3Yl9vNEZoWWRkNHBy?oc=5\" target=\"_blank\">Anthropic says its latest AI model is too powerful for public release and that it broke containment during testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-07T20:53:23.467557+00:00",
+      "published_at": "2026-04-07T20:29:00+00:00",
+      "price": null,
+      "novelty_score": 0.9,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWVpzb24yRFRBLUQ1QVZZcXVQQ2NuRURSZXlkWVVzM1prU05Zc2RHb3RrMWJrV0xlUUYtRWZlRUR3NlVUTkM5TFhManhhdVB5LWdnOXVXcWhiOVdDQjk0Q3BvXzFJS25PMFNrakpwbGJPYkpmcWxtQXJFWmhyMmhYRzI5NA?oc=5",
       "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative - TechCrunch",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNWVpzb24yRFRBLUQ1QVZZcXVQQ2NuRURSZXlkWVVzM1prU05Zc2RHb3RrMWJrV0xlUUYtRWZlRUR3NlVUTkM5TFhManhhdVB5LWdnOXVXcWhiOVdDQjk0Q3BvXzFJS25PMFNrakpwbGJPYkpmcWxtQXJFWmhyMmhYRzI5NA?oc=5\" target=\"_blank\">Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
@@ -6179,26 +6197,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXl0eGNHU29tczAwSWtkRjlkODFhVkJmdTVCTVg2bGdKZWVJMHA3NEtiZHlDWENZZ1lQLWJKd3k1dHJrOWo2a1hBRl9hcnpFemRJbEoxLUtkcnR4NlB5ZG1FVW5OVEVHT1JqY2RRalhFTkJnZzBDVlBVUFhPbFozX1RQRk1Bdk0?oc=5",
-      "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns - The New York Times",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXl0eGNHU29tczAwSWtkRjlkODFhVkJmdTVCTVg2bGdKZWVJMHA3NEtiZHlDWENZZ1lQLWJKd3k1dHJrOWo2a1hBRl9hcnpFemRJbEoxLUtkcnR4NlB5ZG1FVW5OVEVHT1JqY2RRalhFTkJnZzBDVlBVUFhPbFozX1RQRk1Bdk0?oc=5\" target=\"_blank\">Meta Delays Rollout of New A.I. Model After Performance Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-03-12T07:00:00+00:00",
+      "url": "https://qns.com/2026/04/latest-openings-western-queens/",
+      "title": "From souvlaki to sundaes: The latest openings in western Queens",
+      "snippet": "As a new month unfolds, western Queens continues to give the neighborhood something new to explore with a list of new eateries and cafes on the dining scene. From a new ice cream shop in Sunnyside offering classic treats like sundaes and egg creams to a new pizzeria with an old-school aesthetic, there\u2019s definitely a...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/latest-openings-western-queens/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-07T20:40:19.073500+00:00",
+      "published_at": "2026-04-07T20:00:48+00:00",
       "price": null,
-      "novelty_score": 0.6,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/judge-recusal-metropolitan-park-casino-lawsuit/",
       "title": "Judge recuses himself from Metropolitan Park casino lawsuit as case is reassigned",
@@ -7980,27 +7999,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://qns.com/2026/03/pothole-blitz-queens-roadways/",
-      "title": "City\u2019s \u2018Pothole Blitz\u2019 resumes on Saturday for third straight weekend of repairing dangerous craters on roadways across Queens",
-      "snippet": "The city\u2019s war on potholes will continue on Saturday with Department of Transportation repair crews deployed across Queens and the rest of the city for the third consecutive weekend. The initiative, dubbed &#8220;Pothole Blitz&#8221; resumes at 6 a.m. on March 28, as part of an ongoing effort that follows an unusually harsh winter, the third...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/03/pothole-blitz-queens-roadways/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-03-30T16:50:35.357950+00:00",
-      "published_at": "2026-03-27T20:15:25+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sf830t/lydia_b_kollins_gives_birth_on_stage_at/",
+      "title": "Lydia B Kollins gives birth on stage at ButtTootKing Oslo with the help of her midwife wife Kori King",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sf830t/lydia_b_kollins_gives_birth_on_stage_at/\"> <img alt=\"Lydia B Kollins gives birth on stage at ButtTootKing Oslo with the help of her midwife wife Kori King\" src=\"https://external-preview.redd.it/M2QxbGFuaGV4dHRnMXHDnaTgRNxAWsqxmDZqOO-GK2U4gN-0_ZFl1damYsR0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdb579d709b44ee7deebc17b6ad61f66aba7e5c9\" title=\"Lydia B Kollins gives birth on stage at ButtTootKing Oslo with the help of her midwife wife Kori King\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/untzuntzbby\"> /u/untzuntzbby </a> <br /> <span><a href=\"https://v.redd.it/hqap2igexttg1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sf830t/lydia_b_kollins_gives_birth_on_stage_at/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-07T20:42:10+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.5,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1seup8g/kandy_muse_doing_ramadan_ads_in_the_middle_east/",
       "title": "Kandy Muse doing Ramadan Ads in the Middle East now? \ud83d\ude33",
@@ -9985,6 +10004,24 @@
     }
   ],
   "Immigration & ICE": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzdxZDI4TlRjeC1CZ2t6VV9VLXYxcTF3ZkRLbkhTZzNPVi10VS15cEc0UldxY0NWS2lSeW82YV8tdlJEMGMxSjhwalRYc0hEYVEyQW8xajZZNkF3TW8yd25pM29tX1FaNnh6dU5kTTdfdDdDNjRNZm1rWTBrbVp3UlF5QzY0TEx6Z2tRc0Z5QklOVGpaa3NDaWhLRVJ6b1QzS0dzVtIBqgFBVV95cUxQOTRsTkZHc0hYeFZMekNKM3FqNmk3b2FtZmRYMXBFSW5OZm1WY0pDSk1jUGkzNjlJTWYzNFJUWUhqN2hJWWQwRmlxeWpPa2loRDlkZktNZDhZYVA1aDBPT2NmVnZ5SUlRWS0yS3dqZ1k5MlVBRXg5R3ZfWFVIU0dvdHZZRzJUWFY1eTNUdUYzaXg2U2xTa044N0VGeU1iWlg4ZHdXVVVpalczZw?oc=5",
+      "title": "ICE arrests illegal immigrant accused of kidnapping 4-year-old girl from laundromat - foxnews.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzdxZDI4TlRjeC1CZ2t6VV9VLXYxcTF3ZkRLbkhTZzNPVi10VS15cEc0UldxY0NWS2lSeW82YV8tdlJEMGMxSjhwalRYc0hEYVEyQW8xajZZNkF3TW8yd25pM29tX1FaNnh6dU5kTTdfdDdDNjRNZm1rWTBrbVp3UlF5QzY0TEx6Z2tRc0Z5QklOVGpaa3NDaWhLRVJ6b1QzS0dzVtIBqgFBVV95cUxQOTRsTkZHc0hYeFZMekNKM3FqNmk3b2FtZmRYMXBFSW5OZm1WY0pDSk1jUGkzNjlJTWYzNFJUWUhqN2hJWWQwRmlxeWpPa2loRDlkZktNZDhZYVA1aDBPT2NmVnZ5SUlRWS0yS3dqZ1k5MlVBRXg5R3ZfWFVIU0dvdHZZRzJUWFY1eTNUdUYzaXg2U2xTa044N0VGeU1iWlg4ZHdXVVVpalczZw?oc=5\" target=\"_blank\">ICE arrests illegal immigrant accused of kidnapping 4-year-old girl from laundromat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foxnews.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-07T20:48:16.296996+00:00",
+      "published_at": "2026-04-07T11:19:51+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0g4V3p2SExwRllDU25yUE9CX3pwRTg2TXVtNGN4ZUFxSWlMRGd4VXZtVnJfWHJaUWxHR0pmWFRSc2JpamNSaFVuVEw2Y0JqNjBjT2VmNHExUTAyaGgxdVFtaE9yR2p6Nl9pQ1AzN3BWdzl0SDVIRWstUEdxMWtycUFqc2pBLTMycnVtTzNZeGZFU1pXOEE0UGRVTHA2WWMyQXNnUjh3cEtCcFdLVGw3SWFHVks1dHg0eGZlZDJMY1NOZ2JMNkhPc0hwX3huMXV1c18zNQ?oc=5",
       "title": "ICE arrests \u2018sicko\u2019 illegal migrant accused of kidnapping 4-year-old girl from Long Island laundromat - New York Post",

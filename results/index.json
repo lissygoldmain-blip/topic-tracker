@@ -4307,6 +4307,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY0NnYlFFS0pOMmpUb0doYlRiT0NmYnVuYkZJOTZPZEVuSXhkSnVfdlMxMDFRYWpzT3hwNzZ3SVg0ajM0RXVoVmN1WVY1MjIta0w0TXM5eTk4N0s2WUI4empvRnJ2UEVScWdr?oc=5",
+      "title": "Scoop: Meta to open source versions of its next AI models - Axios",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY0NnYlFFS0pOMmpUb0doYlRiT0NmYnVuYkZJOTZPZEVuSXhkSnVfdlMxMDFRYWpzT3hwNzZ3SVg0ajM0RXVoVmN1WVY1MjIta0w0TXM5eTk4N0s2WUI4empvRnJ2UEVScWdr?oc=5\" target=\"_blank\">Scoop: Meta to open source versions of its next AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-07T04:01:40.409309+00:00",
+      "published_at": "2026-04-06T19:35:21+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdkhYczkzX1dZRE40MWRPR0xTYTBENVpTWTVLTkhZMVRRbGZ6NVRLdkVmOFZ1Vm83V2tIUjVFblh6TW1qbXpTN1lYWXBWbTd0TDhqY2JCX0J4eXp3eWZncUp2VThGRGd0R2FUVU9KR3U1ZjVqZ2Qwby05bm83M3dtS3F6a2FhblI2OF9yOWQ2OS1fUlN5a3lvQlRjajdMZUhYV1dWZThEdDMtRllQVVRkTGF1QjhIUmFvMnNUV0lGVU9CSTBpeFJkbFg0aWU?oc=5",
       "title": "Google releases Gemma 4 under Apache 2.0 for open AI development | ETIH EdTech News - EdTech Innovation Hub",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOdkhYczkzX1dZRE40MWRPR0xTYTBENVpTWTVLTkhZMVRRbGZ6NVRLdkVmOFZ1Vm83V2tIUjVFblh6TW1qbXpTN1lYWXBWbTd0TDhqY2JCX0J4eXp3eWZncUp2VThGRGd0R2FUVU9KR3U1ZjVqZ2Qwby05bm83M3dtS3F6a2FhblI2OF9yOWQ2OS1fUlN5a3lvQlRjajdMZUhYV1dWZThEdDMtRllQVVRkTGF1QjhIUmFvMnNUV0lGVU9CSTBpeFJkbFg0aWU?oc=5\" target=\"_blank\">Google releases Gemma 4 under Apache 2.0 for open AI development | ETIH EdTech News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EdTech Innovation Hub</font>",
@@ -6035,26 +6053,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdjJQMEJkbUJLWDVGNlJXSmQ1Q1VZdWEwck9oRUc2akdYRWpDNjFrWkYtSjMzQ2Y2UEZZUnZGNldDTjRYUm9YSjlXU1VfS3d5TE4wNTh1UklQRVk0VkEyTV9CRldMMjdVREtScHRJX2l6dlpIYzVrbndQU25UUTJ1SDhuUjBPRjBRdTllTDNHNWx1VW5QcFFNaURKWmpIQ3VqUGNfVnRTSHZ0RFRtQ0hnUmoyV01oYXhkLXZnX21n0gHDAUFVX3lxTE5rY1dBU2cxMjhDQThuZzU2ZkhBYy1qa2stbmstREF3TEpaLTg5bFpIdS14anhmRGs2M3V5bk9EVXlqWFVyZ01iekFlamd1N0p0V0cwYmh6cWdLenp2N2txX0tDQ3BWRDJkNFdSZXhpeDZEVzdFaGwtbWJ6SWlWNkpjMnlERkVpQzIwdlo3NEE4VTFNcWpVY2NzUWtCWHNQRm9yQ2V1emRQZGdYY2dTajR4TmFkZ21ZbE1mREJLeXFEemUzTQ?oc=5",
-      "title": "One year after DeepSeek, Chinese AI firms from Alibaba to Moonshot race to release new models - CNBC",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQdjJQMEJkbUJLWDVGNlJXSmQ1Q1VZdWEwck9oRUc2akdYRWpDNjFrWkYtSjMzQ2Y2UEZZUnZGNldDTjRYUm9YSjlXU1VfS3d5TE4wNTh1UklQRVk0VkEyTV9CRldMMjdVREtScHRJX2l6dlpIYzVrbndQU25UUTJ1SDhuUjBPRjBRdTllTDNHNWx1VW5QcFFNaURKWmpIQ3VqUGNfVnRTSHZ0RFRtQ0hnUmoyV01oYXhkLXZnX21n0gHDAUFVX3lxTE5rY1dBU2cxMjhDQThuZzU2ZkhBYy1qa2stbmstREF3TEpaLTg5bFpIdS14anhmRGs2M3V5bk9EVXlqWFVyZ01iekFlamd1N0p0V0cwYmh6cWdLenp2N2txX0tDQ3BWRDJkNFdSZXhpeDZEVzdFaGwtbWJ6SWlWNkpjMnlERkVpQzIwdlo3NEE4VTFNcWpVY2NzUWtCWHNQRm9yQ2V1emRQZGdYY2dTajR4TmFkZ21ZbE1mREJLeXFEemUzTQ?oc=5\" target=\"_blank\">One year after DeepSeek, Chinese AI firms from Alibaba to Moonshot race to release new models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-01-27T08:00:00+00:00",
+      "url": "https://www.thecity.nyc/2026/04/06/frank-carone-petrosyants-insurance-fraud-eric-adams/",
+      "title": "Eric Adams Power Broker Says He\u2019s the Victim in Multi-Million Insurance Scam",
+      "snippet": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2023/08/120622_frank_carone_2-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>In the months before his pal Eric Adams became mayor and made him chief of staff, Brooklyn attorney Frank Carone was hustling to build up a company he&#8217;d created to provide cash advances to doctors awaiting potentially lucrative insurance payouts in no-fault car accident cases. Carone&#8217;s firm relied on a team of recruiters to find [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/06/frank-carone-petrosyants-insurance-fraud-eric-adams/\">Eric Adams Power Broker Says He\u2019s the Victim in Multi-Million Insurance Scam</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-07T03:48:40.307566+00:00",
+      "published_at": "2026-04-06T09:00:00+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.thecity.nyc/2026/04/06/mamdani-mandate-tax-rich-faqnyc-podcast/",
       "title": "LISTEN: Can Mamdani Cash In His Massive Mandate?",
@@ -7836,24 +7855,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://www.6sqft.com/nycs-first-pro-soccer-stadium-tops-out-in-queens/",
-      "title": "NYC\u2019s first pro soccer stadium tops out in Queens",
-      "snippet": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"682\" src=\"https://thumbs.6sqft.com/wp-content/uploads/2026/03/27114714/Etihad-Park-Topping-Out-1-1040x693.jpg?w=768&amp;format=webp\" width=\"1024\" /><p>Etihad Park, New York City&#8217;s first-ever professional soccer stadium in Queens, topped out this week. The NYC Football Club (NYCFC) laid the final steel beam on Wednesday, completing the 25,000-seat stadium\u2019s frame on schedule after construction began in December 2024. Developed by NYCFC, Related Companies, and Sterling Equities and designed by HOK, the seven-story, fully&#160;[...]</p>\n<p>The post <a href=\"https://www.6sqft.com/nycs-first-pro-soccer-stadium-tops-out-in-queens/\">NYC\u2019s first pro soccer stadium tops out in Queens</a> first appeared on <a href=\"https://www.6sqft.com\">6sqft</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-03-28T22:22:20.794638+00:00",
-      "published_at": "2026-03-27T19:15:00+00:00",
-      "price": null,
-      "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Drag Race & drag": [
@@ -8507,6 +8508,24 @@
     }
   ],
   "Queer & trans": [
+    {
+      "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-administration-ends-civil-rights-settlements-trans-students",
+      "title": "Trump administration ends some civil rights settlements backing trans students",
+      "snippet": "Education department will no longer enforce schools from California to Delaware to comply with US civil rights law",
+      "source": "guardian:US news",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-04-06T22:25:27+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.theguardian.com/society/2026/apr/06/families-girlguiding-ban-trans-girls",
       "title": "\u2018Deeply distressing for all of us\u2019: families react to Girlguiding\u2019s trans exclusion ",

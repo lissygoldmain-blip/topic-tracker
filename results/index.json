@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/50-years-of-chicano-photography/",
+      "title": "50 Years of Chicano Photography",
+      "snippet": "Art books we're reading this spring, a deep dive into Frank O'Hara's curatorial gig at MoMA, and more.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-07T08:09:52.749977+00:00",
+      "published_at": "2026-04-06T19:30:55+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmpMQlhoaDBhWW8tX21lRnJRUGJLUDhqZkxkTjB5eU9mcW5mdFE4N1VHTW81NWo5ZTdIdnF1ZHk5d2o2Zk5kQk5aQjJuMjN5RmdyWGF3S3lrZWdjSXAwOE1jM2ZvQlNLd2dzUFhydGx4amxRWW11NUFCblNtSnN3M05fXy00dDY2VDd3d1c1Ql9weDIwd1R2MmFMTkNCWmdSZ0IyTTlZNHZzOGV4elZNZVYyT2c1cHRiZUVjMGNicmJFZw?oc=5",
       "title": "NYC Opens Applications For Art Installations At Flushing Meadows Corona Park In Queens - New York YIMBY",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmpMQlhoaDBhWW8tX21lRnJRUGJLUDhqZkxkTjB5eU9mcW5mdFE4N1VHTW81NWo5ZTdIdnF1ZHk5d2o2Zk5kQk5aQjJuMjN5RmdyWGF3S3lrZWdjSXAwOE1jM2ZvQlNLd2dzUFhydGx4amxRWW11NUFCblNtSnN3M05fXy00dDY2VDd3d1c1Ql9weDIwd1R2MmFMTkNCWmdSZ0IyTTlZNHZzOGV4elZNZVYyT2c1cHRiZUVjMGNicmJFZw?oc=5\" target=\"_blank\">NYC Opens Applications For Art Installations At Flushing Meadows Corona Park In Queens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York YIMBY</font>",
@@ -2563,6 +2581,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://www.rogerebert.com/interviews/hope-core-daniel-pemberton-on-composing-project-hail-mary",
+      "title": "Hope-Core: Daniel Pemberton on Composing \u201cProject Hail Mary\u201d",
+      "snippet": "The composer talks about scoring for Earth and the stars, collaborating with Lord and Miller, and what exactly a cristal baschet is.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-07T08:13:18.682500+00:00",
+      "published_at": "2026-04-06T13:07:38+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3l5aVc4MTlyckROZkxPTE1RRE9tRlpwbFU0ajEzcWNuaEhtN3lVRGhhQWprb1ltWU9JcWVxcVB1R0o3Sm9CZFBwa1dTRWpUMHNCQUdmSVhBR1dfLTBZMWdnU3lMOTZVN1Z5S3Y3eW83NlBzaU8xQW1uSnZqWHpEdm5OckVRbnlZNHVGLWlGb3F6TjJRb3NZRWpjQmtidzlWa0RhTWNqWjJCT1dvbEk4YVZnNWR3R05VSHBqbXAtN2E5WWt2MEN4WUc1azhRNFFmWU1IQkZzbVo?oc=5",
       "title": "\u2018Blue Film\u2019 Trailer: Reed Birney & Kieron Moore Reopen A Dangerous Past In Elliot Tuttle\u2019s Queer Chamber Thriller - The Playlist",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3l5aVc4MTlyckROZkxPTE1RRE9tRlpwbFU0ajEzcWNuaEhtN3lVRGhhQWprb1ltWU9JcWVxcVB1R0o3Sm9CZFBwa1dTRWpUMHNCQUdmSVhBR1dfLTBZMWdnU3lMOTZVN1Z5S3Y3eW83NlBzaU8xQW1uSnZqWHpEdm5OckVRbnlZNHVGLWlGb3F6TjJRb3NZRWpjQmtidzlWa0RhTWNqWjJCT1dvbEk4YVZnNWR3R05VSHBqbXAtN2E5WWt2MEN4WUc1azhRNFFmWU1IQkZzbVo?oc=5\" target=\"_blank\">\u2018Blue Film\u2019 Trailer: Reed Birney & Kieron Moore Reopen A Dangerous Past In Elliot Tuttle\u2019s Queer Chamber Thriller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Playlist</font>",
@@ -4316,23 +4352,6 @@
       "source_type": "entertainment",
       "topic_name": "Film & TV",
       "fetched_at": "2026-03-28T16:00:23.814765+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.themoviedb.org/tv/314347",
-      "title": "Phone: The Musical Series [TV] (2026-03-28)",
-      "snippet": "A teenage girl's phone is stolen while she tries to locate the recording studio where her debut session is.",
-      "source": "tmdb",
-      "source_type": "entertainment",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-03-28T16:00:23.814763+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -9772,6 +9791,24 @@
     }
   ],
   "Immigration & ICE": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmVFLUVEOVRBTThUUkZOLUhQUkxISTZua1VCU25WVEFmNGFJcE5vWkliWjc4U3VKdzV4TEdwRXFYbHdxV29UV3l4dTRWUGxDSDAtbnV5S0EyR3o2ckpuVXk0eTFvZEM0d2dkNHNjZ0JxUG1lbGh0V254QTNiVVRuYnpkYzVvaklmUjJiVWxBYTlyb25uTUNnRlVCOHM1OXl0dHlIYk9BdVN5WTd5d1BVbzdoT1hSQmpXS201eTU5bERnTmp1Mm9VdUJwVl9BQUJH?oc=5",
+      "title": "DHS Secretary Markwayne Mullin plans to \u2018take a hard look\u2019 at international airports in sanctuary cities - New York Post",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmVFLUVEOVRBTThUUkZOLUhQUkxISTZua1VCU25WVEFmNGFJcE5vWkliWjc4U3VKdzV4TEdwRXFYbHdxV29UV3l4dTRWUGxDSDAtbnV5S0EyR3o2ckpuVXk0eTFvZEM0d2dkNHNjZ0JxUG1lbGh0V254QTNiVVRuYnpkYzVvaklmUjJiVWxBYTlyb25uTUNnRlVCOHM1OXl0dHlIYk9BdVN5WTd5d1BVbzdoT1hSQmpXS201eTU5bERnTmp1Mm9VdUJwVl9BQUJH?oc=5\" target=\"_blank\">DHS Secretary Markwayne Mullin plans to \u2018take a hard look\u2019 at international airports in sanctuary cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-07T08:19:17.152380+00:00",
+      "published_at": "2026-04-06T23:23:42+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TR015d19PUi0xVlE0OEZXLVJfam5hQUx1bEluN3JONjJTR2dEdlQ3bVo0ZkJ4SmlGZHhhaEdvT2VybnN2aWt0MjE1Q0p4OE8xUVZUbkxGY3Q4TFc0VjQ2Q3hKV0EwcVZuMWhWQ2ZMR0hsUFJpYTZxaUhnVQ?oc=5",
       "title": "Newly Obtained Video of Minneapolis Shooting Undermines ICE Account - The New York Times",

@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/the-unbearable-strangeness-of-being/",
+      "title": "The Unbearable Strangeness of Being",
+      "snippet": "In Cinga Samson\u2019s haunted paintings, we do not know what we are looking at, or where we are.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-07T01:27:57.893978+00:00",
+      "published_at": "2026-04-06T21:16:15+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/the-museum-breathing-life-into-new-yorks-downtown-performance-scene/",
       "title": "The Museum Breathing Life Into New York's Downtown Performance Scene",
       "snippet": "The Leslie-Lohman is figuring out how to collect art while connecting with the basic needs of the city's queer community.",
@@ -4289,6 +4307,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdkhYczkzX1dZRE40MWRPR0xTYTBENVpTWTVLTkhZMVRRbGZ6NVRLdkVmOFZ1Vm83V2tIUjVFblh6TW1qbXpTN1lYWXBWbTd0TDhqY2JCX0J4eXp3eWZncUp2VThGRGd0R2FUVU9KR3U1ZjVqZ2Qwby05bm83M3dtS3F6a2FhblI2OF9yOWQ2OS1fUlN5a3lvQlRjajdMZUhYV1dWZThEdDMtRllQVVRkTGF1QjhIUmFvMnNUV0lGVU9CSTBpeFJkbFg0aWU?oc=5",
+      "title": "Google releases Gemma 4 under Apache 2.0 for open AI development | ETIH EdTech News - EdTech Innovation Hub",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOdkhYczkzX1dZRE40MWRPR0xTYTBENVpTWTVLTkhZMVRRbGZ6NVRLdkVmOFZ1Vm83V2tIUjVFblh6TW1qbXpTN1lYWXBWbTd0TDhqY2JCX0J4eXp3eWZncUp2VThGRGd0R2FUVU9KR3U1ZjVqZ2Qwby05bm83M3dtS3F6a2FhblI2OF9yOWQ2OS1fUlN5a3lvQlRjajdMZUhYV1dWZThEdDMtRllQVVRkTGF1QjhIUmFvMnNUV0lGVU9CSTBpeFJkbFg0aWU?oc=5\" target=\"_blank\">Google releases Gemma 4 under Apache 2.0 for open AI development | ETIH EdTech News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EdTech Innovation Hub</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-07T01:42:33.962828+00:00",
+      "published_at": "2026-04-06T23:32:27+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQS2hYRVZsNjduWDJzMGk5TW8wRVlGOExFVHBRem5NQmp3d24wMWNCOGxhcW0wc0UwaWtvMm81UXN5MThLVzFvV196ZEx1c2ZueWhsLXZ2V0xGT1RDTjNJVzJJZkU2NTFWTFdvaUFrV3hKdWNnSTVmNk1pY2ZCUUJwOFM1V3ZJUUdRQTkxX3V2UHJ5a0g0MHRUSm5rTmJhZEwwTEVwbnoyQkZGU2xtLTV4LWh2S011WXYtXzJNT0FkSGpTdUk2UVdoUURKNVo4bW1IU0NSakdrclVnQ2lPUTRmOG9DMjdwTkZLdXkyN1l5eGEtSER6TXNMbVplblIzZzlpTEtESHBENzltV3IyVGRUOV9qWnNnVXVYMzU00gGgAkFVX3lxTE5wUGdMaFBfMkEyWDNyQ3ZwMlNrMjJScjJYeGQ0VFpGYlpaMHkwREItWDRRODdTSjF1YUZWTEw4c0oxdkRNOHdEQXdZY1k1bkhuVHNlcWh0VzBIbTFPcDlaaHFweTV4VzB5em9oY2FQT3IzYlpYWHpUNVhMUVhYTGV6NjI5VzZhUmRGSDIxby1DOEtxMi1KOW95LThFUVJ3ZU12UjRmNFA3MjNwMW0xVXlRcHBscUluMlJ1cDBKYXo1WW92YWFmbjR3M0xPNlBodVEybVdqT25PTmhFMkFYeXVXNkxPTGljVEpDNXJzOWVnVEVXeUFQZE52djRndmxhZjlRa3FTQ2pVekVTYklSNlJTMlNFQTJJMGRCQV9zazRHWA?oc=5",
       "title": "RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Kernel Optimization for Arbitrary PyTorch Models - MarkTechPost",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQS2hYRVZsNjduWDJzMGk5TW8wRVlGOExFVHBRem5NQmp3d24wMWNCOGxhcW0wc0UwaWtvMm81UXN5MThLVzFvV196ZEx1c2ZueWhsLXZ2V0xGT1RDTjNJVzJJZkU2NTFWTFdvaUFrV3hKdWNnSTVmNk1pY2ZCUUJwOFM1V3ZJUUdRQTkxX3V2UHJ5a0g0MHRUSm5rTmJhZEwwTEVwbnoyQkZGU2xtLTV4LWh2S011WXYtXzJNT0FkSGpTdUk2UVdoUURKNVo4bW1IU0NSakdrclVnQ2lPUTRmOG9DMjdwTkZLdXkyN1l5eGEtSER6TXNMbVplblIzZzlpTEtESHBENzltV3IyVGRUOV9qWnNnVXVYMzU00gGgAkFVX3lxTE5wUGdMaFBfMkEyWDNyQ3ZwMlNrMjJScjJYeGQ0VFpGYlpaMHkwREItWDRRODdTSjF1YUZWTEw4c0oxdkRNOHdEQXdZY1k1bkhuVHNlcWh0VzBIbTFPcDlaaHFweTV4VzB5em9oY2FQT3IzYlpYWHpUNVhMUVhYTGV6NjI5VzZhUmRGSDIxby1DOEtxMi1KOW95LThFUVJ3ZU12UjRmNFA3MjNwMW0xVXlRcHBscUluMlJ1cDBKYXo1WW92YWFmbjR3M0xPNlBodVEybVdqT25PTmhFMkFYeXVXNkxPTGljVEpDNXJzOWVnVEVXeUFQZE52djRndmxhZjlRa3FTQ2pVekVTYklSNlJTMlNFQTJJMGRCQV9zazRHWA?oc=5\" target=\"_blank\">RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Kernel Optimization for Arbitrary PyTorch Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarkTechPost</font>",
@@ -6010,23 +6046,6 @@
       "fetched_at": "2026-01-27T08:00:00+00:00",
       "price": null,
       "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzNXWkdOSm5xek00QnZhYVJKY2FnaGdrWmxXUTZHdXhtazlvOGN4a3VPcnQ1UUZaSEdQeXZGUjBlRFJwa1U1WnMyTWlCMU1yN3NJaDBNZW5DdjJSY3E1SG8zYTVZdUUzeER1LWg2RktBZm9JeW54Tzllc3dMZUVxV1JnMEFUUElJcWZRMzNWRFFsc1h6LXVBa2ctMGlGeUVZUkZibUlB0gGrAUFVX3lxTE5rUUh6S0dBQkNBdXlZQTZIWW9WenQtMkZRZDJva1BCeEptek5MLWI3TGhlbGRXcS1ES1pYaHlKZGFvR21SclAyZmxpQWg5NHJjQlU1RC1JdjJ3cUlJRGJlbi1nVGp3Wm1PX1JSa08yYmw3OWUxb0xPcFBRS0ZlVTB0Q01qTWZxeENpcS1ZV1NCZ0ZoN0h0c0sweGVpemloM2xEeTFpYlFBSl9mTQ?oc=5",
-      "title": "French AI lab Mistral releases new AI models as it looks to keep pace with OpenAI and Google - CNBC",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzNXWkdOSm5xek00QnZhYVJKY2FnaGdrWmxXUTZHdXhtazlvOGN4a3VPcnQ1UUZaSEdQeXZGUjBlRFJwa1U1WnMyTWlCMU1yN3NJaDBNZW5DdjJSY3E1SG8zYTVZdUUzeER1LWg2RktBZm9JeW54Tzllc3dMZUVxV1JnMEFUUElJcWZRMzNWRFFsc1h6LXVBa2ctMGlGeUVZUkZibUlB0gGrAUFVX3lxTE5rUUh6S0dBQkNBdXlZQTZIWW9WenQtMkZRZDJva1BCeEptek5MLWI3TGhlbGRXcS1ES1pYaHlKZGFvR21SclAyZmxpQWg5NHJjQlU1RC1JdjJ3cUlJRGJlbi1nVGp3Wm1PX1JSa08yYmw3OWUxb0xPcFBRS0ZlVTB0Q01qTWZxeENpcS1ZV1NCZ0ZoN0h0c0sweGVpemloM2xEeTFpYlFBSl9mTQ?oc=5\" target=\"_blank\">French AI lab Mistral releases new AI models as it looks to keep pace with OpenAI and Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2025-12-02T08:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

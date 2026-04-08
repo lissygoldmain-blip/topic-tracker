@@ -272,7 +272,7 @@
     },
     "Substack picks": {
       "substack": {
-        "consecutive_failures": 2,
+        "consecutive_failures": 4,
         "disabled": false,
         "disabled_at": null
       }

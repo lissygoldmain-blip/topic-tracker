@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/saad-khan-archives-the-detritus-of-censored-culture/",
+      "title": "Saad Khan Archives the Detritus of Censored Culture",
+      "snippet": "Since 2019, the New York-based archivist has cultivated a digital and physical menagerie of censored mass media spanning South Asia to the Maghreb known as Khajistan.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-08T20:35:31.141562+00:00",
+      "published_at": "2026-04-08T18:25:57+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.euronews.com/culture/2026/04/02/controversial-easter-confessions-maurizio-cattelan-kicks-off-sinners-hotline#new_tab",
       "title": "The Artist Behind The Banana On The Wall And The Golden Toilet Is Now Hearing Confessions",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/1202-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />Maurizio Cattelan has set up a hotline where folks from anywhere can \u201cconfess their sins.\u201d Those the artist/father-confessor considers most in need of repentance will be invited to confess to him in real time during an April 23 live-stream. \u201cIn a world of sin, absolution has never been so close,\u201d he says. &#8211; Euronews",
@@ -1776,23 +1794,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Cd3hHUDI5Q01GNFVic3dMdnVMbndJdUxJZmRoWU1xZzF6MDkxcC1pRHk5eHFWTkdqdnVhOVdKZU00X1E0R0VLcXVNWjA5ckg1THJhemdKV19WZmZIY0JST3o1aWJ3ZkdjQmc1ZUVTYm9YUDVnLWlYNS13?oc=5",
-      "title": "'Queens' Off-Broadway review \u2014 strong ensemble cast delivers a propulsive portrait of the immigrant experience - New York Theatre Guide",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5Cd3hHUDI5Q01GNFVic3dMdnVMbndJdUxJZmRoWU1xZzF6MDkxcC1pRHk5eHFWTkdqdnVhOVdKZU00X1E0R0VLcXVNWjA5ckg1THJhemdKV19WZmZIY0JST3o1aWJ3ZkdjQmc1ZUVTYm9YUDVnLWlYNS13?oc=5\" target=\"_blank\">'Queens' Off-Broadway review \u2014 strong ensemble cast delivers a propulsive portrait of the immigrant experience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Theatre Guide</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2025-11-05T08:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -2723,6 +2724,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://www.indiewire.com/features/interviews/fatih-akin-amrum-germany-interview-1235186562/",
+      "title": "Fatih Akin Made a Nazi-Era Coming-of-Age Film as a Favor \u2014 Then It Became an $8 Million Hit",
+      "snippet": "Akin honored his old friend and mentor, the German New Wave veteran Hark Bohm, to deliver Bohm's story on film before he died in 2025.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-08T20:39:20.136671+00:00",
+      "published_at": "2026-04-08T19:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtpZGlFc3NyT0JHNEFyWEw4bEN5NGpONEhGUThjRXNzTm1vSnJualZ3QVdSOWQ2b1N0UVRRbmgyMGF3cGZRZE5idnVyR2NhUmJRVjhodGkzZ2J3WEU0UlBvenBrbnJpUnVpMFVkWm43SFhUZUV1ZC14dkJ1SUQ0V0RIVXZrYmpicjh4LUkxV0Zrc0EtZDE4dWtmZU1JeEkxU0ZKeDJ4Vkg?oc=5",
       "title": "'Agridulce' Explores Bachata Music's Dominican Roots - National Today",
@@ -4500,26 +4519,45 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://www.themoviedb.org/tv/317834",
-      "title": "Scandinavia [TV] (2026-03-28)",
-      "snippet": "TV premiere \u00b7 2026-03-28",
-      "source": "tmdb",
-      "source_type": "entertainment",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-03-28T18:38:53.166314+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTd4cks3YzY2Sy1sa2p0Qk1pV1B2bXJvaWhxdHo3YnUzMkVKVExuT1VpS25EblA3bnRqVks3UldjQWJfTEJzaEpHT21WRERMQXdVU3p6TUJtRjNqbzJIbGh1b3BWcndpOFJvbXdFSHVhRmhZUlZOeEx6Tnp0Q1R4VjFWLXphd1h5cG8yUE90U3JabDZLbGNZ?oc=5",
+      "title": "What is Claude Mythos? Anthropic's most powerful AI model yet that's too dangerous to release publicly - stuff.tv",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTd4cks3YzY2Sy1sa2p0Qk1pV1B2bXJvaWhxdHo3YnUzMkVKVExuT1VpS25EblA3bnRqVks3UldjQWJfTEJzaEpHT21WRERMQXdVU3p6TUJtRjNqbzJIbGh1b3BWcndpOFJvbXdFSHVhRmhZUlZOeEx6Tnp0Q1R4VjFWLXphd1h5cG8yUE90U3JabDZLbGNZ?oc=5\" target=\"_blank\">What is Claude Mythos? Anthropic's most powerful AI model yet that's too dangerous to release publicly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stuff.tv</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-08T20:50:18.524511+00:00",
+      "published_at": "2026-04-08T18:57:56+00:00",
       "price": null,
-      "novelty_score": 0.6,
+      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pdnI1VjNXN0ZETWo4RzFYejFnTHVQclVsaW9maWNNWWVORXp3S1A0V3J3LUhodHhFYmVIZTN3OHlwUVNFRzJMTHY1TUpKSWZtZ01Bd1hKVkYwcmszMllkVXFYbkhyQ2wtSFdoak01SnR6bXoyYVE?oc=5",
+      "title": "Meta Unveils New AI Models - The Information",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1pdnI1VjNXN0ZETWo4RzFYejFnTHVQclVsaW9maWNNWWVORXp3S1A0V3J3LUhodHhFYmVIZTN3OHlwUVNFRzJMTHY1TUpKSWZtZ01Bd1hKVkYwcmszMllkVXFYbkhyQ2wtSFdoak01SnR6bXoyYVE?oc=5\" target=\"_blank\">Meta Unveils New AI Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-08T20:50:18.524511+00:00",
+      "published_at": "2026-04-08T16:16:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM05LbVY0Q0xLa1FUM0RYcUtJU2JFeTFYcHFTX0hsMkZqcnlwWUE4YjFZM1lqd2xrdzB0WVlfNGZldUpYOXctdmU2VEMxTk5sR2cycDViV2VQaUtGalFUNmhRc3kxSHRtY0swUVZFMHdIci1uSTZiR3NxYzE0Vlh1MEZTdnNyX2pCXzBRdQ?oc=5",
       "title": "Anthropic Warns That \"Reckless\" Claude Mythos Escaped a Sandbox Environment During Testing - futurism.com",
@@ -6255,40 +6293,6 @@
       "source_type": "news",
       "topic_name": "AI & tech research",
       "fetched_at": "2026-02-16T08:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnh4ZmtkdFVIOWxPdWp1UE9qQWZpdHZhZ0N0N1RCRUhaX1E4WFFkNE5FZlZIWjJBdHNKOXVsLThjZGx4MU1ibmIxazBPNUV0V1dRQUtXUDR2S3YxcF9NN3YzcEFVRUI5azlxbGVkQTJ5d1o0cjVSQ2tDRDQxVGVwOU55ejNDU2ZQLUltX3Frenk2ZEZqRXc?oc=5",
-      "title": "New AI models are losing their edge almost immediately - Fast Company",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnh4ZmtkdFVIOWxPdWp1UE9qQWZpdHZhZ0N0N1RCRUhaX1E4WFFkNE5FZlZIWjJBdHNKOXVsLThjZGx4MU1ibmIxazBPNUV0V1dRQUtXUDR2S3YxcF9NN3YzcEFVRUI5azlxbGVkQTJ5d1o0cjVSQ2tDRDQxVGVwOU55ejNDU2ZQLUltX3Frenk2ZEZqRXc?oc=5\" target=\"_blank\">New AI models are losing their edge almost immediately</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-02-18T08:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjVYc0RlY1paUzJkNEZIaXFOSlZYWnRRTzlQS2ZqSkY3U21VR3lldm1KeVpCMEY2UVJVeDU0ZlJaZlA3bWtYTXp0NDlYeElFOGdFejl6ellkSFRMcFk2MkhjZ2p1d2J1SllrWjMybHJPN0tQakswQUN6c2xrNnFNVFBYVzBEdlFTMXVmWVNzM0tMbDA?oc=5",
-      "title": "OpenAI drops plans to release an adult chatbot - Engadget",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjVYc0RlY1paUzJkNEZIaXFOSlZYWnRRTzlQS2ZqSkY3U21VR3lldm1KeVpCMEY2UVJVeDU0ZlJaZlA3bWtYTXp0NDlYeElFOGdFejl6ellkSFRMcFk2MkhjZ2p1d2J1SllrWjMybHJPN0tQakswQUN6c2xrNnFNVFBYVzBEdlFTMXVmWVNzM0tMbDA?oc=5\" target=\"_blank\">OpenAI drops plans to release an adult chatbot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-03-26T11:31:21+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -8102,6 +8106,24 @@
     }
   ],
   "Drag Race & drag": [
+    {
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sfztfb/jane_dont_made_drag_race_history_then_she_let_her/",
+      "title": "Jane Don\u2019t Made \u2018Drag Race\u2019 History. Then She Let Her Guard Down (Hollywood Reporter essay)",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sfztfb/jane_dont_made_drag_race_history_then_she_let_her/\"> <img alt=\"Jane Don\u2019t Made \u2018Drag Race\u2019 History. Then She Let Her Guard Down (Hollywood Reporter essay)\" src=\"https://external-preview.redd.it/e6DSqWrKMwJNvnHAdiJW8euWD7PNs1zm3L-HfTD8IS8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9d48f81d269603eb6e0bcc27e4d47f5a3b80218\" title=\"Jane Don\u2019t Made \u2018Drag Race\u2019 History. Then She Let Her Guard Down (Hollywood Reporter essay)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Thought this was a good write up and had some interesting insights from Jane. Her reflecting on her experience protesting in Seattle\u2019s CHOP autonomous zone and how it informed her reaction to the Karen challenge. Calling her Karen a Christopher Guest character (makes total sense and I can see it). And admitting that being a robbed queen is better in many respects than being an outright crowned winner.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/r-i-x-x\"> /u/r-i-x-x </a> <br /> <span><a href=\"https://www.hollywoodreporter.com/tv/tv-features/jane-dont-drag-race-history-rupaul-1236558136/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sfztfb/jane_dont_made_drag_race_history_then_she_let_her/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-08T17:38:38+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZLNGlIamdNVFIzMXpaS0wtLXliZmtTRDg0VWpVaDJjRWdMYi0ycTh2OEpDWElmR0I2aW9XdmRxZjNpdXJtX1dLOFRhZFFQYjBQSkRpVVBURWVWaG9NcVl4S2dGNDAzNkREZnp1MFNlTjA4bUVCeF9LN1h3azhtMWZBV2RoejROTkZGdl9kbFlkUUNJbHYtam1R?oc=5",
       "title": "Quad Cities Pride Festival to return in June, two 'RuPaul's Drag Race' stars to perform - The Quad-City Times",
@@ -10392,6 +10414,24 @@
     }
   ],
   "Immigration & ICE": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiUjJuWkp1NXA2MkpiakRsOXdwTE8tT3dlTTBHc092NTFTQjQ1Tkoxak9taFNGTlJORmtTeFo4Tm9KMTRHcFZkbGlPSXo1NWoxbTlROU1mM0dZOWxvc2JCZVBR?oc=5",
+      "title": "Dan Goldman\u2019s five-bill blitz: How and why the New York congressman is fighting to rein in ICE | amNewYork - amNewYork",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiUjJuWkp1NXA2MkpiakRsOXdwTE8tT3dlTTBHc092NTFTQjQ1Tkoxak9taFNGTlJORmtTeFo4Tm9KMTRHcFZkbGlPSXo1NWoxbTlROU1mM0dZOWxvc2JCZVBR?oc=5\" target=\"_blank\">Dan Goldman\u2019s five-bill blitz: How and why the New York congressman is fighting to rein in ICE | amNewYork</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">amNewYork</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-08T20:45:21.343693+00:00",
+      "published_at": "2026-04-07T17:30:40+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQcHRvRW5mcEZneU9vVUJHcUV2Zi1tMUlxaGJvSmJ0cmI2OHI3ZTBBa3ljUXR4OTlfZHBVV1JxeEJ0UnYyS2dObk0ybWF4dW9tamszcmpVb2loZUpyRFFidDZCUzlWRDNMbXhYajEwQktrY01vSjNJdlBYazRvWU9qQ3JRNXR3aW1iTlIwaVVYUzI0VHJ5cldEbnBfbWx0ZG56dlYtUVp4YWF2VVdaWE9HNXg1amx1SVpQNGNsRElQbjRnVVNtV2FEQ0NJZlF5Vk80RU9zbGpTcnEtdWg5bTA4YzNHcDFrRU5FQmV0V1JjbWxmeGZIRVhUQzRmajNSUTV6U0xWeTVfcmloM3FiYWFRaThsSnYzY3JoVmxESWgyejNJQmVjUllERTl1MGM2dmVLSkNuUXR6QmhqQ21Dc0tHWUNndkZ1QmFzQ0o1ckpBcHZFSjhodWZWSHpFUEo2ZHlmYVlxazFDUERqMExmbUs4czM5YnhOemctendzY082QTJJVUcxa1licmJRVU5ZdXl3RjRVeWE3R0pIZEQzcENhbGk0cXVWdw?oc=5",
       "title": "'Sicko' illegal immigrant kidnaps 4-year-old girl from NY laundromat: DHS - local21news.com",

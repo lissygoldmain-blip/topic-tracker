@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.nytimes.com/2026/04/08/arts/design/lacma-museum-geffen-galleries.html",
+      "title": "What The Ambitious New LACMA Building Is Trying To Do",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/Screenshot_9-4-2026_72814_www.nytimes.com_-150x150.jpeg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />The new LACMA, which opens to members in the coming weeks and to the general public May 4, is momentous not only because of its long and often bumpy road, but because it is seeking to reinvent what an encyclopedic museum means in the modern era. &#8211; The New York Times",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-10T10:45:30.280240+00:00",
+      "published_at": "2026-04-09T16:44:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/guggenheim-museum-gets-a-new-director/",
       "title": "Guggenheim Museum Gets a New Director",
       "snippet": "Plus, David Novros\u2019s portable muralism, why more cities should offer free art supplies, and an Appalachian collective\u2019s response to a Queens Museum show.",
@@ -1773,24 +1791,6 @@
       "topic_name": "NYC theater & arts",
       "fetched_at": "2026-03-29T02:32:26.941869+00:00",
       "published_at": "2026-03-26T20:26:24+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/marica-vilcek-graceful-champion-of-immigrant-artists-dies-at-89/",
-      "title": "Marica Vilcek, Graceful Champion of Immigrant Artists, Dies at 89",
-      "snippet": "Her namesake foundation has awarded over $17 million to advance its mission, including unrestricted cash awards for researchers and artists across disciplines.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-03-28T22:20:51.388460+00:00",
-      "published_at": "2026-03-27T21:12:47+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -4586,6 +4586,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWnQwNkJqejFaWkkxNGFhamhjRTlTOV9vRUpGVDFrUFItNk9fTkxhRUVubFNnUWVXY0ROVXFNV285WU4xcUl1cEpzdE9fS1ZhSWtRNGZsMlNFUHpGS3hCUjc4Nl9ieWd1NXpKdTkzMjFxTW9GUXIySndFOG5VVllnRGQ4YW1Fb0Y1R2NJZEZLS3AySlF0X0VyZFNEU0xoMFZtR0F4Tk9pRjRzS3hPcmlwbjlOLUN5SGxNZWJSa3ZrenlIUWc3MnItTEdhMzFDc1FPY3lZNlp6M2Z4dEVRc2k1dndqallNRGNTM2s5MEdBcGxXck1ib0RqaXlIak5qbUx6ZTZJVA?oc=5",
+      "title": "Anthropic says newest AI model is too powerful to release to public - MSN",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOWnQwNkJqejFaWkkxNGFhamhjRTlTOV9vRUpGVDFrUFItNk9fTkxhRUVubFNnUWVXY0ROVXFNV285WU4xcUl1cEpzdE9fS1ZhSWtRNGZsMlNFUHpGS3hCUjc4Nl9ieWd1NXpKdTkzMjFxTW9GUXIySndFOG5VVllnRGQ4YW1Fb0Y1R2NJZEZLS3AySlF0X0VyZFNEU0xoMFZtR0F4Tk9pRjRzS3hPcmlwbjlOLUN5SGxNZWJSa3ZrenlIUWc3MnItTEdhMzFDc1FPY3lZNlp6M2Z4dEVRc2k1dndqallNRGNTM2s5MEdBcGxXck1ib0RqaXlIak5qbUx6ZTZJVA?oc=5\" target=\"_blank\">Anthropic says newest AI model is too powerful to release to public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-10T10:59:56.074595+00:00",
+      "published_at": "2026-04-10T09:33:11+00:00",
+      "price": null,
+      "novelty_score": 0.95,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3N283ak95dnVwQ0pFUGpsNUhJZ1NBRGpaaXdVV0hGeTM4bnhQd2I1MDM4cEI2X29rTjRCb2lhTGpEdE9QWnZBYTN0Wk5OQW81Wk9RREttWHlxcVgxRzc0d09GSm43bTlCYmdSaGtuUFJhMkZiTkRZ?oc=5",
       "title": "Anthropic says new Claude Mythos AI is too risky for public use - National - Global News",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA3N283ak95dnVwQ0pFUGpsNUhJZ1NBRGpaaXdVV0hGeTM4bnhQd2I1MDM4cEI2X29rTjRCb2lhTGpEdE9QWnZBYTN0Wk5OQW81Wk9RREttWHlxcVgxRzc0d09GSm43bTlCYmdSaGtuUFJhMkZiTkRZ?oc=5\" target=\"_blank\">Anthropic says new Claude Mythos AI is too risky for public use - National</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>",
@@ -6366,27 +6384,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc1pGNWhuNU83Yy1MMVRkRHY2Ymx6NVplZ3JQTG5VVkxlQjl0VU5tdmwzNmMtb1U0NlFBZ2I2SThoM2pQaWMyQWFYY05Ob0NEYWNxTTZPLW5wUThqT2h0Tld0VUtmZ1JjNXhpN2FNRDFBTWNHUDhFTXhvMTR5S3Jtc2dPOVRwUGlGSlJzNVlkcVUwZEhSWGc?oc=5",
-      "title": "KRAFTON Launches \u2018Raon,\u2019 Its First Open-Source AI Model Family - India Technology News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOc1pGNWhuNU83Yy1MMVRkRHY2Ymx6NVplZ3JQTG5VVkxlQjl0VU5tdmwzNmMtb1U0NlFBZ2I2SThoM2pQaWMyQWFYY05Ob0NEYWNxTTZPLW5wUThqT2h0Tld0VUtmZ1JjNXhpN2FNRDFBTWNHUDhFTXhvMTR5S3Jtc2dPOVRwUGlGSlJzNVlkcVUwZEhSWGc?oc=5\" target=\"_blank\">KRAFTON Launches \u2018Raon,\u2019 Its First Open-Source AI Model Family</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Technology News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-03T10:08:49.978231+00:00",
-      "published_at": "2026-04-03T04:43:18+00:00",
+      "url": "https://qns.com/2026/04/schulman-queens-girl-scout-six-years-cookie-seller/",
+      "title": "CM Schulman honors Queens Girl Scout who has been borough\u2019s top cookie seller for six straight years",
+      "snippet": "Queens Girl Scout Julia Lin was honored by Council Member Lynn Schulman on Monday, April 6, at her district office in Forest Hills for being the top Girl Scout Cookie seller in the borough in 2026, marking the sixth year in a row she has accomplished this. Lin sold 1,630 cookies in the 2026 cookie...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/schulman-queens-girl-scout-six-years-cookie-seller/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-10T10:47:04.303468+00:00",
+      "published_at": "2026-04-09T19:15:32+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.thecity.nyc/2026/04/09/green-cab-boro-taxi-drivers-hail-uber-lyft/",
       "title": "Up Against Uber and Lyft, Green Cabs Wither to Lowest-Ever Level in New York",
@@ -8160,24 +8178,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-04-01T15:00:42.367450+00:00",
       "published_at": "2026-03-31T22:29:41+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/new-kids-run-club-astoria-park/",
-      "title": "Ready, set, spring! Join the new kids run club at Astoria Park",
-      "snippet": "Astoria kids, lace up your running shoes and get ready to hit the open track for the start of the Astoria Kids Spring Run Club, beginning in April at Astoria Park. The new youth meet up, located at 19 29th St. in Astoria\u00a0 on the park&#8217;s track, starts Saturday, April 11, from 10 to 11:15...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/new-kids-run-club-astoria-park/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-01T15:00:42.367450+00:00",
-      "published_at": "2026-04-01T13:30:39+00:00",
       "price": null,
       "novelty_score": 0.5,
       "summary": null,
@@ -14465,6 +14465,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZmdKbDZtbGZFZk9ENHI4aXdGdUJuSURWWkhEcjZLVndZeW11VHlSWkJrbzR3b3QxbjduamZkRUZYWF9iN2JNZUxGazlfZlp5OUFncVE5bDRGUWJmeHNobzJhYjFmZXd1N19KNGYwRVhGTUpmRTJmUGV6V3pvUDliZzl5Q3lmUUU4SnNjcDVOU2EtTGIzU0wwMXVaVmEyMFk1Uk80Q1dVbmVGMkpadEhsNXVQZ1JESDJwdW5LV0pHVFJrUVlwUFplWVpNVVdBQWkyY1lQblZraHdTWDA4U2RJNWRaTzlBcnVFTklmdWllXzRSMEQ4ck9tdVFHdHhPZw?oc=5",
+      "title": "Queens House of Soul restaurant to host grand opening in Springfield next month - Springfield News-Sun",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZmdKbDZtbGZFZk9ENHI4aXdGdUJuSURWWkhEcjZLVndZeW11VHlSWkJrbzR3b3QxbjduamZkRUZYWF9iN2JNZUxGazlfZlp5OUFncVE5bDRGUWJmeHNobzJhYjFmZXd1N19KNGYwRVhGTUpmRTJmUGV6V3pvUDliZzl5Q3lmUUU4SnNjcDVOU2EtTGIzU0wwMXVaVmEyMFk1Uk80Q1dVbmVGMkpadEhsNXVQZ1JESDJwdW5LV0pHVFJrUVlwUFplWVpNVVdBQWkyY1lQblZraHdTWDA4U2RJNWRaTzlBcnVFTklmdWllXzRSMEQ4ck9tdVFHdHhPZw?oc=5\" target=\"_blank\">Queens House of Soul restaurant to host grand opening in Springfield next month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Springfield News-Sun</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-10T10:57:45.549350+00:00",
+      "published_at": "2026-04-06T17:29:10+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://ny.eater.com/dining-report/410534/kjun-nyc-restaurant-lexington-avenue-korean-cajun-jae-jung",
       "title": "Galbi Brisket and Grits Steal the Show at This Midtown Korean Cajun Restaurant",

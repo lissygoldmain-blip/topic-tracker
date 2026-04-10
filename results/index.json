@@ -2838,6 +2838,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://www.indiewire.com/news/breaking-news/mubi-lost-200000-subscribers-2025-pr-nightmare-1235188425/",
+      "title": "MUBI Lost 200,000 Subscribers Following Its 2025 PR Nightmare",
+      "snippet": "CEO Efe Cakarel discloses the financial losses the arthouse streamer faced, including layoffs and negative cash flow after \"Die, My Love\" flopped.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-10T20:30:55.652301+00:00",
+      "published_at": "2026-04-10T19:39:25+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/04/tyler-perry-joe-turners-come-and-gone-broadway-1236785887/",
       "title": "Tyler Perry Joins \u2018Joe Turner\u2019s Come And Gone\u2019 Broadway Producing Team",
       "snippet": "EXCLUSIVE: Tyler Perry has joined the Broadway producing team of August Wilson&#8217;s Joe Turner&#8217;s Come and Gone starring Taraji P. Henson and Cedric The Entertainer ahead of the revival&#8217;s April 25 opening night. While many such announcements are little more than celebrity name-lendings for publicity purposes, Perry is expected to serve the traditional functions of [&#8230;]",
@@ -4618,27 +4636,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqUS1tMEhIWTdKOExUWmNkbUlTek43c196aDZnd29SMzZLQWV1azRUSTBEQ1RNMlRaaHBhbmVRUDRuRVN6T21tcVItVG1JS1FGWG0zSERoUExHa0d5SjhvTUozXzBLdnYwVm5vNVhneFlFNkVHV3dZSQ?oc=5",
-      "title": "T.I. Set To Produce Trap Music Documentary - HOT 97",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBqUS1tMEhIWTdKOExUWmNkbUlTek43c196aDZnd29SMzZLQWV1azRUSTBEQ1RNMlRaaHBhbmVRUDRuRVN6T21tcVItVG1JS1FGWG0zSERoUExHa0d5SjhvTUozXzBLdnYwVm5vNVhneFlFNkVHV3dZSQ?oc=5\" target=\"_blank\">T.I. Set To Produce Trap Music Documentary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HOT 97</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWVlMFdBYVpLTXpTSFlQbVgyeUJuVC11WXFiS2JTRkw0QnNVNTBueUdKYTZpeHZ2ZlpmdXM5blJPWFJUVjJSVmZGMFlqSFdVZUZaYW5UNm9iODdCQUFCRDR6VTFwMWk5TW1VMFdqRFB2a1FCbDdsRFdMZHlXaG8tYVlxX1M?oc=5",
+      "title": "Anthropic's newest AI model could wreak havoc. Most in power aren't ready - Axios",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWVlMFdBYVpLTXpTSFlQbVgyeUJuVC11WXFiS2JTRkw0QnNVNTBueUdKYTZpeHZ2ZlpmdXM5blJPWFJUVjJSVmZGMFlqSFdVZUZaYW5UNm9iODdCQUFCRDR6VTFwMWk5TW1VMFdqRFB2a1FCbDdsRFdMZHlXaG8tYVlxX1M?oc=5\" target=\"_blank\">Anthropic's newest AI model could wreak havoc. Most in power aren't ready</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-03-30T13:01:47.574555+00:00",
-      "published_at": "2026-03-27T16:07:18+00:00",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-10T20:41:48.937354+00:00",
+      "published_at": "2026-04-08T09:51:47+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMkRDUEhPR3FCS1FrOGZySFpJZ0JpeExrRklWRXFPX00zSXRaT0MwV2VLTXI0NU1EYTZwTjBzTDUxSV9VWklQSTd0UlY3M3Rfd0cxZHFJTTRpU00zQnc4eFN1S2FrQThGQmlwY3hoWElPOVU3M3RrSWtBTDllNFB2QnZjZzNuUTFFdFBR?oc=5",
       "title": "The AI that found 27-year-old vulnerabilities no human ever caught before just forced an emergency meeting with every major Wall Street CEO - Fortune",
@@ -6420,27 +6438,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1kyckJ3TEt6YjJyOGhrOG9pR21WUl9mWXRtNUFPMGNiWThSaGN2YjlCVWFvRjY3S2tJdFM4X1JsbnJyTXhUTk1rczZaOFk0MFVqQ0ZiNTBFb00zQkpaaWp6eDNQYWdFeWF6WkFrSk9vVDl5ZFlTYkZ2UWJBMWtCQ25XQVFzRVlPeGpETWVKS3JHcFRYcndBZjhjUU9XcmZnenRjQTNjN0xtTzR6MFhKbHF3?oc=5",
-      "title": "Google releases Gemma 4, a family of open models built off of Gemini 3 - Engadget",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1kyckJ3TEt6YjJyOGhrOG9pR21WUl9mWXRtNUFPMGNiWThSaGN2YjlCVWFvRjY3S2tJdFM4X1JsbnJyTXhUTk1rczZaOFk0MFVqQ0ZiNTBFb00zQkpaaWp6eDNQYWdFeWF6WkFrSk9vVDl5ZFlTYkZ2UWJBMWtCQ25XQVFzRVlPeGpETWVKS3JHcFRYcndBZjhjUU9XcmZnenRjQTNjN0xtTzR6MFhKbHF3?oc=5\" target=\"_blank\">Google releases Gemma 4, a family of open models built off of Gemini 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-03T14:15:08.528838+00:00",
-      "published_at": "2026-04-02T16:00:00+00:00",
+      "url": "https://www.amny.com/politics/mamdani-probation-commissioner-lawsuit/",
+      "title": "Mamdani confirms probe of probation chief after lawsuit alleges firing over DOI complaint tied to alleged relationship",
+      "snippet": "Mayor Zohran Mamdani said Friday that allegations involving his appointed probation commissioner, Sharun Goodwin, are under investigation after a former Department of Probation (DOP) investigator sued the city Thursday, alleging she was fired for forwarding an anonymous complaint that raised concerns about Goodwin\u2019s alleged prior intimate relationship with the department\u2019s general counsel and other\u2026 <a class=\"read-more\" href=\"https://www.amny.com/politics/mamdani-probation-commissioner-lawsuit/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-10T20:28:57.233886+00:00",
+      "published_at": "2026-04-10T17:56:47+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/sen-addabbo-pet-food-drive/",
       "title": "Sen. Addabbo to partner with The Lovely Beans and Puppy Kitty NYC for pet food drive",
@@ -8214,24 +8232,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-04-01T22:31:30.784814+00:00",
       "published_at": "2026-04-01T16:00:51+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/photos-malikah-hosts-eid-celebration-in-astoria/",
-      "title": "Photos: Malikah hosts Eid celebration in Astoria",
-      "snippet": "The anti-violence and wellness organization Malikah hosted its annual Eid Festival on Saturday, March 21, along Steinway Street, between 25th Avenue and 28th Avenue, in Astoria. Attendees of the event enjoyed halal street food while shopping for various items at the numerous Muslim-owned vendor stations set up. The vendors offered delicious food, modest fashion, handmade...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/photos-malikah-hosts-eid-celebration-in-astoria/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-01T20:39:01.037527+00:00",
-      "published_at": "2026-04-01T18:00:20+00:00",
       "price": null,
       "novelty_score": 0.5,
       "summary": null,
@@ -10911,6 +10911,24 @@
     }
   ],
   "Immigration & ICE": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdVhpdDhrSjFPT1Viak9fVEd1UkNMam4tMnJiUWNxZWxVYW1WODl3bHdGWTNkMVFzZEZSWWsyMnlKMldUT21UOTNsOFhlRlVLc0Z1ZHFFdXRMQVVPNHlENUFpT3dWem51OU5vWXZ6eDBWbGhXaW1rbm94a2RTLU10Uk9LeVVscXd2d1VaNkZmbVo4QTNPdjExQmhEYV9lY2t5NkNpbE9sNldUMmtvODZXeXdvYll0Uk0?oc=5",
+      "title": "Department of Homeland Security sued for \u2018illegal\u2019 stops and arrests in New York - Queens Daily Eagle",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdVhpdDhrSjFPT1Viak9fVEd1UkNMam4tMnJiUWNxZWxVYW1WODl3bHdGWTNkMVFzZEZSWWsyMnlKMldUT21UOTNsOFhlRlVLc0Z1ZHFFdXRMQVVPNHlENUFpT3dWem51OU5vWXZ6eDBWbGhXaW1rbm94a2RTLU10Uk9LeVVscXd2d1VaNkZmbVo4QTNPdjExQmhEYV9lY2t5NkNpbE9sNldUMmtvODZXeXdvYll0Uk0?oc=5\" target=\"_blank\">Department of Homeland Security sued for \u2018illegal\u2019 stops and arrests in New York</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Queens Daily Eagle</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-10T20:36:56.654149+00:00",
+      "published_at": "2026-04-10T20:11:42+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDB1dzU3QmVGbWx6YzdNZ3hUem1RYjFXVVRHUWRyV0VoalVidGJxZXc2T2QyMks4RE1tVTBNS012UVVZamY1YkxnTXJNX1R5NTBSMndDM3c4bTczMHd2ZU91VDZYVUctbHNacUxKS1lCUlpsRXJ5STRUcTdycHVqWjRIV1N2MHA2eGdoYXlIcDFOalZsYzJMVFI0anV1T29CU3EtYw?oc=5",
       "title": "New York\u2019s Latino Communities \u2018Under Siege\u2019 by ICE\u2019s Racial Profiling, Lawsuit Says - citylimits.org",

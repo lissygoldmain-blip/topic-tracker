@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.nytimes.com/2026/04/09/arts/design/melissa-chiu-guggenheim-smithsonian-hirshhorn.html?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4",
+      "title": "Hirshhorn Museum Director To Become Guggenheim Museum Director",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/Screenshot_9-4-2026_154852_www.nytimes.com_-150x150.jpeg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />Melissa Chiu, who has led the Hirshhorn for more than a decade, is the fourth director of a Smithsonian museum to depart within the last two years, and the most recent to leave amid the Trump administration\u2019s\u00a0effort\u00a0to\u00a0overhaul\u00a0the organization\u2019s network of 21 museums and other cultural centers.\u00a0&#8211; The New York Times",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-10T14:43:48.018628+00:00",
+      "published_at": "2026-04-09T19:49:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.nytimes.com/2026/04/08/nyregion/studio-54-renovation-roundabout.html#new_tab",
       "title": "$100 Million To Turn Studio 54 Into A Proper Broadway Theater",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/701-2-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cRoundabout Theater Company moved into the building in 1998 and kept its disco-era name. Now Roundabout has a $100 million plan for the first full-scale renovation of the building. The project would bring back a permanent stage, which the building hasn\u2019t had since its disco days, and an orchestra pit.\u201d &#8211; The New York Times",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/how-photography-helped-build-the-atomic-bomb/",
-      "title": "How Photography Helped Build the Atomic Bomb",
-      "snippet": "A group of intergenerational artists, collectively known as Slow War Against the Nuclear State, investigates the afterlife of nuclear politics in a haunting, timely exhibition",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-03-29T03:53:27.414896+00:00",
-      "published_at": "2026-03-27T20:57:23+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -2837,6 +2837,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://deadline.com/2026/04/tyler-perry-joe-turners-come-and-gone-broadway-1236785887/",
+      "title": "Tyler Perry Joins \u2018Joe Turner\u2019s Come And Gone\u2019 Broadway Producing Team",
+      "snippet": "EXCLUSIVE: Tyler Perry has joined the Broadway producing team of August Wilson&#8217;s Joe Turner&#8217;s Come and Gone starring Taraji P. Henson and Cedric The Entertainer ahead of the revival&#8217;s April 25 opening night. While many such announcements are little more than celebrity name-lendings for publicity purposes, Perry is expected to serve the traditional functions of [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-10T14:47:39.680727+00:00",
+      "published_at": "2026-04-10T13:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://deadline.com/2026/04/the-match-factory-valeska-grisebach-the-dreamed-adventure-1236786379/",
       "title": "The Match Factory Boards Valeska Grisebach\u2019s Cannes Title \u2018The Dreamed Adventure\u2019 \u2014 First Look",
@@ -4618,27 +4636,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ21zUW02RGdsTWRrMXJ3b0cxOHVDNUswN29uUTRzT3M4bDJWLWZDU2ZuR3c2Q1RLOE9IS3RySmN6RUxHaF9oVE1zc3R0LXIwS1BOQWpUWUkzQXNWWFBVejVQT2dsTnBBMHlOVFNBdE9xc1RFRFp4VkNqRzBEM1g1YjdScEVkUC1XbWt5ZC00bWQweVlRUmFNcjNYUUd3dlB3NVFCVS1vTG4tTjR5ajB0ZDB6ZFRtTGNrMGRxOENsaHBLeHN0T01UTFVqZjNTWFEwRnlZWXl3?oc=5",
-      "title": "Old 97\u2019s film their documentary at Sons of Hermann Hall: \u2018It is gonna be weird\u2019 - Dallas News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ21zUW02RGdsTWRrMXJ3b0cxOHVDNUswN29uUTRzT3M4bDJWLWZDU2ZuR3c2Q1RLOE9IS3RySmN6RUxHaF9oVE1zc3R0LXIwS1BOQWpUWUkzQXNWWFBVejVQT2dsTnBBMHlOVFNBdE9xc1RFRFp4VkNqRzBEM1g1YjdScEVkUC1XbWt5ZC00bWQweVlRUmFNcjNYUUd3dlB3NVFCVS1vTG4tTjR5ajB0ZDB6ZFRtTGNrMGRxOENsaHBLeHN0T01UTFVqZjNTWFEwRnlZWXl3?oc=5\" target=\"_blank\">Old 97\u2019s film their documentary at Sons of Hermann Hall: \u2018It is gonna be weird\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dallas News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ1NSUm5ITHdJVTZlRGRwTUp6M18wQlBRMXNLaThYX1JhWFVKX3E3OTFuTERLNzFIZ1RpLUM3THI5ZV9YLXZ1NmtHRWtCd0hPMUp2MW1VR3FNOTNQMlZqQVM1UkRzaWlfdmhlMExSbWU2V3dtVl9mS2pCRlF2VTlPQTBhSHcxVTVGb0pzT1FiOVdhVm94M2VRR2lSWURXTmhCX0haZUFid3JWR2lmZ1UxcWkzQVRUUmx5NE01M1VmSHJ4WG1KWUZRUHJNYlBJQnF6TElTVklwcDNnZVpaSHJCNURZUHhqRG9LYUFwQkVtVl80RXVTZDBrSUhqVjU5dUdaNnfSAYcCQVVfeXFMTVg0ZUFtZlpqX2dEcVlYM3VzZmhPU2o2Y2JnTTUwcDRrOE9ycWxZVFdsZU10NXRiVTdKbm9ZMkM4NEd5bmZxSncwdHVMOWRVZDRhYVRSeWwxNF93eDZQN0ZhQWRid3lMRHJRTlNCcTN0YVFzTDlkN1JWMTJla1ZfYWtkTGlpZWNFbWVBb21sRkJPdmFPQ1dOMXVCSGZsaTdqdGZxbHBGSWF1NXNJR1lmV05aSVQtRXQ5RDdHY3dUcFF5ZU9jS19rZlBMVjZubld6VUZTWmFUbkxtY0wyeERLTkhndFBiRVNkNFdzcUc2c2ZoN2Yyb1F5enEzd0VkQ21QSFpvY1d6RkU?oc=5",
+      "title": "AI that finds and exploits bugs? Key facts about Anthropic\u2019s new AI model Mythos raising red flags - The Economic Times",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ1NSUm5ITHdJVTZlRGRwTUp6M18wQlBRMXNLaThYX1JhWFVKX3E3OTFuTERLNzFIZ1RpLUM3THI5ZV9YLXZ1NmtHRWtCd0hPMUp2MW1VR3FNOTNQMlZqQVM1UkRzaWlfdmhlMExSbWU2V3dtVl9mS2pCRlF2VTlPQTBhSHcxVTVGb0pzT1FiOVdhVm94M2VRR2lSWURXTmhCX0haZUFid3JWR2lmZ1UxcWkzQVRUUmx5NE01M1VmSHJ4WG1KWUZRUHJNYlBJQnF6TElTVklwcDNnZVpaSHJCNURZUHhqRG9LYUFwQkVtVl80RXVTZDBrSUhqVjU5dUdaNnfSAYcCQVVfeXFMTVg0ZUFtZlpqX2dEcVlYM3VzZmhPU2o2Y2JnTTUwcDRrOE9ycWxZVFdsZU10NXRiVTdKbm9ZMkM4NEd5bmZxSncwdHVMOWRVZDRhYVRSeWwxNF93eDZQN0ZhQWRid3lMRHJRTlNCcTN0YVFzTDlkN1JWMTJla1ZfYWtkTGlpZWNFbWVBb21sRkJPdmFPQ1dOMXVCSGZsaTdqdGZxbHBGSWF1NXNJR1lmV05aSVQtRXQ5RDdHY3dUcFF5ZU9jS19rZlBMVjZubld6VUZTWmFUbkxtY0wyeERLTkhndFBiRVNkNFdzcUc2c2ZoN2Yyb1F5enEzd0VkQ21QSFpvY1d6RkU?oc=5\" target=\"_blank\">AI that finds and exploits bugs? Key facts about Anthropic\u2019s new AI model Mythos raising red flags</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-03-30T08:24:35.205102+00:00",
-      "published_at": "2026-03-24T18:14:10+00:00",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-10T14:58:33.806270+00:00",
+      "published_at": "2026-04-10T14:34:08+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWnQwNkJqejFaWkkxNGFhamhjRTlTOV9vRUpGVDFrUFItNk9fTkxhRUVubFNnUWVXY0ROVXFNV285WU4xcUl1cEpzdE9fS1ZhSWtRNGZsMlNFUHpGS3hCUjc4Nl9ieWd1NXpKdTkzMjFxTW9GUXIySndFOG5VVllnRGQ4YW1Fb0Y1R2NJZEZLS3AySlF0X0VyZFNEU0xoMFZtR0F4Tk9pRjRzS3hPcmlwbjlOLUN5SGxNZWJSa3ZrenlIUWc3MnItTEdhMzFDc1FPY3lZNlp6M2Z4dEVRc2k1dndqallNRGNTM2s5MEdBcGxXck1ib0RqaXlIak5qbUx6ZTZJVA?oc=5",
       "title": "Anthropic says newest AI model is too powerful to release to public - MSN",
@@ -6412,24 +6430,6 @@
       "topic_name": "AI & tech research",
       "fetched_at": "2026-04-03T12:57:36.066594+00:00",
       "published_at": "2026-04-03T11:45:02+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2VMVGRGZXdaUWREUUIzT0hlYXBZTDkybEgyeFVTUDg3Q04yZjZTMUpXZGEweEpnUnptZWYweTNPbG9ZU0JfbDZEN1lxc3NCU2hCdnZ1d1ZadDY5Y0ZrcElfTnZQbUxSUU5oV1BLZHhZajF1MVo1dlVKczJyMXRyeHFuU1FMcDZEX0RTcThiYkVSeTlDYmRiaHNfUQ?oc=5",
-      "title": "Google Gemma AI Model: New Release, Productivity Boost & More - Deccan Herald",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2VMVGRGZXdaUWREUUIzT0hlYXBZTDkybEgyeFVTUDg3Q04yZjZTMUpXZGEweEpnUnptZWYweTNPbG9ZU0JfbDZEN1lxc3NCU2hCdnZ1d1ZadDY5Y0ZrcElfTnZQbUxSUU5oV1BLZHhZajF1MVo1dlVKczJyMXRyeHFuU1FMcDZEX0RTcThiYkVSeTlDYmRiaHNfUQ?oc=5\" target=\"_blank\">Google Gemma AI Model: New Release, Productivity Boost & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-03T10:50:58.827557+00:00",
-      "published_at": "2026-04-03T10:16:58+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

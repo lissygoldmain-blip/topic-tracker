@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.nytimes.com/2026/04/08/nyregion/studio-54-renovation-roundabout.html#new_tab",
+      "title": "$100 Million To Turn Studio 54 Into A Proper Broadway Theater",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/701-2-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />\u201cRoundabout Theater Company moved into the building in 1998 and kept its disco-era name. Now Roundabout has a $100 million plan for the first full-scale renovation of the building. The project would bring back a permanent stage, which the building hasn\u2019t had since its disco days, and an orchestra pit.\u201d &#8211; The New York Times",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-10T14:16:14.541199+00:00",
+      "published_at": "2026-04-10T14:01:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.nytimes.com/2026/04/08/arts/design/lacma-museum-geffen-galleries.html",
       "title": "What The Ambitious New LACMA Building Is Trying To Do",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/Screenshot_9-4-2026_72814_www.nytimes.com_-150x150.jpeg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />The new LACMA, which opens to members in the coming weeks and to the general public May 4, is momentous not only because of its long and often bumpy road, but because it is seeking to reinvent what an encyclopedic museum means in the modern era. &#8211; The New York Times",
@@ -1781,27 +1799,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Health research": [
     {
-      "url": "https://hyperallergic.com/new-school-faculty-react-to-plans-to-lay-off-15-of-workforce/",
-      "title": "New School Faculty React to Plans to Lay Off 15% of Workforce",
-      "snippet": "\"There's an air of anxiety,\" Carrie Hawks, an assistant professor of illustration, told Hyperallergic of the newly announced cuts.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-03-29T02:32:26.941869+00:00",
-      "published_at": "2026-03-26T20:26:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWdPQ250b2I3MjBvc0VnUGdocUFJSjZOSV9HNUoycmJnU293cjU5LWFZS0Q0VGVfM2w1aTIyLVo2ZjIzNGpmVk1WaUQ3dDRQRW5tVkxjM3A5czR1OUhPamhvSFVsaGg0Y3JPUEtUMllSWjhpcUlhR0FDRGJtYUdOTDlFdHFMZmlQTEs2OEY2SmxFeU9DWEI3RlBzQzk?oc=5",
+      "title": "New Study Reveals Genetic Predictors for GLP-1 Weight Loss and Side Effects - Pharmaceutical Executive",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWdPQ250b2I3MjBvc0VnUGdocUFJSjZOSV9HNUoycmJnU293cjU5LWFZS0Q0VGVfM2w1aTIyLVo2ZjIzNGpmVk1WaUQ3dDRQRW5tVkxjM3A5czR1OUhPamhvSFVsaGg0Y3JPUEtUMllSWjhpcUlhR0FDRGJtYUdOTDlFdHFMZmlQTEs2OEY2SmxFeU9DWEI3RlBzQzk?oc=5\" target=\"_blank\">New Study Reveals Genetic Predictors for GLP-1 Weight Loss and Side Effects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmaceutical Executive</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-04-10T14:19:37.425619+00:00",
+      "published_at": "2026-04-10T14:05:56+00:00",
       "price": null,
-      "novelty_score": 0.6,
+      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Health research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3UxekhjVUVmZWV6SUlwY3BpUjhKZF9lUVBUY2tKTlZjM3piNFZXeDZZZlNtQW15ZGNZOWhFeDJlb2REdW9FNXJ1NzI2OVZGT0FmcFJtMUNaX3NnVk9JXzRjT05EX05ha1c5NmlmdHFXa1kzREV6TlprQzFLSWhqN3JGTnBlU3N2X3pHd1JCeElfMlF6czZxc2dnWHpBclBCajdZcEdPNA?oc=5",
       "title": "Genetics may help explain why results from weight-loss jabs vary, say scientists - The Guardian",
@@ -6424,6 +6442,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://qns.com/2026/04/art-installation-plastic-pollution/",
+      "title": "New art installation addressing plastic pollution set to be unveiled at Hunters Point South Park",
+      "snippet": "Long Island City-based nonprofit art gallery the Blue Bus Project will unveil a large-scale art installation addressing plastic pollution and its impact on urban waterways at Hunters Point South Park as part of Earth Week. Annalisa Iadicicco, environmental artist and founder of the Blue Bus Project, will officially unveil &#8220;OctoTrash&#8221; along the East River waterfront...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/art-installation-plastic-pollution/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-10T14:17:48.058708+00:00",
+      "published_at": "2026-04-10T13:00:43+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://qns.com/2026/04/schulman-queens-girl-scout-six-years-cookie-seller/",
       "title": "CM Schulman honors Queens Girl Scout who has been borough\u2019s top cookie seller for six straight years",
       "snippet": "Queens Girl Scout Julia Lin was honored by Council Member Lynn Schulman on Monday, April 6, at her district office in Forest Hills for being the top Girl Scout Cookie seller in the borough in 2026, marking the sixth year in a row she has accomplished this. Lin sold 1,630 cookies in the 2026 cookie...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/schulman-queens-girl-scout-six-years-cookie-seller/\">Read More</a>",
@@ -8204,27 +8240,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://www.amny.com/politics/mamdani-100-days-03312026/",
-      "title": "MAMDANI\u2019S FIRST 100 DAYS: Mayor unveils $108M plan to replace 6,700 catch basins, lifts NYC government TikTok ban",
-      "snippet": "Tuesday, March 31, marked the 90th day of Zohran Mamdani\u2019s term as mayor. amNewYork is following Mamdani around his first 100 days in office. We are closely tracking his progress on fulfilling campaign promises, appointing key leaders to government posts, and managing the city\u2019s finances. Here\u2019s a summary of what the mayor did yesterday\u2026 <a class=\"read-more\" href=\"https://www.amny.com/politics/mamdani-100-days-03312026/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-01T15:00:42.367450+00:00",
-      "published_at": "2026-03-31T22:29:41+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sheanb/if_youre_planning_on_seeing_alyssas_new_tour_save/",
+      "title": "If you\u2019re planning on seeing Alyssa\u2019s new tour, save your money",
+      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am writing this about an hour after I got out of the new tour Alyssa is putting on and\u2026 wow. I am legitimately lost for words. For my first time seeing Alyssa in person, this was a TRAINWRECK. We got to see her first show in Seattle tonight and out of all drag shows I have ever been to, both local and with Rugirls, this was by far the worst.</p> <p>Clip shows both began the show and were interspersed throughout with various clips of her time on S5/AS2/GAS and they were both incredibly long as well as incredibly boring. They showed the same clip of her crowning on Global maybe three times which somehow garnered applause each and every time? Each clip show had the same clips over and over again and were blasted at FULL volume every single time. When Alyssa finally got out, she did a very lackluster number with little to no dancing and then proceeded to talk for maybe 45 minutes rambling on about her time on drag race while talking about some of the recent seasons and her own appearance in the roast of S18. The number she did was set to an AI generated background image of a chandelier and couch and her second number (she only did two) also had AI graphics in the back throughout the whole thing.</p> <p>In the middle of her rambling the projector briefly showed someone\u2019s MacBook homepage and the file explorer window open that I kid you not sat up there for a full minute or two before someone closed it. She at one point brought a random audience member up who crouched down to look at her leg (?) before continuing to talk for agesssssss. Every single time the audience applauded the stage lights would come on and blind us and the audience just kept applauding at everything \ud83d\ude2d not only are my ears ringing but Im blinded too!!</p> <p>I strongly suspect that the song she ended on was possibly AI generated as well, the lyrics were really strangely written and sounded just\u2026 bad. The tickets weren\u2019t too expensive but if you have tickets that are more costly for the meet and greet I STRONGLY urge you to reconsider if you want to go. It totally could\u2019ve been a one night fluke since the Seattle show is her first of the tour but man, if the rest of these shows are of the same quality I think it is best to save your money and not go. Really quite disappointing.</p> <p>Edit: totally forgot to mention that during the mini clip shows a few drag race queens popped up as cameos like Bianca, Latrice, Laganja, etc, and about half of them weren\u2019t filmed horizontally \ud83e\uddcd I think Bianca\u2019s video was filmed in her trailer before she did the episode of the pit stop with Kori because her outfit was the same as in that episode</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/thisisanameamiright\"> /u/thisisanameamiright </a> <br /> <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sheanb/if_youre_planning_on_seeing_alyssas_new_tour_save/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sheanb/if_youre_planning_on_seeing_alyssas_new_tour_save/\">[comments]</a></span>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-10T06:11:36+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.5,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sgubqy/watch_the_first_8_minutes_of_this_weeks/",
       "title": "Watch the first 8 minutes of this week's Lalaparuza episode!",
@@ -10822,6 +10858,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDB1dzU3QmVGbWx6YzdNZ3hUem1RYjFXVVRHUWRyV0VoalVidGJxZXc2T2QyMks4RE1tVTBNS012UVVZamY1YkxnTXJNX1R5NTBSMndDM3c4bTczMHd2ZU91VDZYVUctbHNacUxKS1lCUlpsRXJ5STRUcTdycHVqWjRIV1N2MHA2eGdoYXlIcDFOalZsYzJMVFI0anV1T29CU3EtYw?oc=5",
+      "title": "New York\u2019s Latino Communities \u2018Under Siege\u2019 by ICE\u2019s Racial Profiling, Lawsuit Says - citylimits.org",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDB1dzU3QmVGbWx6YzdNZ3hUem1RYjFXVVRHUWRyV0VoalVidGJxZXc2T2QyMks4RE1tVTBNS012UVVZamY1YkxnTXJNX1R5NTBSMndDM3c4bTczMHd2ZU91VDZYVUctbHNacUxKS1lCUlpsRXJ5STRUcTdycHVqWjRIV1N2MHA2eGdoYXlIcDFOalZsYzJMVFI0anV1T29CU3EtYw?oc=5\" target=\"_blank\">New York\u2019s Latino Communities \u2018Under Siege\u2019 by ICE\u2019s Racial Profiling, Lawsuit Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citylimits.org</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-10T14:25:59.917792+00:00",
+      "published_at": "2026-04-10T14:24:26+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxRGM4alRJS1BRWFRXNFpzQTF6Y0xDNVpXTzY2VHlJcFJRWnVHZ2xQOTR0eTZfRTM2Si1BZ1p2YzJmSXMyYW1icklTcFB0TS16RWpBVVdsMFJlLVYxUlRabnp3cTlaa1B3cWlXSzI3bUc?oc=5",
       "title": "Arrests Tripled. Warrants Didn't. Now DHS Is Being Sued. - Migrant Insider",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBxRGM4alRJS1BRWFRXNFpzQTF6Y0xDNVpXTzY2VHlJcFJRWnVHZ2xQOTR0eTZfRTM2Si1BZ1p2YzJmSXMyYW1icklTcFB0TS16RWpBVVdsMFJlLVYxUlRabnp3cTlaa1B3cWlXSzI3bUc?oc=5\" target=\"_blank\">Arrests Tripled. Warrants Didn't. Now DHS Is Being Sued.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Migrant Insider</font>",
@@ -12499,6 +12553,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQldiY3N2d1h6ZWl0MHJseHIwOGp5YnUyNUlzNEZSaUp4SURIaFFubjBpV2RQX09LenprbUpCYkRKWVlNVnp2ejNrWmxxTnZWRklKbUhlZm4zMDR5U2RxcVNZVzYzS2E5RkpPNUIzNGNDcXpKMW9Ya25NNUdFeDEzalVTT084ei1IbVI1SVhpbC1EeWZnMExlRVVhLVRBajBRc2tBY0lBTWZLQ052TVJZZnFEa3FhRHBTN2tac28yYlo5M2s5c0otZGYyaVA2MHdNajZwaUsyM1IzZ2xzRGZB?oc=5",
+      "title": "The Supreme Court\u2019s Birthright Citizenship Decision Could Dramatically Impact Newborns\u2019 Access to Health Care - Georgetown University",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQldiY3N2d1h6ZWl0MHJseHIwOGp5YnUyNUlzNEZSaUp4SURIaFFubjBpV2RQX09LenprbUpCYkRKWVlNVnp2ejNrWmxxTnZWRklKbUhlZm4zMDR5U2RxcVNZVzYzS2E5RkpPNUIzNGNDcXpKMW9Ya25NNUdFeDEzalVTT084ei1IbVI1SVhpbC1EeWZnMExlRVVhLVRBajBRc2tBY0lBTWZLQ052TVJZZnFEa3FhRHBTN2tac28yYlo5M2s5c0otZGYyaVA2MHdNajZwaUsyM1IzZ2xzRGZB?oc=5\" target=\"_blank\">The Supreme Court\u2019s Birthright Citizenship Decision Could Dramatically Impact Newborns\u2019 Access to Health Care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Georgetown University</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-10T14:26:24.504023+00:00",
+      "published_at": "2026-04-10T14:17:28+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3hQQlYwVUROZEJONnFPSjlpWmlENzhrWUJVVS1IaDlyd1NMd0JaX2R4QVhVSHhDOHZMT3JENHhBRkVJNnpyc01GZC1kZHZzMW5UREtYMGlGcDNsd0xud1JVaHE2NEdqOHFtMTUtTlRnX2ZrbHlteUtKNFBxdjVBWm5BN052cmt0RjNidEtiYnJhdFhzVVJoTzJTb1laeF9RS29WUmRxYVhKYVFKRnJNUXZhN2huS1BON1RVNnk1VTJab1g4VldKc2xJN1VpTFFvWFHSAdcBQVVfeXFMT01FYWdqc0xQUDcxVFZ5WU5sa1hZblRIMUt1a1JsZ1c3bjJsWG5PcUEwRG1LajIzUU8wcWJ4dkZUaW92bWZUX01jY0FYUjl3cHRoX3dUamt3QWkzTHNwZ0c0aFBab195OFZOaFVOWXVFOUNaMEZOd2p0ZHF3RkRSYk9jVVBzbnMtT0diaGgtbDdqS2RGZnNwZHBDc3kxUEdmaWF4X3JaZ2NiYnRTYVdSekd3aW5GMUlUdkppeDk4UDRFdHNyZWlkdVE3Zk9iVUNnLXVBMVpiMms?oc=5",
       "title": "Health Care Laws Could Face First Amendment Attacks After Supreme Court Ruling - HuffPost",

@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/process-is-the-point-at-ifpda-print-fair/",
+      "title": "Process Is the Point at IFPDA Print Fair",
+      "snippet": "\u201cPrint is a more democratic medium,\u201d said Temma Nanas of Leslie Sacks Gallery, one of around 80 global galleries returning to the Park Avenue Armory for the annual fair.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-11T06:52:42.613863+00:00",
+      "published_at": "2026-04-10T21:35:35+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/the-brooklyn-fine-art-print-fair-has-taken-off-its-training-wheels/",
       "title": "The Brooklyn Fine Art Print Fair Has Taken Off Its Training Wheels",
       "snippet": "Shaking off any initial caution from last year\u2019s beta test, it has charged forward and made itself a space to showcase the radical history and present of printmaking.",
@@ -1773,24 +1791,6 @@
       "topic_name": "NYC theater & arts",
       "fetched_at": "2026-03-29T14:28:06.306477+00:00",
       "published_at": "2026-03-29T13:30:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.artnet.com/art-world/book-of-kells-origin-portmahomack-study-2758771#new_tab",
-      "title": "A New Theory About Where The Book Of Kells Was Made",
-      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/03/1105-3-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />It\u2019s been widely assumed that the 8th-century manuscript was copied and illuminated at St. Columba\u2019s monastery on Scotland\u2019s island of Iona \u2014 this despite the fact that there&#8217;s no archaeological evidence that Iona had a place or materials for such a major project. Evidence has, however, been found at another Scottish site. &#8211; Artnet",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-03-29T06:55:32.947743+00:00",
-      "published_at": "2026-03-27T18:05:00+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -12643,6 +12643,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVdibC1NWENvM3p2d0lWUzhFX3R2a1EzTXZNOHdUYWlmQmpPQXg3bUpVQ2V1QkltQ1Q4V28xVHRlLVdvZnVGRGx2WFRXblNlaTIwVENxbTdnQU9ZVkhwMC01ZlVhOXE1R1lJc2dQR1lUb3B4VlhKTk5ZdkFESVo2eDNXYXFBeV9qYi12ag?oc=5",
+      "title": "Missouri finalizes antisemitism bill with bipartisan House vote, sends measure to governor - St. Louis Jewish Light",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVdibC1NWENvM3p2d0lWUzhFX3R2a1EzTXZNOHdUYWlmQmpPQXg3bUpVQ2V1QkltQ1Q4V28xVHRlLVdvZnVGRGx2WFRXblNlaTIwVENxbTdnQU9ZVkhwMC01ZlVhOXE1R1lJc2dQR1lUb3B4VlhKTk5ZdkFESVo2eDNXYXFBeV9qYi12ag?oc=5\" target=\"_blank\">Missouri finalizes antisemitism bill with bipartisan House vote, sends measure to governor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Louis Jewish Light</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-11T07:03:08.093258+00:00",
+      "published_at": "2026-04-09T21:45:41+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQldiY3N2d1h6ZWl0MHJseHIwOGp5YnUyNUlzNEZSaUp4SURIaFFubjBpV2RQX09LenprbUpCYkRKWVlNVnp2ejNrWmxxTnZWRklKbUhlZm4zMDR5U2RxcVNZVzYzS2E5RkpPNUIzNGNDcXpKMW9Ya25NNUdFeDEzalVTT084ei1IbVI1SVhpbC1EeWZnMExlRVVhLVRBajBRc2tBY0lBTWZLQ052TVJZZnFEa3FhRHBTN2tac28yYlo5M2s5c0otZGYyaVA2MHdNajZwaUsyM1IzZ2xzRGZB?oc=5",
       "title": "The Supreme Court\u2019s Birthright Citizenship Decision Could Dramatically Impact Newborns\u2019 Access to Health Care - Georgetown University",

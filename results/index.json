@@ -4640,6 +4640,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeENKMGlHd2hqTlBnWWcxUjlaLWlCbFZKeGl4c0JxdkktblRoQjJDMEJFTHNHNV9pLW0yeTU0Y2xNc25kbmxLWWtYZVZySTNUbk8wN2pfRXJXeFJzZU1sRmViWEUwOXNIUi1Yd3VPNWJvSF94VnVlZmlpZ3AtZFJPV3N0QURRRFJhWVJjQWs4YUtUX3VHc0dmY0hKZnJScGRvanh3bC1WLWthaWhRZ3Z3MU5pYjhVdkcx?oc=5",
+      "title": "Anthropic\u2019s new AI model is too dangerous to release to public, developers say - CTV News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeENKMGlHd2hqTlBnWWcxUjlaLWlCbFZKeGl4c0JxdkktblRoQjJDMEJFTHNHNV9pLW0yeTU0Y2xNc25kbmxLWWtYZVZySTNUbk8wN2pfRXJXeFJzZU1sRmViWEUwOXNIUi1Yd3VPNWJvSF94VnVlZmlpZ3AtZFJPV3N0QURRRFJhWVJjQWs4YUtUX3VHc0dmY0hKZnJScGRvanh3bC1WLWthaWhRZ3Z3MU5pYjhVdkcx?oc=5\" target=\"_blank\">Anthropic\u2019s new AI model is too dangerous to release to public, developers say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-11T14:07:25.045014+00:00",
+      "published_at": "2026-04-11T13:53:45+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeDN0ODZJemZhdFF1YUd3ZjdJWWpNMTNNakUzbGg5WjNZZlR3U2FtTFlqajhRMEZPTFIwMGZpRklra0xzYkNvQkVDWGFlUDFDSnlWMDN4QnduaVh6cEh3NTZFTXZjWE8zbGp5SHQ4cnNxRDFlYWNwVEtTaW93dkdheUE2VkM0ckZTSzZCWEVRQlQ0djVXQkZacFY4c9IBoAFBVV95cUxNaTNaV3NGdklZQkpobVM0cDhBck9UOWttWUlqVnRIdV9RbTF5Q3A5UW1VRG9POVluQ3QtaDZPeVQxWHBOaFFzaGxvRU1RSGZJOFR4NXlVaUkyRG5lakxUa2JZejhzakFMQ3dfY3ZlZE9lZXY4OXA2dmNGd0F1QUZfZWFtcWR2NTY2N2dvZVJ4c1pPSV9oaUpXbWc0V0UyX285?oc=5",
       "title": "Meta releases first new AI model since shaking up team - H\u00fcrriyet Daily News",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQeDN0ODZJemZhdFF1YUd3ZjdJWWpNMTNNakUzbGg5WjNZZlR3U2FtTFlqajhRMEZPTFIwMGZpRklra0xzYkNvQkVDWGFlUDFDSnlWMDN4QnduaVh6cEh3NTZFTXZjWE8zbGp5SHQ4cnNxRDFlYWNwVEtTaW93dkdheUE2VkM0ckZTSzZCWEVRQlQ0djVXQkZacFY4c9IBoAFBVV95cUxNaTNaV3NGdklZQkpobVM0cDhBck9UOWttWUlqVnRIdV9RbTF5Q3A5UW1VRG9POVluQ3QtaDZPeVQxWHBOaFFzaGxvRU1RSGZJOFR4NXlVaUkyRG5lakxUa2JZejhzakFMQ3dfY3ZlZE9lZXY4OXA2dmNGd0F1QUZfZWFtcWR2NTY2N2dvZVJ4c1pPSV9oaUpXbWc0V0UyX285?oc=5\" target=\"_blank\">Meta releases first new AI model since shaking up team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">H\u00fcrriyet Daily News</font>",
@@ -6420,27 +6438,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMX191LXNma3E1VUZPVDlZT1A4MVFCNjJQaU9NdDR1bGo4b2ZMd2Z1QUVTdXNJdXpBemJNNXU3LW9NemFFOEZoMzZuUnZib2dPbkxxYmdrcHRyMG5va2JSWW5UUE45Z0ZaMWVuTEp1eUhEN3Ra?oc=5",
-      "title": "Google announces open AI model 'Gemma 4' and changes its license to Apache 2.0. - GIGAZINE",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBMX191LXNma3E1VUZPVDlZT1A4MVFCNjJQaU9NdDR1bGo4b2ZMd2Z1QUVTdXNJdXpBemJNNXU3LW9NemFFOEZoMzZuUnZib2dPbkxxYmdrcHRyMG5va2JSWW5UUE45Z0ZaMWVuTEp1eUhEN3Ra?oc=5\" target=\"_blank\">Google announces open AI model 'Gemma 4' and changes its license to Apache 2.0.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-04T20:35:33.302038+00:00",
-      "published_at": "2026-04-03T02:18:00+00:00",
+      "url": "https://www.amny.com/new-york/queens-fire-lumberyard-04112026/",
+      "title": "Massive five-alarm fire in Queens destroys lumberyard; cause under investigation",
+      "snippet": "Fire marshals are investigating what sparked a massive five-alarm fire at a Queens lumberyard on Friday night. No injuries were reported as a result of the inferno that broke out at about 7:30 p.m. on April 10 near the corner of 130-17 23rd Ave., near 130th Street. The first arriving units \u2014 Engine Company\u2026 <a class=\"read-more\" href=\"https://www.amny.com/new-york/queens-fire-lumberyard-04112026/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-11T13:54:23.538356+00:00",
+      "published_at": "2026-04-11T13:06:02+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/suspect-fatal-shooting-archie-spigner-park-jamaica/",
       "title": "Suspect wanted for fatally shooting a Long Island man near Archie Spigner Park in Jamaica on Friday afternoon: NYPD",
@@ -8216,24 +8234,6 @@
       "published_at": "2026-04-02T13:00:50+00:00",
       "price": null,
       "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.6sqft.com/moma-ps1-to-host-free-block-party-for-50th-anniversary/",
-      "title": "MoMA PS1 to host free block party for 50th anniversary",
-      "snippet": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://thumbs.6sqft.com/wp-content/uploads/2026/04/01095716/MoMA-PS1-Block-Party-Collage-1040x585.png?w=768&amp;format=webp\" width=\"1024\" /><p>MoMA PS1 is hosting a free block party next month to celebrate its 50th anniversary, bringing live music, food, and special programming to its longtime home in Long Island City. The event will take place across the museum&#8217;s plaza, courtyard, and galleries on Saturday, April 18, from 10 a.m. to 6 p.m., and include curator-led&#160;[...]</p>\n<p>The post <a href=\"https://www.6sqft.com/moma-ps1-to-host-free-block-party-for-50th-anniversary/\">MoMA PS1 to host free block party for 50th anniversary</a> first appeared on <a href=\"https://www.6sqft.com\">6sqft</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-02T07:02:23.624164+00:00",
-      "published_at": "2026-04-01T15:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

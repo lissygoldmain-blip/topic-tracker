@@ -2838,6 +2838,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://www.indiewire.com/features/craft/something-very-bad-is-going-to-happen-music-score-interview-1235187991/",
+      "title": "The Three Instruments That Lay the Curse in the \u2018Something Very Bad Is Going to Happen\u2019 Score",
+      "snippet": "Composer Colin Stetson tells IndieWire about the three most unsettling components in the \"Something Very Bad Is Going to Happen\" score.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-11T16:31:43.601223+00:00",
+      "published_at": "2026-04-11T15:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.rogerebert.com/festivals/chicago-critics-film-festival-lineup-announced-including-guests-olivia-wilde-joe-swanberg-dawn-porter-more",
       "title": "Chicago Critics Film Festival Lineup Announced, including Guests Olivia Wilde, Joe Swanberg, Dawn Porter, More",
       "snippet": "The CCFF 2026 schedule is here!",
@@ -4618,27 +4636,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://www.indiewire.com/features/interviews/something-very-bad-is-going-to-happen-finale-spoilers-dies-1235185845/",
-      "title": "Inside That Bloody \u2018Something Very Bad Is Going to Happen\u2019 Wedding Day Finale",
-      "snippet": "Spoilers: Series creator and showrunner Haley Z. Boston unpacks the ending of her wild Netflix limited series, including who lives, who dies, and just how much blood they really needed to cover the floor of the world's worst wedding reception.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-03-30T19:57:11.028355+00:00",
-      "published_at": "2026-03-28T16:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaU5JSHlCamFvYm1mQmhfVHBCMEx2c3RzMFNfU3BnNFZlWUFyb3pGR2Y4eHBGZlpBN0MyUjh4b3BaUmdiVThrWkdfaDdqYnpOdVlGem1UbVRwellYUXh6TzE4NGdVZEF1QmtxZm84M25yTjFEeHRXY3RiNWJjYWdiSlVoOA?oc=5",
+      "title": "Anthropic withholds Mythos Preview model because its hacking is too powerful - Axios",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQaU5JSHlCamFvYm1mQmhfVHBCMEx2c3RzMFNfU3BnNFZlWUFyb3pGR2Y4eHBGZlpBN0MyUjh4b3BaUmdiVThrWkdfaDdqYnpOdVlGem1UbVRwellYUXh6TzE4NGdVZEF1QmtxZm84M25yTjFEeHRXY3RiNWJjYWdiSlVoOA?oc=5\" target=\"_blank\">Anthropic withholds Mythos Preview model because its hacking is too powerful</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-11T16:42:35.647683+00:00",
+      "published_at": "2026-04-07T18:02:42+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0Z0bFZVdGtJVzdfb2tqM1Jia1JvNFFKYWEzRDc3X3lKYV9NWi1DUzRvUW12N1lpOXh1NW9EUGNPWEN6Zlo2WDA3b3p0bXB4YzdYVnZ1cjFTc2JCTkMzUmVOeFZ0TThRcXlnN05aR0FvcUV5VGxxWmt6NDliX2VObkZHazBuclhoUHc?oc=5",
       "title": "What we know about Anthropic's new, alarming AI model - CBS News",
@@ -6412,24 +6430,6 @@
       "topic_name": "AI & tech research",
       "fetched_at": "2026-04-05T22:37:15.400809+00:00",
       "published_at": "2026-04-03T03:20:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": false
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JT2JXTlJNcW1LY2Z6NzQ5dE5abWc5ekxMaGI2aDB5LVRyT0tzVUxxMVppYzc0VFphelJWM0VaTGhLcUkwMk5ldDFycmF1UHh1UDJ2WUdWUlhRYlNpRldoQ2RSMDgwNHNFZUZtN2xqbXVMRjBNem84?oc=5",
-      "title": "Microsoft AI Unleashes Three Foundational Models in Bold Challenge to Google and OpenAI - Bitcoin World",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1JT2JXTlJNcW1LY2Z6NzQ5dE5abWc5ekxMaGI2aDB5LVRyT0tzVUxxMVppYzc0VFphelJWM0VaTGhLcUkwMk5ldDFycmF1UHh1UDJ2WUdWUlhRYlNpRldoQ2RSMDgwNHNFZUZtN2xqbXVMRjBNem84?oc=5\" target=\"_blank\">Microsoft AI Unleashes Three Foundational Models in Bold Challenge to Google and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin World</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-05T19:45:30.024555+00:00",
-      "published_at": "2026-04-02T17:30:13+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

@@ -16,7 +16,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTi1ITk9iT1VreWJHSl9XcTdrNERFOGh3NGVQclhadVFNRjYtZ05pbk9kMmJVTDdDdlVuYzVxVy1QUWMyN2JIZ2RkcWplRHhQcGVwWW5VVU5ob0JpVzg2eWdpNUVnZzAwcVkwanZPN1V3RnJ0Tld3enBjbFQ1U1Z0eQ?oc=5",
@@ -34,7 +34,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.artsjournal.com/uq/2026/04/in-constant-motion-for-its-own-sake-the-mets-new-tristan.html",
@@ -52,7 +52,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/process-is-the-point-at-ifpda-print-fair/",
@@ -70,7 +70,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/the-brooklyn-fine-art-print-fair-has-taken-off-its-training-wheels/",
@@ -88,7 +88,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.wbur.org/news/2026/04/08/a-khmer-swan-lake-angkor-dance-troupe#new_tab",
@@ -106,7 +106,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.nytimes.com/2026/04/09/arts/design/melissa-chiu-guggenheim-smithsonian-hirshhorn.html?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4",
@@ -124,7 +124,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.nytimes.com/2026/04/08/nyregion/studio-54-renovation-roundabout.html#new_tab",
@@ -142,7 +142,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.nytimes.com/2026/04/08/arts/design/lacma-museum-geffen-galleries.html",
@@ -160,7 +160,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/guggenheim-museum-gets-a-new-director/",
@@ -178,7 +178,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW5wQTdmajJ0M0xEV1VyUjJ0RzRwX0NDVGJDcV9iUC1OWUZoWTRSX1RyYzVxQThKYU5TeXJibTY3czhiaTB2TjBYUEhjNjRna3V4Ym5ueDFYYUs4RGp3dVRjUnNZaFFfZWlSd2wwSjFNZmVOUXlUdEdmX2xqSVJlSTJFUHd5UFVUN0NNc0kzNHplZWNWVWJMbnliTHFvYmRoWWNydGVpLUJTMFJXWnItSXFuT01ORVI1X3JwMG0tX3A3RDNp?oc=5",
@@ -196,7 +196,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sVDdsUG5oajNleWNTQVctTjNscTJwRlNKb3llcWNuSno0NWpLbVp4UXhuUC1sUE9ZREpXYXRIVzdLcHBLT2tFMXRvbTVtRDlkOURSRGFXQ0JOb1k2Rl95MzB3?oc=5",
@@ -214,7 +214,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/how-to-extract-the-story-of-appalachia/",
@@ -232,7 +232,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/david-novros-portable-murals/",
@@ -250,7 +250,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/jasper-johns-marks-time/",
@@ -268,7 +268,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/guggenheim-museum-appoints-melissa-chiu-as-next-director/",
@@ -286,7 +286,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/art-movements-meet-the-mets-new-photography-curator/",
@@ -304,7 +304,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain#new_tab",
@@ -322,7 +322,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.artnews.com/art-news/news/guernica-transfer-rejected-basque-government-spain-culture-minister-1234780472/",
@@ -340,7 +340,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/one-last-chance-to-see-durers-monumental-print-in-nyc/",
@@ -358,7 +358,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/saad-khan-archives-the-detritus-of-censored-culture/",
@@ -376,7 +376,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.euronews.com/culture/2026/04/02/controversial-easter-confessions-maurizio-cattelan-kicks-off-sinners-hotline#new_tab",
@@ -394,7 +394,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/rare-wifredo-lam-portrait-lands-in-new-york/",
@@ -412,7 +412,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.nytimes.com/2026/04/06/arts/dance/dance-theater-of-harlem-firebird-geoffrey-holder.html#new_tab",
@@ -430,7 +430,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://theconversation.com/andale-arriba-speedy-gonzales-set-to-make-his-triumphant-return-to-the-silver-screen-278753#new_tab",
@@ -448,7 +448,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.hollywoodreporter.com/business/business-news/juilliard-dean-evan-yionoulis-yale-school-of-drama-1236558063/#new_tab",
@@ -466,7 +466,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/world/2026/apr/07/spain-politician-clash-picasso-guernica#new_tab",
@@ -484,7 +484,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/josh-kline-misses-the-mark/",
@@ -502,7 +502,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXA2SkE1VW5mTXExUEN0SEY4bV9DaDBlRXVNTEFlSG9DOHBBd2xfUXBIQTNlbkhwcmI0bVNleHJOb1lZbm5xa2tWcWpzOWdxUFplaXRRcDNnSGRqdE5wal8xOFl5OFNPeW9kNk1EYVhOOHlLYnI3bnFzUmUxMnNtQWIzM2tJQmV5U0FRZXlibm9SeW1SN2dDZm0zeGg3U0RDNU5tRkVXaWEwMzFQS2pEZQ?oc=5",
@@ -520,7 +520,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/kamrooz-aram-is-everywhere/",
@@ -538,7 +538,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/elucidating-the-esoteric-with-hilmas-ghost/",
@@ -556,7 +556,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/beer-with-a-painter-tom-burckhardt/",
@@ -574,7 +574,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/in-discipline-larissa-pham-explores-predatory-art-world-mentorship/",
@@ -592,7 +592,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.artnews.com/art-news/artists/josh-kline-new-york-art-world-viral-essay-interview-1234780103/",
@@ -610,7 +610,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thenation.com/article/culture/new-yorker-fact-checkers-anonymous/#new_tab",
@@ -628,7 +628,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thetimes.com/culture/theatre-dance/article/secrets-of-the-seventysomething-ballet-dancers-my-spine-is-a-disaster-xjwflj990#new_tab",
@@ -646,7 +646,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/peep-the-wildest-costumes-of-this-years-easter-bonnet-parade/",
@@ -664,7 +664,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.nytimes.com/2026/04/04/opinion/cats-musical-ballroom-culture-broadway.html#new_tab",
@@ -682,7 +682,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.msn.com/en-us/music/news/temple-university-s-newest-arts-partner-opera-philadelphia/ar-AA20gcn9#new_tab",
@@ -700,7 +700,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/dolores-huerta-is-the-goat/",
@@ -718,7 +718,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/50-years-of-chicano-photography/",
@@ -736,7 +736,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmpMQlhoaDBhWW8tX21lRnJRUGJLUDhqZkxkTjB5eU9mcW5mdFE4N1VHTW81NWo5ZTdIdnF1ZHk5d2o2Zk5kQk5aQjJuMjN5RmdyWGF3S3lrZWdjSXAwOE1jM2ZvQlNLd2dzUFhydGx4amxRWW11NUFCblNtSnN3M05fXy00dDY2VDd3d1c1Ql9weDIwd1R2MmFMTkNCWmdSZ0IyTTlZNHZzOGV4elZNZVYyT2c1cHRiZUVjMGNicmJFZw?oc=5",
@@ -754,7 +754,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVkh3ODF1bVZPbE5SNlRNVXJYRXpsZWxhbUtCTUZXMGJtUjZMaHBRckRqWElIVnJwRDN6bkh3TGl1R095ZmxvOUtoTEJvM3JZc1dUVk55WjNrUnp1UmVzYU9sRHlPaVdYbHZKR2cta2JYS0xyb280WHBVenRza3l1dEhuMTFxT01zWDJXbUtlb1Z2YTBMNnB5V1VPbnU5RkkteTJDUnNB?oc=5",
@@ -772,7 +772,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/the-unbearable-strangeness-of-being/",
@@ -790,7 +790,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/the-museum-breathing-life-into-new-yorks-downtown-performance-scene/",
@@ -808,7 +808,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/artanddesign/2026/apr/06/es-devlin-ai-pottery-jurassic-clay-nico-muhly",
@@ -826,7 +826,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/matzah-is-the-medium/",
@@ -844,7 +844,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/paul-klee-other-possible-worlds-jewish-museum/",
@@ -862,7 +862,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.hollywoodreporter.com/business/business-news/writers-guild-tentative-four-year-deal-studios-1236555949/",
@@ -880,7 +880,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/15-shows-to-see-in-new-york-city-this-april/",
@@ -898,7 +898,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://hyperallergic.com/leah-ke-yi-zheng-personal-i-ching/",
@@ -916,7 +916,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.artsjournal.com/2026/04/melvin-edwards-sculptor-who-welded-the-african-diaspora-has-died-at-88.html",
@@ -934,7 +934,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.nytimes.com/2026/04/03/arts/modigliani-nazi-court-ruling.html",
@@ -952,7 +952,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.artsjournal.com/2026/04/good-morning-141.html",
@@ -1818,7 +1818,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWdPQ250b2I3MjBvc0VnUGdocUFJSjZOSV9HNUoycmJnU293cjU5LWFZS0Q0VGVfM2w1aTIyLVo2ZjIzNGpmVk1WaUQ3dDRQRW5tVkxjM3A5czR1OUhPamhvSFVsaGg0Y3JPUEtUMllSWjhpcUlhR0FDRGJtYUdOTDlFdHFMZmlQTEs2OEY2SmxFeU9DWEI3RlBzQzk?oc=5",
@@ -1836,7 +1836,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3UxekhjVUVmZWV6SUlwY3BpUjhKZF9lUVBUY2tKTlZjM3piNFZXeDZZZlNtQW15ZGNZOWhFeDJlb2REdW9FNXJ1NzI2OVZGT0FmcFJtMUNaX3NnVk9JXzRjT05EX05ha1c5NmlmdHFXa1kzREV6TlprQzFLSWhqN3JGTnBlU3N2X3pHd1JCeElfMlF6czZxc2dnWHpBclBCajdZcEdPNA?oc=5",
@@ -1854,7 +1854,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMXRhaDdFel9COXgxWmlaSTJWN1dHLUttLXlqVGJGUExfbVNvcWhjV2hyenFzUjl3YXkxVllLMFhEa3R5dWNDX25wNXdNUEZUTWZqUVJHdG52RTNUQkY2eWpKelg4b3FLSmRoOXRnc3QyWVN0alJPblluSm1kMkVmWlNmM0o4MGlMNXc?oc=5",
@@ -1872,7 +1872,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaFJIVF82S0RGcXctQmh2M1hadG9PcTZ5NlVpSUF2b0xlTFhuUVQybDdjMXZnZVZtVHlhaXB1cGR5S2J3Qlo1Yk5kcGF4M08xVDdTU3VmX0htUnNJek5ickVwYnJhUHVKNVczS0p6OC1scTBSUEdNaHllU0QwR18ySDZBcDJDOVVWZjl6NUxyUnBvNzRpZmVtNGV0TDIzcHM3QW9sS1NHdlRoeGVsczhwdzZCYTVzQV9SOGYza2hvekJVNjlHN0xROTBHVk1hRXBY0gHWAUFVX3lxTE4zdThEbHlGU1VqNUE3SnpRcVlXbnNGN3F3NDRHSEs2UUhfdTk3VHJ3MTR6SmQzQXZwQTd2OW1yM2xFRlNiRzAyaXdGbXpsQzZ5cEtQUjlwMWVUS2FSOXhtY1VwelNfZkNfR3hiMlF6YzNtOUpxNmV2b1BWcjhjbmhYTExqX29FVHBId0Jqajg3MGUzSjh2RmE5YTlaZGg2RnFNQ2Z1dHpKTGI2NW9Rb1gxdWYxYy1MMnlQc0doR1JOZzJoSEhWTFZZd3RJSXpKWE45WTE5MFE?oc=5",
@@ -1890,7 +1890,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajJfbUNlVkFCODFXamZIdXJhY3pUMVZpZ19INFZuMWI5TmxtRnI3SDVsa1dzaDhmREloQkY0T0ZyNmVoNklWZHpqSV9QWmFkWTY3OWtKMGR4dXZCWkt0Qks5R083Tkk0M2RQLTMySTJBRmd5TzFNX3dXUDhOdXZxMmpveGFEUkFJTHVUNnJfUmpTQmRwVDFGTlNTWW90TjJMaDJYR2lUWGQxZw?oc=5",
@@ -1908,7 +1908,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZzhta3lJb210V0xJdTdHdHFoZ250THA3dS1tYnNjdlBTRUVPb2ZsODZLSkVsQThiVmU5Q1NFeXltalVWSUVNS1ZuY2J0NjBGdVJrVEhadXE1SG9iZkl0QTE5MWpJdXJwVm9hSnltTEoyOENPLVkzbm5BYl9fM0lFeFVvMDFMczYxQUZPeEt4TWdIeFB3czhIQVU3SWkzQVRWR0t5OURqVFBxNnY5M2Zla2h2WlJPTW5uM1NWTmt3?oc=5",
@@ -1926,7 +1926,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qTUxQUjlLa0dHZnFOTm5GM3ctQXZUYng2b1FPdkFEUnFqOG5IR2JGUzFCeGRkbkktZHRteUZ5dEV1QTdTbERrVS11bUpCQnFLaW4wOGZxbVM4OF9w?oc=5",
@@ -1944,7 +1944,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1hFa0VXU3J6aWhsQzFwLXQwanZxa0pBVzdrRzRvUVNqY2tVY2VRblZGSGswNlVLQ1F3eDBrbTJJOGN4R1ZNVWlRZTBFY1U4clBFcHc2Y1E2SlRxdm9CSDhqNDJFVmJXSmVWc3BMUllJMWdNckswdnh5SmVUcWxKZVpR?oc=5",
@@ -1962,7 +1962,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObExKLVNlWGhobHMxTkJxTEZNc2F0RktNVkFZSmZ5Skd6SlpxMjRqY2VMT3dJcmFnZ0NTeDRJd3N4b25aYVhRSFpDdXNwZ1A5bm1YbFJ3ZEdXcS14M05kSnd2RS12c2RfbHZRdUhZaXc5aDltMklscFY2TWRNSzFrVHEwMVY0Q0JDa05vSkxjdVhKcVQ3a1dF?oc=5",
@@ -1980,7 +1980,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3VNbU1lZHplbmwyMWxNUU02QTNFbnl5THowcFhza0hJMkRiSEZfYWZpaWUtSURFdGdMTVFWcEQ3Tkh6SjJlU3ZCUE9IbmZEcDJOTUdYZXdNUXRGN0ZLNnAxRkxzOEtUVXhad05JZUpWdzJ6WlZBYk1GVDdsd09NTkJWaUtxUms2RkJ4MlFnQXRNVmdvbU1EZnYzemEtOFVMdGplZ2VR?oc=5",
@@ -1998,7 +1998,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTdEYWpEalJaU0FJSkhfLUtLZXRrdUFGRkR0NjhBLWppaGNKbkR1clFHOHVnS29rTnh1Wm41MDRGdmg0NHRNU2Q5TGpzM3hna0k3YW45bGN5Uk1JWHBiT2dOblU2aC00cjM4cjlnb003Nk1yZUdFNzJVSnlPX2M1Mk9vV25jd3NESi0zNnJfZU9LSzhIRU9OMERqek96RGZFbzdzN1dWTjRYZw?oc=5",
@@ -2594,7 +2594,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.westportplayhouse.org/about-us/careers/currentopenings/",
@@ -2871,7 +2871,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRldoWXkwSGpwN1ZpUnhaUG8xc3BoNnZYSzZjQkJPMlB5azRPTWVNMjRHRDNpVElDQTNqbUJfcmlEYXF4TnE2UlU2d2xWN08tbjA0TVZyVk12TmJseUdqdWU4OUkyUE9GRTFQTDJoT19BRG5nZ0hhRlFiRVhSUGNUOE5Zb2gwSUp3Z3ZvQ2t3OHFFY3ZkcGU0blNzOFBfaUk?oc=5",
@@ -2889,7 +2889,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdnIxZlB3R1NxVmxYOS1mQVBfVm9JOUpmSGZDNG0zNlpLa2s1a2JQN2prLS1jNlRoanJIS0JEY1RYWFlwaTBjdFlGcmkzanJ0MElxNXNPR3BFNTRaUXB0TkE4bU5Ta2o1Q1Mtc3YzWHZ3Nnh1d1JJSUp6WWs4c3Nxakw5RkpsdFBlbXc?oc=5",
@@ -2907,7 +2907,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/turnstile-singer-dad-intros-band-coachella-surviving-attack-1236858252/",
@@ -2925,7 +2925,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/barbie-ferreira-faces-of-death-mile-end-kicks-after-euphoria-1236842159/",
@@ -2943,7 +2943,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/robbie-g-k-scott-kip-storylines-heated-rivalry-season-2-1236858263/",
@@ -2961,7 +2961,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/revolutions-daughter-world-premiere-miami-film-festival-1236858191/",
@@ -2979,7 +2979,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/features/interviews/behind-the-mask-ii-leslie-vernon-interview-shelby-oaks-1235188390/",
@@ -2997,7 +2997,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/features/interviews/chao-director-interview-gkids-mermaid-anime-1235188426/",
@@ -3015,7 +3015,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/features/craft/something-very-bad-is-going-to-happen-music-score-interview-1235187991/",
@@ -3033,7 +3033,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.rogerebert.com/festivals/chicago-critics-film-festival-lineup-announced-including-guests-olivia-wilde-joe-swanberg-dawn-porter-more",
@@ -3051,7 +3051,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/criticism/shows/malcolm-in-the-middle-reboot-review-lifes-still-unfair-1235188196/",
@@ -3069,7 +3069,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/news/breaking-news/euphoria-season-3-kodak-new-film-stock-1235188424/",
@@ -3087,7 +3087,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/news/breaking-news/mubi-lost-200000-subscribers-2025-pr-nightmare-1235188425/",
@@ -3105,7 +3105,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/tyler-perry-joe-turners-come-and-gone-broadway-1236785887/",
@@ -3123,7 +3123,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/the-match-factory-valeska-grisebach-the-dreamed-adventure-1236786379/",
@@ -3141,7 +3141,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/mk2-cannes-rwanda-benimana-1236786375/",
@@ -3159,7 +3159,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/news/breaking-news/ray-gunn-first-look-brad-bird-1235188090/",
@@ -3177,7 +3177,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/features/craft/the-pitt-season-2-production-design-interview-1235187974/",
@@ -3195,7 +3195,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.rogerebert.com/festivals/cannes-announces-2026-program-with-new-films-by-pedro-almodovar-hirokazu-kore-eda-asghar-farhadi-more",
@@ -3213,7 +3213,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/features/interviews/the-christophers-movie-screenwriter-interview-1235187637/",
@@ -3231,7 +3231,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/apple-tv-husbands-cast-joe-alwyn-richard-gadd-joel-kinnaman-1236785464/",
@@ -3249,7 +3249,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQaF91REkwMVZyX3g5RnQ5dFpXUjdGZUhvWXlCb3VMaDlGNFNyUDhoWkgxRDhkLWpkNnVSRmV1UzBacUNXSHh3TGxIdDJrT21ZZmFZa3U2QkxGZTJVQ3FFVk1uTFhsb3hJSEY2UXltQ1JxdHFyNzVDSVpzdU9oSE9UbVp0Z3hudkdLN0VUUUZNdEYwSkt4ZS04cDBMMnNzN3JPNDFkTV9oaC0yUVZLc3BpSFYtM1B2Y1NOUDNYcXY1ekpRNFdRM0lzUFBRaW1heV9wQkJ2ZmM4TXRnRXMxY2czc25KZnBYaUVkQlJxeFMtcllWUXphb1FuMXdkbS10Y0kzRkxZUnRWSXdyVjJnd3ZBMGZVc0dkMDR0N0ZkdQ?oc=5",
@@ -3267,7 +3267,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/cannes-studiocanal-jeanne-herry-another-day-first-look-1236784796/",
@@ -3285,7 +3285,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/cannes-2026-movies-lineup-competition-1236785446/",
@@ -3303,7 +3303,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0t6bDBRNEotM1I3S2NFLU1ybTI3Z20yMU5BRE9SeV9zSmlac1pvd1JyODhzQ0Y3ZnFLdVJxRzJVeFpwR3dub2RsZ3BwYXVsNzhUY2R4dm1CQVdKU0tSS2Z5THdoX1A1NTlENU5FR2ViVUVCRnJDQ0lDRVh5RDFVbWkxMmFnY0ktNTc1ZTRHajZnTVprZ2RCZVhqdVhsM0c5OWRVN3Qzcm5VYTB5NHlGdWpHSTRZSkNWOGpUVHAtRUxTeGFsOHc?oc=5",
@@ -3321,7 +3321,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/beef-carey-mulligan-oscar-isaac-season-2-fight-scene-1236785406/",
@@ -3339,7 +3339,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/features/interviews/fatih-akin-amrum-germany-interview-1235186562/",
@@ -3357,7 +3357,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtpZGlFc3NyT0JHNEFyWEw4bEN5NGpONEhGUThjRXNzTm1vSnJualZ3QVdSOWQ2b1N0UVRRbmgyMGF3cGZRZE5idnVyR2NhUmJRVjhodGkzZ2J3WEU0UlBvenBrbnJpUnVpMFVkWm43SFhUZUV1ZC14dkJ1SUQ0V0RIVXZrYmpicjh4LUkxV0Zrc0EtZDE4dWtmZU1JeEkxU0ZKeDJ4Vkg?oc=5",
@@ -3375,7 +3375,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjQwYWh5Rm9XOHZOUEFqeXdRSkF3Z2F6R3p0T0JNMy1HbG8yRXJZREVyVTlzbWtCTU1QV0tZVmVDYUxzd3pvNnE2SC03QlY4Ny1YZ0FQc2V5dWo2T3hkVHBYTWZrNGtPamxiTDY2UmpmaHhwS0Z2dG90MDhsd29QVXV4TFo0QjZ0R0hvTFotVmQwcWZCVW9zYmtndTNlUUt0TFRtWGYtb3VROGlUeGw2WDBSOHl5dVVPcm9mVzlEbmdYMmczQUg5blNiOXcyeWxNNlN5cFVqZlNGQ3Q4OC1STQ?oc=5",
@@ -3393,7 +3393,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/criminal-record-season-2-trailer-peter-capaldi-cush-jumbo-1236784514/",
@@ -3411,7 +3411,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/mubi-ipr-vc-alliance-pawel-pawlikowski-1236784503/",
@@ -3429,7 +3429,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/sonja-ohara-sebiye-behtiyar-the-scorpion-horror-film-1236784445/",
@@ -3447,7 +3447,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmpqekMyQTMzUWY0VV9PZ0RSR0hNNVVRQTZ5NUFBaXVuWV9WYVBoaEZwSnN2ZmVGd3BJdHg5X0wxNVJTTHl1NUNtM2Mxd2UzSktLdTd6QjNMOElzeXdfLU5SeHpZWHlfVEdlWDhFQkxsNWY3WXRjSVlpa291TVNUX3RSY2ZNSWdZdXJKUUZuOWlQZ1daX2htcWhYRjlEUFhjN2hrOG1SSUJHbWFlMWxXUlln?oc=5",
@@ -3465,7 +3465,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/elisabeth-moss-returns-handmaids-tale-role-the-testaments-1236784340/",
@@ -3483,7 +3483,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/sheffield-docfest-maxine-peake-david-attenborough-2026-1236784411/",
@@ -3501,7 +3501,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2ZXVsc1Q5TnpLby1vblZGN1NKOXR3d1BJdzloNlpxMUxFWWlLWU1PaktYVHNNbFJ3amZsUDZzekgxWmR6QkRfZEE3QzdWZw?oc=5",
@@ -3519,7 +3519,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/news/trailers/the-invite-trailer-a24-olivia-wilde-1235187533/",
@@ -3537,7 +3537,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/news/trailers/half-man-hbo-trailer-baby-reindeer-creator-new-show-1235187752/",
@@ -3555,7 +3555,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/kanye-west-wireless-headline-controversy-antisemitic-remarks-1236783288/",
@@ -3573,7 +3573,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/cannes-investors-circle-2026-selection-1236783345/",
@@ -3591,7 +3591,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/features/commentary/what-happens-aging-artists-embrace-ai-opinion-1235186843/",
@@ -3609,7 +3609,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.rogerebert.com/interviews/hope-core-daniel-pemberton-on-composing-project-hail-mary",
@@ -3627,7 +3627,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3l5aVc4MTlyckROZkxPTE1RRE9tRlpwbFU0ajEzcWNuaEhtN3lVRGhhQWprb1ltWU9JcWVxcVB1R0o3Sm9CZFBwa1dTRWpUMHNCQUdmSVhBR1dfLTBZMWdnU3lMOTZVN1Z5S3Y3eW83NlBzaU8xQW1uSnZqWHpEdm5OckVRbnlZNHVGLWlGb3F6TjJRb3NZRWpjQmtidzlWa0RhTWNqWjJCT1dvbEk4YVZnNWR3R05VSHBqbXAtN2E5WWt2MEN4WUc1azhRNFFmWU1IQkZzbVo?oc=5",
@@ -3645,7 +3645,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDVxckVKV2R1MnV4S01WMmRJeXhJRHhTT0JJczFtR29id1h2WWdwMTVwa2JvX3dRTHpFN1hHZWpWX0NsWUV3bUowRGRWMWl5dUlKMllWanhydjlfbnl3bXc3RnRfTDRVUlFzZ203TEM2ZWstcTY2WHV4dEJ3M3RZdDFLZmpmdHM4VENhbko1VXZKZWpjU2ZvVk1teDluNlZT?oc=5",
@@ -3663,7 +3663,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/katherine-lanasa-cast-hulu-limited-series-count-my-lies-1236782863/",
@@ -3681,7 +3681,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/features/craft/the-drama-movie-making-of-interview-editing-1235187555/",
@@ -3699,7 +3699,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/criticism/movies/exit-8-movie-review-1235126044/",
@@ -3717,7 +3717,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/zach-noe-towers-special-twink-death-premiere-date-1236772381/",
@@ -3735,7 +3735,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/jessica-lange-american-horror-story-season-13-filming-1236782672/",
@@ -3753,7 +3753,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.indiewire.com/criticism/movies/the-blue-trail-movie-review-1235187370/",
@@ -3771,7 +3771,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://deadline.com/2026/04/wga-deal-amptp-studios-health-plan-1236779810/",
@@ -4673,7 +4673,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa2ZSaXUxeTl1UmlOWGdaM3F6cmZfRHpaMzRoNVpBYWF6a3Q3azY3SkpFNklCblpHU0JYcWN5S3ZyQWJIekZfSmZ4ZGdHOHkxYTdaNlZ6Ujh4aUtPNVh4MGdqOGE0bWFQOURYT1phNkxmUFl2djN3RHZVcloxTkIwNDJQNkxSX0ZrT3pXU0pUdUNzVnRxMkhVTTU4QmNZeElm?oc=5",
@@ -4691,7 +4691,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmhxcDlXXzBQRzRqSVRYckFtV09lRUExZWJPRzVuRGFKWXZvTmw5LWVnNVRGbmhWckJSZXgybFA0OWE2LVFoZGRSUXpNbzlZZDZYR0J1cExXbGlfYzMyaGF3b2FOa09FTXE3VExMYTBjbEtQa1cwV3dsMExWZ1NUZUtadzVTT1VJeGdMM3A5QTBRY0VfU0piRFh1TjVWS2xRZnNBVXI2ZVF2QQ?oc=5",
@@ -4709,7 +4709,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONlpyMkUzS3p1RThLdkpIRXZ4U3lGVkh4dUJITmcxWFd2Ulo1czh1THcyZ1JsUnhNZlJsd29URjZaZkhTakVMUl9ZeW1aVFpSc1JhTTZMMjRTV1ZRcURMYU03NXg2MXVQZklSbzBmT2pfX3ZNMXM2VlNiNVZ0V2xyYzMwa0FZVGRXRGZrWmQxTEY5ZWgxVUdJdE9VVVgxVkhvYmpxV0ZNTjhzandRcHptalNpQ1RxMmpKNlHSAcIBQVVfeXFMTzJmOEY2SzU4b3hjZERSb2pweUVvOFN6OFNJUHVqQ20ybHlNREo3czhGZkgwMTBiU2NnWnptZmJIRkphUXVkYmh1WDNRZThDYk9VbjBCY1dvZG5IUU01TFRTaEZVZGxyRVdfa1RvbklPcjMzMFlhUUhvRldTd2o3N1VSY3U4amJQejR3REJ3NFYzTEN2UDZSWVR1SHRTNUJUNDRMTEg5YUlKTzgzRi04QktKM2NLYmhDcXhnTFAtaDBabFE?oc=5",
@@ -4727,7 +4727,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNenRRM0J5LVlnWi1LSWthalNnSFFfV29MZXVXWjZkdTFiY3YtUlROWW9yaWZONmc1LUVnTVFXRlNUVXpyQm04RElMR3JLYUJBUGhCcjZlZlFLaTFsbE5LYzZaVTYzcVBPWDhoaVUyV0VjNXlFR2kzWmI0ZV9uWVpscW1wdWdmVUMtQkhQVHA1X2xLMFZMRkplYlJZM2taSmpKcy02RnN6VTNXOWdHa01kU0k5MFo2WUotTU9QNHZlbURjVG5tUEdWaHJqY0wzNlJKWFgxeHlZenNCTlhwSjBXSE1uWG9Nc0kwTXZSN2cwWjlER2xrMmhRekE5aUJCbVNSWjFYTjdFRDRxdlgxLUQ3cXpEV3hrQjYtNHVOadIBogJBVV95cUxQa1hoRnRFTGxmODJRZW56a2gyQlNYcFVRTVFDem12Q2FRY3BXWDJXQ1R3ZHZQOGxTRDJKT25JcTBzNkdpMTEySlNqVDVDY1NNeDlhbUdGSkRXcDExemZpTGYwM01Rak05U3lvMVdsSEV5X2hTVndNd3dwQ2dOTlpjNXc5NkFvVjk2RXhOSGs0RDl6ZTcxQjBkRHNpQWpmSl9SUlNaVlR4RGNGNUFLVzdKUkhoSXhSdFhrZDdWS3RxYnNNS3NVZS1TNm9yVGNaNEF0VWd0Zi1LMnVMQzA3UzRsd2RGcTE4VUFxenpjcWxmSVJselE4dVVWbE5lVVVnR01EWk15QnpIOFRMbFFvcnY5TU9jem40aVJQMDBQUDlyUFNoQQ?oc=5",
@@ -4745,7 +4745,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnUtWTFYajBYVU5zNWp4d3dWRGFSWjhuOWhxUXVCSmwwZEZMVGxMVGxpWno1bEtNUDAyZHVkbG9iQ0VscVAzdFhBVTA5U3lNMi1BWnh6Smd1UDNoWG01d3VxY1I3d3FVTEljekRBeXRKM1FjWEhHMDg1VDRMSkpYRmI3NHN6Mnd3ZWtMa2stb1NqcEVWRVdhYmlaekxvTEQ4anJXanZpSUd4a2pfeTN4a0NrX3BqQQ?oc=5",
@@ -4763,7 +4763,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVktZ0tURlBJRzFrc2F3Tm1LYThOckp2SENJYXZKand4aDZLdnBDcDdiazBvX2ZDT1ktSVp1cjRyQ3dkemlkM2NwQ3BNcVR3OTNkSy1ZRlRreDhWeU9nN01PWGdRUTZhVE1rR2JKb0pNZ2xtWnhsaG9PZkVJOW0wTkVKNHVnc2psMmd6UUVCUU9KNEFfMHpycWt6NXA2WXRoczJtWkp2dw?oc=5",
@@ -4781,7 +4781,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaU5JSHlCamFvYm1mQmhfVHBCMEx2c3RzMFNfU3BnNFZlWUFyb3pGR2Y4eHBGZlpBN0MyUjh4b3BaUmdiVThrWkdfaDdqYnpOdVlGem1UbVRwellYUXh6TzE4NGdVZEF1QmtxZm84M25yTjFEeHRXY3RiNWJjYWdiSlVoOA?oc=5",
@@ -4799,7 +4799,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0Z0bFZVdGtJVzdfb2tqM1Jia1JvNFFKYWEzRDc3X3lKYV9NWi1DUzRvUW12N1lpOXh1NW9EUGNPWEN6Zlo2WDA3b3p0bXB4YzdYVnZ1cjFTc2JCTkMzUmVOeFZ0TThRcXlnN05aR0FvcUV5VGxxWmt6NDliX2VObkZHazBuclhoUHc?oc=5",
@@ -4817,7 +4817,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnBCRHBLNEd0VThZN2tHdkM4Znk0aVJaQlpBaFMyTmJhbUgxZ1R1a1BQQWFoalktdWl1YlM4RVFacDdrekdseUxDQTQwMWdtWDNyekR2Y3hoUkFZRHFrRE1KNmRuSjFyRUNEa3dZaDAtb21XSkpPVTA0NnVvN29IZzI2VThhSnp50gGOAUFVX3lxTFBDRjhMWkJVaWRkUzlseWk2eUk1RXl4TXZyanFzNWV4S2hQZXQ0QW9MTi1KNm1HTFFRUWxKbDlJSFNLWkdIVTlDOXhXVVY2ME1yVzUzc0xnNUFDczRNLXUyT0xBOUNScGt6dy14bklGcG0tcDRqU2E2bXY1NTdHM0lwM1ZzVjktZm41eXh4QUE?oc=5",
@@ -4835,7 +4835,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeENKMGlHd2hqTlBnWWcxUjlaLWlCbFZKeGl4c0JxdkktblRoQjJDMEJFTHNHNV9pLW0yeTU0Y2xNc25kbmxLWWtYZVZySTNUbk8wN2pfRXJXeFJzZU1sRmViWEUwOXNIUi1Yd3VPNWJvSF94VnVlZmlpZ3AtZFJPV3N0QURRRFJhWVJjQWs4YUtUX3VHc0dmY0hKZnJScGRvanh3bC1WLWthaWhRZ3Z3MU5pYjhVdkcx?oc=5",
@@ -4853,7 +4853,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeDN0ODZJemZhdFF1YUd3ZjdJWWpNMTNNakUzbGg5WjNZZlR3U2FtTFlqajhRMEZPTFIwMGZpRklra0xzYkNvQkVDWGFlUDFDSnlWMDN4QnduaVh6cEh3NTZFTXZjWE8zbGp5SHQ4cnNxRDFlYWNwVEtTaW93dkdheUE2VkM0ckZTSzZCWEVRQlQ0djVXQkZacFY4c9IBoAFBVV95cUxNaTNaV3NGdklZQkpobVM0cDhBck9UOWttWUlqVnRIdV9RbTF5Q3A5UW1VRG9POVluQ3QtaDZPeVQxWHBOaFFzaGxvRU1RSGZJOFR4NXlVaUkyRG5lakxUa2JZejhzakFMQ3dfY3ZlZE9lZXY4OXA2dmNGd0F1QUZfZWFtcWR2NTY2N2dvZVJ4c1pPSV9oaUpXbWc0V0UyX285?oc=5",
@@ -4871,7 +4871,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU51VUpXcjI2czd0TmV1OU5Rck43eXFUQjEwclRZdVJscVNwenB4aWozVms0NWlPcTU5SFhsVEFOcFdFdHVoVmlvMkNHaHZHVnRiQ2pmZHBZQzNpamo0SEhuOWtQdjNqOUQ5WVJwVTl4MlRhNThXcEpsMTFaWnlkLTdWZlpwREN4aHFOZlUyZ0VZSHNaeDVv?oc=5",
@@ -4889,7 +4889,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVdnR0NlLVJ4S29VTXotRjV1ZnhiOUFWSlRmdGZMeFFKS0VJMlpaUzlWUGI5TmJZNy1ZaXhiYno5V3BwdWN3alJoN1NLQmdMVmp3WkxESXQ4MnRXNVZjbW81SmRSZlZIS2FuRnBUT1Z3TUxLVmVVS1cySEhoNWxUeUJNdmZrS2V4QzdnZ0RVNC1HV00yN0VtU05QTHZzdnA3TTFvbEJFcDhoRkFxVXc?oc=5",
@@ -4907,7 +4907,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcHZGVkx0bkxwamdCMEZLUnNSUWJKTlFaS25xdXR2ZW54bm1sOVlUUGhJemZjS1dnQVpCdGE1aEdDMDZmSmJKLU9BaHd6TUlnMThrOGgyQkNtM2dEdnBXNVN0aDBEQlFvaVNsWXpXUXd5VExXYmhIaU16eVRRNmlTR3JZR3hRZy1leU0zQnRId2E?oc=5",
@@ -4925,7 +4925,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlExZmRsS0lNcUFlbFEyR2k0dW5pLVMzYXJGMEl6ZVNFNm1jdkktamE3eFlGX3hISktMc3JpaFh4Tnl2Qy1tWG41SEZiYW1rRk1ydWRxaGFoUG9BVFNteENyZkRTYktndmg3bWZoMUM5YUdrdF8tQmcwSDg0MVF0dWpRelhYd2JZOGliWmhCWWM3eWk4MjF6N2JmZw?oc=5",
@@ -4943,7 +4943,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdE4tUktnbFZwVkRmdkFhdWgzUTA3Y2V3QjVpZkNVSW8wS0JPVE1OMVlmVTJWclRlc3dwc05zQ0F0RV9ERkhiSHFKM2M5djNlOWt2M0FLWUlFV19EbkN6VXlGUXhSVHJSTEdYdDlsYkZhUDZ3a2ZTbnp3UmZvVFo2TkhYcDY1VHU1VUNZbVNVd1R1Ymo3bGczTkU4Y1B2LWoxSzNIVFJXU2VnbUN4NktFaTNabmhXQU9maWtPdW9jcHBqMlVfeVk3OW9jZGZ4dk01bkNmRVhaWjlMLUt1ZklEMl9ETEJxYlpYSUVaMmpiNGVrclVtTUlqR1lRTkF5a1l1elVvM2lCOUxBQm1U0gGSAkFVX3lxTE13aXVOblNBZXNkNFZPUGY2X2hYTjRJMW9OYU9Gd3EzalpXSTBBSEZwTFRmRkFnV1pvUGl6TWZtWmZSMVlzTnhRTmc2MU9QdFk0SDdPR0xwa0pTbk8xRU1hcVFpVThWb19LaDFOMmltRHJLYzM4cVh3SWZaR3d1NUp3UG82b05rMUhRRmVSOGtoa2hYZVhXOHBCMVI4czZPcEJ2ekRNS2VOcmRXbGhCWldMRHVUb0NtNFhNV3AyX3hQVjBJUG5oSnMyQTZReUNVNzNFNkRrdGY5WjZUak5LOUNNVlNiZjNpeHJQNUlmRVlMLTFvUW9VLVdvcVV6enhsU1dfdW5ETUZad2dqTWV5VFUzQUE?oc=5",
@@ -4961,7 +4961,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSmtTSWhLdjhoQVBVaU9adU52WFl5Yl92X3FHOFJBZHVKUTZhZUlXLXZ5NkhvVDJwQTNYeUFEbllEQWhyeXJ4UlVSc0k1SWVzSi1hbHNUSk1ET3pQdnBhTmVta3I1aFVSOEtwbHVqVC1qanBKdDFkV0RHQTFvQklzNjVrcmRhQVRMaXVpTU1mYVJyRjg?oc=5",
@@ -4979,7 +4979,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWVlMFdBYVpLTXpTSFlQbVgyeUJuVC11WXFiS2JTRkw0QnNVNTBueUdKYTZpeHZ2ZlpmdXM5blJPWFJUVjJSVmZGMFlqSFdVZUZaYW5UNm9iODdCQUFCRDR6VTFwMWk5TW1VMFdqRFB2a1FCbDdsRFdMZHlXaG8tYVlxX1M?oc=5",
@@ -4997,7 +4997,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMkRDUEhPR3FCS1FrOGZySFpJZ0JpeExrRklWRXFPX00zSXRaT0MwV2VLTXI0NU1EYTZwTjBzTDUxSV9VWklQSTd0UlY3M3Rfd0cxZHFJTTRpU00zQnc4eFN1S2FrQThGQmlwY3hoWElPOVU3M3RrSWtBTDllNFB2QnZjZzNuUTFFdFBR?oc=5",
@@ -5015,7 +5015,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pSjJ3dEdRaGhDYkVvUi1NakFFWnRudlZCRV81REcxWnZId2JzM3F2OXF5aVRSeWpCV3VLaW1Sdmd3ZXM0X0Q3ajhRWnZQdGMySUpCS01nRTJVTHRlZ1BXQ21iU1NjOFdPcFlNeVFhT1BjakxaTlBYanJ3N1g?oc=5",
@@ -5033,7 +5033,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ1NSUm5ITHdJVTZlRGRwTUp6M18wQlBRMXNLaThYX1JhWFVKX3E3OTFuTERLNzFIZ1RpLUM3THI5ZV9YLXZ1NmtHRWtCd0hPMUp2MW1VR3FNOTNQMlZqQVM1UkRzaWlfdmhlMExSbWU2V3dtVl9mS2pCRlF2VTlPQTBhSHcxVTVGb0pzT1FiOVdhVm94M2VRR2lSWURXTmhCX0haZUFid3JWR2lmZ1UxcWkzQVRUUmx5NE01M1VmSHJ4WG1KWUZRUHJNYlBJQnF6TElTVklwcDNnZVpaSHJCNURZUHhqRG9LYUFwQkVtVl80RXVTZDBrSUhqVjU5dUdaNnfSAYcCQVVfeXFMTVg0ZUFtZlpqX2dEcVlYM3VzZmhPU2o2Y2JnTTUwcDRrOE9ycWxZVFdsZU10NXRiVTdKbm9ZMkM4NEd5bmZxSncwdHVMOWRVZDRhYVRSeWwxNF93eDZQN0ZhQWRid3lMRHJRTlNCcTN0YVFzTDlkN1JWMTJla1ZfYWtkTGlpZWNFbWVBb21sRkJPdmFPQ1dOMXVCSGZsaTdqdGZxbHBGSWF1NXNJR1lmV05aSVQtRXQ5RDdHY3dUcFF5ZU9jS19rZlBMVjZubld6VUZTWmFUbkxtY0wyeERLTkhndFBiRVNkNFdzcUc2c2ZoN2Yyb1F5enEzd0VkQ21QSFpvY1d6RkU?oc=5",
@@ -5051,7 +5051,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWnQwNkJqejFaWkkxNGFhamhjRTlTOV9vRUpGVDFrUFItNk9fTkxhRUVubFNnUWVXY0ROVXFNV285WU4xcUl1cEpzdE9fS1ZhSWtRNGZsMlNFUHpGS3hCUjc4Nl9ieWd1NXpKdTkzMjFxTW9GUXIySndFOG5VVllnRGQ4YW1Fb0Y1R2NJZEZLS3AySlF0X0VyZFNEU0xoMFZtR0F4Tk9pRjRzS3hPcmlwbjlOLUN5SGxNZWJSa3ZrenlIUWc3MnItTEdhMzFDc1FPY3lZNlp6M2Z4dEVRc2k1dndqallNRGNTM2s5MEdBcGxXck1ib0RqaXlIak5qbUx6ZTZJVA?oc=5",
@@ -5069,7 +5069,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3N283ak95dnVwQ0pFUGpsNUhJZ1NBRGpaaXdVV0hGeTM4bnhQd2I1MDM4cEI2X29rTjRCb2lhTGpEdE9QWnZBYTN0Wk5OQW81Wk9RREttWHlxcVgxRzc0d09GSm43bTlCYmdSaGtuUFJhMkZiTkRZ?oc=5",
@@ -5087,7 +5087,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVBNMnpEUkhpZ2diS1hsZ0VEX3JxYXVBTHJJdmQ3SUcwMzBJeUFOOXJmTmp1UEl4elJLYjZ3cVBXRVRqU25QNlFwV1YwQ2Fla1p0cE5Wc1JOTXFWMTFsTjZlaHZrZXh4MHdTbElvSTlERV9mN05UZm4xWk1BVEJ2eXQ1UGdGUGNzcmFvQWQwMGIzb2JPMWc?oc=5",
@@ -5105,7 +5105,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQLVVmNnhWWHhWLVAwNHg5SG93RGVIWm5sVjZjSTN4TjFVTm4xa2JkdE9veHlFS0xTZGpzU1hJd0lvY3Utdk9ad2hxTjJaS1FjME1UVFhFNjRpamJVWEhjM2dONkJ3Ny1kTWw5aDlXWmM5cVBRNV9LT3FyTG43U0ExVS0zdEdZaGdxZEhEOW9PS3FVVzdxNTMwR05hTUVyZHhlTU1zU0VPOTRVQ1lId3dOZmg3a3c3WkFqZVJ3VnlLRHdXVFUyQnRHdTZZUDJzaXVDYkZDVlZlU01hMjUxU1VaR1otRURxc3dUR1pfT2Q3eW82MURLc09IWldaVktXdXVOTmJWbg?oc=5",
@@ -5123,7 +5123,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSzVOLVl5QVBkaUhUMDB2RFB0SDJQQzV3ZFRjcmxkVzh6WjNKQnpJOWlKWW1jeWlSejAxeTktX1R0Vkh6V2l2WnhJYW9FVUdPLTFlc0ptdExVc2pxQ29aVms3MlVYcXhzQTd3NllOSHJ5clgwU2FmdHVhdEpsck1kbk9VYWw5MDhpOTRKU25nZzA3clVwenlTQTBldDZqcXEwazZPVFgxVGxXYmlRSE5VYXFZT0lsQTViajBCVzg0Nk81UTQxTkxEWDlXTUpxMHlaamgwQ3pCWWg4S0hzU3J4RjkwZ2xJU0F4UzhwZVg0alp4TXpqTlJUQk9DcDc2TWhZN25kQg?oc=5",
@@ -5141,7 +5141,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWNYVHB4d1BZVTdYTTBYdXZwTGpzYmZQQndqSEs3RU9xeE5MTUNTZ0lOcUFBdFVIWEMzam1vZm51MFZzRFlpWUpUTWJ3RjlIQ1BSRzlFWVpLTFdmZ2tRazhDRkRlY3IyQlcyRmtiaVk5Z3lGVmZfWVZfdmZmcXhfUHhxLVNRVm9MM0E?oc=5",
@@ -5159,7 +5159,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcDhPVEtiWXJXa1AxYThLS1dOQjdLQ1RYS3FBdmNpR2JwcWpsUlN0ZnFubWNWTFk0MDRycHR4RjRIZ1o4SV9sejlYbTVHckd2N2FxNFFHRnQzWDFhSFpXR2JOX010QUtkdlRueFhoQTdNVjFkWWFSVTFjdVAxdTdmZnpGclhQOTZSQi1PdlZKcUR2VmZTUGhuV1BlVE8wUDFjTTBMOElvVEQxSGdxYUlSeklQUmlRWElJZHVzRkVfQ1Z2eTluTnJjNm9YeV9iNGJwUjZ5M2k5cUJPSFFkTVQ2dFk1QndiY3htQTdrTC1KUXBRa29VZVdJZ19iWUZNbTVXVjNoSQ?oc=5",
@@ -5177,7 +5177,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUndfdkRldjZzYk82SUQyMlZXcVdpeEY4OUloWXNRM0FoeUZSeG11SkUyeXc1YU1sU21XTm55QmJWaDE5ZU42SlNiZ0VGaFR3ekZCMkZzZUpydUY2dlc3QzJnamtfckdTUUpob2loSlBIUmdQY1dOZEk3TGVKemV6MDFfVk5JTU11cmNuTTlQcENvUFlVZ0tCNFYyT3RMYUNMbG1TQQ?oc=5",
@@ -5195,7 +5195,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZajR2b1NqazZPbjExZHZ1M2ZSWXZkMFJNRlJsLTMxZUFWS3g0cW9SZV9RVDlzLXRPWG9TQ1VMamNhd0kxUDBiZW9UVXI3bHhmbjJrbEk3NUdxaEw2S3EydGJfdHdYeWd1dC1VY2xrdEoxcXZEcnhlMU1n?oc=5",
@@ -5213,7 +5213,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kbnRfa0sxMEZLaUhyRTdUVWpBa0NyUHUwR1E5dFJncjZQNnZOMG1wYkVqdEdnc01NNEZWWUdObEdEeUR5eHJ0RnM0NlFycUZLdTB2Q01fdmlPOU9WSHd0SG5YMkE2dXViWFFsbGxUVkJBWk5ZcFk1OXQ5Y2k0Zw?oc=5",
@@ -5231,7 +5231,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdUs1VHdocld5djd0NjVSOEhaSWk4blQtQmdiX29admRaUDVlWjNfR283Nk9CN2VXYzFvNXl5QXhGNUNUWTVVQmJyaFBfY1I5Qk9SQ3JpYzBxV3BNRWcwY2l5dlhXUG9CTW05VDF3THZzMkd1MjRPb2RmbGl3Zk1QVVV3Y3dBeXZfN2VYTUNZUDk1NDdJSC12cTJ6OVJ6TDhEZU92Ujc0M1JzcTZSUGt0dEJqV3lXWFo2N1dSbF90YnZSU2NQbnU0Z2hFclIyZkZ1dE9xRVBGa09oejY1TGRQVC13cEYwS1kxcjVzY1ZvbkRSU19yR2x0dzdWV2RLb2s?oc=5",
@@ -5249,7 +5249,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmFpbXhsRDI3aXg0YlhXRjljMV9ZSFdGTWR6dzFBVHZfU05meW0wN05VeGh2QjdDYXIzYk14eWRUd1ZtRlk5T3hEMjFma2pWLU5aMy1wNmlJdW9GNGJ1X3VibWhlRjQ4TnNqMUhid204aF9MbXlReGJTWTFPN09iZ3pxRnZzbFMz?oc=5",
@@ -5267,7 +5267,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONmlURFNqQ01KZkRhNkQzcEt4SGVQdTBfRU1DeFFxUFI4S1hlbkdvYTc5cDFXeWZTZjAwaUh2UTV2S0pLbW9tUkY2bTFRMVlqYVQ1aU5oUjFXT1Zidmo0OU00cTdDTDl1Ujc5X0lFSG95dGJRZ01HS1dpZ080OHRiLWN4d0xpaHVRaE91NndJUVZoMGlLd3RDaDFLRUlWck9ZdHZDelRtSW0zLURBUVhr?oc=5",
@@ -5285,7 +5285,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdDVzYzIyd1lfM2tpX0RqUDZiMGgwWjZ6UXU0VkswX3Y3bTk5RGM2ZmY4VGZBYlV2QmxfZ2l6RGtWZmxLMS1KSmZic2t1Qm94aHpsU3JMZHNsWm5QRDFzMnNGVTlLQXB0bVFjbHdyS3JkZGJYZEdMaDh3RG9aR1VmTVNLVXZhNGxpY1ZwSXFOMGNpOXBpMUpDd2VId3JPRWs5OW9OQ0RNMkxtZDZLLVNBY3dnVzhrSHZkUE1Z?oc=5",
@@ -5303,7 +5303,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLUZvOFg0SHhMdlRmemRGSmxGWGFZYkVEek1YUXF0aEdCckFQaDhtdkxWTzBqV185Q2NUMGtmYjlLMk5Id29XUlZmLV9jaDk1OEtRX3BXTWhEQk5ueHFiaFBYM2lhQklNU01qWHpVZUxHblB1TFZzZFlIVHo1bGNqTC1XU1lDa25VaXZqbWo0WWxtMHJLWXZBM0N6bnZqYVR2QkVUczVDQ2VER3lORVFaSFVZOEh4WXg3eUFZUXd5OVlCYkdQYWRoVXBxY29NMEtDd0Rac0ItR0o4RE0?oc=5",
@@ -5321,7 +5321,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3BCb2wxWGZ5TEhWNE5WbEpsd2o1SFFrc094SGF5eGhkb2R4TlMzc0dJZ3hGT2pKQ1RoQ1Izam9EMFRnMGZGYnd4cjNNeElJcDlqWEhZSkJieEEtZW5zenV0VkFYckRWajFDa0lCV1RhclRfOGdzRDlKbGRJdUFMaHlfQmFwSC1OU096R3cwMzhsNFRrTDRKN0FCRXZ3aUJoZTZGUw?oc=5",
@@ -5339,7 +5339,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGQ4OWgwakJ0ejFNUGFkbUVlV2NYM29nYkJGUlAzOXd0clNYUjQxaWVFUWlUSlFleGp4dzMtRTkyM1RkSlM3Z0RZRHFqZ1ZkZDQzRnZWQVdud1lfanNRc003c0YzX2w0NDNNTVJNaVdLa1dvLUxsNFRtSjQ0YUdRVVQ5RDhORkHSAYwBQVVfeXFMTzVkYktlX2xXYkxiN0VoZkhtQnpNYzh5ZnFVYlNsRnBPQTJlVnMxVVJtWjF1b1FiWFRhYm1vVS1MYUw4YWl4eUVVc1dHQlVUOXFHb0E3NjBzMy1Kcjc3RkN5OGhyS0Zfa2diazBQRlBwMXBfSGVCTHBhNzlLeEw4S2R4Tm1DV1d4SllUdUo?oc=5",
@@ -5357,7 +5357,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xc01ud0Q0NUk1WXpGRzM2WDE4ZWs2eFIyZmZZZDJxaXVLajdMcklXbEJIcXV6QXBob281VG9RNnN1ZWxsSnJZRHEwZmRHblBxbHdIMjA2aVROTENkcUU3dGp3am9PWGltZmtrZEN3?oc=5",
@@ -5375,7 +5375,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmtrU1VXMnlUcWZVcW1aMmthQWZsdXdCYWZaRVdGV0x0QW9JZXBXcXZMSERucHozRll6VWdHWERuOTJYMzNaZjl3VGpTcFR3dzNlOTFreUt4cG83emhuM3BtOUNmaF9VTTlxeWtnQVE1TFM3cEdVa3R2TnFtUUpWTWhBOF93d3Z6MlRkWXdZLVVoTW9neG5SRmJDQWx0cUnSAaQBQVVfeXFMUHBLNHRFLVdjdF9QWjItdXpTSFZIX3NyVzNGVmh6STlfZDFfYzkyNlZqbXJXdlcwUlJiUFQ4YzFJb05mS2JkaVRQZWR4bmxwUTV2S2JxclRCTm9JSGVDVGFqVngtbXU0aTFBOWpIaE5RYkM5QXNGakJaeVotcjhFSGRLNm5mVUhILVBXMExQeDJVNm5ocHVHMjFTbXV3RDBKQThFc2s?oc=5",
@@ -5393,7 +5393,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY2lHUU53UVMwa2JqUDJNMDlSMG1iaExob0lDdHJXN3JkVE43UVFTWENZZmw2VjdqcXhkY1ZKUVhMWl95czY1MkZzWGVVYUlyT2dIRjd0VTNjek8zbHZBRTBKbEVPT2E5YVgxTlloWUpSV0lOdFY1WThFLVpnZEZJTm1HdlhoUm1kOVFMaDBHeVFjM3RLM3VkaG5nbWlnbmU5MHR6c1RJSE80MGxxSlBPSnlYR2tFS2FGRzJ6Y2NiNGlWWFgwRkFhUF9TVlFobjIzZy1IQ0FDeWpaZzUyXzZoenJUWDFfdjc2U3BfMTdYQzVSZGpCUkNGRzdIcWNrNVY2Wldscg?oc=5",
@@ -5411,7 +5411,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQODVSdmRWQWljRDN4ZXNCZFlSSmtGdlo2MVkwNEZwX1QwVUZCMU9Fd0R1eDdIZDhMLW0yQjF3Q014Q0oyU1ozUVk1TWlhWXlhWFpxY0V3dEd6VlcxOXFvanNfOHo0Q1B0dVBudW1EWFFjRV9rOURWa2d0dUdMVlBBdUg2QnJ2MVEwaXJTb0ZlMjcyVkhGWGZNZ0Y5TzBqcmk3Y3JYckRkZW1pS25obVUzdEV4ZWo3bTdpdk9OX2ZmMDNHeVozWTZYV0FMRFdtUkYzWUlGVzdUbjdPeElxNjdPZm9MQktLYlBhY2VQX09VQWZvVExZcjh3TkRpWkdRX2tQTUZ4V29Mb0hLb1JMeWpHZ0pNalFGd1JXLVZnVGJNZUppX2JCR05CYW9DQm1YeXhBbERVMHB6dVRUTDdi0gHCAkFVX3lxTE9UYkRfN1kzanR2cnB1czh2Qjd5SmpXLWVqcHh0VGVmaS1razR6c3E2ZmFtbWVVN2RXX1ZEWGdQOGhrNlI3M2gxQ2E1b1F4TTJ1VGFldEd2SDBnWmxUZVVpSGVwdzVKbWxkWS1lanZDcmZiYmk0enVKczFjbnUxT2loVGNiaEoyT0ltc3M0WWhqR19scURtTmVLWjUyS3pkSHJlQjdSZ21vUnYzdjNob1Bvd19ndlZGSkRKcmVseWhMOFJEd2RORks3M3ZfYkFSYTZjMEpSUDRJNHhiSnpCMkZiSzI4VTByemNwbGdvSklKQlU1RFdNWnFJZ21jYTZWN3FYTUJKZzFQT3k2a0Z1SHB6cVN3UnF2eC1JYmM4OGlGQ3NCZzVpS2N3bmVBNFdOU0NvckgxMDJSZ1ZoNVlDMF9xa1E?oc=5",
@@ -5429,7 +5429,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUndfdkRldjZzYk82SUQyMlZXcVdpeEY4OUloWXNRM0FoeUZSeG11SkUyeXc1YU1sU21XTm55QmJWaDE5ZU42SlNiZ0VGaFR3ekZCMkZzZUpydUY2dlc3QzJnamtfckdTUUpob2loSlBIUmdQY1dOZEk3TGVKemV6MDFfVk5JTU11cmNuTTlQcENvUFlVZ0tCNFYyT3RMYUNMbG1TQdIBqgFBVV95cUxQaDlmQ1E4MmVIWkN0TnhYOHlOdjF4Y2p3RlVsM3ppcU51Vm5nZzJrejF4b3RyNDNRbGZwc1NZMWluUlp4eHNIalVOZGpjQ1NORi03NGdsaF9BZXJRNWN5eEp1dGVVY2M2YzE1MzBpRWhIQjFxN18xZzVndkx5bnMzeFFfYnNRc3ZfNjNBSVBTLUszcVZXcktFWWE3dHo2c2djV0JBaHlzb2xpZw?oc=5",
@@ -5447,7 +5447,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sb1ZDUXJBS3ZtQlRRWlVWZlFKWTBqajZjMUVKZGZYZFlycXF0MWVMNERlZ2I2cmJCMFRfWmZWSWtFNVVQcTl1Sk5kS1VTTl9KeTFlVHoySGt2M2VZS1FtTFY2NE04ZUZKNTBTMDd6bnc5aFdobXBv?oc=5",
@@ -5465,7 +5465,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUgxb2steXB2U3oyaWJILWo0Q1psaURTS01uS0duWHRGVXdsSjV3RFVMT3hjNXRDdlNSU2szd3VrUjVQSkVIQzJRTnFLSFBKRjlrT09DWDROMktrdW9uaE1IYV9JZDctSEx3NzBqZlBrekV1bjZBb2xON0Z5S3BxcWVtU2wxNnhiSlhkeWR3?oc=5",
@@ -5483,7 +5483,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSXlaTzh3d2w4MHBnWlA0LWVqaDZQSEc5YUQyaWVNZHFYNFZsMGYxY1BmZDUtZ2NaSkdPV2ZrQjA2NjlWaDI2ZWx4VXFkZ3h5Sm11d0UtZXpMRVJ2NVlvdGR0cmlPQVJDR1lfazVlTWdRVEg3VzlidEw2RGpCZXVUOHUyNkpPNERTeHMzVU15a1FDT2ZsdlNiUHFKRUJuZTNPUFhHeklNOVZ1VXcwS01GNmZUVlpDT2t1akN4ZExIeUI4MG9SbDJwNDlZTlUxVkZ5VFFoQnR5ZjVoSTg2ZzRnSHpGMFNLY0dTYjg2QjhDX21hOERwRm9EUGxkbXUtNjBxY1ROY3FsSV9DakJlQmVZSWE3S0JROU82aDV3N09GQy1QWkZheXhCb19GUk5lSEc0ODJZZ3AydklVODBZUHBz0gHEAkFVX3lxTFBjNDVZWEJEU3NkVXFWNnpudXB6d3hOWVlFZVE0dDlDRnBybWhBLVJ4Tll3NktzYUh1TkJ1R2Y0c3BxZnFyLXp0SVNNSmRrV3JMckR6MXNwSTNZWktfWDZxTEZUM1o2TmFMUmpFclVEa2FZamhreGZoVjA4VGg4dEJKNFB4bDBRZDlocktCdlJIYlE4TEw1dFZTNzVPRWs2QS1TS3A2Q3UxWXpCVnhwbDVtRUdvX0xScHpkU1Z0Uk1VeGEwc3g1UFFzYVpFSUcxLU9TMEplS3FpWEFWM0QwNE9MOVBkMVB6MC1laVhjekthT3pLUnZnNDJ5a0hOem5FRUNuWXpjMjN4WEJVdXJnZnc0NzlRSjd5dDRjQ1lyQ3hUQ1pQcHRBTmVLRDlQSEQyd2ExWlJjNGFTTXpUbjBmSkd0LVU5eQ?oc=5",
@@ -5501,7 +5501,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmUxLVp4cDZPNU90MnQwZEY3YWRJM2NIZDFzWVJ6eVVwaFFLTDlyaGVMUUpmRTlxX3VFbjRFelh3Y2RfSU9ESUlPTlBRNmtQMDY2RTdyNndBTGVYVXY3Nldqb09Ed3dJY2w1RVNpOF9wYTFOelNRNzA3TFRYaFY3WFJJWnVQR0RCaTZuOdIBkgFBVV95cUxNcWFfTWpSUVpGTVBXRnFzUV9yd1pKbUpsN2xza21lSVJoOVQ5QzhoQWg5aUNvLTBVdmhNSGRHbjliUExsajdZSDZuWlJlczVxYlpMODhTUkIwVk5MUTY5QVFJbV90TGw3a2s4M29sNy15cnNPNDRpZ0l2QmxkWGR0Y0l4TndlSTR4XzE5cDAwQjlsdw?oc=5",
@@ -5519,7 +5519,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUC0yQVBFbWctQkVXSzlKT3FUMVdHWGpINFVCUVp0bVlIQmJBMk9RU1BaenFwUnlQdFVUdDUySWxYdzRWajlabFlFdnllS1JMem1IU3FvTmlYM3JvZjhDQS1lOWRISzFrMTJTMm5pVXdvM2pNNVNIYWFERHk1bGlnbDI0WkY5WWdpNXhCY0tkRTJwZERxeGs1UWxkOVJqNi1ZSmdR?oc=5",
@@ -5537,7 +5537,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUDJMS29xaUgtRVdzWmJlT1VTSGNqYVRKX3lyd3JlUWdPTUZENThTX29hbndJdFVEQUtDNnlKSlRqdFhMT2tUenMyNlgwRTQ3ZkFpMThlY2M2eXVOcmdmN0kzT3dJdHB0UEFLOTVKRjk1TXBxQ3RlMUtEemlmOFBaSWZsbUE?oc=5",
@@ -5555,7 +5555,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wZ2paY1RLOTZXUm9hZ0REX3M3a0RXS0ZkZ1FfaVM3X2xUWlJ3by01Zk9YbGNTQ3BEMXlwNExNMU84NktwUndNcElqRUQyeTVMVEhGS0Foa3E4c0JoMnZwTGxGbGp6Zw?oc=5",
@@ -5573,7 +5573,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeXVLckNyQ3hRN3lLUU1GeV9MNzRRenRJdWJndzhtVGItS2YtMzQxeEk0dmlQLXBTWGhNRUtrMTBVbG1SNTRycG9pNV8tSFJoRUx3UGJsWVRBN29ZaHZod1JacFhwMUVRaDgxaFFWaVc1d2p0SXJUeVpUODJYd1lJUEJ5QnpPMG81MDRIeEI3NUZUNDA2bXFkSm95bU5WNS1iRW9qOHJOT3lXVWNRVmJnb0RkT20xSjd4TDBuWktFOE03Z0ZTa2x6bmQ3NDBDQTRQTXR3NlJ3RWRBNEpLc3dfcUFZZkd2ai0wRF9odnBGdlloTFBN?oc=5",
@@ -5591,7 +5591,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOElnWlRoVGZOSUI3WjJtanViUWVMdzZTYThrR0pwcjJXMEp4V3M1MnYxRWI4Z0doVUhOOUdIc0dYeXRiUHBKOG14WU9peGRacjJ2NUpfZXFucTNCMkVabTJ6aDRpcGZRM0tDRXVxczRPQWx5aVJlTFZNeV9FRnJ0UTFRZXFaNDJ1MHFQak1GelRoNXFJUV9pUHJzN1FJQ296SUZ3ZE5PS1RHZnoyeDFrMm9jX0RndFZ1b3VCMVptRE5MUnFJbzNJWkdKOGN3cDZvcnc?oc=5",
@@ -5609,7 +5609,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDdNcDRQSUxCbXRpM2ljYWh4Y2F0eW1FeWw2NEZ3SGpfRWlDVUxrV3U1NVdHMlpGa24wZTd0dFZaeU53VjExWk9yODVVSlBaVmxsSVI2NHJWeExIUGFQb1dZSFhVNjA0emZaXzB2VWgwbi11M044SmtQV2ZtemNha18tTXVVRnFJYXRpZFJOdTJqblMxbE83QmxEZlg2QQ?oc=5",
@@ -5627,7 +5627,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnBiSHhnT3JrWVJFNGFFclZEVnBBRGJidGt2OURvOFVSeUh4Ty0ydE41MFI3YXdzSy1Wb05ZVUc4aFprbWctcUZnbmNhNmVXbmd3TmlSTTlzMlBnMGVUaWdISDN3OWVYaWZlMjJPODByUWk3N0NYVUtQMmVOeHRjUGdlUS12ak9WUERSRHdFMXB5X0U?oc=5",
@@ -5645,7 +5645,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOU82OVQ1U0U3d3NVMXRHQ1NhRzhPVThxcmw1MFBJaXVvaWFwVm1VSXk2ZjQ1dVZlTm1Bby1kZDdjVzNxT1VtX3o1bG9JdEl3WTZxTGV1V2g4amZuZHFqaGp3b3ZobDQwc3JHdTk4bHBGbjZ5RXNudjJaYU56bG0yLUwyeDRSZ0NzMF9nV2RTZmszMEY1MmJPR3VKQ1NHUE1tTlE1aE1MQjlRdkd6bnA0?oc=5",
@@ -5663,7 +5663,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXVmZ1NNSmxYdjBZQlV6bmQtcFFMa2JCXzhUaEREZ2tObHdPaHI0bk01MWRnTDNsTzNKV0IxT2pxWU5tMy0tcE1kd2l5cGFLeW8zTlpDMmJPaTFjcWR2RTdDM1VrVEtNZHA1MEx4RzlQQW9YSE82TExtQV9fcFRUb1luM1g5Nml3SjFrU2RkVDJKOVBMN0Q1WWFtR200ME91RXlWcDFaaW9wV2lDV0tV?oc=5",
@@ -5681,7 +5681,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3ZVX18tSVcxSlVnY185Q3FpcHlBbTFUMXRwWXFUT1g5M3FXTUpuOHhDNkM0NFhkYUFqbW80Znd2RFVEdkVNdGV3YnFldkZrQUVmaWtrbmpTVTQ2bEgtZmd4bjNrZU80azdGNHZkOFlqOGE4bTdTR1FjbFNfaV9PZGtnSUlpUTNCenpCVW1vblAweHlLSHc?oc=5",
@@ -5699,7 +5699,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYU1JR1Y0VFlhNUluS0tTZHJadnljVEwzdVV5Q1dMcVEwMjNDUkFwdTlpRm54d3pRajBoYUJoZmxhckZVdWg1UmZaMm1GY2lwNHhWQ1Bja2k1ZXRXTmVnRE9fSVJJNDNZOGI0T2xmTWhwQzJGNXVDMG5pMjV6VFNYVWUxMTZaYi15ejhISHN1Q1lpQVFNMnBKeVlwbW1rOWxHUHFxVW1VNFJ3czllU1A3Z3RvOWpZZ094SFBvLUQwcW1iS0taWnZlbGhYa1dQUUlGaDE3bWpJVTM2eDBoMEF3X09iRQ?oc=5",
@@ -5717,7 +5717,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5b092akhTZXdUaUhoTllsRFlwcFZVSldweEpPc3pneWtBc2tDa3Rmd3RwMzFEU21qdHowbjVsMGIzX2o2emRtZmF1RXluOTVlT0dQTm90UjlRNHloQkhsUDNaWEQ0YTB2Ulo5Z01NZ2VFa1ZTZUE?oc=5",
@@ -5735,7 +5735,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qQm1FZ1lnaHM1UzBISW80UTQtUlVjVHp0S0l0YlE5U3JmblNOSERSVHpNY2dzTm5CaFpTdHBZbFlCSWZKZWNlWXJjb0JqWEhRNEdBZURIT0NiN09XUWxUNNIBXEFVX3lxTFBwbXlWRzVVeDNnV0RxcDNQUFVCLTlVM0EtM2RvNFdUVjJQU1JNTHZmaUx0WFR1X09HNEZTMHM1ZUhPRDJlYzR4UjVIaVZlMS1jRFFCRzg5T1p5T05W?oc=5",
@@ -5753,7 +5753,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUgxb2steXB2U3oyaWJILWo0Q1psaURTS01uS0duWHRGVXdsSjV3RFVMT3hjNXRDdlNSU2szd3VrUjVQSkVIQzJRTnFLSFBKRjlrT09DWDROMktrdW9uaE1IYV9JZDctSEx3NzBqZlBrekV1bjZBb2xON0Z5S3BxcWVtU2wxNnhiSlhkeWR30gGTAUFVX3lxTFBUVGptRG9qRXJ1ZUEtVWQ5Tmk0d1JFd2gxRWJlUUV5cGlvYTlDRlc0M1B2a3FvTms4RDFvOEVGYmQ5OS1hWGRvYXc0V0Y1WmRDaVF6R3BPbmF3YlBtM01ydFlhOVotQkZ0SVU0MDhsMExueks0MTRKRGNfVWdvcFZDa205Z2pWOG1MWVNON050N1lqTQ?oc=5",
@@ -5771,7 +5771,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjBEWFdKLUp2SGxLcEFSNnNmbjFuSkdDbXlWNmd4bmRQQ1NWNWpDMWRJQlhtSDBOZk5ucF9zQ2ZERFNzNERNZXNOa3hfVkRPRkczbl9oZDJBNk5tZWN1TFpXX3NUQlJXWmJlbURrZzNHaXQxRUhTQmVuanNWdTJFRS0tbzlXSldzY1pxeXptQ1V6TlJaVG9NV2ItWldSdw?oc=5",
@@ -5789,7 +5789,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkFNaWRiWlM0NWdvR1lFVE40WVlhN3B0TWtRUG9PTW1vVk9OVkhabnEwSjVCbzBnMUVNeC1YZUJLOV9DVy1sZzZPX0hZWVUyamNnSnkxUEo5MXllbEc5SGsyWW9LSDZQcWNKRzRJeUFNUG5LYlZta1BSdGhkbWxFQmNTbXloUQ?oc=5",
@@ -5807,7 +5807,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wTmVwTnctRkhMZVNBVDI5WXZZdWVZSDh5SVFTX2hETTJCdld2ZEhuSl9SZTlhYWdhdU1oNVdnd0pYRTY5djNReXVRaEZFNThaOGhnM3g2bEU4Y1dXR2xsTw?oc=5",
@@ -5825,7 +5825,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGlQRHNjbkNMampHRlJWOVkxUTlLdmlUMWZoZTJOa05TZFgtNWppRVpBYk5XT0xVdVRBbHFqSlE2NDRQdHBEcGVaZ2p2dnFrZFhjZThBYjV4SlZFekNkdERsWHhhck1HU0NHUjdRNTY3OTg3TExWNXd2cVd4aldaV2tOVWVGZW5BYzRJYTNkWHJlcklfc3FkTmpOOWl3S3MzZTlOSktEVkFUXzZiU21SUUdXZ3J1UDNZaHIxR3RHQnNzR2VfYTZxRVVaQQ?oc=5",
@@ -5843,7 +5843,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzNkdpNDdrZ0tsYW0yc2t1RkFXeElBem1qTzBRR2lqZU11YnBrdmptbXZWUnh0WDNkc3VXbEdiTVBabFZ4MGZxaHlTQUJLdlNrblljVTF0UGs4NFZBVDdzOURYa2xuUms?oc=5",
@@ -5861,7 +5861,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTd4cks3YzY2Sy1sa2p0Qk1pV1B2bXJvaWhxdHo3YnUzMkVKVExuT1VpS25EblA3bnRqVks3UldjQWJfTEJzaEpHT21WRERMQXdVU3p6TUJtRjNqbzJIbGh1b3BWcndpOFJvbXdFSHVhRmhZUlZOeEx6Tnp0Q1R4VjFWLXphd1h5cG8yUE90U3JabDZLbGNZ?oc=5",
@@ -5879,7 +5879,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pdnI1VjNXN0ZETWo4RzFYejFnTHVQclVsaW9maWNNWWVORXp3S1A0V3J3LUhodHhFYmVIZTN3OHlwUVNFRzJMTHY1TUpKSWZtZ01Bd1hKVkYwcmszMllkVXFYbkhyQ2wtSFdoak01SnR6bXoyYVE?oc=5",
@@ -5897,7 +5897,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM05LbVY0Q0xLa1FUM0RYcUtJU2JFeTFYcHFTX0hsMkZqcnlwWUE4YjFZM1lqd2xrdzB0WVlfNGZldUpYOXctdmU2VEMxTk5sR2cycDViV2VQaUtGalFUNmhRc3kxSHRtY0swUVZFMHdIci1uSTZiR3NxYzE0Vlh1MEZTdnNyX2pCXzBRdQ?oc=5",
@@ -5915,7 +5915,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkVJRG9GVWY3TTVxMFZXRE5nQUxoUy1mNlp0Mkg2T1d4dVF2Y2psWnNwXzBiWnNmSldUenJsT1dUNnJXNnEwd3F2Sy1icFRwVnEzMUtTYlRfRDZySHRMZVdNMG1XSFJmaXNZUGpPSXZpdWhLNWdtbWY1WGZkSU5hblJuTGJNY1VZQTMwYnlxdw?oc=5",
@@ -5933,7 +5933,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWxqVDA3TGExLXlBb0lucmFvM1E4czh3ejNxVFBTMGR5Mk1kZV9hYTBsSEhFR05tYlVCZHM4dUw1Ukp1TndLa3pRNGN6LUs4WVdmY0hMOXctcE9GTHVmUklQSE5oN21XWmtRZTdIQ3ZZbjM0V3dfSnVsX2I5b1RtdA?oc=5",
@@ -5951,7 +5951,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVV0S2oxa0haZEE4UEppdExSbnJyMlE5MEZla3dWVjRrX3JIUzdBOFVEcWlpSDkzT3dscC1rMW12U0pZbWdNU2FhSjFWN2xIbzdpQUYtWktGcTJ2c1NGc0l6d0xWWmFNTFZVby0xWER0WHAtOWhVbjJqNUlxeE1rTzVvejNCUWhXbXduQg?oc=5",
@@ -5969,7 +5969,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRGhOWTBmLTJMbFEzcXItRHJnU3o2WWhwdUZFak9WN1hfSHVWa2NsSms3MjFfZzRFWUM3R1dubmtBTGYwdHlEZDBXbWlkaDVRc01SaUc0aDdKWUl6cFk5OFRxNFNXZV9qRUZUNTkyaUl2VmhUdFNsLWJxYnJWSmwzbGpWVTRCUHlfWEstYXdtMUJ1bTE3TjluZXUwZENNaWVSRWNqWlhFbDFIb0pMTElKQXdMQXl4dXZ1WEF6a1FKX0k5RzhtOEI2MWRR?oc=5",
@@ -5987,7 +5987,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQekVLODJWd0F0T1YxTDhPWEI3ODJZZjZPdzNMbkxUeXBWWExrTHhwTFBMekJpTXdQaHRvODd2enNWbS1fTi1ES3Q0YlZlZldOYjB3QlVBVWdRbG93YWFDZE94a0pndXk1N0c5UTNja1pUdTJ6WFBLT05RdGx5UGlhMzNxWkFubzV1dkZ3MXhSNjAtZ0NxME5pbi1HSWxXeDRWVmR0S1lweWFPc1ZhaHFJR3hZdw?oc=5",
@@ -6005,7 +6005,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM25rWXBKX2traWptOXQtUjRQcUtmZkNrME8zR2RLS2V0djhxdU5kMVRmS2t2YmM2anhhVzcwS1F6cDJyTWZrYl9RRW01QjJ4SWJxQnVSRUpJNldVd1RaNnNDcE9LWnI3bUw3ZllIUmN0cG1FNUp0LUJvU0RnQUpESUs0NjN1Y1B5b2x2ZjlFTDM3ek5uaXZ6ZERqaXkybV82V2VkcjZwQ0VPaW5BalI2aURNTFZMdDN20gG-AUFVX3lxTE9RR0xuc3VtZFluTjJObG0zYWZEZDVZektxRzZoMGtjQzJIYWNqLVlULVUyNEZ1QUN5N0RucVdzYnBHZjM2UzY3WUFoNm9wa29xQmpnbFlfT3lOMm9DN0k2RlhCZ2NPdXJGNlhmTTNxakl4bXF3cEUwM005OGJpTkF3WXItb0xTeDUxRDdYYkw4emtpMXkxV3pRUlU0THRhcFM3bUZCWEF6Q0JncXl6bjR0Y3VOZEZSb1dOZzZoVkE?oc=5",
@@ -6023,7 +6023,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUFMa1VFSEdNWks1bFl3Zm5POFAyRmRKd1hhUUVTeWJXblJHSUJMYlUyMTZzanAyWWFibmhZMFdkS1pzbkdZVVNHczBrTVBLdWlwT3pFVi1VY3Uxbm01NGtPU1dvUUoweUZfc3dFZ2tjWjFqcDJhMlQwRzZ3bmhHMTdYUTkzZ1FKQmpjQjdmSG10RmlLalpDVVpEb2kxS3hhc0E?oc=5",
@@ -6041,7 +6041,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdHpoQ3BPeHN4VWtvUzBXYkZXWm05QVJ0XzJDVWNBUFdEdVlCX1c2UmdIbV9iQTZ1M0ZxWGx4dkdsT1phd25Za1JIaEJpNTJlNWhVdTFhV241bGZNZG84bGtHTUZSLU1JSVdJd1E5QWFmUTVWXzBNWHl5djdwMXpqenhzVQ?oc=5",
@@ -6059,7 +6059,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd25XR1h4akNnUTc4N1I4NXFFTVFjWmU2QzJROVpkbU5PRno0RXgzLTNNczZ5WlNpRU44cUxLZEpRdXIyOHg4R2JNOVFvRlczRk9ZUWV2X0ctNEl1bVNSSk9TS0NqSUpfTC1iaDBjVURka3pLQjc4eUZpT1FvbXExX1JnbTRMMGRQ?oc=5",
@@ -6077,7 +6077,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGQtQmswSzRGQ2trSDJaczZNZDFwb0Q0N0txOG9RSW05WDVMVkJwVGh2NGRyVHVJZHUxNXMtS3VJN2ZwY2QyT29lSVZTNG1yaEE1UEN5TFMzVzdFcExVcHkyRmpDOF9OSmktbDB0dlpEb3ZJV3hpZDRBSmpTMFVhYWpqUDRPY1UzTDBLbFdQTUV3bjBqdnJxYzl5dmNGNXAyR1c1Qi1HQks2S082NGFTamw5VmROWDRrc3NNaw?oc=5",
@@ -6095,7 +6095,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDFpR3N0bm1GU0JVTVlyMUFHNGNfTUtTQTR1Q1NrV0x5UUNSSTQyLWM0Q2dOS0Z0VmVZQVJ6dkZleVRkQkY4dDdla2NhZUVyMjhQVnd0UEFFcTBYaGx3Ti1jeS14dFJqWldrU2xXTW9aLWJNTmg3bHZhd0h4ZEUwWGZUSDl2ZlY5cFJ2ZTJ5OHNQU0pDLTI4YTQ2c2s1V3pIVTc4N2xCV2w4MGhyd3J0bkFNUzlGVTBmR3JRLXVCckrSAcYBQVVfeXFMT050Qmt3ckRsRDd6TWlVeHZSNTk2YVNXU3NVY2JUZ0Q1VkQtMUpQaXJMSHZYemhWNWU2QVh4a1VTSm8tMGp2ZF9EaDRZWVV0MS1PQlY5dlB1M0ZSOG9Ga3JJR2cwcGR6ckhDT1AxODY2TUR5M0Jqa0w5d0VPaFNaWnhGNkUtNUpTQkZJN2NrXzVER3d0M3gzTVFEbjdsc1BTYnFFU3FYb1VEWWp1WmxKOEs5bk1pdUtBXzI5cnI4Z1JKakM4RWp3?oc=5",
@@ -6113,7 +6113,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHU2VEc1WVp1dk54MTFlZGdhcFZ3SGdOQnlxakRIVG9XcF80QWdxd0xKcUdoQ0dKNkdsSzhOS2pOQlhMTWtsVVMwTjRkVXV0MG56YjdENDhMUzg5b3RQM1B1VE1XMnRHRU1MTUhkelBfNFZKVDlMNzh4bXd1d1BRWU5FT0FNU2swMjR1MUFRazhaeHQxcTNLR1dJb3NXN2RKRFBRdV9WQnFreWFkcXNXTA?oc=5",
@@ -6131,7 +6131,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWG1iSWoySDIwUGdFMV9hMGFHcEx4aTRfOFJBcXFCTURlOHNqd3VUMnJSWDhiS0ptSWVPaTRHakJmXzhFdGxPN3l1X0ZZXzZlVmF0NVRxRmlrc1R6c2Y2eEZXbGg3OXJQVGZWcjdZSGc3dUFueTM4Z1p4R2hsWDQ4M1FLV3lZS05nMWI2TUVwN1JuQ3FwYXUwSXhndmxJcHIzT2wzQ1JOMjFIM3d2NlFvc0NTdjc5VVhZTEJ6bEU1ZU9hTlhIVzZtbkdJRzA5WlVIa3hvaTZDU0hkcmpVa29CQXRQNDRaS3NBZFNkMlR4LWw5b3BFcHhzblREZUl1TURINmtCZVlR0gGLAkFVX3lxTE9ORDE4cXVfQnhqVGpXMW9EQlhjUFZOeF9OUkp0TXNKSEwxakZxSnlBS0dTRml1LU1hQVM4bW1ZVEsxanpIRHpYdTg4V1RnNDlXZTAza2c2X1lCbFUyUEtzYVpTUjRnUVJ3dVhya1ZBQzZpR1Y3NmtRak9jd1p1Q2hPaURnZ1JJSHFsSlNUWHJtZTFid2ZRZkRFckNROTZjVG1FdlV5TGcwYmpqaVFRbjc0ZnNIOFp6ZWVlbFNfQmJuSFBGQWhMcVNEdndULUtHaEljLVdlWXRyNm1zZEEwdDVqb2VBZ0MxcVBPTl8zZDNGQ0lRZDZtWnlrYVpobHR0THVTcWU5dllBanBSWQ?oc=5",
@@ -6149,7 +6149,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JQkY1dnZoTnZEemVGNGRSOU9NcGExQnpuczVaTWxBTy1NeG9CVlpob2ZmMFdraUpuS29XblhPQzFpT3RmR2tGbHlXUEEzUURrT3VlUzdVSHc2NXNUMWtUYnQydW9ZV0lacC1OX1Q2Q3ZOaFZad2txd2NJTQ?oc=5",
@@ -6167,7 +6167,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDVjQkRObXlMOVZDQ08zU2FyN0gtU2Q3Mm12TEphRTR5WE84d2NvM1VKSkJYcXF0bWZLOUVTajFqYWhUdkt0cTZwTkkxbGl6b0FYNzVKLTVCYUVTbHBTazRDeGxrWjBUWXk5dnRWWGowNU1hZ1hOZWpGc25PdjFZZVdYNmd5eHZJb053TFhmU0cwSGFnN1BRZm5EcGp1eUtJWVN3anVkQ3IybFloLVFkS0QyUm1Sa3NieVBqajFrZXVjZmM?oc=5",
@@ -6185,7 +6185,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5",
@@ -6203,7 +6203,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ096bFZCWjIyR196bFJXR1l2MlRfQ1JhdVEtQXhGVWpoYUtucUx2UlAzcld5elZWdTRDNk0wcGo5OW04MnNVT1lmcGp3Zl9wZklacTcwSnNhMnA5OTVMQk5JV09WZFVPeGpXZmQ1QW16ejhLTEVUbVRuSlNoSGdITEtidDVWU19mTVVET3V3QjA1UXJjLVp5RVpVY1dFbTUybzkxdE9VdXlDQQ?oc=5",
@@ -6221,7 +6221,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVdiMjg0ZERWdmZSUUhtYXNJa05pbExXeWxsNkFQQlctLUFkdWQwQnFJY19sYVZpanNsbk5XVXNkMEdITlk3d2NRNGx0T0xFUF9IUUI0c0xuZW5tX080emstMGNEN01MZlJtVEZ5RXRabnAybGtLaV9xNVpiZnFRTzZQblh6YURCUm9Odkp2cG5zZTBI0gGaAUFVX3lxTE5ZMHNSbkljekFvT295U01rVnRFZHNuVnFFejJycHN3YTd1ZGpKbGZUdHpQamozNFo5bzgxSE54bEtBbVN1aHhfcDZfSHZKdmI1VXpZOXFzb25CZ0dlTURiMXhoYmUxXzdyVmJKcnBITEo5dnZYWW1wMmpIQkVxNmRTdURJdE05aVExVThpV2c1MzFVZnFZb1BkNUE?oc=5",
@@ -6239,7 +6239,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSV9aeGFac0dxeU1PZDM4TmkwUS0yLW1USjc2S0lhMFJ2cHF2R3oyNy1qYWVTeTNLOWhZdW4tY3k4T3J2UVZvQThpU2E0NHA0MlJUdzVvQ3h2SG93blNBTzNOTkFoZmFFb3FiZlI0MUhycjlwU1B1blhhR3AyUHNzNWdYSlJOWWxNVTZvM1hnUS0wemlmTHFXNDhkS1lhWWxHUmFrR2VsR1VPME1rckotWXlmRlRoaXF3S0lGbnVTSmVmNURuYlZsbmZ3RGVCa19sbXJvREZQd2JRR1JNa1EzakxQQUFrLXFtVmxobjcyM2FMaXFiLWVES2JZQ0ZuR2J2Qk1VTTJB0gGLAkFVX3lxTE0wNFVldENZWGFBbDJGVzZpSDlxcjNzbnIwVUZnWmFxQ080V2oycTAxZ3M5ZXlpdzVINGg0aEg4Q2VFYW8tQnNyLUVJTEFIbnJrZU1lN2pvSXo4WVZHUHl4MFN3Nl9SN3BMTkF2RF85U1VIQ3ZXQnZ6REw4Tk1PNXZOWEdBN1V1Q3ZidUcyZmd5TGk1TFh0TElPc2RpUGNpQzZ3N1dKUEpoT1lMOGZiWWE3R3g5SF9xTzBZalNQY0tobGVTZWhzS3pZdlNkX2tvR0V3NHNvb29ZeGdLVkFpVHlNb3ZDYTNfaW1QQW9rbGNJbGVHNXZvYkdUb2pqMFdDVVFqS0s5djFtTm94VQ?oc=5",
@@ -6257,7 +6257,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGxzY1BBQVNINWpjTUJTRnBQNU90d0VFOEpQbkxSdDdGZjVUWVEtaWpMZTlRVHZRVGtZUVU3QlBiVFRvbVh5WTZOQjloNVJ0Z2l4RWM5MG1NZm5xblZnZkJwM2t2akRWeVZfR0JhMlduNmRpbHNsN2IzeXRtY2N0QkNhMm1QRldzOTVrQjVJVnJOVUhPZFhZYnhCcnJ4Z3hxQ1VLTzhIbTdXTDM1bTlZaGRFbEp4TUh2aGdLMzFnV1piQQ?oc=5",
@@ -6275,7 +6275,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnNkTlhxdTZNU216OUpXMzhkdDRHdlpvU1ViQ0FWc1BCUjVwTklXT3hsUFdDMTg0bk9tWHBQWmpnQ3VlZ0lVWWw2bjV2YTUzZTFSVjlKcFdvLW9NUUVnb3hMY0lnLWpLY3RsUHhXNW01OTY1bExMbXh5RUFfUkM5Q3g2aUJUSURvUjJpcjhQRmFTUEtVX0xSSWhR?oc=5",
@@ -6293,7 +6293,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMl9paDMybzZVTTBvcXFwQTE1OTZTaWpNVnQxOFpfQ0RRNXR4clRONGlSQU1EZHRPdWZwMl91VFBkcV85dzg3RFlNZDMwa3hEaEd4dVpCbEY0WEdzeHhBcVZuampZa01URHRXU3d0Q0NKM0tCbEZlb005MVhBNFZpSVN6d1lhZHdHS1ZlNFlWc01fdzVaUnY0eFdoWmpkbFFRMjhTOTdsZURJY0xBRmlkOGRBYUcyZ9IBuwFBVV95cUxOOFhPUVdmSnJKQVZRSGc0bHdDaFRrczFTNTNlU05scHpmcXlrX2p0S1gxMnk0aVVhOUprakRYNGJIRU5VU3VkYjlQM0JVZ2RXU0lpeE8wZUVOeHhvY3BRanEydWl1NFlmcW5rSm1JdElUejVkeTlYTXBhd1FvNmQyLW9xcldJU1I2c2ZVNjZXSW5uTkJ5RHIwTkc5bHBGQVlwUU0tQnpISnJaVnYyUm1acWZhdWF3VjI4eS1n?oc=5",
@@ -6311,7 +6311,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbE9TWXJXWXdYQUU5Y0FwUXllM25qR3RfMzQ3TDM3UnFKbEJ6OUJDdlQ3TERrOUtUVDk0ZERaXzFna0pHbTJwbURBUk5VVWFSbHMwczJMMm1jVklzWnZIckZFQldILW1CVHdpd2xjSEVTYy1iTWNKZ3Y1QXVVMDZyZG5ndjNpSUczaDB5X1N4MTJzWnR0by1lbTV3Q29EWVpDbHc?oc=5",
@@ -6329,7 +6329,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Cd2xsRFB2dGFOUXJjanp3TXhfV2FMYUNhSXQ4VkZwUXRLcl9XUDJncC1BcUtZM3d3ckw2VVlJeUEzMTJFeUpUdVh3a2RWem5YeWdSd1dYdE8yQlVhZVVUcDg1YWgyNXl0LXhJY3RfbDA5NUJNdFA0bGRfb3NzYUU?oc=5",
@@ -6347,7 +6347,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGVIOHpQMmdmYkxmckJEMHZqdFYtcWxQNlpIVHI2MkFaaEVvTXhiMzZhSnQydkFib0F6ODR0QWtWUjg4alFSVEhaQU93cGZYdkdjcG5mMjlLRnprYTAtTDNlX1pPd1g5TVA0YVRKOWJzQlU5a3V4eVlYMGgzWmUxWWtSMnM1MzNmNmhfRTVnYm12YWh3Yl9vNEZoWWRkNHBy?oc=5",
@@ -6365,7 +6365,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWVpzb24yRFRBLUQ1QVZZcXVQQ2NuRURSZXlkWVVzM1prU05Zc2RHb3RrMWJrV0xlUUYtRWZlRUR3NlVUTkM5TFhManhhdVB5LWdnOXVXcWhiOVdDQjk0Q3BvXzFJS25PMFNrakpwbGJPYkpmcWxtQXJFWmhyMmhYRzI5NA?oc=5",
@@ -6383,7 +6383,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWW5TVmtTMUFsWGswZFdJcFZxZG5hNUpuQzNMTmU5VnJLM2pSb0lkUk1leWVJWS1ha3BPdzQ1aU40RDM3bHdvUXk5Y2FmSE9VUHlkdENoMmpNdGtKanF4aWd0bXVoTzJJY1JLMXRBaG1FMjl5blhsNm1vc2k2dkNxREhJQzNPeHZWSEhrd0FJa2Zwa190SGtJek4zbmtIR2NYUTE3VENJLVVYUDNQdjRZ?oc=5",
@@ -6401,7 +6401,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTzBsT0plSFk4OFNyV2dUcnYyS0xBeFBkMTV2Mlc3TU5LVnJ1Q0FBOERsQUFIVG9uaWdHamViTDRfMEZmQnhwR2tiSS1fWldJdW9wbzZYbko4UjNCVXREdHBkSW5HQ0ItTEFoUXc5OHh3Y0dSZWpxUnhzZWQxZHJza2toQTRjTFpQWnp5aTAyZnUwemFDWWFOMVNCWWNqdFkxLUF6Ty1BcUh5UVFRaFhaQ3BOX0piQkpVanQtMUd1RThqMklHaWxaUWliMVluV2NUME43MGZuM1RRdjd6UUJEZllIQ0xtQVVvbHc?oc=5",
@@ -6419,7 +6419,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlFBVHFBTExWTjFWQ1ZOVG45T3ZLcGgxcEJfam1Gb09NNHE4bUlvclk2Qkd1TjdEeFFQMkZqYU9uNnAwak00Y0JtbXk5TEVFS1N3Ny1Hd1I1emh2eVJHMjAtRDRjUml1Y1lLd3hva2JpVTgzcE9UZDkzMDFOLW5vQy1nSEtIaFB6SjNDZmFTOWF2RFRaLWFwZk14a0RPMDVxVDM3U2xNSzgwWWIwXzJqZDVheDJyTXJx?oc=5",
@@ -6437,7 +6437,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY0NnYlFFS0pOMmpUb0doYlRiT0NmYnVuYkZJOTZPZEVuSXhkSnVfdlMxMDFRYWpzT3hwNzZ3SVg0ajM0RXVoVmN1WVY1MjIta0w0TXM5eTk4N0s2WUI4empvRnJ2UEVScWdr?oc=5",
@@ -6455,7 +6455,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     }
   ],
   "Queens & NYC local": [
@@ -6475,7 +6475,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.6sqft.com/even-amid-nycs-housing-crisis-new-affordable-units-sit-vacant-for-over-14-months/",
@@ -6493,7 +6493,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/10/affordable-housing-crisis-vacant-units-delay/",
@@ -6511,7 +6511,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/11/mamdani-100-days-faqnyc-live-podcast/",
@@ -6529,7 +6529,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/five-alarm-fire-college-point/",
@@ -6547,7 +6547,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.amny.com/new-york/queens-fire-lumberyard-04112026/",
@@ -6565,7 +6565,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/suspect-fatal-shooting-archie-spigner-park-jamaica/",
@@ -6583,7 +6583,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/sunnyside-senior-dead-apartment-laceration-neck/",
@@ -6601,7 +6601,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/cm-wong-annual-helmet-giveaway-juniper-valley-park/",
@@ -6619,7 +6619,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.amny.com/news/service-changes-coming-to-g-train/",
@@ -6637,7 +6637,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.amny.com/politics/mamdani-probation-commissioner-lawsuit/",
@@ -6655,7 +6655,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/sen-addabbo-pet-food-drive/",
@@ -6673,7 +6673,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/housing-lottery-146-units-sunnyside-rent-545/",
@@ -6691,7 +6691,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/ariola-brooks-powers-station-repairs/",
@@ -6709,7 +6709,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/meng-labor-union-endorsements-2026-election/",
@@ -6727,7 +6727,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/local-artists-named-2026-queens-arts-fund-grantees/",
@@ -6745,7 +6745,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/hillcrest-library-childrens-room-rozic/",
@@ -6763,7 +6763,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/art-installation-plastic-pollution/",
@@ -6781,7 +6781,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/schulman-queens-girl-scout-six-years-cookie-seller/",
@@ -6799,7 +6799,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/09/green-cab-boro-taxi-drivers-hail-uber-lyft/",
@@ -6817,7 +6817,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://nyc.streetsblog.org/2026/04/10/delivery-protection-amazon-service-partners",
@@ -6835,7 +6835,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/09/ice-lawsuit-new-york-racial-profiling/",
@@ -6853,7 +6853,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/sen-addabbo-java-with-joe-forest-hills/",
@@ -6871,7 +6871,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/maspeth-man-charged-murder-arson-flushing-fire/",
@@ -6889,7 +6889,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.amny.com/news/mamdanis-first-100-days-transportation/",
@@ -6907,7 +6907,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/bike-safety-giveaways/",
@@ -6925,7 +6925,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.amny.com/politics/mamdani-100-days-04082026/",
@@ -6943,7 +6943,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/court-square-market-outdoor-market-lic/",
@@ -6961,7 +6961,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/amazon-employee-robbed-gunpoint-rosedale/",
@@ -6979,7 +6979,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/elmhurst-man-hit-and-run-astoria/",
@@ -6997,7 +6997,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/forest-hills-stadium-lawsuit-settled/",
@@ -7015,7 +7015,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/09/zohran-mamdani-100-days-rent-affordability-child-care/",
@@ -7033,7 +7033,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/cord-meyer-5th-year-sponsor-friends-crocheron/",
@@ -7051,7 +7051,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSjUtbkNUd3BjbEN0UmZEMTdYd1l1SGJMY1R2UG9jV2x2OVBab3BEWnJYUGw1WXVvanFZTlJfRk9iX203Q1JxZGh1ZjBKY1NZWGZZbjFaaHFVSVNoUUVNOVhBTzQ4MGlLcllJNEIzMy1qQ19wTmFldVV0MlBsVHRzRXBTWFdJWWFZbTllMS13T2dia0JqTDlKaQ?oc=5",
@@ -7069,7 +7069,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/astoria-spring-retail-crawl-returns-2/",
@@ -7087,7 +7087,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/am-rajkumar-universal-basic-stock-bill-economy/",
@@ -7105,7 +7105,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/sunnyside-yard-information-session/",
@@ -7123,7 +7123,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/decomposing-human-remains-brooklyn-queens-expressway-jackson-heights/",
@@ -7141,7 +7141,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/nhl-grant-variety-clubhouse/",
@@ -7159,7 +7159,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVZiZGZxRkRFYzZWM01pZV96QWZLdTRKV29nY1VDdjF0VDRCVmdYRVhxVFV4MnNXdXdlZ3lfMnU2UEx4VkpBOTh2SXR6anFIamhta21idFhYVnhnZE05TFhPX1Qwcnd4TGwzYXp6QzZSRU9xUFc4VVZpSEtBS3lDa05mX1BjQURKVGczNlBqNzFhczBT?oc=5",
@@ -7177,7 +7177,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/millionaire-tax-mamdani-nyc/",
@@ -7195,7 +7195,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://nyc.streetsblog.org/2026/04/08/dot-launches-delivery-worker-training-and-puts-apps-on-notice",
@@ -7213,7 +7213,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/08/rikers-island-311-gale-brewer-law/",
@@ -7231,7 +7231,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbE9PRlBQWDFQcTJva3NDZDc1QkNpY2dzTXVqdzhQRHRYdlZ2YkpkMWpJcGk1MldwTWFfVTB6dHNEWTNBOUhtc3cxU0RQbE5YZHZldnZfXzA1cGNrUzRqUjdBOW14UWlMTS0xcnR6cXp0SWJSdDQxZ04tTHE0Nmx2enNUOA?oc=5",
@@ -7249,7 +7249,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHd3TTJiNjhJY2VHcHNXaWpJVWdxMzl6WW1ReXhvTGdzVFFHMFg5UHRNb2RuWml1RzZ3VFphb3Utbm5JcFJaME1uQTFnX0lDYzJUSmJGMFpOVUtWWHFfWVZqWXdRWTVqNW5UamlhX1dZS3dDV2daQjNyMWt0OG1oUkhJT3lLSUUzOGJHVUlJUlhYNi1KR2RBV3NjUVMtc19Z0gGmAUFVX3lxTE5OUTQ0NC1Rd2E1UXJ2dGFMb3VqVzlXQURiOENicXVPSFEtNDdSckZWazlObzFna0REdGU1ZEJ0ZmNQaVVvN2NIT29KbUZEUktfNExOSUJBckE5aDJEbzhLQXdya3lQdzduSld1VV9SV25KY1BGQm5XVThFOTN1N3NqMVJlekN1cDJneWtvNUtRZkVnRDhuVTVMVDltX0taZ1JhdEpjWlE?oc=5",
@@ -7267,7 +7267,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/renew-queens-wellspring-easter-egg-hunt-festival/",
@@ -7285,7 +7285,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://nyc.streetsblog.org/2026/04/08/hochul-insurance-uber-playbook",
@@ -7303,7 +7303,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/07/rebecca-jones-gastons-nyc-childrens-services-mamdani/",
@@ -7321,7 +7321,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/07/deliverista-bike-hub-city-hall-schumer-mamdani/",
@@ -7339,7 +7339,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/hevesi-criminal-complaint-opponent-rinaldi/",
@@ -7357,7 +7357,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.amny.com/news/schumer-mamdani-city-hall-deliverista-hub-delivery-workers/",
@@ -7375,7 +7375,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/latest-openings-western-queens/",
@@ -7393,7 +7393,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/judge-recusal-metropolitan-park-casino-lawsuit/",
@@ -7411,7 +7411,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/sen-addabbo-prescription-drugs-middle-village/",
@@ -7429,7 +7429,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/queens-distance-runners-cultural-run-filipino/",
@@ -7447,7 +7447,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/father-bystander-murdered-kew-gardens-funeral/",
@@ -7465,7 +7465,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/teen-slashed-a-train-broad-channel/",
@@ -7483,7 +7483,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://nyc.streetsblog.org/2026/04/07/report-safety-protections-have-not-kept-up-with-e-commerce-boom-and-last-mile-is-making-it-worse",
@@ -7501,7 +7501,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://nyc.streetsblog.org/2026/04/07/exclusive-mamdani-creates-curb-management-office-at-dot-seeking-long-sought-order-from-chaos",
@@ -7519,7 +7519,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/queens-families-barnyard-egg-hunt-farm/",
@@ -7537,7 +7537,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/ride-share-services-fail-disabled-riders/",
@@ -7555,7 +7555,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/06/frank-carone-petrosyants-insurance-fraud-eric-adams/",
@@ -7573,7 +7573,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/06/mamdani-mandate-tax-rich-faqnyc-podcast/",
@@ -7591,7 +7591,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/06/nadia-shihata-mamdani-investigations-city-council-hearing/",
@@ -7609,7 +7609,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/06/rikers-island-bellevue-infirmary-nic-240-million/",
@@ -7627,7 +7627,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/am-rajkumar-housing-financial-ridgewood/",
@@ -7645,7 +7645,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/2026-queens-tech-innovation-challenge-finalists/",
@@ -7663,7 +7663,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/cm-wong-bess-permits-review/",
@@ -7681,7 +7681,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/japanese-food-festival-returns-astoria/",
@@ -7699,7 +7699,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.thecity.nyc/2026/04/06/waymo-driverless-cars-testing-roads-autonomous-vehicle/",
@@ -7717,7 +7717,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://politicsny.com/2026/04/03/inside-government-with-politicsny-a-qa-with-council-member-linda-lee/",
@@ -7735,7 +7735,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://nyc.streetsblog.org/2026/04/02/breaking-hit-and-run-driver-kills-woman-on-deadly-ocean-avenue",
@@ -7753,7 +7753,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://qns.com/2026/04/historical-significance-welcome-to-woodhaven-sign/",
@@ -8277,7 +8277,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sir2tt/nini_coco_boosting_endangered_lesbian_bar_in/",
@@ -8295,7 +8295,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1shxj7g/super_graphic_ultra_modern_girl_was_nini_cocos/",
@@ -8313,7 +8313,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1shsmh2/suzie_toot_announces_solo_tour_suzie_with_a_z/",
@@ -8331,7 +8331,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sheanb/if_youre_planning_on_seeing_alyssas_new_tour_save/",
@@ -8349,7 +8349,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sgubqy/watch_the_first_8_minutes_of_this_weeks/",
@@ -8367,7 +8367,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sgxo4k/if_youre_wondering_where_to_see_bosco_this_summer/",
@@ -8385,7 +8385,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sgnge4/poll_results_season_18_episode_14_choose_your/",
@@ -8403,7 +8403,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sgr27j/the_new_movie_by_javi_calvo_and_javi_ambrossi/",
@@ -8421,7 +8421,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sfztfb/jane_dont_made_drag_race_history_then_she_let_her/",
@@ -8439,7 +8439,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZLNGlIamdNVFIzMXpaS0wtLXliZmtTRDg0VWpVaDJjRWdMYi0ycTh2OEpDWElmR0I2aW9XdmRxZjNpdXJtX1dLOFRhZFFQYjBQSkRpVVBURWVWaG9NcVl4S2dGNDAzNkREZnp1MFNlTjA4bUVCeF9LN1h3azhtMWZBV2RoejROTkZGdl9kbFlkUUNJbHYtam1R?oc=5",
@@ -8457,7 +8457,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sffch1/trixie_and_katya_discussing_the_musical_that_aura/",
@@ -8475,7 +8475,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sf830t/lydia_b_kollins_gives_birth_on_stage_at/",
@@ -8493,7 +8493,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1seup8g/kandy_muse_doing_ramadan_ads_in_the_middle_east/",
@@ -8511,7 +8511,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sev7rd/xunamis_brother_has_passed_away_after_a_battle/",
@@ -8529,7 +8529,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sewnpg/jewels_sparkles_is_finally_going_to_vegas/",
@@ -8547,7 +8547,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sercai/production_on_s18_this_past_month/",
@@ -8565,7 +8565,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sds5gx/the_term_brick_used_by_lucian_massacare_is/",
@@ -8583,7 +8583,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sczr61/whoever_wins_the_season_will_be_a_firsttimer/",
@@ -8601,7 +8601,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1scqa9t/boscos_grindhaus_tv_trailer/",
@@ -9233,7 +9233,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRmZxTFdpdlpPYzY5YU1jVUpPcUxrSE1JUmNxSmt1dFlNQXd1Y0lYYk9saHVZa3k3UWVXM0c4dUExcHVBaTgtXzZ3ajNHUTFRMkZTOUF2a0NmbWRNbFc5bnJ1QlNzUklBU3F4Ymd2cmZQU3FQRDAwZktBTE5vQWN5bXFDMGVyYTllY1Y2RWM1bkZhQ0Y3eTBjY1hXQmgxWFk3cUJsckNaZVdvMlgxa05PZ0dhQkt1T3Z5NzJhck1KTGJDdTBudTBtSWhn0gHXAUFVX3lxTFBwaDRQVFBfQXc0a3pMWDBnTnpvcnNWU1NFVHVZRC1YVjltNXRrUTh3ZWpoOEo0ZG41R2w5cnRPcXhXdnF6OUl3LUNRQjNiLTF4ZUpmTTFxeXp1Y1Q4dmRrQXpnMzFZSVlRQ1NTWUF5YXZMY29HX1ZRek5CRUp0ZGJmeHJuWEhDOFctRmlWSzNtLXhQWW90dklTMjhndVlvWENyQm84YjJHZEpRODdyR0h0MGc5d0ZRVE1oZUtadXh6YkxlXzF0Uktjem5PTDhnU0lDMENMUndj?oc=5",
@@ -9251,7 +9251,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOFVPVFc0bzZRNVJ0RUF3NEpxRWZiaU1leF81cGF3NWZhNjJDSVphRWRWUkVfQmtuQlh3eVo5UGtIMTlRa3NjZ3lxZFJCY0RvZzhhVHpwWDNvZ3lTeC1hM1hzQk9tNFlROEZtUjA1dmlLSEVQazRfWVUzR3JLeFFJMVZrR0pHcVQwQ1pnZHNuR3lsMnI4WVd2UXBFWUZtYml1MWpTSkNwN1hLX3E0M0M5bVNVcnJ1QUV2ZmR2YmZjZXRxQ1k?oc=5",
@@ -9269,7 +9269,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDJQM0lkWnhTX3ZSbXB2bmdOUEpNSHdHTjdmNlFGZVN5VXZjb0tMMFdwdXczMENMVlVXVk5hRlozdnVlcTlwU0FPaktEWFVxV19UTkUwTDlFZDA2THhhb2J0RDFRT2JCLUhvMEdydVBmZ2lNV1cyMmxnd0xFSWpWTndWODA4QkZQR2phVDZzb0ZsWTg?oc=5",
@@ -9287,7 +9287,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ2taM2ZPZTQzZEI4Umh5bXc4UnZyTWpDbHZRMTZNQWQ1OUlIUENoMGxIbHZTZ0dLTmwyRXlVM2p2N3JISXpPc1lReWUyZmMycmpsN29pM2JGcDdvVE91RnZaZUc0RzJuLU10M19vOFdqcjJfclNUeWE4U0dsVkxMR2ZlZFh1TFpWU0QtM3cxelB4VngwN3FJMFBKSWNta2RoVXJia2ZCb0JfZDBFUFEzcTBoVGhoTU1lWHFQT2FBMThkYWFDd240LUxnYXVuZ0ViUV9jUGhILXkwQUNEQm5SNXZCQl84Tnh1aWc?oc=5",
@@ -9305,7 +9305,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONXh6TENPWkcxOVE4aU1qNk1ZLW5Pb1lEdFlwb1dhSGJLeFBCVXVGTFBQaTlGWVY3ZW1ycmRqYzN5UkwtZ1pnbHBWTmxhLVIwWEVxYS1Hd1hYY2JwbUdiQjFldU1VcjZ6M0E4czRUMUlBbXU5S3FxMGdZa0I1X0JoaEs3c2JGTGtYRzlPcXNWUmNpUlNaQUFCZC1WeVdBUmdk?oc=5",
@@ -9323,7 +9323,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/australia-news/2026/apr/11/ndis-job-workers-whistleblower-protections-ntwnfb",
@@ -9341,7 +9341,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/us-news/2026/apr/10/california-coffee-shops-pride-flags-philz",
@@ -9359,7 +9359,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule",
@@ -9377,7 +9377,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS2JOV1ZpSkhleEduUWZ3bjBTQ1BZNGdscnJqMF9CRU5NOGxhV3dhZ1JxNGZrMnRCTExtTEdkaXFzMFYzWjdTd1I2YnI0MWtHdEZ3VnRTTXdSYWJlTXprYXVHMzR5ZnF3NGx4QzlHQ3AxeUhWZ2ZkRXRFWEE0cHlnWlJ1MHFwbml4TTNSZi05cVBKQQ?oc=5",
@@ -9395,7 +9395,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1kzdFJFSXRoLTZQXzFidC1seHd0aUVQVEFacE9xemQ1VWxZdG5ZSGdTR3pwWXZiNzRZMllGT3RpSXZhNjBZYVM0VmoyVzgxbDYzVzIwcHgyUm1jbndQMTZKMFY2eFNReFhKWElVaVpUZjlPMFNCaDJEcUt0OGM3Q1F4WTdIX2hHazQ5Q3RRWHZ6cFJ4V05NTEprZFBuX2VBRkI1Q3E5V1BMcmpKdWc4cHl0dTNrd3J1?oc=5",
@@ -9413,7 +9413,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0xhQ0RzQUx3dTJCOXd2NUNrS0lUVWNyX2x2OVBKWndNbWdCb2dLcmVqendVNzhPUlgydi1tazd1bzUwZzByb0JvUHZxVHVYdFRMbmNXVUFGamI0bHhjVWRReWhVdXhlVlVQdDhxOXNCWnRJTHAzOTF2a2gwTG4tMkZ5SXBQS0xMYU80LVVJbEN2dVdxVVE?oc=5",
@@ -9431,7 +9431,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMGFIekM1cWhCRWVscUhlX3NwemZhMklqMkVJYmp0REJOZVVaTjJRbEJjQXZPTHUxN1NKTlB4Q2pTR214MjFISEVvTjc5NlQwM0FyQUlncC1hMFRHNjY2UWs4YWhCUmhycDFJWS0yS3JsaGp4eHhMQjdvMlpNYzM4bXdhekxYaDBOaV9ETDNUMzB0Z0tYVVM0QkpzU3h5bDMxQkowVnBpd3dCVExXRWpOTFRfXzduZTRHbEdmSDlLUnJ4bVd4R20zTVNXaFlPY0J3QUtFM3E2NDNESlZCYmE3Qy1lRnRJclJMT2fSAe8BQVVfeXFMT25qN2dIeXBVQTlRbU14Y2NKYlA1d1lkck9CSlktMWluM2FIYXpUczR3LVpOcjBLdGxYNmUzNG0xZmxfUnhVWEh3QkNVNWotejlmdmJNcGw0dW4yVTdRMHFlWldiMlFyUHNYZlUtbE1LS0lvM3k0cHVza1NNMTlsWV94T1N0M0pyMURhNXg2TWZQMXB2YW1sVWEwb1owdEk3YkdzTGN6WUZFOHQtRDJiMlhQRUFpbFZrcHVRVzJ2VVNWbjdyU1ZCNy1pY3NHWDJpZjZQZHpiRTRJbzJ5bjZ1dEE4V21iS2xlNWttc3FLdHc?oc=5",
@@ -9449,7 +9449,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/sport/2026/apr/09/noa-lynn-van-leuven-banned-from-women-only-darts-events-by-pdc-transgender-ruling",
@@ -9467,7 +9467,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdXcwd3lGOVh2c25Eek11bTBqdjhhcGE1YzhueUpHUUlQcDRwaEZCOExpQUZjSlEtV1NQamU4S3h0b0J3MEVkdkw1dWdOTHFRT0lYZHFKd29kRkloUTd2d2s4RFBkajZUWHlJUlQ1UlRVVEpaelVPbDFuRFUtZXI2UlZ2Mkt4cExPNzFpbGoxejVYdFB0aGtmZUkwWk5BUFNobzRIZG9UWkxIYkp5NDVVUVB6d0MzeWJsT29rcHR0R3k2ZDlGTi15czJWa0F4V21xakpoVEtB0gHjAUFVX3lxTE1FWmNvTXVYVFgwbnRmamJqdDdLMmh6Q1FwSzNLUU9CQmVBY1UxcWQ4OEdybWVDVFAxT2NwbXB6dklvMDhCeUk1c3A5bVR6WVpnaGQ0V1RvYmJBbDRvLVNDQ1laeEsxX2Exb3VoS29uVU50V081Y2RXbzVja3Q3ZnRTWmFqQzFKblNDNm5Hek5PRE9SWnhYS09wVTFXb1NtOG5OaDV5bkZBaUZNcGtPb01pSjBrcGMxRGFMbVhpd0U4QWFHU3lxbGhVcjBPY3ZQOHUyTFV5RnBqMFMwTHRiVkZqOE9F?oc=5",
@@ -9485,7 +9485,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRHRCdG5oQUFCdG5PM0gyTmVQNzgxVC1Uekp1Y2xRT3JaTWVOTTVQekYwMDd1aW1paGRjSjVyMzRqdlRxeE14SHVRaExlS2RpUmxWMjllbENPQi1MMkRub2tmVnptbG54aDctOTIxX1lqU2tDLWZfSjNwQnpqYlpodGtlS2JXR29zZUlyanREY1hmWkwyZVl0X3RNMEVlOGprUzZXRXFrMkx5dlhCeUZzMTd0VGhRM3Zsek40Z2o4UkhPU1J4SVBjaDJ5YWhINUtaemVMRFNPbnVMeFNNU3hsSE9CTFhIWjVhR1JQaWNwN3NNd3E0TUFZ?oc=5",
@@ -9503,7 +9503,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN282Ums0UFZkWGxxQXJfVi01aGx4VkhBd3BiOHpyRkcxOVBuZHhNeWZ2ZWJhLWZxSWVsQmcxY0xDRDc5S3hDWmRXU0x5VFh3Nmc0VUFwY3JDc1FmUWJxaTBXdS13VWt2YURjLS05ZVRKNVRlQnRSSE9hWkx3ajVZaW9wVXhITmlZVlFscjR6Z1ZQb2dLYUtFX19JRlJDVDU3cnFKeWRFcVdXaE00bDFCSjktWXNIZGE5MXJCZ0llYkVpZnlBWDQ0M3F2SFo1eEZLNW5DMFdHRG5hZWY1?oc=5",
@@ -9521,7 +9521,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDhkdlZ4S0JlaWpXX18tYjJzb3FKVU91bzlybDhJeDRhejBVdmpTS05ZcXl0VThESHlmOGRVbWd1RHltRURvWDlfQXpDcHBwMk5ldHdxd3hnTjAwcHl3UlFhR0g0ZGVfX0ZPYVJqclNlNXRDODB5WUduRlJYMWdPWQ?oc=5",
@@ -9539,7 +9539,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNczNVNDhTVGNaanRObGpOU2JzdlVnTjRfTnc3d2ZIckJELXdTYkJTZmZvQ0ZKZXlLQ0xVeWlkZjVCLTNDZTdmeWdOZ2RSMjZ1ZXVjdmtnNDRvZGlVSUk4Rl9UMmlJRjBNaDlwOHdJSzF3MmNYRGhKRVBmSFlrM0YxN3dPWXh1Slhvdm9Ja1VqcnFKLVo5TUEtNmJtMGlZWG1qY1lPcjc0LU9qZTA?oc=5",
@@ -9557,7 +9557,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY1Z1bS0zWXB2ZDZUVWVYQTRPRGstY2lDZExzX0tlUkd5aXNFbXVnSlpmMDVJQThuVExoX2lVMjNCM2lveHhlZlg2WEJ0ZmRESi1HN3VPS3lRY0RmeXF2S2xJbG5zNXJmY2Qtdkl6RkdOUEE2QmVOM05hZ19WekJYYnAzVHhUSDNxWVFsQXJ2NTVHM2l6enAzdm9DT3NqY2tZSTZPN3VQN295dHRTY0RMRUFiekxOWUNrdjFzMXJXdWRHZy0tRHVkT2I3Mm5RamlhV2c?oc=5",
@@ -9575,7 +9575,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuWTVZcllLMXhaOC13X2pGelBnbEl0UV82SWFKbmtVOGdpU1NPd3NRUENnbVlSNFRRcWpXZ1ZkV2U1TjZCVXhrQ090NG12a2NaMWJpTzBxT2w0dE1GdFpVZ2E1clpYbWdEa09vcWExb1dYTlRYTkJZdXRVTQ?oc=5",
@@ -9593,7 +9593,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPenVKMFpZaFdaOVNvVDJyTHozcThycTRaczBRbVNibXVSMW1pVFd3eF9KUWlEZDNFNWRGTWNTWUJpZ0x0VnFtRDlKdzJDdVZnbTliQTh0OEgwVmV3V0RXOTdkZnZRenB3Mm01dzJMUWlMYkp5MXlrSFEyR1g3OFZLTndaRkxEN2tBOXp6MWlRYVJDaWlKYVBuN1c1YlItd19vT3FnS2lDOWhXczZwUFFlWjdueEZjb3FOYWdPV3JpQmZDNE50Z193WnlWeHZEQW9YQXZ6RE11VW9qTEpIa0FtVHFVY21TdG1mbXlqWFJkU3ZNMWxtZGlhV1lSc0JvTjlyajdaSTF2R1AwUQ?oc=5",
@@ -9611,7 +9611,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13eTU5WVhGc19QTUkzX2JYX1BaZ1AxT0dMWW9MNEhMMXVMci1Wd1MydXEwd1kzanltNUNuX3Q4NEJNek9fLVFmSXdIZDVrNkNqdU1wLWIxd3dQMmlzYUg0VGJJdUdIVHJhZ0ctRF90M0w2c2ZrV1l6T1pMVQ?oc=5",
@@ -9629,7 +9629,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY3lycDl3T2xkNlhzbFpVaG8ySVBWc2lHaEw0TldtSk9ZWDJLeDFZWjhSSGNVTnFTNTVvU0hPamJJcklRX05UTnZYN1RDSnI4WUR2TkZRcVN0a2VtdDdGSHpiM2lzWDNVcWg5RGlKbE41NTRRZW5Gd1VUYzN0LXR1dEgxUzN0dUNaZE52VlJXdkFjTVZXZkpCU0pSem5BMFh5cm91N3FENGd4c2JUVFc0S1lhUjdmOTZsaERDbXEtdlRZTVdSMnhHdkFUS1hSWmgzVW1GZWd4dDZmQXZ40gHiAUFVX3lxTE1NaGlPNE1IbjB1Rndtd1ltZXVhdzNzUzllcmRxdUV0NzlIcE4xYm1YSVJveVB3VmlPZXp1aUVnclhqRklDQlh4MkZtYnJ5WmJUcGRqSUFOLWJNMjFzX3FJS1FwV3QyalpwRVJhYXVmQ0trV3FRZXViX3RxMDVtRTJ4NHVsTFJUeFR2N3lLM1d5QmdNei1ydEV0aDFWUHptTDZ4WG5OQ0l1NGg5R0ljNkVVNGQ5TnkxWlc4Y0tBam02dHhZVjE3bjktMU9XVGZZN05NLURMV0NjVVhjQVdCaC0wblE?oc=5",
@@ -9647,7 +9647,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMy1CMGhzUGFXaloxdU9kRkV0dTk1MFJSdjZDd1BIM0tkaDRfcEgtSXNDeHZpVk56NGM1anJlMUZLYWdOZTlUWnBRSEhsSFJ0c21RU1QxOUlXVWppRG5uOUZ3ZDQwWV9KRGZfT1RIc0E5RXlLSjFwVlpiZnozN2hJMmxsRnhDdTlCb1VoNkJXY3lzWkdPTGl6SWpfb3R6NWZxZGhFWGVTVDRET0ZRUjhwdDhoVkxEdDF5RUY5eFpB0gHDAUFVX3lxTE0zQUdJTWM0MUxFeEFURUYtcFVBVU4zNXVuZGlRZGx0a0psNHAtRnpHU3lpUS1HVEdSVkkzSG5xalBXMjdOMzdGYzNHQURHLURLZE9zSGlUM2I4QVVnZGZTQXVIdEd2LTdhRUhTM1JyR0J2dXp6Vk1RYS10c21zbEhBODJJa0tpRUtHWTUyNWlERktiOWNVcmZCT0RYMEFUeTRXaG1VTktBSUxJQm9GUy1nVWVNTE52ekxjQmRLNHlseW9tQQ?oc=5",
@@ -9665,7 +9665,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWRkZW43Rjl3YmhxN2gzdl93NDZvVFJQLWRMTHg5RUd0U0J6QzFzc3gwUkxYMjhUQmRiVmZsTmJtZXVUci1uRml6YnF4MzA0VTUzUTZWdmFkWUpQS1lwME1Ub0ItUGZ1YU02dU9XaHIyY1F6Rll0aHFoRXN4NktIcWZCVjNvdks4ZlEzbjlJSlduRGloUjdmWUlLWGZWcmVocnIyd21ONUlhRGtxWjZUZkVMWQ?oc=5",
@@ -9683,7 +9683,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/news/2026/apr/08/the-long-wave-anti-lgbtq-laws-africa-homosexuality-discrimination",
@@ -9701,7 +9701,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUE5KTHZ0NVI1NndxelNDZzZtX0xqNnZwSk1xVHpVd1dWT2J3eXRRanZfeVJTSVFWdGk5VWdlTVA2cXBKUE0zMThUNlFfV2ZibXJNU2lSbTM2dnZPTEI0bkp5cXQzNnFMMlg5UWVZQVBCQWxzT09naXlsTnA3X2RkYWNyQ3JUSXdQMTFaRWQtNElseFJnWS1ROXVNNGN2am1IQTQ4cjBlLVFtMzlkcEdCVVg5M2N6NzgxVDg2REZLd2U2amxyVXdlWQ?oc=5",
@@ -9719,7 +9719,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeW9kLTc4T3pXZEQyT3JLQzdENHJ4all4bF9aM3pXQkhYWTZ5cjZIV2RKMWtXRlZ6WXhPUnBMMVRBNTAxRjFIcXM4Mk9ja2hHazFfTmtxWXRJS3p3YUhLSjVTMkRfczFZb2RvSDBmZHVYczl5cXFaT0ZvWVV6RW4zQUZ6MzlCbXd0d0RjbEhIOHkxNUhYZk5vT1NrN1ZlZjZLUHVKd3E0QjM4bGx5NFJoanIwLTBUSDlrTXdYWThsSnc1Y3FCYlAwcTRlQm5EY1pUVmt1eGVISGlEa1hNa0QtZlMyMk1uQUpyVXR6OE1jRWXSAf4BQVVfeXFMTm9LLWhIbW9aTUJsb2dJSzJ1Wjk1aUlGNHZSSW5QdmZfVFpKWFFFU3d1YUoyc2ZmLXFtZC1yeDNyQzIzREVxQUdfRkdIUlRVZnBsa1NhcVFXbWM1WnN0RXEwbXV6Z0o0dHMwaGFLc0taMXlJU3FFNV84WUVub3RUYzZLaS1weHFzMWhMX1o4R1YzcHZtM3A2cVlTVUpJSFA0WnhiNlpwYTFaQjlUSm91ZmxUbmVjT2F5VUtnR2ZYak13RkNuZUIwUGczc2doZmFXTW1hQlB4S1R0S2prMFRtbDRxaHdOUnB5dF83d252dGYySGx3LXdqSnN0QmxuRUE?oc=5",
@@ -9737,7 +9737,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0NhRDExWTEyWWhnVnUzYnZaRmNzYnM2b2V0Q3ZYX210S1FwSXNPRV9ld0RnbWpTd3NkTXg5Q3JjdDFGTjRIU3JEcHRxaXZxNVdwd0R5aTFVV2oxSXNkU1lGLWxXWkdnN3hVa0tuMGlIQlRaVDhKZ3lmYlM2OWJ2N1RFaG9qX0ZndzhMTDdrYkNwdkZ6dGVjaWV5eXgtWFFZWm4yNUhNa3lDOG1VbllUdHl6bzVnTUVxdDliTkVsLXpTc2hFYUhn?oc=5",
@@ -9755,7 +9755,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0R6TFdmY2FtbnZPOF9rN0s1SzQxeU4wYVdRWUZ0blpMVjNHTDRNVDlKSzFQMS02NC1tWDBiM3U1SldjUEJ3ZXo4Wl8xVEoxVXNYdTd3N1Fuc3lXckxZcm5nTHhHS3ZUdS1MLXh5VUZQbzNxbGhfZlQyOW1Hblh0amZGRWtOMERMMm1sdnRjOW5WSVlXb0N3OFZ6WmhDTGc?oc=5",
@@ -9773,7 +9773,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORkFKRnc1TkNSUEtXQmM3Q1Z3dkYySURiZlRsQXRhMy1iN2I4bjNGQmhLUV9WRmxoLVJQRldsdGZkbW0xeTF1c0I1OEU2OC1hTHdlUzNVTlRJVTd0VXloeTZBYTFPSVNDSVFrbWY1YU5YMDFGSTY1ZmtOWnQ3bU1nYTdva3ZRbEJ4OE4xU3FTU1RHRnE0QjBfblktS2pTQ0NReVpwWlU5TWV2VTZWTXplR0JYM2tpUmFzZ3VoMlBGRjdxT2poQm14RFBrVXZBb3gzQXlDUUF6UDJreFpRQmRTTnJsNjBYbk9oV2hSblZNazAyZFhaRDRaZXRJVldjSUR0R3Q4X2V1S0wwUC1MYWtwMW5iY2lGQQ?oc=5",
@@ -9791,7 +9791,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE1LVUg0Nk9oVkhWTWh3RmQ3dk0yQ0JfUWQ1Rk9FYWdmX2FWOHBGSkZhNnJEd3hEekhLcWNMZ3c1eFBRYXlxOFN0TzdCOWE2LUIxdDJVR1Y5VC1QTDJyZ2l4N3kyOFhYeW1iR0U0RjdwU3FEdGxLeDh1REoyTHZNM1AtdS1aMm04UHVQQ3UwUHdGaUlxeUczTXMyWVBJbUJDREdzVmdxOERBaFFyd2tZem9tQmowVHhEVmk5Nnc0Yw?oc=5",
@@ -9809,7 +9809,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54Zko2TklBeGllUmNtSUdnZTZjbU9GWnF5dXlZZVJtR2s5SGxBS0JBLVBLN1RKMjE0cGt3bEd2ZGNOb3R2SmRNc2F0SVJRbmNzam1iNmVpU2JsWWtBSFRscU9pM3NuaTVUaTZTSWROY3RZT1kwMTN3d0xHejJfdw?oc=5",
@@ -9827,7 +9827,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjJTMzRramx5Rm9sc3VQZ2themhpZlNDMWxrdWpqRmpPN1hZbkNrYXBGUWt4Z2ZRR3B5MU90R2VWT0pKOGRwTkstbFZCYUY3VFZZNUZEUGN3X3k0dmhPdzhQcEVnTlZZWDFab1BieElKWDY0T1hMSTNlX2dFMVNyVXc4cWRQekNvUS04Z1p3?oc=5",
@@ -9845,7 +9845,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/global-development/2026/apr/07/senegal-harsh-anti-gay-law-hiv-progress",
@@ -9863,7 +9863,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/australia-news/2026/apr/07/abc-drops-lgbtq-diversity-inclusion-sponsorship-ntwnfb",
@@ -9881,7 +9881,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3bkhQSkE4ODVILUhNMk13TUdDZkRlWVhOVFZkQ09aWUpiVWZPelJQUUI0cUVETE9GX1BBcnIyVnRTR2pvUXR4NFZVUmlrNXVrNTFpUElYT1BiRy1G?oc=5",
@@ -9899,7 +9899,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1Q4TWhQUDNMX24xaDZ0SmlJQ2pRUHcyNVJOM2l2eDFya3J2dUg0SFYzdFc5TnExRTVrNGtkbUZNMl9EUGZGaG5nLVZ6aVVLWnY5RUkzNEtRSWhCQWtEUGgxSTJMb0M0MUtIV1VnRzJ3TTcyMzFKSkF6UFZDOGlvR2MtMElMajlXcGhaZ0tjSnRyTk0za19va01JYUJna1pDbmtpSXhFQWtKNGM?oc=5",
@@ -9917,7 +9917,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iODR3dEJvYUV6c0F2RjB4TXFWWGhXaU9RakpjaDQzcjUtczZJbXZTVTYzRzd5WXF4MVMzRVhrckl3ZHpXb2tpdFJKeGwtMEc5NlZmTDVpNlBfZw?oc=5",
@@ -9935,7 +9935,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55ZDVHUWFROEl6RTU3T1dZOThESVppUTMtSHdzdlVkUHRzWUJoazgwTUNzNjlneklhU29SdDRBbnJEaXVPZmhMLUNfczMtRlp1eXV3QTg3ejRNOVFoRDZKYlpCak00d3lCaGZDSTYzZzcycjQ?oc=5",
@@ -9953,7 +9953,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVEZGRDRRNUY4N2NVTTRiMGthZ2s2SVp0SHI1OGFZdGZNd01kbHNjYXFSQTRjblo0WU5TTjdkRjM5LTI3RnVjRzNKYWM5ZWhYTldZWG4zY0djSV9MTEZ4cmZUa2t3emtVMVdIaXJHWjFSeU5wcVVMOEZDN05kVlB0Y19pV0lVWGtPR3BHSmtCazl4VnhaWUVIbTN4NE5HT28zcnBHb1RzMXladmhoR09XTm5hN0J4a2pmaWdHbXRDZmlWXy1PNV9ZV2xmLWx1V1QzYnR6bA?oc=5",
@@ -9971,7 +9971,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOEVWNnpIUFNvYm9wZnpmUUFXbTZKYmd6V1FVVmFfWVg5b1ZaakIyOGFUNmFsajJqb01hVTBCOFlseWRDVUpENHZ0dk9xQjJhb21UYWw2b2tGUHFxTmd1aFRnVGlrcjlsZU1JaEM3ckQxUjVad292YkhRSHlFQnNxc0lrR3JkYkNsMkhTSkhzLU1SNlJZRUFQSkZFenRTVnprM3ZlOC1YLUdNU2NyREs4QS1kcnY4dS1mLThVNHFpbWY0VWc0UGN1UnZPZU5WdWpo?oc=5",
@@ -9989,7 +9989,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSk9XMXZmQ0xDWU5lRkJlUVdqRkJtbjZpVzJqb2VrYWlEaFJuaFJ4NjRFMTNUQy15Vmk4LS1YR3RQXzRMNFRHV0pya1RXSHhtNXNzRUhLbmtnZzFYTnVMOUowdmhicEtOWEU1VHZNbkgzaUZsNDUtRWMyakQ1NUVCaS0zaTM5ZXVRQmNCaTdEbFZ6NHpCM2dGR3NQeVZYLTA?oc=5",
@@ -10007,7 +10007,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWnlHYmtzZGdfajk2Zlg4Szc2VkQ3Tkc4MjhMcFlIb2dNQXNhYXBQYjdxazVNZnh3ZWtrVzRFSEF0LS0xbXBrdkw0RlNnWHVtdk83UnA1S3BMYlVNWnhhQVdVVWJrbE9OMER1ZFpJSGFPSVpqZERFVGdIeFVmYmx1bGdFcW42NVYzNUE?oc=5",
@@ -10025,7 +10025,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3BlWXA2ajNuLUNUS0F6d2FHRWtiWURGWHRUNGRYcTZVSDd0NHhpMm51SFZnZ05yamRxVEo5d2ZOeFRRdTdfUk1rMU1McDdrdWhPdzA3S1RlOWpSSE1INV9uQ0xQSWJRaURQSDhWRTVVbDRFWlVLVV9ubEdsUl9OWUd2ZnR4X3BlTzEtczZXeFJSY0hZWHBsMnp3UnFqdw?oc=5",
@@ -10043,7 +10043,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTXhGRnlYaHZnaUtTdi1BSmFfWUpTaFN3VmdjVl92SGZFdW9xd1lNajdMcXZjX1R3bElFTVdZWGpiRVdJaVFaeXJ6Y2d1NjRQcnZsS2JHYmRHcThSVDhCdGc3Q292N29hSWVPS2FNUHA1SV8yak1tbmlmem9PbzRyeDVTd0kyZkhCRnJ6dUpDUUhfMnlLUE92M2RBQ3YxMWFfdkdUc29xaV9hOTZHNlVjUG9UZmJfdDhBaHBIRUtlUldCWHhpWmY1dk130gHPAUFVX3lxTE9JNmstLXY3NDQxQXY1LW9wc0dhdjRsenJHYmNlekplUjZkWnlKUnJLX3lRVFkyRUxOS2dHV2UwV01yNWFaQUNHTkVUd3Z4enVvNlVFRFh4bDNjSHp4ZVpHbXRWZXA5dWp0LTFqQlpFNF8wYnctYXhmZ3NLWkxIT2xFczB6NWQ3OWJvdFVTajB4MVU3c0JFdmV5b1BzVG5BVXRpaThOY04yMkVURFBrUDdnenNlSG1hcl9jUnA4OGd6TWx2VGZycEdKLTZCMWpKcw?oc=5",
@@ -10061,7 +10061,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-administration-ends-civil-rights-settlements-trans-students",
@@ -10079,7 +10079,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/society/2026/apr/06/families-girlguiding-ban-trans-girls",
@@ -10097,7 +10097,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjR5R2VRbUNTZVhTMkZpMFJqbDRRaURrTFlXMXV2Vi0wa1BCLURpSFpuSURsUzE2UHJvcUhfenBRazgyMjhCMV9tSllXMDQ0WVpuSTdKTWtLTVZvZXJLbWVhdmotM2M4WHZvWUItMFlmSTNlRGZWaDRLSk10dlh0OVZ6SEFBa0FBRzNSazBIbmhpc1kxRGJYbEpSbF9IV0FURzdPOUVwbkxvZk1CQlZrLWw0LWYyY0tVejd1elg2Sk50Y1dEU2c?oc=5",
@@ -10115,7 +10115,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQb3NFV0cwR2FVWkZnbHNWdEFvdHl5bU5yaUZKVVRETW9WSkpKMWY1YkU4Y2xVdWhiOHJ6R0pENVM3X2F3b0J1QzZGb1kyOVE2TlRjaXlWcVBWekdlS1FWV3dvdlFGMHRHZWNmRjZ2OXI2ZC1qOU5MdHYyNU51dVh5T2lXTlprNjNKWkt3bXBhTU9FQnBNM2dHdXc0NUxnUmV4bWNWd21pMmJXNjlDTnhWUVEzWE9TaHpRN1FESXp4STloUFJOTXBqcVRkTU1vSUhGV3B1MDF0ckViNC1pbktWbnIzdUhNWnZ2WWtRLUp5REUzMUR2WXY0blFuS1FwbjFSa09HQVN5ODZ5Q2ZydmJua3R4VlFmTnZzV25JUklxSkFldEnSAagCQVVfeXFMUFFFUTFtQ3VaVjg4eVowQTdTeU5rOHZfOU05dVJfZWI5ZHBIWG1VQl92SjZNMUtfRHRlbkhCN1kzdXZSdklBQTJDQy1CdXVXR1MtbUZPN2ZhbmVGbTBfMzJ4R09jSjFEblZQZUd5MHlLS3NXNmpTM0dSeFlNbjFkN3U2SmFBenZLX0xfbHVPR3g2UGxWWWV1T1pIbUE1RG1UMEFCRkhQSnZlVjZGby1CalRZTXNBOUdCdzNIOFBrYjRUYV9JenpJWmZxS1FHUmhNTWRMc3ZNWjhHNS04UDJPRkVtTFNKeTU4TGVwcFZRaktJRUtKcXRJZUo4Y3VXN1dxSWNjX0Z1cnM1M0Q4bmZ0ejFLYlJNc0hOakdCVGZXeWNMRDhPWEE5YUk?oc=5",
@@ -10133,7 +10133,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbTBZVUNRVlNIeHpfYUExb2VJQWNaaEI4R3IzbW5CYmszVUNYZFdYekNXX0ljRWdTdnpDVE45dWpCN2U0SjhKOC02eVFSTWUyU09kZVNHR3k0S0lkNF9ZZm95LU9vanpWUTNkRjcwRDV5ZjlEUGRyNHZOZlpLZk1KQlhVMzlKcF8tUjZYblhyaVpBSVgzZGNvLXRWTkFTSVEyS0RyeGFhWkN3QVYy?oc=5",
@@ -10151,7 +10151,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FVDNFLWEtMzNDYmRmbElkdE9iT3JLaXJnRzhYNjFlZmZwcW5lOEFXLUVTSEkzVUlmMkRiSC1peUVULWdZQ1BQTjIyanNJZ3lIU0J2eTN2dmd4c1dGV2wzUTF2RVRkVV9hR3paN1ZnUFpEM1k3NkhFUW5B?oc=5",
@@ -10169,7 +10169,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTV9ycEtoQ1l5TzQweU5tNU1IYUdydTVOTmFVZ3BpVlBMSGhwVVFkS2tjTUFsQzNVaUptNm03VXpWWHNlSkhpazRJQU1waVR2akZvR1pyMlFncWN0SFN6V3Q3Z28zMUttUk5wVzdrLVBnNWlQTTZsanZQcnVnOFA2WjNBNXE1T3RKWGFLdENaNmw5bzBHRVc0eEZxTE1jaWI1aXRfWVg1MjFBdEc2NUo4WDF5bXhRVlhNTmp0T3hR0gHDAUFVX3lxTE5QQ21jblE5a0pGNC1ocmVYQVRkWmhkSnJ1RWtIQUhQdFpDYWNiU0VMX193bklzeVphU0J6TFVWSTR0a2FSTTVSX1FkVGdYWnVsTVhMY2xBN3RxWml2bXlwRjV2c3Jwelp6ZXNvZHp3WU9mTHdXd0h4TlBHb0lWWk52QkpUNGxkTGl5VDE5LXlIWEo1Q1JYdTM1WmZjYUs2S1BMcnp2SGlLWUVHVkZ2bnJNendiRTZSckNjMDhpa0dRWVc5NA?oc=5",
@@ -10187,7 +10187,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUxTR2paNWVPZm14RUIwMC1fX2VfWkZyNEdFQkp6VU1mTmpVMnpJd2d5bzNnN1JEVWMyNkIyajdiZkFhYUZ5VlYya3dNSXJJT2VJdGdtWXYyZ1UzQ0FyMk11b0R2Um5ORUtGMVA5SEpJemU2Sk0zRmlKV3ozX1hFV1RYMVZDRjNfVktkWkxEZUVfSDB1cm1EbXZMc3QwVzdVNUVmajA0dno?oc=5",
@@ -10205,7 +10205,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQnRENklkVE1DWnI5UlVHS1JWZ0dBZnFpTzRfR0JjMWtSdkV4QkQtZ3lGZ2FvU3BqdElQRUJnalplYUxYbk1jMGZ3Wk1nSmlpUEQxVVYxUjAxXzJKYnJ4THFUdG5FbDZRS2hkRHFqY01XX0F1TEhQT0dweThKOWNSeEROMWNVWHd5SE12NFhqM3F4YlVjRTF3aGRKQnQ1Vl8zOW5aUjVMMXluZVBLZjZhaG96cVJjY0M4bC00UFhCRVNxZHRKR1E4T0NhSjVUMG9aZTZRcjNDRUhwR01yYk5aMzVOLXRpaVVTaDRhRTBtOGpSQWROejV3T1ZBVQ?oc=5",
@@ -10223,7 +10223,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbEl4MUlEYm5WQkl0NjYxZ05xbzVhQXAwcG9BTkVCellyMHpkWVJ1Vm5PMWF3UFYySkpUZ3lzSllmY0l1MGxWS1RSeV90OURndG41U0JOWXk1eVhwc3RQVS1aY1VYVk4tSWFxbW1aYXZCTFVFM200TktoLV9WbDQyNmtETHhKb2FTMGE3amlMei1QU0JjaVA3WGJRQi1oWGcwLXdmNkFHWGtad0x4eklsQnpnZFNENHpCcXU2Qm1ZMXd5WGY1NklLVVNOY0JzZnlvOG9IbHZsTQ?oc=5",
@@ -10241,7 +10241,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXlJR0VJTjRQcHJTM1FoWnRNS1hjbWpEMHN5ZFVQU01NdXF3R1JSMmVIWjdJUV9lai1VV2NwZVRzeXNMc1ZQU1piLTdkVFVJdnA1TEFLVENDWTZ3M3ZGRGJfUHlDME15c0dXWFFVeUF3V2FQUkwzQVJBa3hlSm5lZG03REktUGhoUERLSHctVm1CNVI1ekUzZVNuYmJmNmZkRVI0TExySG9VQklGeWdPdG5IUFo0czZBbVhmZ18zRTZMZzdu?oc=5",
@@ -10259,7 +10259,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.theguardian.com/global-development/2026/apr/02/scarcity-hiv-prevention-drug-lenacapavir-hampers-rollout-eswatini",
@@ -11035,7 +11035,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdVhpdDhrSjFPT1Viak9fVEd1UkNMam4tMnJiUWNxZWxVYW1WODl3bHdGWTNkMVFzZEZSWWsyMnlKMldUT21UOTNsOFhlRlVLc0Z1ZHFFdXRMQVVPNHlENUFpT3dWem51OU5vWXZ6eDBWbGhXaW1rbm94a2RTLU10Uk9LeVVscXd2d1VaNkZmbVo4QTNPdjExQmhEYV9lY2t5NkNpbE9sNldUMmtvODZXeXdvYll0Uk0?oc=5",
@@ -11053,7 +11053,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDB1dzU3QmVGbWx6YzdNZ3hUem1RYjFXVVRHUWRyV0VoalVidGJxZXc2T2QyMks4RE1tVTBNS012UVVZamY1YkxnTXJNX1R5NTBSMndDM3c4bTczMHd2ZU91VDZYVUctbHNacUxKS1lCUlpsRXJ5STRUcTdycHVqWjRIV1N2MHA2eGdoYXlIcDFOalZsYzJMVFI0anV1T29CU3EtYw?oc=5",
@@ -11071,7 +11071,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxRGM4alRJS1BRWFRXNFpzQTF6Y0xDNVpXTzY2VHlJcFJRWnVHZ2xQOTR0eTZfRTM2Si1BZ1p2YzJmSXMyYW1icklTcFB0TS16RWpBVVdsMFJlLVYxUlRabnp3cTlaa1B3cWlXSzI3bUc?oc=5",
@@ -11089,7 +11089,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQdG12UE9tdks0YUFiaEZmaWwyejJhcGRwcTJ0d3JuQjREWWptSlN4YTctejI5ZmVxY3UxdXJ0d1hZQjQ1SDIybWw4U241cjRkUTYtX3lHcnNhVlBuazVLUkIta1JYQzhCbkFHSVJ5OGpIMHdpQzFaN2RNWmQ1Q21MaFhqZExIS1RNVXBDSXEtc1F0bkM5SkhBQS1BZTZWSTNNVks5S251Mnc5Q2VvdXRKYjVJdDJ3LVdjT0NQVTRrMF9aMVlvZndiTVlRTzVvenZiQ1dsTFRDSEZ1c0t5ZHRkQlM0ZXRMRlhqVmx3cGkyT25BaXRjWXB0QUpPZDh1YV9wUXU3Rno3VDVYNDJvLVRfdjQ4UFd3M19ZVjB3anVrZHJoN3dFZmJwWGdEckZJaUVfV1g5bmZrYUw5ZU56d0stcg?oc=5",
@@ -11107,7 +11107,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaeFpmM3B2ekxERmdoQTllRWVMa0xMel85Z0h2M1M4VmtqS3NWeld1SlRNMk04a3dheEIzTTlSbnAwWTRYRGtXQUZVOUR2VVVQcS1xczdQb2hVVVVEU3M5UU1zMWppLTktU3RlU1kwbjU?oc=5",
@@ -11125,7 +11125,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZU5JTmRiTEdYTmcyd1E4aTBBWFZxSFZzcml3b2pNbHk1YnBzSE0wTFBPbzEtTzJwRl8xTjRFUWpvZzdUdGJndDJ1Vl85Y0RBanVNaW96MXZ4TUYtc1RxRU1fb3RDYjlpUF9BR3dmRlhhc00zOU94SjFpMWlPU3dOdDFRNXg4OEl2d0R4UXhKRHV4Q0VGRVBJc2hjYlp6TGlCdm91Sy1tUGxNU0tDTUkyNFlxX0k4WWFPVERGM19yOF9ZX0gxYnMwZnpwR3FpaXdR?oc=5",
@@ -11143,7 +11143,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2FpZ3BkRFlSOUFRc3QtbnNySmJPX1FJRTlxX0ZhSzBzNmYtRHhSTHFHck5IckV3djA5QXh6N1hjdm42YkJhdFhFVW5POEFHMWNjMU13SHR5eVhlOW9kZHQ2WXY1MUE0V053YVFLcjhhaENRWVlKVG8zclFIMHRWcTNKNk56SHdIYjd6WW9HSkktVEw5LVV3UmFNY054ODZiQlZCYWMtZ080QQ?oc=5",
@@ -11161,7 +11161,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3dsdy11ZE52M0FoV3ZRYWNPb0dIWHZPbkx1azJEbWJNcjJoc3I5MndqWTVUTTZBNHZfV0ppbXZrbW9NaG5UZFkyTEE0WlB5c2xPaG9odU84M0t2OGZHaEtfRlczME9uSEhncUF3TmVDQ3YzRVhMaHFNQXA5Qjl1bDBrYW9hdklER290MkZ2X2FqY0VfSnNXb0JGdVVIOGpqOTAzNDBhaGhGck9oQ3BRYQ?oc=5",
@@ -11179,7 +11179,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wSnpYZUhFalAxTGU0bUMyb1R0eDVKbGJTRlNzdGI3ekxtS3l6ZGtmaHJPQmdjVl9UTTRvNXhLQTRJNnBYX09zUXpnY0FjaUl5SHRwREt4dTgwdTlGczlDQ0dBbU5JUVZfc1Y1MlR2QnpKVzhTejlBRg?oc=5",
@@ -11197,7 +11197,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazl6UUtqYTM2UEtwUHlXYmY2U2hIRldDUU02MGJ3TlYtMGRkNnRKb1lJT0txWVFCeFU3bml3cEM1TS1ObC1WblFkUElKNk5iSTRGcWVaMXd1bk1yVDltLUMxeUEzTkNTa2xVbWE1b2JIWVZRS18xNUJqLUZQSG9fZW1jdWY2Vk9vNkE2R3l6VVM5b0ZKME5vaVFZZTVNeklOaFZFWTQ4ZFRqWDZCNUxQZ1VhYWpjcGJ4MWJn0gFyQVVfeXFMTzd1Z1RVeVp4M19xWnR5YXg0QThqY29QMnVpdWdwUkdReUxwckd6YjFObTZuRmJjZ2dtT056ZExqZnJNV05QN0Y2YlVzTWlaT3Ruc2FqdnVqWWNYMlp1djBBUkVfQUJvUVlibHpoNFh6Mjh3?oc=5",
@@ -11215,7 +11215,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GMUtBM0JkVk1jbVNQcjFOVy1pMTIwMnhzZ3lNaVdNeHhWa25hUXJ3VXRSTmpDdzZqbEg1WVN3UjVma1kxLTV1dkVBU2pld3N2UTdQNkxiSDZqVjZsTDBLN0NBVmdQNGZFbHczZHc1LW9MUnhoSU1BZElnbEtyUQ?oc=5",
@@ -11233,7 +11233,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQanZZbUhZUmk3RXJ4X3lneERXanJKemd2dll2V3VQRUhhd1ZTVXVsdS1adW9meEpPR054WHMyUkpxNnNueF9IZHFSS2xRV3ZjVW5rS2pGOGFCaTNOZkYwQ3NSOWV5cm12RTRVQzhRYXRJT3JZU25SSGZyU2NsZzZ3czY1Tkg1LTVlWkxPTEwtcFBOWmhqS1FOY2p4d20tcEhoeFlWWVpxT01PQUMxN3VxNjhoLXJuenlyUzJyNE1BSFZ5MzFMZm5hbUFIYU1KOXVRRFE?oc=5",
@@ -11251,7 +11251,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3ltMWhuZGozOFVnenU1Smk0eG1GalAxV0dmTjQ0SjhTRE5VdFo5cUIzVFNiT2NxUTlZcGlHSHI0RkJEM3ZYTDZUVGZMcmxYc28wcnVJRzdDT2pVazViU3FQTEl1VVppZU5uS2NJWExjSmlDaVQwR1hvamVQRTdEZHRtTW9rZ3R0ZUpkWVNaQldpYmI1dzdJdmpIZWVhdmdmMU9nMFBaNFIwUXdSQ3FLVzZVdVJMUQ?oc=5",
@@ -11269,7 +11269,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODZfWlctdkcxdzFRLUJRdmpNLWVSRlNxTFMxS2RuU0tqOXZXbnpCUFJmT3ZqaHZHR21ZVEFuSzBqRFZQNk1ZdS0wTmxkM0d4ejlaUUI3TW1zNlFzMDR2eEhiNE1fRWJOSW12S1FPWm8yVzI1V1dlUVNpMFFaWnRQVnRDaFNBUQ?oc=5",
@@ -11287,7 +11287,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUEt5bzR0VUdMMGpNcFpBdTlQNm9PMHFLRkRDWnF0SzFNUDIyWGtzbVNId1JtUk9oSy1SZHZ6OTA5SmRhbmI5ZFFqdzcwZ3l0d25wVkRoWUgyZW1rTWNkY1JtQVU1OURRUC1hVlB1dUxsOEN3ck1XbXoyVktVUVVCWWhCMmhRWEVmY1YxcXJxcEpfSHNzdThFWUZnRHFPMFJIeVE?oc=5",
@@ -11305,7 +11305,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVNUeFJHQnZDZ1hlLTZrVFo1ZjZZSi1uMzZTZlA0Y3kySUpaUmFtTWM5NXRra1R0UTdPTFJ5R2FENUNTTW5INU1zckZ0WDBXNlVNZGR2bVB6VlV4QzF6Rk9LQXRuY2dRWEF0QzR3UDZwZXYzLVRXWmp1YllfamhqXzd2N0ZvT0hJZWtUd05jaW9lSHdxQnVtTzdsa1RjQ3Zob1VQWFhpMklnYUhobnFGNDgzQUM3cUw5cFRKVzhKOWVtbWd3V2c?oc=5",
@@ -11323,7 +11323,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFpQZmJGSmtZMlZsRXhVSjVTelNrNUE2aXBzQW5YcGNfakQtLUdQXzRXb1dBVk5xQmZyZzJITkhGZVNHMnRQYWpvVXkwcVI4WHgtcnZRb094Nk02ck1TaFhUVTBnVE9LRzdIN1JGczRxUWdpZDl0NEphbnZtTkRnWnFaOUVxbktIZ2FpbS11ZkRqV0xvZDhpOE5oZVVCOGdoR2lKb2NyQWpQd3MtcGtNQ0pHVWtGOU0?oc=5",
@@ -11341,7 +11341,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/nyc/comments/1sgd7dh/new_dhs_proposal_would_effectively_ban/",
@@ -11359,7 +11359,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQejVMdXdZdEVGU1FkQnhUNDlPRFM2dm9Uci15Y2ZxSk4xWi1GZHIxSjByb05KYm5UTnl1TjhKbGdKVzUteHFCbzMycGRxcHdUOUtDcThmYVFwaVNQWklWbkFrWkh2ZGZxbmx6T2tfOXZJRkdVbjNRa3RmV1JlRUlaOE5JMjZLRjhMMmYyLTFjYWJHdnQzNDRVQTd5V293dTFwUnc?oc=5",
@@ -11377,7 +11377,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3E1QmdoS0ltd3BmZjh1emJqcExPYS00d0VBWkJZc0tnRHZPZWVEdjZiVzk3MXhDQ2tLX0Q1VlEzeDNjcndlMHltUkI0NUc5RXQzaUpuY1hpeHJVMkRQRHUwX2cxenFpcDVvZGliM0ZaYnhHdG1SdXdxS202R3lHbFVqdS1rbVVuTnRRdmxlNHcxaUdNck9DUTJyZWlnM1laZVlYcU9MUW01Zk1ub0VaOU5xcw?oc=5",
@@ -11395,7 +11395,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObHBfOXJZUk83cklESkJKNWJXUXNodnpBeTBVbTRMVmlTNjF4WHozWW40UWhlYTlkSlpxQlUtbWtCWmhoUzhqdUNOaHVBUWt4Nm9mbGlLSzhxVzBvYm9XWk1YY2ZhYkowQmRqbUxFUkxlYWRITkxPVmVXclBpX1ljMVpGRldveE90ODVob1dycGR4aTlRc0ZudERwZG9kNG04b04ySjNjQW1ETmt3YWI0MXYweHlidGtuTjBubWhJUW3SAcYBQVVfeXFMUHNmSHJTbkR5OUo5clJwRmdla2JWdkRIZDhFYnB0dDJsWnlEcnpDd3JhYVhibndXM1Q2TFlUWlZxR2FueXBBdV9ndDdOdlZLQm9ZTnI1NHdQTWtCbGJwcFZrMzBhVVRiUXBYdDA2dlliS3ZzdEJOXzM4WTIxMEFSbTE1NmEzSU9ua0pRRWt1V1JrVWdyNTJ2cnd5TmwwTzU0VURqR3hqb2pNUjFnS0pRejlpQkVaeEVxUklVY0l2c1VJTFFSN2p3?oc=5",
@@ -11413,7 +11413,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiUjJuWkp1NXA2MkpiakRsOXdwTE8tT3dlTTBHc092NTFTQjQ1Tkoxak9taFNGTlJORmtTeFo4Tm9KMTRHcFZkbGlPSXo1NWoxbTlROU1mM0dZOWxvc2JCZVBR?oc=5",
@@ -11431,7 +11431,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQcHRvRW5mcEZneU9vVUJHcUV2Zi1tMUlxaGJvSmJ0cmI2OHI3ZTBBa3ljUXR4OTlfZHBVV1JxeEJ0UnYyS2dObk0ybWF4dW9tamszcmpVb2loZUpyRFFidDZCUzlWRDNMbXhYajEwQktrY01vSjNJdlBYazRvWU9qQ3JRNXR3aW1iTlIwaVVYUzI0VHJ5cldEbnBfbWx0ZG56dlYtUVp4YWF2VVdaWE9HNXg1amx1SVpQNGNsRElQbjRnVVNtV2FEQ0NJZlF5Vk80RU9zbGpTcnEtdWg5bTA4YzNHcDFrRU5FQmV0V1JjbWxmeGZIRVhUQzRmajNSUTV6U0xWeTVfcmloM3FiYWFRaThsSnYzY3JoVmxESWgyejNJQmVjUllERTl1MGM2dmVLSkNuUXR6QmhqQ21Dc0tHWUNndkZ1QmFzQ0o1ckpBcHZFSjhodWZWSHpFUEo2ZHlmYVlxazFDUERqMExmbUs4czM5YnhOemctendzY082QTJJVUcxa1licmJRVU5ZdXl3RjRVeWE3R0pIZEQzcENhbGk0cXVWdw?oc=5",
@@ -11449,7 +11449,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vb01lN2ZJeUJpWWNxWUZaUnUzbk9oSEpCRjRPT3BMbjRXaG1EUXFaV1RNcGFCVWgtcURwenlsdjlNYW02YUNWaDY1elFpV042NFE4UHlXVkFneWNDV3lZWHA4Y0I1bkNvcXZFcUk1cG9RdTNvczVtcVcxOFY?oc=5",
@@ -11467,7 +11467,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2NQRldIWENuN050UHdrQlllXy1reGt5RXhNQ01nVlJTSnhvT0F1WGN5ZFd6SXJSbmpaVi1XMTV5R3ZYdFBaZUd0SDBoRFdxbHlfdTFtNlFnTnVRaGFMSGVQR2JoTnRyZmhUVzNhNm9tOWlDV2J6a19LWnc5WnRTM3BR?oc=5",
@@ -11485,7 +11485,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzdxZDI4TlRjeC1CZ2t6VV9VLXYxcTF3ZkRLbkhTZzNPVi10VS15cEc0UldxY0NWS2lSeW82YV8tdlJEMGMxSjhwalRYc0hEYVEyQW8xajZZNkF3TW8yd25pM29tX1FaNnh6dU5kTTdfdDdDNjRNZm1rWTBrbVp3UlF5QzY0TEx6Z2tRc0Z5QklOVGpaa3NDaWhLRVJ6b1QzS0dzVtIBqgFBVV95cUxQOTRsTkZHc0hYeFZMekNKM3FqNmk3b2FtZmRYMXBFSW5OZm1WY0pDSk1jUGkzNjlJTWYzNFJUWUhqN2hJWWQwRmlxeWpPa2loRDlkZktNZDhZYVA1aDBPT2NmVnZ5SUlRWS0yS3dqZ1k5MlVBRXg5R3ZfWFVIU0dvdHZZRzJUWFY1eTNUdUYzaXg2U2xTa044N0VGeU1iWlg4ZHdXVVVpalczZw?oc=5",
@@ -11503,7 +11503,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0g4V3p2SExwRllDU25yUE9CX3pwRTg2TXVtNGN4ZUFxSWlMRGd4VXZtVnJfWHJaUWxHR0pmWFRSc2JpamNSaFVuVEw2Y0JqNjBjT2VmNHExUTAyaGgxdVFtaE9yR2p6Nl9pQ1AzN3BWdzl0SDVIRWstUEdxMWtycUFqc2pBLTMycnVtTzNZeGZFU1pXOEE0UGRVTHA2WWMyQXNnUjh3cEtCcFdLVGw3SWFHVks1dHg0eGZlZDJMY1NOZ2JMNkhPc0hwX3huMXV1c18zNQ?oc=5",
@@ -11521,7 +11521,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFZnd1NZTHFRRXdEUnowcjVNOTdyQjU3aEZVTEpqVkh2cWloclhoVUxWMUtlRjB5QjBmQTBXeVlMWklRTjZmZXRqcXRmVHhZME83eWNDeVltLVB4TnpJYUZKRV95TG9tcnVZRDRyLWYtMVg2eEtyUTlmNlhKVDJfR3FEc0ZRdw?oc=5",
@@ -11539,7 +11539,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTRmN0hUZDU3R3dpY0s4b0Zmc1lhLXQ2TkJOcVp0MGFBaDY1SnpoZm9seXRRVFAySTNramh6bExzV0xGUE5VdHd4RGFEWjdnQmJDZjJ2M0V0b2diVWpSMFUtdkc0TThlR3VwZ185LWtSQVpheUlrNUxYZ09ZQWotakNxN2YzenJvOWlBOEFKN0MwX1VXbEE?oc=5",
@@ -11557,7 +11557,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNckcxU2d1OVNRMjJVeE5sbmhnMzJPMHBtRkpwaFdxX3ZEQkd5NVVsbHZva0laTUhiVmszR3RHWlUzR3RqYlFPWklGTUl3UkphaFhNZmJHYk1sdmtXQU42X1Q0MkNtaUVlbi1kdHJwaHFCb0w5azlURG1aeGlWOHE3TDBLZGlhNkJ4U18xbEFOd1VTRUtsMXBHOFhjLW5Lc1hYcmxVVXR5cjdISF95UjVZWlZmaHBIQQ?oc=5",
@@ -11575,7 +11575,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnREREhBNDBLd01JeEdqS0JaUFp2WUNjZExyaWNBVjhFNUFMa1dxYko3a1Jza0NpMlVGa1VPZ2k3TmNKeHVEdjBRSFZ0QndSRUxKY21ETFM2ZjM1WGo2TC0wbEoxV2JwZWZnRUFjTlVTVEFEa0ZqUVBXRzdIWWMzSkdyT19JUFByV0pNT3ZPYTYySzJxdWpTWU9KWFpadVRETWxYeUtzWQ?oc=5",
@@ -11593,7 +11593,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVRsODZDVkljM2ZRZGJQMXVNSnhnUjgtOXJxa3F2VWNZcklYaFFvRl9XRHpaWDB6U0t0MGc0WHp0ZTdNeVpwOFZSVmlvX1h4ZVN0LURYLXlsVDhXTWx5UG5jcXppeVRvZXJaM1Z4Z0lrTzNPQW5OMV85TTVJWThXei1YZ3gwbUY5WDdEU25XdkExRFJtT0FQYjRnbjNWaEM3RXJMdFl3?oc=5",
@@ -11611,7 +11611,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmVFLUVEOVRBTThUUkZOLUhQUkxISTZua1VCU25WVEFmNGFJcE5vWkliWjc4U3VKdzV4TEdwRXFYbHdxV29UV3l4dTRWUGxDSDAtbnV5S0EyR3o2ckpuVXk0eTFvZEM0d2dkNHNjZ0JxUG1lbGh0V254QTNiVVRuYnpkYzVvaklmUjJiVWxBYTlyb25uTUNnRlVCOHM1OXl0dHlIYk9BdVN5WTd5d1BVbzdoT1hSQmpXS201eTU5bERnTmp1Mm9VdUJwVl9BQUJH?oc=5",
@@ -11629,7 +11629,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TR015d19PUi0xVlE0OEZXLVJfam5hQUx1bEluN3JONjJTR2dEdlQ3bVo0ZkJ4SmlGZHhhaEdvT2VybnN2aWt0MjE1Q0p4OE8xUVZUbkxGY3Q4TFc0VjQ2Q3hKV0EwcVZuMWhWQ2ZMR0hsUFJpYTZxaUhnVQ?oc=5",
@@ -11647,7 +11647,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTAtakd5VjVELWZRMEFvQVlQMXZTUXdrUXY1TEZuQm9LbTI2M3VGMDN1NHB6cGdabHlWajhSMnFobzNvZmRVX00tMUtlR2lob21DalpiYnVuRWVweGV2QW5xYzY5ZjE5MGp1LUcxYnZwSlc1S01PeTJJclNkSDJvQ2FMWDlxNXc2b0hlcTF3?oc=5",
@@ -11665,7 +11665,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZmJGNTVVYy1HeGdnUE1ONFRoWlRXcDBmYy15RS13RUp6SVRhZW1XSm5SWTRXY2ZUU1h6Uk1YT3l4VkZEV1U2SDZ0YVpUanF3WVQ1dC1oYmt2cm1mRmI0ZDliUlJHTkhxeXEyWVcySzAyUEUya1plaDE3QmZrOGN4SXNyX0VJWmdIcW9MZ2VScVJTTURiUk1KTkMyTl83eWZYWDkzblVGYlVDanJVVFJUYXZ3MUhmTUNhTXA0WGpQR3VSckx6UjNFN2hDMA?oc=5",
@@ -11683,7 +11683,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGE2b0QzM3dPNjBkTXBlcjB0MFYxaW5jZzF5QzFHQ1lmeFg4ekR3U2tuUUVhTFhJTVNaNU5oNE5IYlVSdnQzMmpKVUxIZF9OWklyMVQwTGtCbm5yd1VmQVNXN2J4eFFSN1BoTmJzZjIydXhfUkYzS0R3Y1lSTWhvVThIemdIY2h1ZWxhY0R3?oc=5",
@@ -11701,7 +11701,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNalN6R1NPRGo2VmtYWlRMejBHTm40TUNhQTVVTlNMWTBaRTFtS2tXeFNTdGI2Smc3eURSRlI3ZDNpZ0RxbzFYZ2xwUlhwSVpBRXZ4NlFkUVNsc0taV1F6MndzbGxYYm9OVUN6NjdNWnZjLVF1SHVtSGYza1E2NTY2Z1puTk05T3pBMHJDZWQ4TjY?oc=5",
@@ -11719,7 +11719,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFNjbGxQdlRMRmk4dlVtRi02cUc3enNYUXlVYzFqLV9USUttUUgzRDl1cmVkU0dGdVBmbkRaeHh2ZWdPRXJnYTYyYllVNW5TSGU4RE55aFJWR1Nvc1MtcFN1S0RDc2xrUWxHQUgtSWNhVnhSZ0RuaFhsaUo2bjJ6UFhqRkI5bjQ?oc=5",
@@ -11737,7 +11737,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPanFiOXJjemN3NU5ZaXVEamFKQmpOLWVLOVZHVTBiQzEyMXJNWENzX3Q2MzFuaDJpeWNQeGtaY0o1UjQ4M1hXak1zcU1vMjVRelFFY3NiSUFBQ2hqMXd5YnVfRVdtX1BNaGxIYzYtMDVGSk9TWE5nNE5fWnVjdEc3dDNmeFAtRUNMeGk3cU10U1dOSjZhc3oyVWFUSVBDNFl6REtmb3FzbjYtZUdJdWJGYjZ3WQ?oc=5",
@@ -12767,7 +12767,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXByLU15aG5HNjhrZW1ndzc2SThON1poMlBGc19BYS1UaWFqaVFTSVJuYWVmNWV4Vkx2UzBnSEVtc3hkRG1aa2MxZkVlaEtnNVYwQzJJT29aVm5FQmladC1KaEQ1N295UzhkMENJZWdMLVZhM0x5YldNa25paVRTQlVpVG5KUdIBiwFBVV95cUxPOVFSYlFGVU1oM0hLRm9fWWtVY2hiY0NLYXRuS2ZyY3JRUVVTU2VoY3ZUb2lLa003R2w4eE8xSnMtWXNOeXBmR01ySGRxdGpxdloxLW4tS1E2cm1hVzk4N0d5SGpKSjBJSkVtUlJEeUJKcjEzMU42bFZZbEZ0MWNGZmF6clR1WWdYR1ow?oc=5",
@@ -12785,7 +12785,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVdibC1NWENvM3p2d0lWUzhFX3R2a1EzTXZNOHdUYWlmQmpPQXg3bUpVQ2V1QkltQ1Q4V28xVHRlLVdvZnVGRGx2WFRXblNlaTIwVENxbTdnQU9ZVkhwMC01ZlVhOXE1R1lJc2dQR1lUb3B4VlhKTk5ZdkFESVo2eDNXYXFBeV9qYi12ag?oc=5",
@@ -12803,7 +12803,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQldiY3N2d1h6ZWl0MHJseHIwOGp5YnUyNUlzNEZSaUp4SURIaFFubjBpV2RQX09LenprbUpCYkRKWVlNVnp2ejNrWmxxTnZWRklKbUhlZm4zMDR5U2RxcVNZVzYzS2E5RkpPNUIzNGNDcXpKMW9Ya25NNUdFeDEzalVTT084ei1IbVI1SVhpbC1EeWZnMExlRVVhLVRBajBRc2tBY0lBTWZLQ052TVJZZnFEa3FhRHBTN2tac28yYlo5M2s5c0otZGYyaVA2MHdNajZwaUsyM1IzZ2xzRGZB?oc=5",
@@ -12821,7 +12821,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3hQQlYwVUROZEJONnFPSjlpWmlENzhrWUJVVS1IaDlyd1NMd0JaX2R4QVhVSHhDOHZMT3JENHhBRkVJNnpyc01GZC1kZHZzMW5UREtYMGlGcDNsd0xud1JVaHE2NEdqOHFtMTUtTlRnX2ZrbHlteUtKNFBxdjVBWm5BN052cmt0RjNidEtiYnJhdFhzVVJoTzJTb1laeF9RS29WUmRxYVhKYVFKRnJNUXZhN2huS1BON1RVNnk1VTJab1g4VldKc2xJN1VpTFFvWFHSAdcBQVVfeXFMT01FYWdqc0xQUDcxVFZ5WU5sa1hZblRIMUt1a1JsZ1c3bjJsWG5PcUEwRG1LajIzUU8wcWJ4dkZUaW92bWZUX01jY0FYUjl3cHRoX3dUamt3QWkzTHNwZ0c0aFBab195OFZOaFVOWXVFOUNaMEZOd2p0ZHF3RkRSYk9jVVBzbnMtT0diaGgtbDdqS2RGZnNwZHBDc3kxUEdmaWF4X3JaZ2NiYnRTYVdSekd3aW5GMUlUdkppeDk4UDRFdHNyZWlkdVE3Zk9iVUNnLXVBMVpiMms?oc=5",
@@ -12839,7 +12839,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tU2dHMnp4VlpsM21jelJsQ1hKalJUX1NCNXpUa1BnS1BtNVR0OTVGaFo2ZXFuc2hyNERDVUNmU2g0MDM4TTdDN3N3WU9GVER4czFTM3h5VTdWdENoSWZwOXY2TThVQmMzUVRXTGc1cjNmemM?oc=5",
@@ -12857,7 +12857,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NNlhTbjlqYkhZT3d0cXE5YlhkZHpJQmhLOWlSS3U1UGtBT3dPd054R3RFOXgyemxETk9hNWpqZ1dSdGxNOFVzQjl2dUphQ0hQV2VmVkVBU20wbFE2NlRSNV9oOHE1VFZ1bkczUUNZN2V3RDg?oc=5",
@@ -12875,7 +12875,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQndfdWQ1SzF0aUdHTmZKTkYtSFF0a1BMQmMwVTBrSTJkVGxaM3FiQUo5X2NRNFBQUHpLeHZ3dXNrQ0QtMHNJZEFMb3phblZJVnphandSNTVkYkpqUDBPUUc1UTRoT2RPYUN0bWdBbmpCU1lPNXJUbXh5Z1VJVFgwcmRqRWppSndsbUljOFFVMDdVVjRqaDBtZjduOWZIWWxKQktkQXFtVzVmZTBRbXVXaUczeThaSkxPdVVacU1B?oc=5",
@@ -12893,7 +12893,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUGxPV1hXRi1pOUs4OUVRUUl6c0FCYmc4UU5velY1NF9rRlZFVlMxSjRHVXJPX3Y5VS1CRi1pbkRsaWRBRGdHVHdLTWtZMkxEYmt2aEowenFDN2p1UTc2RHpDcDktbWk4bzFUTEVvOGhTTmtTR25TMzY1Y0RpYjZKRm1kRFNJUQ?oc=5",
@@ -12911,7 +12911,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVV9lSkpYY1dFamMybE5pM21DUXJ3OEVDcENDMUZKbW1qQjNIVTdSUkJFSmk4WTlmaXFFNjh2SjJqMzR0UE5nU2k1eUctdHg1VzMxaEY2anF4RzB4TllJX1JYM0VjLWd6RFI3Ykp4dk9CRUo0aTQ3dlhjMWpVX1NGVkthM0JJbDBCTmw3dTNZaV9yalhrdTVwcnRMSk1KNHhlVlE1SGNQNFowajQ?oc=5",
@@ -12929,7 +12929,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OaG1iT2hsVmo3dUtBWXBjNjVOdkg5Ung2aXNuOXE4WGVXMG1fVUdTOUVBUjZ0MGtrU3FKTUROdHFuVWdHZGZkS3BKV0NQdTNFZFI4bG5TZ2FxV0p1VVFlRkdKWkhmcGdkUU01VTlMT3RlMXFocXlyTFF0aw?oc=5",
@@ -12947,7 +12947,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeVI0Nk1KQmlJWFpNOXRWZzN1T0RjSVZUTVhLa1RadUZLUmhfV2NDZTJfWmNQZ1hPUUhnenlyNlhraVdLNjZUc0hMcmpuenRZMVpZeEc3OUZvY2Zaa1U3eHBBR1AwbXhvbENSUDREVTZwTnFoUWdmeVo2ZktKRW9QNmF6Y2s0MEJKTUMxZHBYbkI0YnQzVnQ4cmxpTkxnalp1TWQwcnU1T2ZwZC13M0ZlY0tPbXFFdVNMenhBV2xnWm5VZw?oc=5",
@@ -12965,7 +12965,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTmhhdmdieldrQkYwcXZzMDNsb2g3QzE3ekg2cmU4NUpSVWRVekNydVhLankxNTF5akNYNzAyRllSMkM2ak9QYUNjdHNGTklLTUd2UTRvS2lCWE5PUUdONGJHdUpDWm8tSVNsV0x0dS0xcnlXbG93UG54M25hZERkc9IBhgFBVV95cUxQcldHeFpDcmM3OVVHLWdMRXBnUDQ2eWEzWnlvaDZjVUJHdC1pYXROa2lhTmMybXk5ZFB4dV95NThsWTJDM0RvSWdicUw3S0tHSGNmX0hjcm4tOTRuQWhOYXNMVWRaZVBCQXVSN2RFWmNPc2NwdVlRcTYySVVxWmtrcUotUDB6Zw?oc=5",
@@ -12983,7 +12983,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGNDMlB1RWp4ZVhPQXljaktXRTgwT3hiVWRxdjhXOUN4RXFuWHcxQThvNTdxcXhqeXVfYWFkLXFfbGFManJGOFBTNHhLd3M2bzFIeVp5Vkc4VWozZ1hSR2o4VkdSYjlJaExQRDRYNkpLbl9CRmhzX1JKNkdURkNxT21kVnM?oc=5",
@@ -13001,7 +13001,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdXh3SWphcS15NFdVeGVyb2dYV3g1bzFGTmhEaUNqOWM2NGZSSmVHX05iZWVpOWNBVV9sOFVmMWJKV1VPLUN0ZnVuRXFPUXdCX2xUc2FsTjR2SEZ3NkJkcHc4bkR2WXBiazRGTHQ4WDRWaHdWa0ZvOWs1cG1BNmVHdEh5amZZVUhMdEpXOFZyQ1ZVOGZuTGwtaUJuc1c4bFpxRFllNy1qUWFpMjZHZ2l3M19aSDlfeFNqbm1jZVctYllqYmtqbjJkN0dIVkR3NEF1bE1HRmpmbm51ZFkzcVBTbFNrY093bG1FOWRPV2FJRWM?oc=5",
@@ -13019,7 +13019,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGZxUkdWMWFtaVVCN1FHV0lFSzh4Q1oycTkxMVFNUUhfblJjOVQ5QmJZbjBxYkxXSDRwbl9aaS1oZkxtaEJ3UEZITmV6OXo0SWdTSFZsR1BWWWNBdW9Wa3ZtTUI5RGpxem9VdVBTUjdTLVkxcnpFYkZueE5Cc1JFSnVoRHJOZUhTVDFmX2sxWm5CZjNiV0FjX1lUVWE5UFB5X1JtdUotWEowUmZLNnlN?oc=5",
@@ -13037,7 +13037,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWtuTWcxWjY3VXZXYmt6RGdwanpnWmdqSy1VcGFBeGVVb3NZTXU5bGZXQmJKUGlBallwZDY0dGZiamNXdVVxenF1SDdocGdTMmluOVdSV0RyMUowWXNEVkotN2JlYTViU2pyRWJMbHU4QmhlMk5JTFI5QUFrOGRNVVRxMmpucDlwMTRmc1pEVDdxNVZXUURoTUhleWlSYVVzaS1teUR4aVlDZw?oc=5",
@@ -13055,7 +13055,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiZzE4TkpWUzhpZFI0Ym9sZVIyNGhvaEtYTDFqZGoyaUxGeVN5LUh3YXFfQ3VuMlJxWVRuRWVWNXhtZ0FNOXlCSG83M016ZmdkOUxiNWtfRkh1aWo1SlYtcEtKTTV0ekhqbVdIc1JqVFNsOG1aa0llNUVSYjTSAYIBQVVfeXFMUDZkSWh2RkxTNW5McEk0RjdJMXItN3pzRDB6UmVKV09HVDNpelBSRW00ZXdWanRIaTB5Vng5SmNjZ2xmc1FlT0JGaE5QX2E2Vk1fSUdwYnd1Z3ZwWVlwQVZDZzdzWWJweW84M19jZ1FISTdkVkY2VkxTM2lDbE51Q0xnZw?oc=5",
@@ -13073,7 +13073,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdG80UWJ4cExvTUhXUnZLaDYweGJMTjYxV0dwRnZwNUFoelJmcDJwRzVNUmVLRjd3eWt4MVhrZld5eFNmdXl3alM0WDd4eEFwOUZIOFlnTVEyN203RFF0aWp1V0dVcWo3c08wX2tWQjFKZ3hUV1dPUjdYRWxMZVcwZmN0bVpFdENlNEUtMkQ1ZHNuZHNiRFRJRW5tV2NmRUF2ZEVtMUVBLXJHTUZ4MVRKUjQwRV82MEVWZG04WHFjbWY0c2c?oc=5",
@@ -13091,7 +13091,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uZ3JoeVotXzVDZmdmaWdtLTQtWGtQRlh0aE5TWU9tYmZ1RzVsT3NhdXJVc3BUSXFReFNTSnhJLTZNb2REQ1MwYlFUU0ROUUtLUl9LU05UZHlHbDNFMEVCTS03RQ?oc=5",
@@ -13109,7 +13109,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTk1KNkVycHk5SlhHRVJmbGEwTXdwaWNtbkh6TDd1Mmd4SWUyMDVpTHptOWpRWXpLT2I1UGZuQlk5cTVkSzV6ME1zWDBaSnhWbFRraHlrWVVpWFZ4enBueE9zZzM5TVd5RHptM1RxS2dYMFJoMVRQME4zVjBzRlotMFdsYVBQUzVRVjF1Qk9Qdjc2V2ZyMjdHdzQ1U2ROSndtSmdfam11NWtkQXF1LUFvUC1Oa1c1NXFVdkJYS2dvbXRtVW9hVFE?oc=5",
@@ -13127,7 +13127,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNE5CSnA5VzhBV3ZHZmNYbVBtUTJnZHR1ZDRLQzFGRVQ5OThZS0pnZUNrNUlZNlZEbFlfWWR1ekZwTDN4TnRXUkhmaEdKdEtjZ1pBbWU1WklEbWRfYnc1WnJFRnd6WkoycDNTN25LM2ZqM1lWREhyOVVZa2dQemlVSkZjSEFkRHJqUHotdEhwVExZNEE?oc=5",
@@ -13145,7 +13145,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGFfOENFY2UwTHV3dE9RUUx2ZzlJd1BXYlNhRFA5bWVnU01fNVA5OTFyVnBGWTdLNk5La3NLX0RUVEdyNFdJZ0d0UUtDV1RrNS0zSkdvNTJnczJ6c09zcDZoTUp4TDBZeFhyczlMVzFndFVPWmlrdkJUR3dYODhrcW1heHBScjZ0RGEyX3VDUGtEN2NKeW5xRjhOQXYwNFVuZUtpRkJ0RHFiUUtyOG5Pdkp6M0M1UnR6U0VlNkhRSmpndzJtNUdj?oc=5",
@@ -13163,7 +13163,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTnN5YlNrdVZVaGVHQXZwUHdKc21hclN2YVRNQzF0eEpXNExMcW9ZUlNCTnB4SHVCclozd2VNQXk0aFZUcmd1WG1sdHhpMjR1VGJ6NzZLU2dZZy1PaEs1VG9ZV3FZSHJwYnlVNHA5SVBTeEJnVFlxWi16RFZvTkFVZ1ZmSnN5VmZQdXNrV0xrcVNhVXBIdE9sNFFFNWlyX3VjTHp1MlF3QmRXSGdWMDJmZHM3NUlvVFhEOTBVLTFGeVJaWHBXNUlhUm9ETExPWm5CeDdnS2530gHbAUFVX3lxTE1tbWY0c3pacm4yQ3RFOXRtdHVsQmtURWZTNEZzQW1CY3pZNWVpSGlJVDRQYUJ1MUh5aC1NMFVtUW1LbnpYSjQ3bjlMTnhPUXltQzRKMC1xQUxqYVk5d1ppSTBETmlkZ1NiNFh1aWJSODlfS0hwMG8yaWFHLUZ0dkxHZDlQX1FJUnlieFZ3MUlNeWpPS1h2WGdaX0dYeFZBYzNoZGpUOU5mWFpVQW9WaG1hZ09WakJEVG16dDdZRWNlUFhyNVlrd283MkNsa3ZmeVYtLTNXN1F6a09QYw?oc=5",
@@ -13181,7 +13181,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSFNFajE2UjZwRWkwTUtSbkVDU0dScVBBVHdrRW5MTnlHWklUcWFHV1dXUWE2U1NwdW9fR3FPaXJtRThYcDZyYU5pVm52OW5LRkhWNjB4S1RPVXFhZkIyWUpWdGlxV1g3TnNtcm9YTlRjQTRJZXV3TFVGMF90M3FBMnEwMDNveU5CUi1aa1B4emgzeEhMb0VsaklxSnhVQi05bk9RekhhZW9ONTdlOEg3QS1SSGdZM2otWWhURFBaUEZwUQ?oc=5",
@@ -13199,7 +13199,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcXdzQWZCUXBVU0pVOWJRWk1zTWV3WDJjUWZ6NGFud0VhS1Q4SmVKU1lHWGVGb2Rab3JWY3lZUHJVVWZ5bUgyd1Y3Tnh1Y1I4N1V0cDdhejEybFRTV21PcFBsSmVTc2RoSk5WSU5RdmNmQkl5QlBneEtCbFF4X3FLaU5mTEt0ajdMQXRzNkxFZHlYYmNxakY0Q09OT2M4ZXZNUDBHbHJwZUZuQUc0S2xSckxtOEJtT29NdnZxcmFqZldEOVVBOVN2WW9JbS12VEItZmJoNE5ucm9fcnNR?oc=5",
@@ -13217,7 +13217,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN3JlWF9FckFtdzA0bG12ZnJvcHVQbUloTGtQVW4xVWVTTXlWY09DRXN2Qm1yU0hTdk42Y3dMcC1QSXVpcVlBUDc5V01kYTU0MTYtUFhGVHU5VEdpb0ZfdmF6ZVpvcGtEUEhJbF9SSE5BTkRRZ3VtRjE5cHRwdW9uT0ttVExocG9NMDZ5UGdRUEwwcmZhSlVkMnVDWDNyWTQ3UGJnZUoyY0M0THFSNGhka2ZRNWVnZXlZWFdFZTZVeXRvNWg2MkNaWExuMjRNNnlKZ0tMU2FRTU9rS2V3T2Yw?oc=5",
@@ -13235,7 +13235,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNTZTVl9sM2VrZzI0a0NjaGdUYkJjUlNVZ0tSYWk2Vlhabld6ZzZ6djA2bWpVc29fU05pQ3RYTHowVzdqeVlXbjlTQnR1SWF0cndjcEFuT1o4RjVTNFVjckw4ZlU4SHRJcFlEMktNdW8zVE5raWFuZ2JxWmRvLWxrb28xem9PLXhucE9CaUFhMm5nMVAyOGVaRlQ1Tndqal9uWXZXWUVvOURIbEFyRDl4NmV1YkloV2NWR0pSUFg2cWx6TFVaaXY3QVNiYmlGUm90S0M0YzFJclNnT3hqd0s0?oc=5",
@@ -13253,7 +13253,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJbnFIRXo2VmZpNWk2eU1kb1F5NFl0Vk9nTTlQOWZFZXppRll4ZHFZbTBTMEVXRlpSQ0pvQTVDRjNPS29FLTlKaGt0QTRjdEpZNTV1REJLMTdOMXBPclE4eVVfYzg3Y2lkQjhNSThTMEdDT1BR0gF6QVVfeXFMT2JHVzE3cE5hY2JPVm1aYkkwUkRyTU42bTA3RG1MLXFXOEFLUTNhdVVBYWluck5ta0M2a2pGa25mWW9YMndyb3c3WXFENWp3RkFrYjJrLVVjSmlKa1NpT1dpVGRselR2MTVrdkR2NG1BWUVKeGplZEcybEE?oc=5",
@@ -14859,7 +14859,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sipirm/bahn_ahn_em/",
@@ -14877,7 +14877,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1shp57p/queens_night_market_vendor_list_418/",
@@ -14895,7 +14895,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZmdKbDZtbGZFZk9ENHI4aXdGdUJuSURWWkhEcjZLVndZeW11VHlSWkJrbzR3b3QxbjduamZkRUZYWF9iN2JNZUxGazlfZlp5OUFncVE5bDRGUWJmeHNobzJhYjFmZXd1N19KNGYwRVhGTUpmRTJmUGV6V3pvUDliZzl5Q3lmUUU4SnNjcDVOU2EtTGIzU0wwMXVaVmEyMFk1Uk80Q1dVbmVGMkpadEhsNXVQZ1JESDJwdW5LV0pHVFJrUVlwUFplWVpNVVdBQWkyY1lQblZraHdTWDA4U2RJNWRaTzlBcnVFTklmdWllXzRSMEQ4ck9tdVFHdHhPZw?oc=5",
@@ -14913,7 +14913,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://ny.eater.com/dining-report/410534/kjun-nyc-restaurant-lexington-avenue-korean-cajun-jae-jung",
@@ -14931,7 +14931,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sh5rd6/59_at_4_pm_flushing_food_crawl/",
@@ -14949,7 +14949,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://ny.eater.com/maps/best-new-queens-restaurants-heatmap",
@@ -14967,7 +14967,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sgx7ra/pop_up_food_flute_fugue/",
@@ -14985,7 +14985,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sgz1d4/williamsburg_icon_pies_n_thighs_opens_spiffy_new/",
@@ -15003,7 +15003,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sgy51w/burmese_and_indonesian_food_events_this_weekend/",
@@ -15021,7 +15021,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sgpm6p/rip_win_son_walkins/",
@@ -15039,7 +15039,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sfv27q/sushi_mekumi_nyc_is_closing_after_7_months/",
@@ -15057,7 +15057,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sg5a4j/cafe_catmandoo_woodside_queens/",
@@ -15075,7 +15075,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sfue4d/some_smashburgers_shakes_and_fries_worth_getting/",
@@ -15093,7 +15093,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sf6wcs/the_meatball_shop_has_closed_permanently/",
@@ -15111,7 +15111,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sew5f7/hainans_599_jajangmyeon_jjajangmyeon_noodles_in/",
@@ -15129,7 +15129,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWDdfc2lYb1N5bktTZFNpWWh2VU0tRzMxcnVSeFZGMlJIUmoxa18yMWJzbWpMUVFxMDBnYXlWRGVfd0xxZnlUMU1HVWVZM3AyMnBWVmJkM05yajN5ak9FRnUzaVBEVW4tTk9mc0R6VjFsUVVQRnI5cmV3N2tqRXBKa182SHZTNE81Q2tTSkx1TzFGclhDamk1bVR4TUpfQTJBeWpYeHQ4a1dSWXk2OTVrV1o1YnNjVnNDRTNwOXZYUHZ3ODliRFd1dV9WYw?oc=5",
@@ -15147,7 +15147,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pWTZ2Rk5PZnREN0xTN3piUW9XWDM1X0NrcXljRUVqODdpVjN0SUZFMGkxZkpJZ1FOdEVpc1VpeDFSTVhrUnZ2TnQtQVJPVDdybWhYTmYzank4TlVuNTdvRGxkSU5MSU50eUhfSVlpVzlwNXZncXliVFpzWQ?oc=5",
@@ -15165,7 +15165,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sdnonl/the_corner_store_on_easter_weekend/",
@@ -15183,7 +15183,7 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": false
+      "notified_digest": true
     },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1scdl5r/the_383_dinner_series_kicks_off_with_ritual_an/",

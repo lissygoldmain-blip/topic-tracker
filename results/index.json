@@ -6460,6 +6460,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa3JPZjQtMzh0ZGVWWEFoUXlwekhHSTNWemFvVklyYWZKc3d0eGFYUGxpbEJibklPWWJkWlJTR29naWZybkN0MlZaaFF6VVQ3QzM4V0JwbUM3RnZPM2E3SnF1TVlScTlXMU50UGtGM1pIN2xnSEpPakFzWk50c2tBT2tEcTY2Q3JfbGVObTIzX0FHUQ?oc=5",
+      "title": "Skeletal remains found under Brooklyn Queens Expressway in Jackson Heights - Yahoo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOa3JPZjQtMzh0ZGVWWEFoUXlwekhHSTNWemFvVklyYWZKc3d0eGFYUGxpbEJibklPWWJkWlJTR29naWZybkN0MlZaaFF6VVQ3QzM4V0JwbUM3RnZPM2E3SnF1TVlScTlXMU50UGtGM1pIN2xnSEpPakFzWk50c2tBT2tEcTY2Q3JfbGVObTIzX0FHUQ?oc=5\" target=\"_blank\">Skeletal remains found under Brooklyn Queens Expressway in Jackson Heights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-12T12:43:03.271518+00:00",
+      "published_at": "2026-04-07T20:49:41+00:00",
+      "price": null,
+      "novelty_score": 0.9,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGk2Z2UwY09UZmtUMFJPUXpIRUlxLW1FTVBJTnNxSm1xUHE5T0xJZjVnRXU3eC1CNUxieEVkOHRQdURiWjhzUlFzd1JFODhVVDhMYVpTVnhFVWZJVVRIcDRJV2g5M0hwYVR0ZFRXTklmbnFSR2JVSFJwc0t0Mkk3UVRnMHJsV28tTVg0SFBHUmozMTJTNGQzWnEzX29KMWtXc0FxZ21vUklkY1hKbTk4cnM2V2tLdDRCSkxB0gHAAUFVX3lxTE9QODhYLXVWTUtZNk1XdFhTSEVjeU5Ld3lCOXNZbm50UVpwMmJXcjFkQmpsVklESjVqVWVEVmFTdDhyeTYwNC14dDZ0UDZQaGQzZVJXQlZxcm92QVNnNFNJTU0yNTl6bGtDRVZDSFNNMGFEc1JSVlZGWjl5SEh6ZXNFeXFFelhWT2g4VHd0NlRUUzJRZnRCOUM1QVNIckVyeEtLRXd3ZlpTV2g5S1JVR3YtQlFtU2RyUmtfd1gyZ3p2cQ?oc=5",
       "title": "Queens deadly fire: Prosecutors believe man set Flushing blaze to get out rage over being fired - ABC7 New York",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGk2Z2UwY09UZmtUMFJPUXpIRUlxLW1FTVBJTnNxSm1xUHE5T0xJZjVnRXU3eC1CNUxieEVkOHRQdURiWjhzUlFzd1JFODhVVDhMYVpTVnhFVWZJVVRIcDRJV2g5M0hwYVR0ZFRXTklmbnFSR2JVSFJwc0t0Mkk3UVRnMHJsV28tTVg0SFBHUmozMTJTNGQzWnEzX29KMWtXc0FxZ21vUklkY1hKbTk4cnM2V2tLdDRCSkxB0gHAAUFVX3lxTE9QODhYLXVWTUtZNk1XdFhTSEVjeU5Ld3lCOXNZbm50UVpwMmJXcjFkQmpsVklESjVqVWVEVmFTdDhyeTYwNC14dDZ0UDZQaGQzZVJXQlZxcm92QVNnNFNJTU0yNTl6bGtDRVZDSFNNMGFEc1JSVlZGWjl5SEh6ZXNFeXFFelhWT2g4VHd0NlRUUzJRZnRCOUM1QVNIckVyeEtLRXd3ZlpTV2g5S1JVR3YtQlFtU2RyUmtfd1gyZ3p2cQ?oc=5\" target=\"_blank\">Queens deadly fire: Prosecutors believe man set Flushing blaze to get out rage over being fired</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 New York</font>",
@@ -8240,27 +8258,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://qns.com/2026/04/harassment-st-anastasia-rc-church-douglaston/",
-      "title": "Hate Crimes Task Force investigating aggravated harassment by an intruder at St. Anastasia Roman Catholic Church in Douglaston: NYPD",
-      "snippet": "The NYPD Hate Crimes Task Force is investigating an aggravated harassment case at a Douglaston church last month. Police from the 111th Precinct in Bayside reported that on the morning of Saturday, March 14, an unidentified individual entered St. Anastasia Roman Catholic Church at 45-50 245th St. sometime between 12:30 pm to 1 p.m. while...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/harassment-st-anastasia-rc-church-douglaston/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-02T18:46:15.922236+00:00",
-      "published_at": "2026-04-02T17:30:08+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sjbtz2/gay_icon_tabatha_coffey_transforms_californian/",
+      "title": "Gay icon Tabatha Coffey transforms Californian LGBTQ+ hotspot 'VIP Nightclub'- ft Mayhem Miller and Morgan McMichaels",
+      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>Tabatha Coffey, the gay icon, steps into **VIP Nightclub** in Riverside, California\u2014a legendary gay bar and drag venue that famously helped launch the careers of *RuPaul's Drag Race icons like Raven and Mayhem Miller*. </p> <p>VIP was once a thriving LGBTQ+ hotspot, but it's now run down and in debt. Tabatha introduces innovative ideas to rejuvenate the club and save their family. </p> <p>A fun, light-hearted episode featuring a fantastic performance by Morgan McMichaels as 'Tabatha Coffey'.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tootsie_r0lla\"> /u/Tootsie_r0lla </a> <br /> <span><a href=\"https://youtu.be/Bq0iAQMdWsc?si=em0b1vJZgtKrO115\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sjbtz2/gay_icon_tabatha_coffey_transforms_californian/\">[comments]</a></span>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-12T11:19:15+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.5,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1siyo4v/i_was_an_audience_member_for_the_lalaparuza_1010/",
       "title": "I was an audience member for the LalaPaRuza- 10/10 experience that I would never do again.",

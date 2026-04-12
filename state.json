@@ -125,9 +125,9 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 4,
-        "disabled": false,
-        "disabled_at": null
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-04-12T22:40:18.736139+00:00"
       },
       "google_news": {
         "consecutive_failures": 0,
@@ -272,9 +272,9 @@
     },
     "Substack picks": {
       "substack": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-12T14:39:30.814362+00:00"
+        "consecutive_failures": 2,
+        "disabled": false,
+        "disabled_at": null
       }
     }
   }

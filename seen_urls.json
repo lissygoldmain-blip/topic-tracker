@@ -4642,5 +4642,9 @@
   "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82ejNOTnRTTzI0XzZHWDRnV1FRd2JLWnVjdHkyM2lOcmVwRlNEUVItM3pWcUE0YncxTDFiLVlJcVhIeG0yS3RxQg?oc=5": {
     "seen_at": "2026-04-12T08:18:04.000623+00:00",
     "source_type": "news"
+  },
+  "https://ny.eater.com/news/410432/nyc-restaurants-closed-april-2026": {
+    "seen_at": "2026-04-12T08:54:12.227815+00:00",
+    "source_type": "feeds"
   }
 }

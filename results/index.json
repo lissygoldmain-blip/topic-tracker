@@ -2597,6 +2597,24 @@
   ],
   "Jobs": [
     {
+      "url": "https://www.adzuna.com/details/5694110507?utm_medium=api&utm_source=bde9bf2e",
+      "title": "Dir of Technical Theater, Production & Venues \u00b7 $70,000\u2013$110,000",
+      "snippet": "Dwight Englewood School \u2014 Director of Technical Theater, Production & Venues Reports To: The Dean of Performing Arts Position Summary The Director of Technical Theater, Production & Venues is responsible for the technical management, maintenance, and oversight of both Schenck Auditorium (450 seats) and Ha\u2026",
+      "source": "adzuna",
+      "source_type": "jobs",
+      "topic_name": "Jobs",
+      "fetched_at": "2026-04-08T23:03:17+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.usitt.orgmailto:natasha.tolleson@templecivictheatre.com",
       "title": "Technical Director",
       "snippet": "Temple Civic Theatre \u00b7 The Technical Director (TD) oversees all technical aspects of all productions, including lighting, sound, set design and construction. \u00b7 TD will operate, maintain, and protect the theatre's technical assets, including lighting, sound, and communications equ",
@@ -4676,6 +4694,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWF9BV3VfWi1KdE9XUGVEUWJzTm05SC12d1NQT0RhX1hnZzdWRjF2cWx4bFdKMExpaWZOQ2lWa3ZmNXNva3BlZmdtbEY5dV8yakdQZk5ISWFTQzRFMlo4Y0kwM1pleWRXX2g0WjZaUkFzUFFMcVZ2Q1d0SkJmU0VRaUxMOTRyaU8wWEZxTFc5ZnVrbmlGd1A1SEZ1QmFta2lPTm85dlVJV0NJNlJY?oc=5",
+      "title": "Meta unveils Muse Spark AI model, eyes AI-native networks - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWF9BV3VfWi1KdE9XUGVEUWJzTm05SC12d1NQT0RhX1hnZzdWRjF2cWx4bFdKMExpaWZOQ2lWa3ZmNXNva3BlZmdtbEY5dV8yakdQZk5ISWFTQzRFMlo4Y0kwM1pleWRXX2g0WjZaUkFzUFFMcVZ2Q1d0SkJmU0VRaUxMOTRyaU8wWEZxTFc5ZnVrbmlGd1A1SEZ1QmFta2lPTm85dlVJV0NJNlJY?oc=5\" target=\"_blank\">Meta unveils Muse Spark AI model, eyes AI-native networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\ub514\uc9c0\ud138\ud22c\ub370\uc774</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-13T08:05:32.052900+00:00",
+      "published_at": "2026-04-12T22:30:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzRWQ2tfYkhrY0pmVEVqeTZXcHFiWW5aSmRSNFVTWWstWUtIN2trdGRBTzVoa2tndUlzbzVNMkpvbENiWndsSFAwc1ZORVZGZGpHYVhUWkVmV2JxNGdteGpJTWl6UzBlQkVPZTBhZEVLcGJqMHdFOFhmT0hpbDE4V0Uxa1FSREtNb1N3QmFLa2ppQXpMRmxQdmMzWWx2ZUV5VnE0bEczN1ZVUm9JSEJIbA?oc=5",
       "title": "Anthropic's Powerful AI Model Too Dangerous to Release - National Today",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzRWQ2tfYkhrY0pmVEVqeTZXcHFiWW5aSmRSNFVTWWstWUtIN2trdGRBTzVoa2tndUlzbzVNMkpvbENiWndsSFAwc1ZORVZGZGpHYVhUWkVmV2JxNGdteGpJTWl6UzBlQkVPZTBhZEVLcGJqMHdFOFhmT0hpbDE4V0Uxa1FSREtNb1N3QmFLa2ppQXpMRmxQdmMzWWx2ZUV5VnE0bEczN1ZVUm9JSEJIbA?oc=5\" target=\"_blank\">Anthropic's Powerful AI Model Too Dangerous to Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
@@ -6456,27 +6492,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGVIOHpQMmdmYkxmckJEMHZqdFYtcWxQNlpIVHI2MkFaaEVvTXhiMzZhSnQydkFib0F6ODR0QWtWUjg4alFSVEhaQU93cGZYdkdjcG5mMjlLRnprYTAtTDNlX1pPd1g5TVA0YVRKOWJzQlU5a3V4eVlYMGgzWmUxWWtSMnM1MzNmNmhfRTVnYm12YWh3Yl9vNEZoWWRkNHBy?oc=5",
-      "title": "Anthropic says its latest AI model is too powerful for public release and that it broke containment during testing - Business Insider",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGVIOHpQMmdmYkxmckJEMHZqdFYtcWxQNlpIVHI2MkFaaEVvTXhiMzZhSnQydkFib0F6ODR0QWtWUjg4alFSVEhaQU93cGZYdkdjcG5mMjlLRnprYTAtTDNlX1pPd1g5TVA0YVRKOWJzQlU5a3V4eVlYMGgzWmUxWWtSMnM1MzNmNmhfRTVnYm12YWh3Yl9vNEZoWWRkNHBy?oc=5\" target=\"_blank\">Anthropic says its latest AI model is too powerful for public release and that it broke containment during testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHNtSGpYa0lzWjlOeGdzWVVXVmFjNGRScWVpcmUzS0l0cHFjMEtINFZySXpUQW15UDdOZlYxVWtTUWpRc1psR0E3R2tnajgwT1RsMVVaYl9Ed0ZfcHd1NnZwMDVzazBsUDdjcHdxVEoxVFdxY0ViVjFnY2h4NTdxLWJBZlJvZFV0SVdELVdoLWpWejZGWmptaQ?oc=5",
+      "title": "Arrest made in fatal Flushing fire that killed 4, including toddler - Gothamist",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHNtSGpYa0lzWjlOeGdzWVVXVmFjNGRScWVpcmUzS0l0cHFjMEtINFZySXpUQW15UDdOZlYxVWtTUWpRc1psR0E3R2tnajgwT1RsMVVaYl9Ed0ZfcHd1NnZwMDVzazBsUDdjcHdxVEoxVFdxY0ViVjFnY2h4NTdxLWJBZlJvZFV0SVdELVdoLWpWejZGWmptaQ?oc=5\" target=\"_blank\">Arrest made in fatal Flushing fire that killed 4, including toddler</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gothamist</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-07T20:53:23.467557+00:00",
-      "published_at": "2026-04-07T20:29:00+00:00",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-13T07:52:39.829336+00:00",
+      "published_at": "2026-04-11T15:10:00+00:00",
       "price": null,
-      "novelty_score": 0.9,
+      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://nyc.streetsblog.org/2026/04/13/parking-enforcement-from-nypd-to-dot-traffic-safety",
       "title": "Push Grows To Move Parking Enforcement From NYPD To DOT",
@@ -8252,24 +8288,6 @@
       "published_at": "2026-04-02T22:57:54+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/queens-man-in-cop-killer-case-beats-murder-count-in-mixed-verdict/",
-      "title": "Woodside man in cop killer case beats murder count in mixed verdict",
-      "snippet": "After about eight hours of deliberation, a Queens jury on Wednesday delivered a mixed verdict against the man holding the gun that killed 31-year-old NYPD Detective Jonathan Diller during a March 2024 traffic stop.\u00a0 Though they found Guy Rivera, 36, not guilty of murdering Diller in the first degree, the jury still found him\u2026 <a class=\"read-more\" href=\"https://qns.com/2026/04/queens-man-in-cop-killer-case-beats-murder-count-in-mixed-verdict/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-03T01:27:41.592951+00:00",
-      "published_at": "2026-04-01T23:05:24+00:00",
-      "price": null,
-      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -12805,6 +12823,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRE5teGs2OEM3VjBXeG9ULXFrMGxHX09tWjdsUFcxcWVBb3c0ZEQxMTdsSjJFcnlRVFNXcXJEenJwaEExZ0xtM2VfdGU0N2ExUHYtaEcyOHdUSGxpUWk3ZEVzT3o4bTl6S2x0OWd0cG9lT0RlbzB1ZHFOWkpQbkgxeFlyeGpMZmlwWTBJYXVpSndkTnBsYkozZUphOHhMMHZH?oc=5",
+      "title": "Steve Bannon wins Supreme Court order likely to lead to dismissal of contempt of Congress conviction - AP News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPRE5teGs2OEM3VjBXeG9ULXFrMGxHX09tWjdsUFcxcWVBb3c0ZEQxMTdsSjJFcnlRVFNXcXJEenJwaEExZ0xtM2VfdGU0N2ExUHYtaEcyOHdUSGxpUWk3ZEVzT3o4bTl6S2x0OWd0cG9lT0RlbzB1ZHFOWkpQbkgxeFlyeGpMZmlwWTBJYXVpSndkTnBsYkozZUphOHhMMHZH?oc=5\" target=\"_blank\">Steve Bannon wins Supreme Court order likely to lead to dismissal of contempt of Congress conviction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-13T08:00:59.094487+00:00",
+      "published_at": "2026-04-06T17:24:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDNEd2RjbE9OUGYtWHlpNHM4TVQ3Z1JqQ3g3LWVSVHVrdVE0X0xSX21kZlR6M2xYZmJqSW1ldVhOd0ZCRDMxbFNWbTJJWkNIMHNyZHJVX3FGWi13ZWRjaTliS0lmRU9RS0xZVldWZ2FodWJjRTl6SGxTV2J2dzF4V3JaTEhGTnJpZVdZcy03cEhfczNfb0Z5Ni1yaUk1VWxjWXJWSktrbFl4U3lyOW0zUVlHOFdzdnVqMXFfZExrWW5OSnVS0gHMAUFVX3lxTE40UGpiXy1YaU85UnJDN2syUi1xV3ZBUmJZeXRjZGQybVlLR2syN1Q2ZWtXYkhKQVliY0xmN1BPd0RfOEhQelBlUkFzUjduQk1BRFAtemoteUdvaEw1SjdGamFqTkhDOFVEM0JVMkRfdUhXOGpadkF1YWZfbWdkYnotWFctS3NiUENRaWhUbDR0bDJrZmtVd3RVQ3lxUGVNNjU4QmM1TXh2ZVc4TkdwclA5aTRGNkxtdXI2bmc3WDVzSnUtenRGVUFWdWlaXw?oc=5",
       "title": "The Supreme Court case that affirmed undocumented immigrants\u2019 right to a free public education - EdSource",

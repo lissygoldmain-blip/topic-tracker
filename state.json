@@ -16,9 +16,9 @@
     },
     "NYC theater & arts": {
       "gdelt": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-12T07:04:26.712650+00:00"
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       },
       "google_news": {
         "consecutive_failures": 0,
@@ -56,9 +56,9 @@
         "disabled": false
       },
       "gdelt": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-12T07:04:58.506688+00:00"
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       },
       "rss": {
         "consecutive_failures": 0,
@@ -103,7 +103,7 @@
         "disabled": false
       },
       "indeed": {
-        "consecutive_failures": 3,
+        "consecutive_failures": 4,
         "disabled": false,
         "disabled_at": null
       },
@@ -272,9 +272,9 @@
     },
     "Substack picks": {
       "substack": {
-        "consecutive_failures": 4,
-        "disabled": false,
-        "disabled_at": null
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-04-13T13:05:22.808675+00:00"
       }
     }
   }

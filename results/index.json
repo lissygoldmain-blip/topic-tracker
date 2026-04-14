@@ -2928,6 +2928,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/04/the-brutalist-investor-lip-sync-rebuked-unpaid-tax-bill-1236860006/",
+      "title": "Lip Sync Productions, UK Film Investor That Backed \u2018The Brutalist,\u2019 Rebuked For \u201cDeliberate\u201d Failure To Pay $19M Tax Bill",
+      "snippet": "EXCLUSIVE: Lip Sync Productions, the British film and TV investor behind titles including The Brutalist and Viggo Mortensen\u2019s Falling, has been named and shamed by the UK&#8217;s tax authorities. HM Revenue &#38; Customs (HMRC) said Lip Sync Productions, a sister company to the collapsed Lipsync post-house, was at the top of its most recently published [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-14T11:01:32.613019+00:00",
+      "published_at": "2026-04-14T10:05:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/04/locker-room-talk-pearl-mackie-chizzy-akudolu-grace-link-1236858960/",
       "title": "Pearl Mackie, Kerry Howard & Chizzy Akudolu Among Cast Of Grace Link\u2019s \u2018Locker Room Talk\u2019",
       "snippet": "EXCLUSIVE: Pearl Mackie (Doctor Who, The Diplomat), Chizzy Akudolu (Tommy &#38; Tuppence, Holby City) and Kerry Howard (Him and Her, Bad Apples) are among the six actresses making up the cast of Grace Link&#8217;s indie TV series Locker Room Talk. Link (Geek Girl, Bulletproof), Florence Andrews (House of Gucci, School of Rock) and Rhianna Merralls [&#8230;]",
@@ -4708,27 +4726,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/04/lebanese-artist-ali-cherri-war-crime-israeli-beirut-strike-1236771593/",
-      "title": "Lebanese Artist & Filmmaker Ali Cherri Files War Crime Complaint Related To Killing Of Parents In Israeli Beirut Strike",
-      "snippet": "Lebanese-French artist and filmmaker Ali Cherri and the Paris-based International Federation for Human Rights (FIDH) have filed a war crime complaint in France related to the killing of his parents in 2024 in an Israeli airstrike in Beirut. Cherri, who divides his time between Paris and Beirut, is one of Lebanon\u2019s best-known contemporary artists, whose [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-02T14:25:12.460548+00:00",
-      "published_at": "2026-04-02T13:02:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1ZyVWNxLTJoNUlHZnp2eWRYd0NlU0w5N3BkYUlFeXFCT0FnVWdpTm5BekdUeXlHSExjNVFGRzNrT0NzUk9VMWFVSGx1WC1EdEtNeG95R3pTcVZsNUxzNVRQVGNrS1dYYWxPUVR4blJNWVpfWDJzUC1PQzh4TDQyVmM4Ul90WmphNFpJeEpaWXlKc2pabGJjOTZuTEYzanIxSUhR0gGoAUFVX3lxTE1QMXlHRUVwTnkzS19jUV9sWHBKNUkzekFwb0t6SVVfaGg0bzRBblB4ZDZaMl9LZnJhVGR3TTVvMUdXaXNSSG5sbVpOZXdTbUpKaVM3VWZBM1g5RG1PWkotbWM3SC1WUVpaTmhDZWZIa3hvdTVCZDhkV1FCcVZJSzh5NVZsSVE2dlhXbmlET0thdzZkRkhXVVRVZ2ZuMW8waUc0ZUdUU3ZUOQ?oc=5",
+      "title": "Anthropic says new AI model too dangerous for public release - KXAN Austin",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1ZyVWNxLTJoNUlHZnp2eWRYd0NlU0w5N3BkYUlFeXFCT0FnVWdpTm5BekdUeXlHSExjNVFGRzNrT0NzUk9VMWFVSGx1WC1EdEtNeG95R3pTcVZsNUxzNVRQVGNrS1dYYWxPUVR4blJNWVpfWDJzUC1PQzh4TDQyVmM4Ul90WmphNFpJeEpaWXlKc2pabGJjOTZuTEYzanIxSUhR0gGoAUFVX3lxTE1QMXlHRUVwTnkzS19jUV9sWHBKNUkzekFwb0t6SVVfaGg0bzRBblB4ZDZaMl9LZnJhVGR3TTVvMUdXaXNSSG5sbVpOZXdTbUpKaVM3VWZBM1g5RG1PWkotbWM3SC1WUVpaTmhDZWZIa3hvdTVCZDhkV1FCcVZJSzh5NVZsSVE2dlhXbmlET0thdzZkRkhXVVRVZ2ZuMW8waUc0ZUdUU3ZUOQ?oc=5\" target=\"_blank\">Anthropic says new AI model too dangerous for public release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KXAN Austin</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-14T11:12:34.159480+00:00",
+      "published_at": "2026-04-11T15:39:53+00:00",
       "price": null,
-      "novelty_score": 0.9,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTk5VRlpIM01TZ0RCT1hvQTBScGVLdnQ4YmgxRUxpX0Z3anJGU2JOeXFyX3FqTWp2eHk3dUdqX1ZFT0pHMllPSF9sblUydlBBaEltb25KYWtONzVoMVQ0aFVlWS1kSFdVTjloY3RLbVV0WkhkQVpOWEROYkQxM1JWcTdpYU01cHhvUENTZnA4UzEwU2Y1T2c?oc=5",
       "title": "Meta Releases Muse Spark, Reboots Consumer AI Push - Let's Data Science",
@@ -6504,24 +6522,6 @@
       "published_at": "2026-04-07T20:55:50+00:00",
       "price": null,
       "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSV9aeGFac0dxeU1PZDM4TmkwUS0yLW1USjc2S0lhMFJ2cHF2R3oyNy1qYWVTeTNLOWhZdW4tY3k4T3J2UVZvQThpU2E0NHA0MlJUdzVvQ3h2SG93blNBTzNOTkFoZmFFb3FiZlI0MUhycjlwU1B1blhhR3AyUHNzNWdYSlJOWWxNVTZvM1hnUS0wemlmTHFXNDhkS1lhWWxHUmFrR2VsR1VPME1rckotWXlmRlRoaXF3S0lGbnVTSmVmNURuYlZsbmZ3RGVCa19sbXJvREZQd2JRR1JNa1EzakxQQUFrLXFtVmxobjcyM2FMaXFiLWVES2JZQ0ZuR2J2Qk1VTTJB0gGLAkFVX3lxTE0wNFVldENZWGFBbDJGVzZpSDlxcjNzbnIwVUZnWmFxQ080V2oycTAxZ3M5ZXlpdzVINGg0aEg4Q2VFYW8tQnNyLUVJTEFIbnJrZU1lN2pvSXo4WVZHUHl4MFN3Nl9SN3BMTkF2RF85U1VIQ3ZXQnZ6REw4Tk1PNXZOWEdBN1V1Q3ZidUcyZmd5TGk1TFh0TElPc2RpUGNpQzZ3N1dKUEpoT1lMOGZiWWE3R3g5SF9xTzBZalNQY0tobGVTZWhzS3pZdlNkX2tvR0V3NHNvb29ZeGdLVkFpVHlNb3ZDYTNfaW1QQW9rbGNJbGVHNXZvYkdUb2pqMFdDVVFqS0s5djFtTm94VQ?oc=5",
-      "title": "Anthropic blocks the release of its most powerful AI model yet, launches new initative to tackle cyber threats - Mint",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxPSV9aeGFac0dxeU1PZDM4TmkwUS0yLW1USjc2S0lhMFJ2cHF2R3oyNy1qYWVTeTNLOWhZdW4tY3k4T3J2UVZvQThpU2E0NHA0MlJUdzVvQ3h2SG93blNBTzNOTkFoZmFFb3FiZlI0MUhycjlwU1B1blhhR3AyUHNzNWdYSlJOWWxNVTZvM1hnUS0wemlmTHFXNDhkS1lhWWxHUmFrR2VsR1VPME1rckotWXlmRlRoaXF3S0lGbnVTSmVmNURuYlZsbmZ3RGVCa19sbXJvREZQd2JRR1JNa1EzakxQQUFrLXFtVmxobjcyM2FMaXFiLWVES2JZQ0ZuR2J2Qk1VTTJB0gGLAkFVX3lxTE0wNFVldENZWGFBbDJGVzZpSDlxcjNzbnIwVUZnWmFxQ080V2oycTAxZ3M5ZXlpdzVINGg0aEg4Q2VFYW8tQnNyLUVJTEFIbnJrZU1lN2pvSXo4WVZHUHl4MFN3Nl9SN3BMTkF2RF85U1VIQ3ZXQnZ6REw4Tk1PNXZOWEdBN1V1Q3ZidUcyZmd5TGk1TFh0TElPc2RpUGNpQzZ3N1dKUEpoT1lMOGZiWWE3R3g5SF9xTzBZalNQY0tobGVTZWhzS3pZdlNkX2tvR0V3NHNvb29ZeGdLVkFpVHlNb3ZDYTNfaW1QQW9rbGNJbGVHNXZvYkdUb2pqMFdDVVFqS0s5djFtTm94VQ?oc=5\" target=\"_blank\">Anthropic blocks the release of its most powerful AI model yet, launches new initative to tackle cyber threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-08T07:19:55.516321+00:00",
-      "published_at": "2026-04-08T04:02:57+00:00",
-      "price": null,
-      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

@@ -16,7 +16,7 @@
     },
     "NYC theater & arts": {
       "gdelt": {
-        "consecutive_failures": 3,
+        "consecutive_failures": 4,
         "disabled": false,
         "disabled_at": null
       },
@@ -56,7 +56,7 @@
         "disabled": false
       },
       "gdelt": {
-        "consecutive_failures": 3,
+        "consecutive_failures": 4,
         "disabled": false,
         "disabled_at": null
       },
@@ -103,9 +103,9 @@
         "disabled": false
       },
       "indeed": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-13T19:04:22.919798+00:00"
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       },
       "playbill_jobs": {
         "consecutive_failures": 0,

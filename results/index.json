@@ -1803,6 +1803,24 @@
   ],
   "Health research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeS03UV9YSnRlVWRMcDc1NzJQMWs0NVZjdlJndWNsalBTQ19GR0dHMW1VSGJONW1scVBLRWpJTWIwNll6V0ZaMnpMazlnRnpjdm14WEYwUGdORml4UGlfbW91aTlqbGM4aGkwOVpLNUNsZE9hQVBxZnQwbzJ1dVQ0aUIxWEFUOXBpamdSTTZLaEl0NHQ3am9jWmdXOFhQYWpCd0tSWjlsY3BzbDgxeDA3TG9fODB5UQ?oc=5",
+      "title": "Social media data helps AI flag potential risks of GLP-1 medications - Medical News Today",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPeS03UV9YSnRlVWRMcDc1NzJQMWs0NVZjdlJndWNsalBTQ19GR0dHMW1VSGJONW1scVBLRWpJTWIwNll6V0ZaMnpMazlnRnpjdm14WEYwUGdORml4UGlfbW91aTlqbGM4aGkwOVpLNUNsZE9hQVBxZnQwbzJ1dVQ0aUIxWEFUOXBpamdSTTZLaEl0NHQ3am9jWmdXOFhQYWpCd0tSWjlsY3BzbDgxeDA3TG9fODB5UQ?oc=5\" target=\"_blank\">Social media data helps AI flag potential risks of GLP-1 medications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical News Today</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-04-14T08:28:22.068072+00:00",
+      "published_at": "2026-04-13T17:24:27+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXkxMmhmOFpwRk1fb29nb2tFRkY2Z3JOYzF2Q0hfQmUzRlNoSzZLMkVVN0Rta3pkemd4MVZqUTBNX2NTOGx2MW5yTEhJam5PZ3luVUc2VnM0WlBjektRNkNjMDhkLW9vUjB6UmN4OERBX1BocnlyQUtzTFkxUVRjNjREYmtXOUIyM2VtZ0xyVk9udWhYbkVvYnhCblRjRXowWElJZHdR?oc=5",
       "title": "Your Genes May Predict How Your Body Reacts To GLP-1s, New Study Says - MindBodyGreen",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXkxMmhmOFpwRk1fb29nb2tFRkY2Z3JOYzF2Q0hfQmUzRlNoSzZLMkVVN0Rta3pkemd4MVZqUTBNX2NTOGx2MW5yTEhJam5PZ3luVUc2VnM0WlBjektRNkNjMDhkLW9vUjB6UmN4OERBX1BocnlyQUtzTFkxUVRjNjREYmtXOUIyM2VtZ0xyVk9udWhYbkVvYnhCblRjRXowWElJZHdR?oc=5\" target=\"_blank\">Your Genes May Predict How Your Body Reacts To GLP-1s, New Study Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MindBodyGreen</font>",
@@ -4712,6 +4730,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTk5VRlpIM01TZ0RCT1hvQTBScGVLdnQ4YmgxRUxpX0Z3anJGU2JOeXFyX3FqTWp2eHk3dUdqX1ZFT0pHMllPSF9sblUydlBBaEltb25KYWtONzVoMVQ0aFVlWS1kSFdVTjloY3RLbVV0WkhkQVpOWEROYkQxM1JWcTdpYU01cHhvUENTZnA4UzEwU2Y1T2c?oc=5",
+      "title": "Meta Releases Muse Spark, Reboots Consumer AI Push - Let's Data Science",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTk5VRlpIM01TZ0RCT1hvQTBScGVLdnQ4YmgxRUxpX0Z3anJGU2JOeXFyX3FqTWp2eHk3dUdqX1ZFT0pHMllPSF9sblUydlBBaEltb25KYWtONzVoMVQ0aFVlWS1kSFdVTjloY3RLbVV0WkhkQVpOWEROYkQxM1JWcTdpYU01cHhvUENTZnA4UzEwU2Y1T2c?oc=5\" target=\"_blank\">Meta Releases Muse Spark, Reboots Consumer AI Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-14T08:39:18.850301+00:00",
+      "published_at": "2026-04-14T07:10:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObTRSYm02Z3VfcmdVTExKa2J0elc5dTl4STl3c2Y0SUIzaFFFc0lQUVJ5MHFEQkdYUGQtdFlLdk1McEs3WThaV0xscXhYNGlnanhCODJISmUtUGVlcTZmYUxCbjVfdlBoWk5XdDkwUFdsbnRKRkE2NkVyX3lmc1pRbzI5T0xoRVpoTzFzeEFGNl9DN19zUjFOdi1HTEJpRXUtNEtkUWxhb1hDYlNtR1NrSmRrdmZ1ZnVOcUJyZQ?oc=5",
       "title": "Anthropic says newest AI model is too powerful to release to public - MSN",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObTRSYm02Z3VfcmdVTExKa2J0elc5dTl4STl3c2Y0SUIzaFFFc0lQUVJ5MHFEQkdYUGQtdFlLdk1McEs3WThaV0xscXhYNGlnanhCODJISmUtUGVlcTZmYUxCbjVfdlBoWk5XdDkwUFdsbnRKRkE2NkVyX3lmc1pRbzI5T0xoRVpoTzFzeEFGNl9DN19zUjFOdi1HTEJpRXUtNEtkUWxhb1hDYlNtR1NrSmRrdmZ1ZnVOcUJyZQ?oc=5\" target=\"_blank\">Anthropic says newest AI model is too powerful to release to public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
@@ -6492,27 +6528,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGxzY1BBQVNINWpjTUJTRnBQNU90d0VFOEpQbkxSdDdGZjVUWVEtaWpMZTlRVHZRVGtZUVU3QlBiVFRvbVh5WTZOQjloNVJ0Z2l4RWM5MG1NZm5xblZnZkJwM2t2akRWeVZfR0JhMlduNmRpbHNsN2IzeXRtY2N0QkNhMm1QRldzOTVrQjVJVnJOVUhPZFhZYnhCcnJ4Z3hxQ1VLTzhIbTdXTDM1bTlZaGRFbEp4TUh2aGdLMzFnV1piQQ?oc=5",
-      "title": "Tiny U.S. Startup Arcee Releases Powerful Open-Source AI Model - National Today",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGxzY1BBQVNINWpjTUJTRnBQNU90d0VFOEpQbkxSdDdGZjVUWVEtaWpMZTlRVHZRVGtZUVU3QlBiVFRvbVh5WTZOQjloNVJ0Z2l4RWM5MG1NZm5xblZnZkJwM2t2akRWeVZfR0JhMlduNmRpbHNsN2IzeXRtY2N0QkNhMm1QRldzOTVrQjVJVnJOVUhPZFhZYnhCcnJ4Z3hxQ1VLTzhIbTdXTDM1bTlZaGRFbEp4TUh2aGdLMzFnV1piQQ?oc=5\" target=\"_blank\">Tiny U.S. Startup Arcee Releases Powerful Open-Source AI Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-08T04:45:36.902572+00:00",
-      "published_at": "2026-04-07T23:32:22+00:00",
+      "url": "https://qns.com/2026/04/photos-woodside-on-the-move-hosts-spring-carnival/",
+      "title": "Photos: Woodside on the Move hosts spring carnival",
+      "snippet": "The community-based organization Woodside on the Move hosted its annual spring carnival on Saturday, April 11, on the schoolyard of P.S. 11Q The Kathryn M. Phelan School, located at 54-25 Skillman Ave. in Woodside. This family-friendly event featured a petting zoo, face painting, balloon twists, tournament games, free books being given away, prizes and more....<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/photos-woodside-on-the-move-hosts-spring-carnival/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-14T08:26:33.208956+00:00",
+      "published_at": "2026-04-13T18:00:03+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.thecity.nyc/2026/04/13/legionnaires-disease-health-department-water-tower-rules/",
       "title": "New Cooling Tower Testing Rules Aim to Quell Legionnaires\u2019 Disease Outbreaks",
@@ -8286,24 +8322,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-04-03T22:27:24.115483+00:00",
       "published_at": "2026-04-03T21:00:15+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/nycfc-paze-city-square/",
-      "title": "NYCFC accepting vendor applications for Paze City Square food hall",
-      "snippet": "New York City FC is welcoming applications for its planned Five Borough Food Hall at Paze City Square, a multifuctional area adjacent to Etihad Park, which is currently undergoing construction at Willets Point. The club will operate a rotating selection of 10 small businesses in the food hall and is now accepting applications for the...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/nycfc-paze-city-square/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-03T22:27:24.115483+00:00",
-      "published_at": "2026-04-03T21:15:27+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,

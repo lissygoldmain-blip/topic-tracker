@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/the-bennett-prize-opens-fifth-call-for-entries/",
+      "title": "The Bennett Prize Opens Fifth Call for Entries",
+      "snippet": "Women figurative realist painters can enter to win $75,000 and a traveling solo exhibition. Applications are open through September 19.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-15T15:01:27.658538+00:00",
+      "published_at": "2026-04-15T14:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.nytimes.com/2026/04/13/arts/music/innocence-met-opera-revolving-set.html#new_tab",
       "title": "This 95-Second Scene Change At The Met Opera Is An Astounding Feat Of Coordination",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/702-4-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />In the company\u2019s staging of Kaija Saariaho\u2019s opera Innocence, seven stage managers, four prop masters, and a big flock of stagehands transform the set from a decorated wedding-banquet hall into a blood-spattered high-school classroom in a minute and a half \u2014 and they do it while the set is rotating. &#8211; The New York Times",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://www.artsjournal.com/2026/04/good-morning-138.html",
-      "title": "Good Morning",
-      "snippet": "The Met Museum&#8217;s first-ever Native American curator, Patricia Marroquin Norby, has resigned \u2014 a hire once celebrated as a watershed (ARTnews). Institutions rewriting their own stories is today&#8217;s quiet theme. A sharp piece argues that arts organizations are still governed by inherited structures that assume a centrality that no longer exists (ArtsHub). Australia is testing [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-02T01:24:04.371108+00:00",
-      "published_at": "2026-04-01T23:04:34+00:00",
-      "price": null,
-      "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -2927,6 +2927,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://deadline.com/2026/04/warner-bros-tom-cruise-movie-digger-no-fall-festival-debut-1236861350/",
+      "title": "Warner Bros\u2019 Tom Cruise Starrer \u2018Digger\u2019 Unlikely To Launch At A Fall Festival \u2014 The Dish",
+      "snippet": "EXCLUSIVE: Warner Bros and Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu&#8217;s Tom Cruise starrer Digger, which wowed at CinemaCon yesterday, is unlikely to debut at a fall festival, we can reveal. The film&#8217;s October 2 release date has led to speculation, and anticipation, in many quarters that Venice or another fall festival would be on the cards. However, according [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-15T15:05:25.842058+00:00",
+      "published_at": "2026-04-15T14:14:26+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://deadline.com/2026/04/unconditional-apple-tv-trailer-1236861249/",
       "title": "\u2018Unconditional\u2019: A Mother-Daughter Vacation Becomes A Nightmare In Trailer For Apple TV\u2019s Israeli Series",
@@ -4708,27 +4726,45 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/04/ann-dowd-back-aunt-lydia-the-testaments-breaking-baz-1236779632/",
-      "title": "Breaking Baz: With \u201cGod\u2019s Blessing,\u201d Ann Dowd Returns As Aunt Lydia In \u2018The Testaments\u2019: \u201cI Couldn\u2019t Get Back To Her Fast Enough\u201d",
-      "snippet": "EXCLUSIVE: Ann Dowd declares that she &#8220;wasn&#8217;t ready to give up&#8221; playing\u00a0the often brutally sadistic Aunt Lydia after portraying\u00a0her for six seasons on the acclaimed television drama\u00a0The Handmaids Tale, so she eagerly welcomed returning to her for The Testaments, the\u00a0sequel to Margaret Atwood&#8217;s dystopian chronicle that premieres Sunday on Hulu. The Emmy Award-winning artist co-stars [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-04T16:30:06.029568+00:00",
-      "published_at": "2026-04-04T16:26:37+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWhab2NXaWJLdnBkSnlvZE9zVWt4V2RvX3BCU0YtSGRHQmpoQXRnWjhhX09MN0g2U0tTLTRxRmVJZzJtbnJzdmFTNWpLQjFpQVhUQWtrNzlQZHdJM0pfckxkSUVwaFNWLVZZdzZzUml2YnZ5VG1OYzF3ZXdVN1NVQlBrWi0zMnhyRGZ1bUc2TnV6RGZPamhsR1ZwTmM1UFhyakY4?oc=5",
+      "title": "Little K Morning News | NVIDIA Releases Quantum AI Model Ising; US Stocks in Storage, Optical Communication, and Fuel Cells Reach New Highs - \u5bcc\u9014\u725b\u725b",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWhab2NXaWJLdnBkSnlvZE9zVWt4V2RvX3BCU0YtSGRHQmpoQXRnWjhhX09MN0g2U0tTLTRxRmVJZzJtbnJzdmFTNWpLQjFpQVhUQWtrNzlQZHdJM0pfckxkSUVwaFNWLVZZdzZzUml2YnZ5VG1OYzF3ZXdVN1NVQlBrWi0zMnhyRGZ1bUc2TnV6RGZPamhsR1ZwTmM1UFhyakY4?oc=5\" target=\"_blank\">Little K Morning News | NVIDIA Releases Quantum AI Model Ising; US Stocks in Storage, Optical Communication, and Fuel Cells Reach New Highs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u5bcc\u9014\u725b\u725b</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-15T15:16:40.207000+00:00",
+      "published_at": "2026-04-14T23:59:46+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUR1aUxnWnJ6VWNHVDFfT1JFWldIaVpDa0pPMUpjOExyWVoxLUN0R0M0TU9XM094VmJFeGFtT3F0X0tRbDk3d3RCeDlFLUc1VGFGM2RBX0ZWc1U1LW5UVm1naV9ubW9KdkVKTXRTZWpReGE2N0NQU3NoRnF4Y2N5NTJTZWk4MnQ2eWVnejhpTktDTzR1enFEWWRqR09jLUJxbVdvRndlSGY1TXF2UTFmcHZqOVBQQ1dKNzU5UjFoYmRoNzRLVDQtWVlSYw?oc=5",
+      "title": "Meta stock surges on \u2018Muse Spark\u2019 AI model release. What has Wall Street excited? - MSN",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUR1aUxnWnJ6VWNHVDFfT1JFWldIaVpDa0pPMUpjOExyWVoxLUN0R0M0TU9XM094VmJFeGFtT3F0X0tRbDk3d3RCeDlFLUc1VGFGM2RBX0ZWc1U1LW5UVm1naV9ubW9KdkVKTXRTZWpReGE2N0NQU3NoRnF4Y2N5NTJTZWk4MnQ2eWVnejhpTktDTzR1enFEWWRqR09jLUJxbVdvRndlSGY1TXF2UTFmcHZqOVBQQ1dKNzU5UjFoYmRoNzRLVDQtWVlSYw?oc=5\" target=\"_blank\">Meta stock surges on \u2018Muse Spark\u2019 AI model release. What has Wall Street excited?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-15T15:16:40.207000+00:00",
+      "published_at": "2026-04-15T04:37:39+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3lldlVmOTZNeHpGY1NNdFBydlZzODIyd1FMSE44QVVrd1RmYzByNFhEZVRRQXRzRU9yMGN6S2hmUjA2RTZuY3BkWHBkQy1QMWlkdUxjN3V5LUgtRmFzN3c4UV9SLUJaWDlGcjBPc0diQkdBVjZOcTUzX0lqbzZQMk1yajJ6MHlRUEJEZVAtSmdDWmp0ZzM5dGtsVXg0QWoyWk93?oc=5",
       "title": "Anthropic claims its new AI model too risky to release to public - Global News",
@@ -6492,45 +6528,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkVJRG9GVWY3TTVxMFZXRE5nQUxoUy1mNlp0Mkg2T1d4dVF2Y2psWnNwXzBiWnNmSldUenJsT1dUNnJXNnEwd3F2Sy1icFRwVnEzMUtTYlRfRDZySHRMZVdNMG1XSFJmaXNZUGpPSXZpdWhLNWdtbWY1WGZkSU5hblJuTGJNY1VZQTMwYnlxdw?oc=5",
-      "title": "Anthropic says its latest AI model can expose weaknesses in software security - The Guardian",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkVJRG9GVWY3TTVxMFZXRE5nQUxoUy1mNlp0Mkg2T1d4dVF2Y2psWnNwXzBiWnNmSldUenJsT1dUNnJXNnEwd3F2Sy1icFRwVnEzMUtTYlRfRDZySHRMZVdNMG1XSFJmaXNZUGpPSXZpdWhLNWdtbWY1WGZkSU5hblJuTGJNY1VZQTMwYnlxdw?oc=5\" target=\"_blank\">Anthropic says its latest AI model can expose weaknesses in software security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-08T20:11:13.131350+00:00",
-      "published_at": "2026-04-08T17:30:00+00:00",
-      "price": null,
-      "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWxqVDA3TGExLXlBb0lucmFvM1E4czh3ejNxVFBTMGR5Mk1kZV9hYTBsSEhFR05tYlVCZHM4dUw1Ukp1TndLa3pRNGN6LUs4WVdmY0hMOXctcE9GTHVmUklQSE5oN21XWmtRZTdIQ3ZZbjM0V3dfSnVsX2I5b1RtdA?oc=5",
-      "title": "Meta Unveils New A.I. Model, Its First From the Superintelligence Lab - The New York Times",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWxqVDA3TGExLXlBb0lucmFvM1E4czh3ejNxVFBTMGR5Mk1kZV9hYTBsSEhFR05tYlVCZHM4dUw1Ukp1TndLa3pRNGN6LUs4WVdmY0hMOXctcE9GTHVmUklQSE5oN21XWmtRZTdIQ3ZZbjM0V3dfSnVsX2I5b1RtdA?oc=5\" target=\"_blank\">Meta Unveils New A.I. Model, Its First From the Superintelligence Lab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-08T20:11:13.131350+00:00",
-      "published_at": "2026-04-08T16:50:33+00:00",
-      "price": null,
-      "novelty_score": 0.9,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Queens & NYC local": [
+    {
+      "url": "https://qns.com/2026/04/queens-foreclosures-boroughs-first-quarter-2026/",
+      "title": "Queens had more foreclosures than three boroughs combined in first quarter of 2026: report",
+      "snippet": "While foreclosures in Queens remained static year-over-year during the first quarter of 2026, it had by far the highest number among all New York City boroughs, according to a report by PropertyShark. Year-over-year, foreclosures in Queens rose just 1%, from 165 in the first quarter of 2025 to 167 in the first quarter of 2026....<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/queens-foreclosures-boroughs-first-quarter-2026/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-15T15:03:03.233373+00:00",
+      "published_at": "2026-04-15T15:00:27+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/how-mamdanis-city-run-grocery-plan-would-work-and-whats-still-unclear-about-its-core-basket-of-staples/",
       "title": "How Mamdani\u2019s city-run grocery plan would work \u2014 and what\u2019s still unclear about its \u2018core basket of staples\u2019",
@@ -8306,24 +8324,6 @@
       "published_at": "2026-04-07T04:03:00+00:00",
       "price": null,
       "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://nyc.streetsblog.org/2026/04/07/exclusive-mamdani-creates-curb-management-office-at-dot-seeking-long-sought-order-from-chaos",
-      "title": "EXCLUSIVE: Mamdani Creates \u2018Curb Management\u2019 Office at DOT, Seeking Order From Chaos",
-      "snippet": "Better management of this vital public space is needed for broader public uses such as safe deliveries, outdoor dining and containerized garbage pick-up.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-07T13:02:45.085763+00:00",
-      "published_at": "2026-04-07T13:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -11254,6 +11254,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjdwd2l6Y3BNWkhIMnpqck1aN3Y0Q1JYTFZEZmhOOXFXakdZZm9YazFULWtNNHZqYzF0NDN2UHowYThlX0otSks3by1MV0d4TlFEY3BBV05INW1oSWI2ZnRaal95dnAyaW5TQ0lDUGVINmg1M2pLQ0Y3S1lMYVREbDFpaHU2NE1vbTlhY1JzcTNBUXpDUGthVjJISmxleEVjd0F2NndRVQ?oc=5",
+      "title": "CT Senate passes ICE oversight bill that would limit immigration enforcement efforts - CT Insider",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjdwd2l6Y3BNWkhIMnpqck1aN3Y0Q1JYTFZEZmhOOXFXakdZZm9YazFULWtNNHZqYzF0NDN2UHowYThlX0otSks3by1MV0d4TlFEY3BBV05INW1oSWI2ZnRaal95dnAyaW5TQ0lDUGVINmg1M2pLQ0Y3S1lMYVREbDFpaHU2NE1vbTlhY1JzcTNBUXpDUGthVjJISmxleEVjd0F2NndRVQ?oc=5\" target=\"_blank\">CT Senate passes ICE oversight bill that would limit immigration enforcement efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CT Insider</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-15T15:11:25.590590+00:00",
+      "published_at": "2026-04-15T01:36:30+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREVBeWl5QkptREtTWGp2TjdMbjRJakJMR1lPTzRxLS1GOVhVMHZERHFhR25tYVowRkxnSGNNNjFGcXZVcUJJNUpMTWVqb1JFR2FTZjE4cU5fZlFNSFd1LTAyT2UySTR6R0szOTJMc1ZwT3N5S2JjMTIzby0tNzNIbkZpSlJjWjcxWUxGUjVkZUx2TktyNjNJRXZnbDlsT1Z4aF9ucVFZcWJHaml6a3NhN3U1bnMtcEU?oc=5",
       "title": "Kathy Hochul\u2019s ICE guardrails have flipped the script for Democrats - Politico",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPREVBeWl5QkptREtTWGp2TjdMbjRJakJMR1lPTzRxLS1GOVhVMHZERHFhR25tYVowRkxnSGNNNjFGcXZVcUJJNUpMTWVqb1JFR2FTZjE4cU5fZlFNSFd1LTAyT2UySTR6R0szOTJMc1ZwT3N5S2JjMTIzby0tNzNIbkZpSlJjWjcxWUxGUjVkZUx2TktyNjNJRXZnbDlsT1Z4aF9ucVFZcWJHaml6a3NhN3U1bnMtcEU?oc=5\" target=\"_blank\">Kathy Hochul\u2019s ICE guardrails have flipped the script for Democrats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
@@ -13034,24 +13052,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1hEd3RTSzYydm1ZeFlQS0lBZ3QwY1ZxNmY0czNKaTBnNHFFSERGMmVBUDhLQzJhVVlZQmJOLTU1aE5UeE95aWpzWGdJM2NaU2JSV25pRXh5Z0RmVmFyUG1RUFBHOE5oODV6Zk1SRHU4MFlKUF9ia28tWTc1NUhxN1lVRVBRV3o5clFkXzJoaXk5NTM5cHJnbWtJZy1leUxGbUFVR0Y3WFVrQQ?oc=5",
-      "title": "ICE shipped a NY man to Louisiana. A total stranger got him home - Syracuse.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1hEd3RTSzYydm1ZeFlQS0lBZ3QwY1ZxNmY0czNKaTBnNHFFSERGMmVBUDhLQzJhVVlZQmJOLTU1aE5UeE95aWpzWGdJM2NaU2JSV25pRXh5Z0RmVmFyUG1RUFBHOE5oODV6Zk1SRHU4MFlKUF9ia28tWTc1NUhxN1lVRVBRV3o5clFkXzJoaXk5NTM5cHJnbWtJZy1leUxGbUFVR0Y3WFVrQQ?oc=5\" target=\"_blank\">ICE shipped a NY man to Louisiana. A total stranger got him home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-03-28T20:59:27.964539+00:00",
-      "published_at": "2026-03-28T12:29:00+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -13093,6 +13093,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SWGs4Q3Z0bFpEY21BdUwzMk52YTYxbnU3dG5ZU0ZQZE5nejZVdDFXTjkyOFhtSHN0OTRnVkRGeUNLbGRtMmI5bU1PdkVFWUphWjFPOWJNSks5cUJzWm4tTXRmNjFTNl9VZTl2RVNRdThhQjhSaGdCQXlraXladw?oc=5",
+      "title": "War powers vote will test Senate\u2019s support for Trump\u2019s war with Iran - The Washington Post",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5SWGs4Q3Z0bFpEY21BdUwzMk52YTYxbnU3dG5ZU0ZQZE5nejZVdDFXTjkyOFhtSHN0OTRnVkRGeUNLbGRtMmI5bU1PdkVFWUphWjFPOWJNSks5cUJzWm4tTXRmNjFTNl9VZTl2RVNRdThhQjhSaGdCQXlraXladw?oc=5\" target=\"_blank\">War powers vote will test Senate\u2019s support for Trump\u2019s war with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-15T15:12:18.538017+00:00",
+      "published_at": "2026-04-15T15:03:41+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWEdJNTJGSnNGaFEzOEJ4QlF2allvU1NjTVJBRl9iY25SV3F1UVliUmQ2S3VXQzRmVFJTb0dkNmNmQWhoVlY0MkxNVHpGSEVSUld2a2s3SHJBU3pOUWxXMHduMVhwbmRicnRzTVNOTGtzVWdSMU9uMGJIdGVodGttVUJwY01fVFVmYkZNcGhHZFkxZ3g4ME4zeGJsVldKZDAwRk1GRWFLaw?oc=5",
       "title": "Supreme Court ruling revives debate over conversion therapy bans, including in Virginia - Virginia Mercury",
@@ -14874,24 +14892,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWVJGU2JsbDdKNi12YVBYUnNKYUFtRnpvREc3OEZGU0xwNTh3NXFwVTZFNFlHTW1OV1VTMXYwekZHV3VXVUtaSWNxNGFXQW1YUVEzZ2lnRWJfc1JwTkY5OXNoUThkSnRuVkVKZUpVTEc0b3IwSXM5dVRfT3hKbjY3UjlXSzJnTHhnWHo4?oc=5",
-      "title": "G.O.P. Senator Weighs Forcing Congress to Vote to Authorize the Iran War - The New York Times",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWVJGU2JsbDdKNi12YVBYUnNKYUFtRnpvREc3OEZGU0xwNTh3NXFwVTZFNFlHTW1OV1VTMXYwekZHV3VXVUtaSWNxNGFXQW1YUVEzZ2lnRWJfc1JwTkY5OXNoUThkSnRuVkVKZUpVTEc0b3IwSXM5dVRfT3hKbjY3UjlXSzJnTHhnWHo4?oc=5\" target=\"_blank\">G.O.P. Senator Weighs Forcing Congress to Vote to Authorize the Iran War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-03-29T08:42:45.773241+00:00",
-      "published_at": "2026-03-26T21:42:07+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Shopping": [
@@ -15275,6 +15275,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1sm8ivk/loring_place_closing_july_14th/",
+      "title": "Loring Place - Closing (July 14th)",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1sm8ivk/loring_place_closing_july_14th/\"> <img alt=\"Loring Place - Closing (July 14th)\" src=\"https://preview.redd.it/qn695c5n9dvg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=3601f953f43775736748cf1ba0dc121e977f187d\" title=\"Loring Place - Closing (July 14th)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A shame, really had some excellent meals here. Hopefully everyone involved lands safely elsewhere. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BVladimirHarkonnen\"> /u/BVladimirHarkonnen </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1sm8ivk\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1sm8ivk/loring_place_closing_july_14th/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-15T14:58:48+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1slrr62/danny_coops_its_not_for_me/",
       "title": "Danny & Coops [Its not for me]",

@@ -108,9 +108,9 @@
         "disabled_at": null
       },
       "playbill_jobs": {
-        "consecutive_failures": 4,
-        "disabled": false,
-        "disabled_at": null
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-04-15T20:44:31.634722+00:00"
       },
       "usitt_jobs": {
         "consecutive_failures": 0,
@@ -125,7 +125,7 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 3,
+        "consecutive_failures": 4,
         "disabled": false,
         "disabled_at": null
       },
@@ -272,9 +272,9 @@
     },
     "Substack picks": {
       "substack": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-15T14:32:25.601851+00:00"
+        "consecutive_failures": 2,
+        "disabled": false,
+        "disabled_at": null
       }
     }
   }

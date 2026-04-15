@@ -2928,6 +2928,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/04/hbo-max-india-launch-jiohotstar-1236861240/",
+      "title": "HBO Max To Launch In India Through JioHotstar",
+      "snippet": "HBO Max is launching in India for the first time. The Warner Bros. Discovery (WBD)-owned global streaming service is debuting in the Asian country with Disney-backed JioHotstar as its exclusive distribution partner. A HBO Max-branded hub launches today on JioHotstar and includes Euphoria Season 3 and the upcoming\u00a0House of the Dragon\u00a0Season 3\u00a0and\u00a0Harry Potter and the [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-15T10:21:35.478736+00:00",
+      "published_at": "2026-04-15T09:31:32+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/04/uk-directors-urge-streaming-residuals-kapadia-haigh-duk-1236858969/",
       "title": "Asif Kapadia, Andrew Haigh, Otto Bathurst & Dozens More British Directors Sign Open Letter Urging Streamers To Negotiate On Residuals: \u201cYou Know The Value We Bring \u2013 Now We Need You To Show It\u201d",
       "snippet": "EXCLUSIVE: British directors including Asif Kapadia, Andrew Haigh and Otto Bathurst have signed an open letter venting frustration at the streamers for failing to engage over residuals. The just-published letter organized by Directors UK comes more than 18 months after the trade body threatened to withhold its members copyright from the streamers if they didn\u2019t [&#8230;]",
@@ -4708,27 +4726,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://www.indiewire.com/features/interviews/francois-ozon-the-stranger-interview-benjamin-voisin-camus-1235186992/",
-      "title": "Fran\u00e7ois Ozon Says the Homoerotic Reading of \u2018The Stranger\u2019 Misses the Point",
-      "snippet": "The French filmmaker tells IndieWire about the seduction it took to obtain rights to the classic novel \u2014 and his leading actor's unusual immersion process to play a character whose indifference is his downfall.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-03T09:57:59.317892+00:00",
-      "published_at": "2026-04-02T18:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONlFQZGNYY0xxcVE1UDkzalRZUU5Lbk5jVHdNc1BMU3BndnhSMnE5amNpWkszV2JKcGs4WkFIN3VURFdKS3RfcGhnZF92d2xzZ0R1SXM1SzZyYTZkZjVpam5MTDg1bVY4QnRVczF5b1VRYWYtSnBxdkZMTjBNdjNsNWI3TXJ6NGViYUZuZTJNUG9OY1Z2dmUxRDZlN1J2eWNHYmk1VlVzcVR5S3Y0TExHOWF4RU5uOEVWb09nYw?oc=5",
+      "title": "Nvidia Releases Open-Source Quantum AI Model Ising, Quantum Computing Sector Rises Collectively, IonQ Gains Over 20% - TradingKey",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxONlFQZGNYY0xxcVE1UDkzalRZUU5Lbk5jVHdNc1BMU3BndnhSMnE5amNpWkszV2JKcGs4WkFIN3VURFdKS3RfcGhnZF92d2xzZ0R1SXM1SzZyYTZkZjVpam5MTDg1bVY4QnRVczF5b1VRYWYtSnBxdkZMTjBNdjNsNWI3TXJ6NGViYUZuZTJNUG9OY1Z2dmUxRDZlN1J2eWNHYmk1VlVzcVR5S3Y0TExHOWF4RU5uOEVWb09nYw?oc=5\" target=\"_blank\">Nvidia Releases Open-Source Quantum AI Model Ising, Quantum Computing Sector Rises Collectively, IonQ Gains Over 20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-15T10:33:05.645637+00:00",
+      "published_at": "2026-04-15T10:04:40+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2hpdkVsRTUzenhGNnd3Q0VfSDJublROTUZwdnQyR3hRQUNGbXFRX1Q5SkdoWE5CNFVuVWx3Z0ctb3hSVlQ3dVFBeWItUkdXeFN1TktCWWpJcExKam8tQ2NubTAzSkhFOXA1QUFUY3kxdlk1NHVxUXRJSWczbkJLSkptSEtZZXQ3Ylo3eUxn?oc=5",
       "title": "Anthropic\u2019s AI model sparks rush from industry, government to batten down defence hatches - The Globe and Mail",
@@ -6504,24 +6522,6 @@
       "published_at": "2026-04-08T16:27:01+00:00",
       "price": null,
       "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM25rWXBKX2traWptOXQtUjRQcUtmZkNrME8zR2RLS2V0djhxdU5kMVRmS2t2YmM2anhhVzcwS1F6cDJyTWZrYl9RRW01QjJ4SWJxQnVSRUpJNldVd1RaNnNDcE9LWnI3bUw3ZllIUmN0cG1FNUp0LUJvU0RnQUpESUs0NjN1Y1B5b2x2ZjlFTDM3ek5uaXZ6ZERqaXkybV82V2VkcjZwQ0VPaW5BalI2aURNTFZMdDN20gG-AUFVX3lxTE9RR0xuc3VtZFluTjJObG0zYWZEZDVZektxRzZoMGtjQzJIYWNqLVlULVUyNEZ1QUN5N0RucVdzYnBHZjM2UzY3WUFoNm9wa29xQmpnbFlfT3lOMm9DN0k2RlhCZ2NPdXJGNlhmTTNxakl4bXF3cEUwM005OGJpTkF3WXItb0xTeDUxRDdYYkw4emtpMXkxV3pRUlU0THRhcFM3bUZCWEF6Q0JncXl6bjR0Y3VOZEZSb1dOZzZoVkE?oc=5",
-      "title": "Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions - CNBC",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM25rWXBKX2traWptOXQtUjRQcUtmZkNrME8zR2RLS2V0djhxdU5kMVRmS2t2YmM2anhhVzcwS1F6cDJyTWZrYl9RRW01QjJ4SWJxQnVSRUpJNldVd1RaNnNDcE9LWnI3bUw3ZllIUmN0cG1FNUp0LUJvU0RnQUpESUs0NjN1Y1B5b2x2ZjlFTDM3ek5uaXZ6ZERqaXkybV82V2VkcjZwQ0VPaW5BalI2aURNTFZMdDN20gG-AUFVX3lxTE9RR0xuc3VtZFluTjJObG0zYWZEZDVZektxRzZoMGtjQzJIYWNqLVlULVUyNEZ1QUN5N0RucVdzYnBHZjM2UzY3WUFoNm9wa29xQmpnbFlfT3lOMm9DN0k2RlhCZ2NPdXJGNlhmTTNxakl4bXF3cEUwM005OGJpTkF3WXItb0xTeDUxRDdYYkw4emtpMXkxV3pRUlU0THRhcFM3bUZCWEF6Q0JncXl6bjR0Y3VOZEZSb1dOZzZoVkE?oc=5\" target=\"_blank\">Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-08T19:16:27.112821+00:00",
-      "published_at": "2026-04-08T16:01:28+00:00",
-      "price": null,
-      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -9416,6 +9416,24 @@
   ],
   "Queer & trans": [
     {
+      "url": "https://www.theguardian.com/world/2026/apr/15/australian-lesbian-groups-fight-to-bar-trans-women-to-return-to-tribunal-after-federal-court-win",
+      "title": "Australian lesbian group\u2019s fight to bar trans women to return to tribunal after federal court win",
+      "snippet": "While the Lesbian Action Group claims a \u2018definite win\u2019, Equality Australia says the judge \u2018simply identified legal errors in the tribunal\u2019s reasoning\u2019",
+      "source": "guardian:World news",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-04-15T09:54:34+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.theguardian.com/world/2026/apr/14/ehrc-supreme-court-ruling-gender-transgender",
       "title": "EHRC updates guidance on how to apply supreme court ruling on gender",
       "snippet": "Changes follow concern that original code created a legal minefield for organisations implementing it",
@@ -11196,27 +11214,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Immigration & ICE": [
     {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjhtX2ZmeF9pOGVWR3ZZR3hFMmRlNlhzT0pXNWRiTU5WanYzaU9VWjlCMi1zUlJPS2t4U3owcHBoZHJCcGw4S1c0QmVqWkhYaDB5SDQxYXJ6bl9SZFVQeXBIeWxBb0Y4NlJYdlduV0lwMEFGaHlsYW80b1p0bnAzY0VoSWpXVDhlc3NhVVV4NzJ0ZUREV3p5ajdTakMxQ1Yw?oc=5",
-      "title": "Republican Legislatures Enact Harshest Anti-Trans Bills Yet - assignedmedia.org",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjhtX2ZmeF9pOGVWR3ZZR3hFMmRlNlhzT0pXNWRiTU5WanYzaU9VWjlCMi1zUlJPS2t4U3owcHBoZHJCcGw4S1c0QmVqWkhYaDB5SDQxYXJ6bl9SZFVQeXBIeWxBb0Y4NlJYdlduV0lwMEFGaHlsYW80b1p0bnAzY0VoSWpXVDhlc3NhVVV4NzJ0ZUREV3p5ajdTakMxQ1Yw?oc=5\" target=\"_blank\">Republican Legislatures Enact Harshest Anti-Trans Bills Yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">assignedmedia.org</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREVBeWl5QkptREtTWGp2TjdMbjRJakJMR1lPTzRxLS1GOVhVMHZERHFhR25tYVowRkxnSGNNNjFGcXZVcUJJNUpMTWVqb1JFR2FTZjE4cU5fZlFNSFd1LTAyT2UySTR6R0szOTJMc1ZwT3N5S2JjMTIzby0tNzNIbkZpSlJjWjcxWUxGUjVkZUx2TktyNjNJRXZnbDlsT1Z4aF9ucVFZcWJHaml6a3NhN3U1bnMtcEU?oc=5",
+      "title": "Kathy Hochul\u2019s ICE guardrails have flipped the script for Democrats - Politico",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPREVBeWl5QkptREtTWGp2TjdMbjRJakJMR1lPTzRxLS1GOVhVMHZERHFhR25tYVowRkxnSGNNNjFGcXZVcUJJNUpMTWVqb1JFR2FTZjE4cU5fZlFNSFd1LTAyT2UySTR6R0szOTJMc1ZwT3N5S2JjMTIzby0tNzNIbkZpSlJjWjcxWUxGUjVkZUx2TktyNjNJRXZnbDlsT1Z4aF9ucVFZcWJHaml6a3NhN3U1bnMtcEU?oc=5\" target=\"_blank\">Kathy Hochul\u2019s ICE guardrails have flipped the script for Democrats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Queer & trans",
-      "fetched_at": "2026-03-31T07:08:20.600029+00:00",
-      "published_at": "2026-03-30T11:00:17+00:00",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-15T10:27:30.366831+00:00",
+      "published_at": "2026-04-15T08:45:00+00:00",
       "price": null,
-      "novelty_score": 0.6,
+      "novelty_score": 0.4,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Immigration & ICE": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWhyUldBUk1Wd29hT0V3SW9hRlVsd1JCSkUwSFV3M3J3SkxKWExUQW5LdDNMSjJJZzRsVkl3WW1CUkM1RlFtNnRaWVZJZDg0UVNIRHoyb1lrR1NSX1VrZ216OFBuODJxcHlzcm5qcEVJR3pDdjd3Q1BISi11R2Y0WnZDU0sxZjJLYnFXRlUwUU9iUTA4RWxoU0E2eTdyUmxKTm40?oc=5",
       "title": "DOJ sues two more local gov\u2019ts for \u2018open defiance\u2019 over migrant sanctuary policies - New York Post",
@@ -12998,24 +13016,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWWRYanNYb0FLb0d4WjdMbXlkenBNSTNjWXc5dlVEQ1RPTjhqbC1VVXhLTURNX3dNaFNJRjNyM1E4MGM5S05EQ3p4UWJ4NGpLTzFjQkhJS1NoRGpnM19EMlQ4b2NGb1Fla3FodnFiU1JPMXptdV83V1E4c1dYUWU4R0I5SXQ5M2Q4ek1UZURMVThWRDBJQ0piWENmUUw1T1phNlJwTy1SZWJ3RnE5SGhqMkNnUmFRWkVlSFF5Sk45OWF5UW9kejJuWFV4TTluQXRuVXdVZ0lYSWJXWVZW?oc=5",
-      "title": "The Mayor\u2019s Office of Immigration Affairs is 5 people. Amid ICE crackdown, some NYC officials want more - City & State New York",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWWRYanNYb0FLb0d4WjdMbXlkenBNSTNjWXc5dlVEQ1RPTjhqbC1VVXhLTURNX3dNaFNJRjNyM1E4MGM5S05EQ3p4UWJ4NGpLTzFjQkhJS1NoRGpnM19EMlQ4b2NGb1Fla3FodnFiU1JPMXptdV83V1E4c1dYUWU4R0I5SXQ5M2Q4ek1UZURMVThWRDBJQ0piWENmUUw1T1phNlJwTy1SZWJ3RnE5SGhqMkNnUmFRWkVlSFF5Sk45OWF5UW9kejJuWFV4TTluQXRuVXdVZ0lYSWJXWVZW?oc=5\" target=\"_blank\">The Mayor\u2019s Office of Immigration Affairs is 5 people. Amid ICE crackdown, some NYC officials want more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City & State New York</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-03-28T20:59:27.964539+00:00",
-      "published_at": "2026-03-25T21:54:48+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -13057,6 +13057,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOTUxSlhmT0F3Ql9MYjI2TDhfbUUtakFOWWxMNXg0Nk1oNDZjbm1NZ2Z5ZVNTRmdnWVdlbXY3MjNSeTlvUzgtUHJrdTZlbGRBYjNPTVlESy1ZUmU1OUpKVVFfeFNyUm9RYnJIRERjaGdoQkdEZTVqWjYyOTZEM3pjUjZZMnFjeVAtVnM0alRYdW84RnpYZVBkYVBsX0tnQ0otVnlmOVE3aFAxM3p0ZzZCMXlYNA?oc=5",
+      "title": "Supreme Court Ruling Revives Debate Over Conversion Therapy Bans, Including in Virginia - Royal Examiner",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOTUxSlhmT0F3Ql9MYjI2TDhfbUUtakFOWWxMNXg0Nk1oNDZjbm1NZ2Z5ZVNTRmdnWVdlbXY3MjNSeTlvUzgtUHJrdTZlbGRBYjNPTVlESy1ZUmU1OUpKVVFfeFNyUm9RYnJIRERjaGdoQkdEZTVqWjYyOTZEM3pjUjZZMnFjeVAtVnM0alRYdW84RnpYZVBkYVBsX0tnQ0otVnlmOVE3aFAxM3p0ZzZCMXlYNA?oc=5\" target=\"_blank\">Supreme Court Ruling Revives Debate Over Conversion Therapy Bans, Including in Virginia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Royal Examiner</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-15T10:28:15.223474+00:00",
+      "published_at": "2026-04-14T18:49:43+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaUxSMkRiOUp0eXVQRXgyNUFEc3lLN0N3N3NwY3FvakVDelRleThHSjByWUpXQ01kWWstekh2Ml9uVTNmeXhHVDVuVl9Xa1NWRURNOVMyRnVvck01NHFWVTh6RXpObU1PbUhEMDIxclJGYXNQRloxUU5rcTN3MjVjOC1YRFN2Z01hMkNhcVEwNGJiUkF6V3VRS1pSNjlSeGZlZUV0eDFIYXVfdVNlcVpqTlpDRXJ6Qzh4MGR4ODFn?oc=5",
       "title": "Orsted braces for UK Supreme Court ruling with major implications for wind - Recharge News",
@@ -14830,24 +14848,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-03-29T08:01:44.827931+00:00",
       "published_at": "2026-03-25T13:57:30+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRbTNUdGRGQ2lVWHZxdFBGQlpfQVhPQURhekVDdC1zZWFocF8tcm9XdVhtWE1PZGhaYWt5T2ZQaFRCTmFnWE5sUk1TanJRdUZlUUk4YWlmVkp6dGVUbjR5T01qUUNVekdHa1ZMLUhScXlTQkhMQjJGR2VnNWNBdw?oc=5",
-      "title": "House GOP passes its own funding bill, rejecting Senate version, as shutdown drags on - The Washington Post",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBRbTNUdGRGQ2lVWHZxdFBGQlpfQVhPQURhekVDdC1zZWFocF8tcm9XdVhtWE1PZGhaYWt5T2ZQaFRCTmFnWE5sUk1TanJRdUZlUUk4YWlmVkp6dGVUbjR5T01qUUNVekdHa1ZMLUhScXlTQkhMQjJGR2VnNWNBdw?oc=5\" target=\"_blank\">House GOP passes its own funding bill, rejecting Senate version, as shutdown drags on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-03-29T07:06:42.779991+00:00",
-      "published_at": "2026-03-28T06:45:00+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

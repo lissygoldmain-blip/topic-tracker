@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/boycott-the-bezos-met-gala-posters-emerge-across-nyc/",
+      "title": "\u201cBoycott the Bezos Met Gala\u201d Posters Emerge Across NYC",
+      "snippet": "The signs protest the sponsors of this year\u2019s event, Jeff Bezos and Lauren Sanch\u00e9z, and target Amazon's alleged worker exploitation and links to ICE.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-15T20:00:48.007647+00:00",
+      "published_at": "2026-04-15T13:35:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.theatermania.com/news/jackie-chan-to-direct-new-production-of-puccinis-turandot_1832718/",
       "title": "Action Star Jackie Chan To Direct\u2026 Puccini?",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/Screenshot_15-4-2026_7834_www.theatermania.com_-150x150.jpeg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />Chan, known for films like\u00a0Rush Hour\u00a0and\u00a0Rumble in the Bronx, will introduce martial arts into the storytelling as a means of emotional expression. Each character will be given a warrior incarnation to represent their inner strength and desires. &#8211; Theatre Mania",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://www.msn.com/en-us/news/other/jeremy-o-harris-had-a-very-productive-time-in-a-japanese-jail/ar-AA1ZWxs5#new_tab",
-      "title": "Jeremy O. Harris Was Quite Productive During His Three Weeks In A Japanese Prison",
-      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/634-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />In a paywalled essay in Vanity Fair, the playwright/actor/screenwriter/Impresario writes that he read 23 books, finished an outline he owed to a film studio, journaled, and profited from his time off the grid. Indeed, he says, \u201cyou could re-create this experience and rich white people would pay for it.\u201d &#8211; The Cut (MSN)",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-02T14:21:29.797788+00:00",
-      "published_at": "2026-04-02T13:34:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -2927,6 +2927,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://www.indiewire.com/features/interviews/exit-8-movie-behind-the-scenes-interview-genki-kawamura-1235189210/",
+      "title": "The Mind-Bending \u2018Exit 8\u2019 Turns the Subway Into Your Worst Nightmare \u2014 If It Wasn\u2019t Already",
+      "snippet": "Genki Kawamura tells IndieWire about turning a hit Japanese video game, set in Tokyo's underground corridors, into a cinematic purgatory for his first partnership with Neon.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-15T20:05:32.917859+00:00",
+      "published_at": "2026-04-15T20:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVGxCdkpscHZ0UkgyS1JDejRuc2cxd25SOEgwcUZQWElVckJSTFY1Vk1CQS1SN3E2UlBURVZqMTZ3Vlo0dDVYQU5mWTI3QV9oSWFuMG9OMGVseDFEZ01wcUhYOElwSXBoeW8tWHNKSExNNHlaYVpzcVAtZ19hcjBjaE5EMHVsNEgyODRr?oc=5",
       "title": "Imani Lewis & Laya DeLeon Hayes To Star In Indie 'Pure' (EXCLUSIVE) - Deadline",
@@ -4708,16 +4726,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/04/wga-deal-amptp-studios-health-plan-1236779810/",
-      "title": "WGA & Studios Officially Confirm Tentative Deal; Guild Says \u201cThis Deal Protects Writers\u2019 Health Plan\u201d",
-      "snippet": "It&#8217;s officially official: The Writers Guild of America has agreed to a tentative new four-year contract with the studios and streamers, says the Greg Hessinger-led Alliance of Motion Picture and Television Producers. The shocker deal, which was on very few people&#8217;s Holy Week and/or Passover bingo card, could prove transformative for how Hollywood labor works, [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-05T03:56:26.916499+00:00",
-      "published_at": "2026-04-05T03:32:36+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWVWbUsza2xyYkJSN3VDWmFpRE9hWjQxdnBXYkxHVk1xN1h6UG1TQjBaQ0dvcll3eHBWb1A5UG93RzRwZGlYNnIxMGM0MzEwTjJnTlZpaXlwX2cwMDUyTnpIenRuZUd5d28zbENFOUlmMVdoS3RhZ0pvN2pfUV9wNGRLUmFRMlZwS00w0gGQAUFVX3lxTFBCaVA0bnJFOFpPTEdyQ2tXTnRjeEl5WXNVVTVYVnppQVEwWnZ4V19jRmJSQWtuX3RqQkFQQjlzVzJCY05ZY1FVLVIybGhQWHl6NlBlXzVjeWh3ZEZmall6eUdIeVBqV0NXUmlPdzgySDFFSThOVDBpR3lrdXk4N2lGTXY5SzJsdHVtSUhSTnVIRQ?oc=5",
+      "title": "Anthropic says new AI model too dangerous for public release - KTLA",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWVWbUsza2xyYkJSN3VDWmFpRE9hWjQxdnBXYkxHVk1xN1h6UG1TQjBaQ0dvcll3eHBWb1A5UG93RzRwZGlYNnIxMGM0MzEwTjJnTlZpaXlwX2cwMDUyTnpIenRuZUd5d28zbENFOUlmMVdoS3RhZ0pvN2pfUV9wNGRLUmFRMlZwS00w0gGQAUFVX3lxTFBCaVA0bnJFOFpPTEdyQ2tXTnRjeEl5WXNVVTVYVnppQVEwWnZ4V19jRmJSQWtuX3RqQkFQQjlzVzJCY05ZY1FVLVIybGhQWHl6NlBlXzVjeWh3ZEZmall6eUdIeVBqV0NXUmlPdzgySDFFSThOVDBpR3lrdXk4N2lGTXY5SzJsdHVtSUhSTnVIRQ?oc=5\" target=\"_blank\">Anthropic says new AI model too dangerous for public release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-15T20:16:48.520863+00:00",
+      "published_at": "2026-04-09T18:45:40+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,
@@ -4725,10 +4745,26 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IQmdvVUFTZjFwNnZsMlgwUnliOU8xUWVMX21Wc3UyUTZOaHd0c2dNbGdZUXlSZk9ySnNjUlMxR0Y5ZmFrdnlqaHRINWNkLTE3TkNPNlEtSDczYkdMS0M4ODJVTnFCVzltZFVKV1hKNGlRcjhPc2c?oc=5",
+      "title": "Rushing to keep up with Anthropic\u2019s Mythos, OpenAI also releases cybersec-focused AI model - Cybernews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9IQmdvVUFTZjFwNnZsMlgwUnliOU8xUWVMX21Wc3UyUTZOaHd0c2dNbGdZUXlSZk9ySnNjUlMxR0Y5ZmFrdnlqaHRINWNkLTE3TkNPNlEtSDczYkdMS0M4ODJVTnFCVzltZFVKV1hKNGlRcjhPc2c?oc=5\" target=\"_blank\">Rushing to keep up with Anthropic\u2019s Mythos, OpenAI also releases cybersec-focused AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybernews</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-15T20:16:48.520863+00:00",
+      "published_at": "2026-04-15T09:44:27+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSFVXY3Z3RHpONDlZRmpINW1MT0swT2E4MGVBMHdMVXVUQUFzMmRwMUR2T09sazN5bHFzMUp2QkFTcjJDYXNlREdQTHVlVktvZXY0bnhrZExmUGJUMGwtQUxUcFNHeWcyOTFNUU9aUlRXdmlHYlUxZFlFOFdtZFQ0Tzh2TlBFTWQ1NXFuOTM5WTF3TmFHblNMTEp5NnJUQndRajM2RHlVOVFNMS1vMG1sM2IzNVpRS1g5UDJEcko0bWJKdW5BQWlTV2VURy1wbXZrWkHSAdcBQVVfeXFMT0tLRXVpTGM0dnIteHZTMmZCUDR1elBtREktbEs1aWRvTlU5akpDdFRZRDVNOVh0UzEyX0J1WVNySWVEcVBQbWVNNTdxaWU4NjM5Rll1SjdXbzQ2SkVjRWR1NlNwRTBYRERTZFNMWkkyMFgzeW1LR2pzWUdlekpuel9XOUpNemt5NXdPU1hmWVNtVEM1bnptbXNKSHo1MjhiaEJZSE1PSDVtd0lVZWprZzQ3VzVILXg4TG5jbkxrVTVQdUFhbFNoSWRnbEdNUml6WmFuWTZ5aWM?oc=5",
       "title": "Google AI Launches Gemini 3.1 Flash TTS: A New Benchmark in Expressive and Controllable AI Voice - MarkTechPost",
@@ -6492,45 +6528,45 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGlQRHNjbkNMampHRlJWOVkxUTlLdmlUMWZoZTJOa05TZFgtNWppRVpBYk5XT0xVdVRBbHFqSlE2NDRQdHBEcGVaZ2p2dnFrZFhjZThBYjV4SlZFekNkdERsWHhhck1HU0NHUjdRNTY3OTg3TExWNXd2cVd4aldaV2tOVWVGZW5BYzRJYTNkWHJlcklfc3FkTmpOOWl3S3MzZTlOSktEVkFUXzZiU21SUUdXZ3J1UDNZaHIxR3RHQnNzR2VfYTZxRVVaQQ?oc=5",
-      "title": "Meta unveils first AI model from costly superintelligence team - Reuters",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGlQRHNjbkNMampHRlJWOVkxUTlLdmlUMWZoZTJOa05TZFgtNWppRVpBYk5XT0xVdVRBbHFqSlE2NDRQdHBEcGVaZ2p2dnFrZFhjZThBYjV4SlZFekNkdERsWHhhck1HU0NHUjdRNTY3OTg3TExWNXd2cVd4aldaV2tOVWVGZW5BYzRJYTNkWHJlcklfc3FkTmpOOWl3S3MzZTlOSktEVkFUXzZiU21SUUdXZ3J1UDNZaHIxR3RHQnNzR2VfYTZxRVVaQQ?oc=5\" target=\"_blank\">Meta unveils first AI model from costly superintelligence team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-08T22:46:25.763447+00:00",
-      "published_at": "2026-04-08T19:30:03+00:00",
-      "price": null,
-      "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzNkdpNDdrZ0tsYW0yc2t1RkFXeElBem1qTzBRR2lqZU11YnBrdmptbXZWUnh0WDNkc3VXbEdiTVBabFZ4MGZxaHlTQUJLdlNrblljVTF0UGs4NFZBVDdzOURYa2xuUms?oc=5",
-      "title": "Meta debuts Muse Spark, first AI model under Alexandr Wang - Axios",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzNkdpNDdrZ0tsYW0yc2t1RkFXeElBem1qTzBRR2lqZU11YnBrdmptbXZWUnh0WDNkc3VXbEdiTVBabFZ4MGZxaHlTQUJLdlNrblljVTF0UGs4NFZBVDdzOURYa2xuUms?oc=5\" target=\"_blank\">Meta debuts Muse Spark, first AI model under Alexandr Wang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-08T22:46:25.763447+00:00",
-      "published_at": "2026-04-08T16:25:35+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Queens & NYC local": [
+    {
+      "url": "https://qns.com/2026/04/richards-constituent-services-mobile-office-hours/",
+      "title": "BP Richards\u2019 Constituent Services department offering mobile office hours at multiple QPL branches",
+      "snippet": "Queens Borough President Donovan Richards announced that his Constituent Services department will be offering mobile office hours on a biweekly basis across multiple Queens Public Library locations starting Monday, April 20. This effort is meant to help bring Richards&#8217; office&#8217;s resources directly to Queens residents. Members of the Constituent Services department will be able to...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/richards-constituent-services-mobile-office-hours/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-15T20:02:47.062006+00:00",
+      "published_at": "2026-04-15T17:00:25+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://qns.com/2026/04/corona-woman-guilty-defrauding-couple/",
+      "title": "Corona woman pleads guilty to defrauding elderly Long Island couple out of nearly $10 million: Feds",
+      "snippet": "A Corona woman admitted she swindled millions of dollars from an elderly married couple from Long Island who employed her as a personal assistant. Catalina Corona, 62, of 51st Avenue near Flushing Meadows Corona Park, pleaded guilty to wire fraud in Brooklyn federal court on April 8 for stealing $9.5 million from investment banker Richard...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/corona-woman-guilty-defrauding-couple/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-15T20:02:47.062006+00:00",
+      "published_at": "2026-04-15T17:30:23+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.6sqft.com/nyc-trivia-returns-to-queens-museum-for-15th-panorama-challenge/",
       "title": "NYC trivia returns to Queens Museum for 15th \u2018Panorama\u2019 Challenge",
@@ -8294,42 +8330,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/queens-distance-runners-cultural-run-filipino/",
-      "title": "Queens Distance Runners relaunches Cultural Run Series with return of Filipino 4-Miler",
-      "snippet": "Queens Distance Runners (QDR) announces the return of its Cultural Run Series \u2014 community-centered runs that celebrate the borough&#8217;s diversity \u2014 with the Amihan Filipino Run on Saturday, April 11, at Flushing Meadows Corona Park. QDR, a grassroots nonprofit running organization, organizes affordable, neighborhood races that showcase its vibrant tapestry. The four-mile race marks the...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/queens-distance-runners-cultural-run-filipino/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-07T18:53:49.726538+00:00",
-      "published_at": "2026-04-07T17:00:45+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/father-bystander-murdered-kew-gardens-funeral/",
-      "title": "Father of innocent bystander murdered by gunmen in Kew Gardens prays he makes it through his son\u2019s funeral",
-      "snippet": "A deacon at a southeast Queens church is thanking his community for the outpouring of love and support his family has experienced since his son and namesake was murdered at a Kew Gardens burger bar last month. As an NYPD manhunt for two suspected killers has passed the two-week mark with no arrests, Demitri McKay,...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/father-bystander-murdered-kew-gardens-funeral/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-07T18:53:49.726538+00:00",
-      "published_at": "2026-04-07T17:40:05+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Drag Race & drag": [
@@ -9451,6 +9451,24 @@
     }
   ],
   "Queer & trans": [
+    {
+      "url": "https://www.theguardian.com/society/2026/apr/15/how-scotland-landmark-ruling-single-sex-spaces-changed-lives",
+      "title": "One year on: how landmark ruling on single-sex spaces has changed lives",
+      "snippet": "Some campaigners are frustrated at slow pace of change, while those impacted are trying to work out what it means day-to-day",
+      "source": "guardian:Society",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-04-15T16:44:27+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUnVHQmtLN0Uxa3h6Y1hVQnpVRU4wOGwtVXVqcDRUVXh1azk1YlBvaVJlQ2JWMDlZVThnVHlwdGdjbGt6WW5vMzFiNnpXdGFJX1djbC1KbmNfbUI0dG1zQWVkNUozY1ZMNE40RlY1MWRSRnRPN1hqV2p5aHczZFpzQVBhS0dFQkhYZnVCUlBFWExId2FNQUVObEJPa1lCRkhLSm1sUmFhbHpSV1VTanVPNkI3UDVKYXpQd09XV3JFc041ZlZlNGtOYVBoUFE2SGFPRmxfV0l4bmpFSm5oNWhDUnJSQjNaaUdNRm93?oc=5",
       "title": "Trump administration settles suit, returns Pride flag to NYC Stonewall monument - Tucson Sentinel",
@@ -11232,27 +11250,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Immigration & ICE": [
     {
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUzVkR1hRdHNOTG1IVWJFQTBsZ0tlYm5wUVNzUHdzbXA4MmlGZ002Wnd2Q0JoX0xGYm14Vk5XQzFQb2YyNVgxTlVQVzBuU2FzVnBpOEQySkpPNmE5NEdEZFpGbGR3dGp3QXR2dDNJWjl2SzdoOXgxZmRCVjllMkhQcktydzc4MnFmNC1Tc3ppUE1qQUg2N0dSU1Ewb1o4eXBuZUxvWUtzeTFDcWNqTl81NHlyVW9KU2hnRGtTTFgtTk44MzdmbFFrbHI3X3ZWUjZMWVFPeXAzcnBPRHhZRlE?oc=5",
-      "title": "India: Presidential approval of regressive Transgender Bill a major step backward for human rights - amnesty.org",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUzVkR1hRdHNOTG1IVWJFQTBsZ0tlYm5wUVNzUHdzbXA4MmlGZ002Wnd2Q0JoX0xGYm14Vk5XQzFQb2YyNVgxTlVQVzBuU2FzVnBpOEQySkpPNmE5NEdEZFpGbGR3dGp3QXR2dDNJWjl2SzdoOXgxZmRCVjllMkhQcktydzc4MnFmNC1Tc3ppUE1qQUg2N0dSU1Ewb1o4eXBuZUxvWUtzeTFDcWNqTl81NHlyVW9KU2hnRGtTTFgtTk44MzdmbFFrbHI3X3ZWUjZMWVFPeXAzcnBPRHhZRlE?oc=5\" target=\"_blank\">India: Presidential approval of regressive Transgender Bill a major step backward for human rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">amnesty.org</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX21LZ0VFeUFtZmgwQjkzZGUzWlI4cDc3VDEtVmR1MnRJeUVyeWJNLXBROUxSeEh1RTQ4SDFEbEJpVHI2elpyYWZud3d6eVpHZUFOaVdqOW4zV2d4MlRodDhuM3pHUk5vMHpnN1lfWTd4MDl4Y0JkS0xuOHBxaUI0VWp0c3F4SW1GaWZyOHEzTTdYNG9yR0FkRjhILWVIVm1lSWZXM05STWRaU28?oc=5",
+      "title": "Judge will revisit blocking immigration court arrests after faulty ICE info - Courthouse News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX21LZ0VFeUFtZmgwQjkzZGUzWlI4cDc3VDEtVmR1MnRJeUVyeWJNLXBROUxSeEh1RTQ4SDFEbEJpVHI2elpyYWZud3d6eVpHZUFOaVdqOW4zV2d4MlRodDhuM3pHUk5vMHpnN1lfWTd4MDl4Y0JkS0xuOHBxaUI0VWp0c3F4SW1GaWZyOHEzTTdYNG9yR0FkRjhILWVIVm1lSWZXM05STWRaU28?oc=5\" target=\"_blank\">Judge will revisit blocking immigration court arrests after faulty ICE info</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Courthouse News</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Queer & trans",
-      "fetched_at": "2026-04-01T07:14:51.999982+00:00",
-      "published_at": "2026-03-31T15:53:45+00:00",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-15T20:11:48.494867+00:00",
+      "published_at": "2026-04-15T18:32:18+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Immigration & ICE": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/nyc/comments/1smaksh/new_yorks_repeal_of_100foot_rule_delayed_until/",
       "title": "New York\u2019s repeal of 100-foot rule delayed until 2026",
@@ -13028,24 +13046,6 @@
       "published_at": "2026-03-25T22:50:52+00:00",
       "price": null,
       "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNlVqN2R0NEg4Ym5XdHA3UVR1Yzg5Zzd6eTJqS3M4Mm5uaUdLYURvN3JjdzJQZHBLQUtQRV8xZHZWR2pBVHFyWl84V18wUmtnMWIwZG42SUR6eXZMVU9oV3BDdFFSdGh4bzRLZmhfa2tManZBbnU3TTZVNW5qNThlTnJkR3dteG4wSXNnN2JkaXVoQm94eERuZC12dHE3M2swUG4tdDZyX05ySmxHcjVsU1lkYnFkLTljYkV0cTRlcHhZZzgz?oc=5",
-      "title": "DOJ says it erroneously relied on ICE memo to justify immigration courthouse arrests - NBC News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNlVqN2R0NEg4Ym5XdHA3UVR1Yzg5Zzd6eTJqS3M4Mm5uaUdLYURvN3JjdzJQZHBLQUtQRV8xZHZWR2pBVHFyWl84V18wUmtnMWIwZG42SUR6eXZMVU9oV3BDdFFSdGh4bzRLZmhfa2tManZBbnU3TTZVNW5qNThlTnJkR3dteG4wSXNnN2JkaXVoQm94eERuZC12dHE3M2swUG4tdDZyX05ySmxHcjVsU1lkYnFkLTljYkV0cTRlcHhZZzgz?oc=5\" target=\"_blank\">DOJ says it erroneously relied on ICE memo to justify immigration courthouse arrests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-03-28T20:59:27.964539+00:00",
-      "published_at": "2026-03-26T03:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

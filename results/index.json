@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/michaelina-wautiers-overdue-triumph/",
+      "title": "Michaelina Wautier\u2019s Overdue Triumph",
+      "snippet": "The Guggenheim Fellowship names 223 winners, CUNY\u2019s Social Practice program plans to shutter, and do we really need to go to the art fairs this spring?",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-16T17:05:47.541215+00:00",
+      "published_at": "2026-04-15T10:00:38+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/the-marsden-hartley-legacy-project-launches-online/",
       "title": "The Marsden Hartley Legacy Project Launches Online",
       "snippet": "The first comprehensive catalogue of artworks by acclaimed modernist painter Marsden Hartley is now freely available on the internet.",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://bachtrack.com/interview-jean-rondeau-goldberg-variations-bachfest-schaffhausen-2026#new_tab",
-      "title": "When Does Bach Cease To Be Bach? Or, What The Hell Did Jean Rondeau Do To The Goldberg Variations?",
-      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/1103-1-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"150\" />Next month the hipster harpsichordist is doing the cycle three different ways: the usual manner, for solo keyboard; arranged for strings, flute and continuo (the scoring of Bach\u2019s Musical Offering; and as a new composition,\u00a0UNDR\u00a0for piano, percussion and electronics. He explains here in a Q&#38;A. &#8211; Bachtrack",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-03T18:36:30.720629+00:00",
-      "published_at": "2026-04-03T18:03:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -2927,6 +2927,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://deadline.com/2026/04/matt-smith-imogen-poots-star-salamander-lives-twice-movie-1236863148/",
+      "title": "Matt Smith & Imogen Poots Set For Mystery-Thriller \u2018The Salamander Lives Twice\u2019; Embankment Boards For Cannes Market",
+      "snippet": "EXCLUSIVE: Matt Smith (House Of The Dragon) and Imogen Poots (Chronology Of Water) are attached to star in mystery-thriller The Salamander Lives Twice, which Embankment Films has boarded for sales ahead of the Cannes market. House Of The Dragon and Doctor Who Smith will play a &#8220;debonair stranger who washes ashore on a remote island [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-16T17:09:54.607372+00:00",
+      "published_at": "2026-04-16T17:08:42+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVG9vMkUySlZvNU1MRDl2SUtDX2VKVUtvc1piMHAtM1RnNkNyY01mNm5WdG9JS0tlS01HWHhyU0hhR2R3V3YxTTRWLTRZcFB1eTh1VkhsOUlQNTZHTGFnNUhYeHM2bGxNTHdIdTJSejhqQmRyamxCTmJKNlRoMy01WjFCaHJoZUw4MEV4TlZ6MzBNbWtIdWc?oc=5",
       "title": "Questlove\u2019s Earth, Wind & Fire Documentary to Open 2026 Tribeca Festival With Live Performance at Beacon Theatre - Blex Media",
@@ -4708,27 +4726,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDVxckVKV2R1MnV4S01WMmRJeXhJRHhTT0JJczFtR29id1h2WWdwMTVwa2JvX3dRTHpFN1hHZWpWX0NsWUV3bUowRGRWMWl5dUlKMllWanhydjlfbnl3bXc3RnRfTDRVUlFzZ203TEM2ZWstcTY2WHV4dEJ3M3RZdDFLZmpmdHM4VENhbko1VXZKZWpjU2ZvVk1teDluNlZT?oc=5",
-      "title": "Alex Garland\u2019s \u2018Elden Ring\u2019 for A24 Starts Filming Next Week - World of Reel",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDVxckVKV2R1MnV4S01WMmRJeXhJRHhTT0JJczFtR29id1h2WWdwMTVwa2JvX3dRTHpFN1hHZWpWX0NsWUV3bUowRGRWMWl5dUlKMllWanhydjlfbnl3bXc3RnRfTDRVUlFzZ203TEM2ZWstcTY2WHV4dEJ3M3RZdDFLZmpmdHM4VENhbko1VXZKZWpjU2ZvVk1teDluNlZT?oc=5\" target=\"_blank\">Alex Garland\u2019s \u2018Elden Ring\u2019 for A24 Starts Filming Next Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World of Reel</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUklUZEtKVDFaRXJscjBwVzdwTnFnVmlNd1VMNHRmWHdnQnVGNFVYVWtfSUZnZ2JIN2ZMY0hSMFhmUUM2eXFncEZpdHBjdFRkMnlMUDZCcWM5Vld5M21KMWhELTdRZmYwVWNGbzZzRklNQndjUkdiZEZNRTBWYkxmY9IBhgFBVV95cUxQUU5aWDM2ZWh6LWxiLVZhWnNPMG9VRUJsMXl6NUJ2eFY4bEdIV1FoX1RscEhIVll2VGozTWw4eWEyeUczXzdxNlNXeTJpdUFmZzRvVlFSZ1k2blA2MTkwa0owdndJa1NTNXEwRUN3UlRqUG9sOFJyQUdlX2JERGRrbDRIN3ZJZw?oc=5",
+      "title": "Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos - CNBC",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUklUZEtKVDFaRXJscjBwVzdwTnFnVmlNd1VMNHRmWHdnQnVGNFVYVWtfSUZnZ2JIN2ZMY0hSMFhmUUM2eXFncEZpdHBjdFRkMnlMUDZCcWM5Vld5M21KMWhELTdRZmYwVWNGbzZzRklNQndjUkdiZEZNRTBWYkxmY9IBhgFBVV95cUxQUU5aWDM2ZWh6LWxiLVZhWnNPMG9VRUJsMXl6NUJ2eFY4bEdIV1FoX1RscEhIVll2VGozTWw4eWEyeUczXzdxNlNXeTJpdUFmZzRvVlFSZ1k2blA2MTkwa0owdndJa1NTNXEwRUN3UlRqUG9sOFJyQUdlX2JERGRrbDRIN3ZJZw?oc=5\" target=\"_blank\">Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-07T07:09:35.615056+00:00",
-      "published_at": "2026-04-04T16:41:36+00:00",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-16T17:21:52.372930+00:00",
+      "published_at": "2026-04-16T14:35:52+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUVhsck9UZ1JvRTRWVE9MeXNPQlhyak9ncHVJUmJSMmREXzJnMm9Wd2NiTHBxek9OUGd5dF9YRmZqMmNRV0huVkktdkNOcUhDbW5sYmpHTnhmNTVTeXY0UTJOaW1OZUJ1b0toYk5Gb2F6dC02WElLR2hDQnpNRWhKWVFyb0I1LVA5WW43dHlfNTRuUmg2aEd4MUJ4Sm04S1BEb3FpX1lWN1k3YlFfeXp0VnVXUHhsUHh4UlBFalZQa0ZHLVE5aGU0RGFkZG1QT3RBQnNYOXEtcVJDZzVBTktxVQ?oc=5",
       "title": "Meta's Muse Spark Model: Big Improvements Reinvigorate Investors - The Globe and Mail",
@@ -6510,27 +6528,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3ZVX18tSVcxSlVnY185Q3FpcHlBbTFUMXRwWXFUT1g5M3FXTUpuOHhDNkM0NFhkYUFqbW80Znd2RFVEdkVNdGV3YnFldkZrQUVmaWtrbmpTVTQ2bEgtZmd4bjNrZU80azdGNHZkOFlqOGE4bTdTR1FjbFNfaV9PZGtnSUlpUTNCenpCVW1vblAweHlLSHc?oc=5",
-      "title": "Anthropic claims newest AI model, Claude Mythos, is too powerful for public release - CBS News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3ZVX18tSVcxSlVnY185Q3FpcHlBbTFUMXRwWXFUT1g5M3FXTUpuOHhDNkM0NFhkYUFqbW80Znd2RFVEdkVNdGV3YnFldkZrQUVmaWtrbmpTVTQ2bEgtZmd4bjNrZU80azdGNHZkOFlqOGE4bTdTR1FjbFNfaV9PZGtnSUlpUTNCenpCVW1vblAweHlLSHc?oc=5\" target=\"_blank\">Anthropic claims newest AI model, Claude Mythos, is too powerful for public release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-09T04:42:29.181362+00:00",
-      "published_at": "2026-04-08T20:22:00+00:00",
+      "url": "https://qns.com/2026/04/31st-street-bike-lanes/",
+      "title": "DOT launches expanded proposal for 31st Street bike lanes from 20th Avenue to Northern Boulevard",
+      "snippet": "The Department of Transportation (DOT) has restarted public engagement for the 31st Street Redesign in Astoria, announcing an expanded proposal to install curbside protected bike lanes from 20th Avenue to Northern Boulevard. In December, Queens Supreme Court Justice Chere\u00e9 Buggs ordered the DOT to halt plans for the redesign, siding with a number of local...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/31st-street-bike-lanes/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-16T17:07:23.594607+00:00",
+      "published_at": "2026-04-16T17:04:55+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/lic-real-estate-breakfast/",
       "title": "Annual LIC Real Estate Breakfast to take place April 21",
@@ -8306,24 +8324,6 @@
       "published_at": "2026-04-07T21:52:36+00:00",
       "price": null,
       "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHd3TTJiNjhJY2VHcHNXaWpJVWdxMzl6WW1ReXhvTGdzVFFHMFg5UHRNb2RuWml1RzZ3VFphb3Utbm5JcFJaME1uQTFnX0lDYzJUSmJGMFpOVUtWWHFfWVZqWXdRWTVqNW5UamlhX1dZS3dDV2daQjNyMWt0OG1oUkhJT3lLSUUzOGJHVUlJUlhYNi1KR2RBV3NjUVMtc19Z0gGmAUFVX3lxTE5OUTQ0NC1Rd2E1UXJ2dGFMb3VqVzlXQURiOENicXVPSFEtNDdSckZWazlObzFna0REdGU1ZEJ0ZmNQaVVvN2NIT29KbUZEUktfNExOSUJBckE5aDJEbzhLQXdya3lQdzduSld1VV9SV25KY1BGQm5XVThFOTN1N3NqMVJlekN1cDJneWtvNUtRZkVnRDhuVTVMVDltX0taZ1JhdEpjWlE?oc=5",
-      "title": "Skeletal remains found under Brooklyn Queens Expressway in Jackson Heights - ABC7 New York",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHd3TTJiNjhJY2VHcHNXaWpJVWdxMzl6WW1ReXhvTGdzVFFHMFg5UHRNb2RuWml1RzZ3VFphb3Utbm5JcFJaME1uQTFnX0lDYzJUSmJGMFpOVUtWWHFfWVZqWXdRWTVqNW5UamlhX1dZS3dDV2daQjNyMWt0OG1oUkhJT3lLSUUzOGJHVUlJUlhYNi1KR2RBV3NjUVMtc19Z0gGmAUFVX3lxTE5OUTQ0NC1Rd2E1UXJ2dGFMb3VqVzlXQURiOENicXVPSFEtNDdSckZWazlObzFna0REdGU1ZEJ0ZmNQaVVvN2NIT29KbUZEUktfNExOSUJBckE5aDJEbzhLQXdya3lQdzduSld1VV9SV25KY1BGQm5XVThFOTN1N3NqMVJlekN1cDJneWtvNUtRZkVnRDhuVTVMVDltX0taZ1JhdEpjWlE?oc=5\" target=\"_blank\">Skeletal remains found under Brooklyn Queens Expressway in Jackson Heights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 New York</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-08T08:12:20.187447+00:00",
-      "published_at": "2026-04-07T20:32:34+00:00",
-      "price": null,
-      "novelty_score": 0.9,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -13112,6 +13112,24 @@
   ],
   "Politics & world": [
     {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EbkpNQy1HczRGLU1sN2xVUWJ1YU1GS25CN3dwQ2RuZWExS3BSeUd5eGRTZ3BrcVNQNzVwTmhqR0hVNFBES2hhd1pCUUxuUHFPUkFSV2VFTDJHMGVBYnk0T0h4VEFWU3VxNWV5X0dYQ196YkltSTNGWWFia3R0Z9IBgwFBVV95cUxPMWNsb0FFYkdNUllkNmVENVIzXzEwcWRGaDJUSHJYZ0swcHBqNEt2bzlRUkRMa0RtT3ZnRVIwVXpwYm1DQnFmdlgtaDJObHcxM2ZRbXlTVFZ6RTJsQmphRGhRLWJfUzhkMmZuLV96MHMtR2x3Q081VWt1WnZnbUt4Rkt0Zw?oc=5",
+      "title": "Democrats to force House GOP vote on ending Iran war - The Hill",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1EbkpNQy1HczRGLU1sN2xVUWJ1YU1GS25CN3dwQ2RuZWExS3BSeUd5eGRTZ3BrcVNQNzVwTmhqR0hVNFBES2hhd1pCUUxuUHFPUkFSV2VFTDJHMGVBYnk0T0h4VEFWU3VxNWV5X0dYQ196YkltSTNGWWFia3R0Z9IBgwFBVV95cUxPMWNsb0FFYkdNUllkNmVENVIzXzEwcWRGaDJUSHJYZ0swcHBqNEt2bzlRUkRMa0RtT3ZnRVIwVXpwYm1DQnFmdlgtaDJObHcxM2ZRbXlTVFZ6RTJsQmphRGhRLWJfUzhkMmZuLV96MHMtR2x3Q081VWt1WnZnbUt4Rkt0Zw?oc=5\" target=\"_blank\">Democrats to force House GOP vote on ending Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-16T17:17:05.951651+00:00",
+      "published_at": "2026-04-15T15:04:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82cDkyZU5JMUtKdTFEQW5YSkNUMk9jVjdGZ3FNX2NramFFdEtmS013SXB1X08wdTNrVnJmaWpkQUdPUHFVekRLXzhFUEkwUXlzZnlCU21lc0I2V2lySmUxQXR2SmJXRVpqMm5DN1BPTXlWNFQ1RlE?oc=5",
       "title": "House defies Trump on immigration with move to shield Haitians - The Washington Post",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE82cDkyZU5JMUtKdTFEQW5YSkNUMk9jVjdGZ3FNX2NramFFdEtmS013SXB1X08wdTNrVnJmaWpkQUdPUHFVekRLXzhFUEkwUXlzZnlCU21lc0I2V2lySmUxQXR2SmJXRVpqMm5DN1BPTXlWNFQ1RlE?oc=5\" target=\"_blank\">House defies Trump on immigration with move to shield Haitians</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
@@ -14884,24 +14902,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-03-30T07:28:49.464660+00:00",
       "published_at": "2026-03-28T04:51:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV25BQUdPcnZ4MUZOc0xKbzV5RnBqamJCNms4Snd5alpZNkhFT19zRS05YlJoZkJBNExBaFZaSTdqMm9iSzM2UEtETGFLUFZ4ZnpDMzBqNFNuQkFwY25XWERPUmFSTVB2RWlXNm9WNF9kUmdQUVZaZHF0QlBsU2tYSC1vTVpaN3RQcnIweGFpQ0IyMXlYV1pSbWthS0VZUQ?oc=5",
-      "title": "Breakthrough in the dead of night: Senate approves partial funding for DHS - MS NOW",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQV25BQUdPcnZ4MUZOc0xKbzV5RnBqamJCNms4Snd5alpZNkhFT19zRS05YlJoZkJBNExBaFZaSTdqMm9iSzM2UEtETGFLUFZ4ZnpDMzBqNFNuQkFwY25XWERPUmFSTVB2RWlXNm9WNF9kUmdQUVZaZHF0QlBsU2tYSC1vTVpaN3RQcnIweGFpQ0IyMXlYV1pSbWthS0VZUQ?oc=5\" target=\"_blank\">Breakthrough in the dead of night: Senate approves partial funding for DHS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MS NOW</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-03-29T22:33:37.842627+00:00",
-      "published_at": "2026-03-27T08:59:03+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

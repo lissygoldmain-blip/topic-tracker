@@ -1,6 +1,42 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/tutto-boetti-1966-1993/",
+      "title": "Tutto Boetti 1966\u20131993",
+      "snippet": "An exhibition of works by Alighiero Boetti at Magazzino Italian Art.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-16T19:01:15.136758+00:00",
+      "published_at": "2026-04-15T13:35:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://hyperallergic.com/required-reading-780/",
+      "title": "Required Reading",
+      "snippet": "This week: Tania Bruguera\u2019s museum manifesto in stained glass, Molly Crabapple on AI\u2019s art heist, Rachel Corrie\u2019s mother speaks out, remembering Ashaji, right-wing knitters, and more.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-16T19:01:15.136758+00:00",
+      "published_at": "2026-04-16T18:38:38+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/michaelina-wautiers-overdue-triumph/",
       "title": "Michaelina Wautier\u2019s Overdue Triumph",
       "snippet": "The Guggenheim Fellowship names 223 winners, CUNY\u2019s Social Practice program plans to shutter, and do we really need to go to the art fairs this spring?",
@@ -1763,42 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/leah-ki-yi-zhengs-personal-i-ching/",
-      "title": "Leah Ki Yi Zheng\u2019s Personal I Ching",
-      "snippet": "The artist is synthesizing the divergent cultural histories of Western oil painting and Eastern ink painting into one.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-03T22:25:49.135513+00:00",
-      "published_at": "2026-04-03T20:40:03+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/poc-arts-nonprofits-face-severe-staffing-challenges-survey-finds/",
-      "title": "POC Arts Nonprofits Face Severe Staffing Challenges, Survey Finds",
-      "snippet": "A new report by Museum Hue sheds light on the difficulties faced by dozens of museums and cultural centers led by people of color in the Northeastern states.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-03T20:27:37.525419+00:00",
-      "published_at": "2026-04-03T19:52:40+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -2927,6 +2927,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://deadline.com/2026/04/brady-corbet-american-mysticism-occult-storyhouse-1236863168/",
+      "title": "Brady Corbet Says Next Movie Is About \u201cAmerican Mysticism\u201d & \u201cThe History Of The Occult In America\u201d",
+      "snippet": "Brady Corbet\u2019s touched down at Dublin\u2019s Storyhouse screenwriting festival on Thursday where he teased details of his next feature film following his Oscar-winning 2024 title&#160;The Brutalist.&#160; \u201cMy new film is a film that is sort of about American mysticism and the history of the occult in America and I\u2019ve been reading tons and tons of [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-16T19:05:10.484556+00:00",
+      "published_at": "2026-04-16T18:30:58+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://deadline.com/2026/04/matt-smith-imogen-poots-star-salamander-lives-twice-movie-1236863148/",
       "title": "Matt Smith & Imogen Poots Set For Mystery-Thriller \u2018The Salamander Lives Twice\u2019; Embankment Boards For Cannes Market",
@@ -4708,27 +4726,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3l5aVc4MTlyckROZkxPTE1RRE9tRlpwbFU0ajEzcWNuaEhtN3lVRGhhQWprb1ltWU9JcWVxcVB1R0o3Sm9CZFBwa1dTRWpUMHNCQUdmSVhBR1dfLTBZMWdnU3lMOTZVN1Z5S3Y3eW83NlBzaU8xQW1uSnZqWHpEdm5OckVRbnlZNHVGLWlGb3F6TjJRb3NZRWpjQmtidzlWa0RhTWNqWjJCT1dvbEk4YVZnNWR3R05VSHBqbXAtN2E5WWt2MEN4WUc1azhRNFFmWU1IQkZzbVo?oc=5",
-      "title": "\u2018Blue Film\u2019 Trailer: Reed Birney & Kieron Moore Reopen A Dangerous Past In Elliot Tuttle\u2019s Queer Chamber Thriller - The Playlist",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3l5aVc4MTlyckROZkxPTE1RRE9tRlpwbFU0ajEzcWNuaEhtN3lVRGhhQWprb1ltWU9JcWVxcVB1R0o3Sm9CZFBwa1dTRWpUMHNCQUdmSVhBR1dfLTBZMWdnU3lMOTZVN1Z5S3Y3eW83NlBzaU8xQW1uSnZqWHpEdm5OckVRbnlZNHVGLWlGb3F6TjJRb3NZRWpjQmtidzlWa0RhTWNqWjJCT1dvbEk4YVZnNWR3R05VSHBqbXAtN2E5WWt2MEN4WUc1azhRNFFmWU1IQkZzbVo?oc=5\" target=\"_blank\">\u2018Blue Film\u2019 Trailer: Reed Birney & Kieron Moore Reopen A Dangerous Past In Elliot Tuttle\u2019s Queer Chamber Thriller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Playlist</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSl9MMXFKbGtLSjhGeEtmY2E3UGRROTVMT3g2Z0IxYnhWdDZJNTFzNUFoNi1MWmdOdVlJZ1lhMzd5eVZicHNEdlBMMk8zOHBMcFpjS2tTb0N6NF9qaXZXU2VKNU51aWNEUFpVb3JPb0hsVHVnX2V6Z0VHQXNvcUpycm9GUjY4Q2lVVDdYMktBd3hyMmRSWkVRNHZVN3VLQQ?oc=5",
+      "title": "Anthropic releases Claude Opus 4.7, impacting AI model market standings - Crypto Briefing",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOSl9MMXFKbGtLSjhGeEtmY2E3UGRROTVMT3g2Z0IxYnhWdDZJNTFzNUFoNi1MWmdOdVlJZ1lhMzd5eVZicHNEdlBMMk8zOHBMcFpjS2tTb0N6NF9qaXZXU2VKNU51aWNEUFpVb3JPb0hsVHVnX2V6Z0VHQXNvcUpycm9GUjY4Q2lVVDdYMktBd3hyMmRSWkVRNHZVN3VLQQ?oc=5\" target=\"_blank\">Anthropic releases Claude Opus 4.7, impacting AI model market standings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-07T07:09:36.588494+00:00",
-      "published_at": "2026-04-05T15:16:28+00:00",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-16T19:16:03.699799+00:00",
+      "published_at": "2026-04-16T15:52:27+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUklUZEtKVDFaRXJscjBwVzdwTnFnVmlNd1VMNHRmWHdnQnVGNFVYVWtfSUZnZ2JIN2ZMY0hSMFhmUUM2eXFncEZpdHBjdFRkMnlMUDZCcWM5Vld5M21KMWhELTdRZmYwVWNGbzZzRklNQndjUkdiZEZNRTBWYkxmY9IBhgFBVV95cUxQUU5aWDM2ZWh6LWxiLVZhWnNPMG9VRUJsMXl6NUJ2eFY4bEdIV1FoX1RscEhIVll2VGozTWw4eWEyeUczXzdxNlNXeTJpdUFmZzRvVlFSZ1k2blA2MTkwa0owdndJa1NTNXEwRUN3UlRqUG9sOFJyQUdlX2JERGRrbDRIN3ZJZw?oc=5",
       "title": "Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos - CNBC",
@@ -6510,27 +6528,45 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXVmZ1NNSmxYdjBZQlV6bmQtcFFMa2JCXzhUaEREZ2tObHdPaHI0bk01MWRnTDNsTzNKV0IxT2pxWU5tMy0tcE1kd2l5cGFLeW8zTlpDMmJPaTFjcWR2RTdDM1VrVEtNZHA1MEx4RzlQQW9YSE82TExtQV9fcFRUb1luM1g5Nml3SjFrU2RkVDJKOVBMN0Q1WWFtR200ME91RXlWcDFaaW9wV2lDV0tV?oc=5",
-      "title": "Anthropic says newest AI model is too powerful to release to public - NBC News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXVmZ1NNSmxYdjBZQlV6bmQtcFFMa2JCXzhUaEREZ2tObHdPaHI0bk01MWRnTDNsTzNKV0IxT2pxWU5tMy0tcE1kd2l5cGFLeW8zTlpDMmJPaTFjcWR2RTdDM1VrVEtNZHA1MEx4RzlQQW9YSE82TExtQV9fcFRUb1luM1g5Nml3SjFrU2RkVDJKOVBMN0Q1WWFtR200ME91RXlWcDFaaW9wV2lDV0tV?oc=5\" target=\"_blank\">Anthropic says newest AI model is too powerful to release to public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-09T07:27:26.832058+00:00",
-      "published_at": "2026-04-09T02:14:22+00:00",
+      "url": "https://www.thecity.nyc/2026/04/16/gay-couple-denied-ivf-benefits-class-action-lgbtq/",
+      "title": "Judge Slams City in Gay Couple\u2019s IVF Discrimination Case",
+      "snippet": "<figure><img alt=\"Nicholas Maggipinto left, and Corey Briskin say they were denied full IVF benefits through the city&#039;s health insurance.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2026/04/ivf_couple.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A federal judge said she is \u201cvery, very troubled\u201d by a pattern of errors and foot-dragging by city lawyers in a class-action lawsuit over in vitro fertilization benefits for gay men covered by the city\u2019s health plan.\u00a0 The suit, filed in May 2024, alleges the city is violating the rights of gay male employees and [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/16/gay-couple-denied-ivf-benefits-class-action-lgbtq/\">Judge Slams City in Gay Couple\u2019s IVF Discrimination Case</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-16T19:02:49.493874+00:00",
+      "published_at": "2026-04-16T18:44:18+00:00",
       "price": null,
-      "novelty_score": 0.95,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://qns.com/2026/04/jackson-heights-man-sentenced-kidnapping-rape/",
+      "title": "Jackson Heights man sentenced for the kidnapping and rape of three young women, including two minors: DA",
+      "snippet": "A sadistic sexual predator from Jackson Heights was sentenced to four decades in prison on Wednesday for the kidnapping and rape of three young women, including two minors, in 2022 and 2023. Andres Portilla, 31, of 85th Street, pleaded guilty on March 23 in Queens Supreme Court before jury selection was expected to begin for...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/jackson-heights-man-sentenced-kidnapping-rape/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-16T19:02:49.249084+00:00",
+      "published_at": "2026-04-16T18:30:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/31st-street-bike-lanes/",
       "title": "DOT launches expanded proposal for 31st Street bike lanes from 20th Avenue to Northern Boulevard",
@@ -8288,42 +8324,6 @@
       "published_at": "2026-04-08T09:00:00+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.thecity.nyc/2026/04/08/rikers-island-311-gale-brewer-law/",
-      "title": "Closing the Rikers Island 311 \u2018Black Hole\u2019",
-      "snippet": "<figure><img alt=\"Metal gates lock in detainees at the Otis Bantum Correctional Center on Rikers Island.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/03/032025_rikers_bantum-2.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Manhattan City Councilmember Gale Brewer is drafting legislation to force public tracking of complaints from Rikers Island made through the city\u2019s 311 system, aiming to bring transparency and accountability to a largely opaque process. The proposal follows reporting by THE CITY that found tens of thousands of jail-related calls to 311 each year are not [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/08/rikers-island-311-gale-brewer-law/\">Closing the Rikers Island 311 \u2018Black Hole\u2019</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-08T10:10:33.024131+00:00",
-      "published_at": "2026-04-08T09:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbE9PRlBQWDFQcTJva3NDZDc1QkNpY2dzTXVqdzhQRHRYdlZ2YkpkMWpJcGk1MldwTWFfVTB6dHNEWTNBOUhtc3cxU0RQbE5YZHZldnZfXzA1cGNrUzRqUjdBOW14UWlMTS0xcnR6cXp0SWJSdDQxZ04tTHE0Nmx2enNUOA?oc=5",
-      "title": "Skeletal remains found under Brooklyn Queens Expressway in Jackson Heights - AOL.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbE9PRlBQWDFQcTJva3NDZDc1QkNpY2dzTXVqdzhQRHRYdlZ2YkpkMWpJcGk1MldwTWFfVTB6dHNEWTNBOUhtc3cxU0RQbE5YZHZldnZfXzA1cGNrUzRqUjdBOW14UWlMTS0xcnR6cXp0SWJSdDQxZ04tTHE0Nmx2enNUOA?oc=5\" target=\"_blank\">Skeletal remains found under Brooklyn Queens Expressway in Jackson Heights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-08T08:55:39.002670+00:00",
-      "published_at": "2026-04-07T21:52:36+00:00",
-      "price": null,
-      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -13112,6 +13112,24 @@
   ],
   "Politics & world": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORUJnejVNWE9nb09saVVZTzc0OE1rQWZhOHNKS0RKSzN0ejZ2OTBpYUx0c1BTX3VkY2tuTm5FdDQ2SVhUMkhmQk5kTm0zQnNYUERmRlp2VW1MRUdsdWVlNTV6dEc5VTZoTUhCVmRGcWNjR0wzRTlxLWF0OXVHdFpnMkdfSGl4S2VxVk4xMldUc3RvaGNlU25BbUF2Um1FYTVJLXg4?oc=5",
+      "title": "BREAKING: Pressley Measure to Extend Haiti TPS Adopted by House - House.gov",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORUJnejVNWE9nb09saVVZTzc0OE1rQWZhOHNKS0RKSzN0ejZ2OTBpYUx0c1BTX3VkY2tuTm5FdDQ2SVhUMkhmQk5kTm0zQnNYUERmRlp2VW1MRUdsdWVlNTV6dEc5VTZoTUhCVmRGcWNjR0wzRTlxLWF0OXVHdFpnMkdfSGl4S2VxVk4xMldUc3RvaGNlU25BbUF2Um1FYTVJLXg4?oc=5\" target=\"_blank\">BREAKING: Pressley Measure to Extend Haiti TPS Adopted by House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">House.gov</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-16T19:11:48.758760+00:00",
+      "published_at": "2026-04-16T17:44:24+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EbkpNQy1HczRGLU1sN2xVUWJ1YU1GS25CN3dwQ2RuZWExS3BSeUd5eGRTZ3BrcVNQNzVwTmhqR0hVNFBES2hhd1pCUUxuUHFPUkFSV2VFTDJHMGVBYnk0T0h4VEFWU3VxNWV5X0dYQ196YkltSTNGWWFia3R0Z9IBgwFBVV95cUxPMWNsb0FFYkdNUllkNmVENVIzXzEwcWRGaDJUSHJYZ0swcHBqNEt2bzlRUkRMa0RtT3ZnRVIwVXpwYm1DQnFmdlgtaDJObHcxM2ZRbXlTVFZ6RTJsQmphRGhRLWJfUzhkMmZuLV96MHMtR2x3Q081VWt1WnZnbUt4Rkt0Zw?oc=5",
       "title": "Democrats to force House GOP vote on ending Iran war - The Hill",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1EbkpNQy1HczRGLU1sN2xVUWJ1YU1GS25CN3dwQ2RuZWExS3BSeUd5eGRTZ3BrcVNQNzVwTmhqR0hVNFBES2hhd1pCUUxuUHFPUkFSV2VFTDJHMGVBYnk0T0h4VEFWU3VxNWV5X0dYQ196YkltSTNGWWFia3R0Z9IBgwFBVV95cUxPMWNsb0FFYkdNUllkNmVENVIzXzEwcWRGaDJUSHJYZ0swcHBqNEt2bzlRUkRMa0RtT3ZnRVIwVXpwYm1DQnFmdlgtaDJObHcxM2ZRbXlTVFZ6RTJsQmphRGhRLWJfUzhkMmZuLV96MHMtR2x3Q081VWt1WnZnbUt4Rkt0Zw?oc=5\" target=\"_blank\">Democrats to force House GOP vote on ending Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
@@ -14892,24 +14910,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPX2FFSC1jVzI4SXlVY0pkbndjUW5FLXpZNy1obEt6WHRhYVZRMFBoaDMxNlE4dm5PeVJZSk01SWxGUEx2cHZNNEJLeXNGSEhjeHI2VktEQ1BYWThxMV9QYXVXY2x0b21wbmhQWldaWWZoRXRRN2d3c3BfTk5JUkVPbVpDc0NzSnBBMmpHSWRSSnRSX3REem56RWxaZ1JmS0h2eHFZczZFaG9SRW1RaGpnTzVMQUg0RUVCeU9hb1NXSFZUUndQdS0tNHNqbEI5LTAtdVVtYjF6ZmoxNUZuRXFQSWp3eks1X1h2TmxkS0lKcnlldjA5VVZCNy1KblJ5al9hbU9oaFpVaXdNR2s5aTRYQ0tnMDVMbkZvVVNTRFRXZnNhakt2M25ZamxWLUxEMzIyQ3NscDR5QlIzaWQ3MXd6dXdKdzYwNmlVVm9sN1pub0FKa1FjbkljbkVRUU1sMHMyZW1ZVnM4V3dOVDJZajRRTXpRaHo1U0RQR21QZ2U3RnJXVkh3UUc4Qkd4WFZZMENOeFlCRkdzTE9kYWFjbGhQR1lQWHlHTURYeS1IOXhwS0NJX1VIaV9Z?oc=5",
-      "title": "Trump Takes Executive Action to Pay TSA Workers as Funding Stalls in Congress - WSJ",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxPX2FFSC1jVzI4SXlVY0pkbndjUW5FLXpZNy1obEt6WHRhYVZRMFBoaDMxNlE4dm5PeVJZSk01SWxGUEx2cHZNNEJLeXNGSEhjeHI2VktEQ1BYWThxMV9QYXVXY2x0b21wbmhQWldaWWZoRXRRN2d3c3BfTk5JUkVPbVpDc0NzSnBBMmpHSWRSSnRSX3REem56RWxaZ1JmS0h2eHFZczZFaG9SRW1RaGpnTzVMQUg0RUVCeU9hb1NXSFZUUndQdS0tNHNqbEI5LTAtdVVtYjF6ZmoxNUZuRXFQSWp3eks1X1h2TmxkS0lKcnlldjA5VVZCNy1KblJ5al9hbU9oaFpVaXdNR2s5aTRYQ0tnMDVMbkZvVVNTRFRXZnNhakt2M25ZamxWLUxEMzIyQ3NscDR5QlIzaWQ3MXd6dXdKdzYwNmlVVm9sN1pub0FKa1FjbkljbkVRUU1sMHMyZW1ZVnM4V3dOVDJZajRRTXpRaHo1U0RQR21QZ2U3RnJXVkh3UUc4Qkd4WFZZMENOeFlCRkdzTE9kYWFjbGhQR1lQWHlHTURYeS1IOXhwS0NJX1VIaV9Z?oc=5\" target=\"_blank\">Trump Takes Executive Action to Pay TSA Workers as Funding Stalls in Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-03-30T07:28:49.464660+00:00",
-      "published_at": "2026-03-28T04:51:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Shopping": [
@@ -15293,6 +15293,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1snaph5/a_bayside_excursion_chicken_lovers/",
+      "title": "A Bayside excursion: Chicken Lovers",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1snaph5/a_bayside_excursion_chicken_lovers/\"> <img alt=\"A Bayside excursion: Chicken Lovers\" src=\"https://preview.redd.it/0gu55mgq8lvg1.jpg?width=140&amp;height=120&amp;auto=webp&amp;s=3fc95f7f502bc65dc84e01673dbf9744a898bf2c\" title=\"A Bayside excursion: Chicken Lovers\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.yelp.com/biz/chicken-lovers-bayside-2\">https://www.yelp.com/biz/chicken-lovers-bayside-2</a></p> <p>This place had been nagging at me since I first heard of it, and yesterday I finally made the trip. Easy enough, subway to Penn then LIRR to Bayside. No transfer if you get a purely Port Washington train. It's a few minutes' walk from the station; if you go through the residential area, you can enjoy a tranquil and well-manicured neighborhood instead of roads with heavy traffic.</p> <p>It's what it looks like. I love this kind of no-nonsense, sleeves-up joint, but they take it a step further and it's almost more like a factory than a restaurant. Behind the glass, there's a small army of people grilling the meat, and behind the counter, still others boxing up orders, answering the phone, etc. In the sixth pic you can see someone in the back filling up cups of green sauce and I wish I'd gotten a better shot of that. I did <em>not</em> realize how popular they were--people kept streaming in for their to-go orders. Plenty of seating, but only I and one other party chose to eat in. </p> <p>Since I didn't know when I'd be back, I ordered a lot, intending to take some home. Two lunch combos, one with a half-chicken, mac and cheese, and rice, and one with a half-rack of ribs, red potatoes, and buttered corn. Both also included a pita, drink, and generous cup of green sauce. <a href=\"https://i.imgur.com/HYgi7lJ.jpg\">And at $30</a>, the sheer quantity of food made this feel like an incredible value compared to what I often pay in Manhattan to eat out, despite the credit card fee. They told me half an hour, had it up in 20 minutes. The chicken was very nicely done, tender, smoky, not dry at all, and perfect with that sauce, which seemed like an aji verde, with flavors of cilantro and jalapeno and the like. Incredible stuff. (The place seems to have Peruvian origins but doesn't lean into that identity at all.) Ribs were fall-off-the-bone amazing, with the right amount of a somewhat sweet barbecue sauce, not slathered in it. Gun to head, I couldn't pick a favorite between them. As for the sides:</p> <p>Mac and cheese - competent but not memorable</p> <p>Rice - my favorite. Gently seasoned with something or other. Bits of chopped veggies</p> <p>Red potatoes - second favorite. Thoroughly cooked</p> <p>Buttered corn - fine, I mean, it's hard to fuck this one up</p> <p>I'll be working off the leftovers in my fridge for the next couple of days. This was another afternoon trip from the Village. It's a high bar for me to go that far out for a restaurant, and an even higher bar to return, but I can easily see myself coming back here. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/eldersveld\"> /u/eldersveld </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1snaph5\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1snaph5/a_bayside_excursion_chicken_lovers/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-16T17:41:49+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/Queens/comments/1sco2rx/why_your_neighbors_are_fighting_against_the/",
       "title": "Why your neighbors are fighting against the Metropolitan Park casino",

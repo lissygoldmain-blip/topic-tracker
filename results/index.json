@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/08/are-onlyfans-models-the-best-way-to-explain-the-climate-crisis#new_tab",
+      "title": "The OnlyFans Approach To Spreading Climate Change Awareness",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/1150-2-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />\u201cHeadline Newds, a new series of web videos, &#8230; is made up of bite-size (segments) in which the climate emergency is broken down and raunchily explained to us by a variety of OnlyFans models.\u201d Now, isn\u2019t this better than throwing soup at paintings in art museums? &#8211; The Guardian",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-17T20:37:41.829654+00:00",
+      "published_at": "2026-04-17T18:50:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.artsjournal.com/2026/04/inside-the-pillaging-of-the-kennedy-center.html",
       "title": "Inside the Pillaging of the Kennedy Center",
       "snippet": "Good Morning &#8220;Get rid of everything.&#8221; That was Richard Grenell&#8217;s instruction about the Kennedy Center&#8217;s permanent art collection, according to a former staffer&#8217;s devastating firsthand account of what happened inside during the shutdown (The Atlantic). Meanwhile, the Commission of Fine Arts \u2014 stacked with Trump appointees \u2014 has approved a preliminary design for the President&#8217;s [&#8230;]",
@@ -1781,16 +1799,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Health research": [
     {
-      "url": "https://hyperallergic.com/50-years-of-chicano-photography/",
-      "title": "50 Years of Chicano Photography",
-      "snippet": "Art books we're reading this spring, a deep dive into Frank O'Hara's curatorial gig at MoMA, and more.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-07T08:09:52.749977+00:00",
-      "published_at": "2026-04-06T19:30:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWElDMmsybEF5S2tUVEZ1QmVkTC1VNU9ULUJmY2UyZU92R3oyd1JDUWpLYmt4VXNhUUJNU200TU9vdUx5MW9ySnpRWEltd3JEbVpPeXZsc0VnQnZZZFRqZXR2S2dXWXN2S2gzZ3ZnZVBUUzJ4QTN5ZDZaUDVuNnFiUDgwUzNXVklqQmZlQUc2a3ZDejR0cEhudTc0NA?oc=5",
+      "title": "Why Some Heavy Cannabis Users Can\u2019t Stop Throwing Up, According to New Research - High Times Magazine",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWElDMmsybEF5S2tUVEZ1QmVkTC1VNU9ULUJmY2UyZU92R3oyd1JDUWpLYmt4VXNhUUJNU200TU9vdUx5MW9ySnpRWEltd3JEbVpPeXZsc0VnQnZZZFRqZXR2S2dXWXN2S2gzZ3ZnZVBUUzJ4QTN5ZDZaUDVuNnFiUDgwUzNXVklqQmZlQUc2a3ZDejR0cEhudTc0NA?oc=5\" target=\"_blank\">Why Some Heavy Cannabis Users Can\u2019t Stop Throwing Up, According to New Research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">High Times Magazine</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-04-17T20:41:06.447298+00:00",
+      "published_at": "2026-04-17T13:07:00+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -1798,10 +1818,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Health research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOVHJnSlcxcGJDTjYzc3J1T1VldHc5ZVhKVUxvb3drMkRXMFJVRkQzdVhQR25TV2MxX0V1XzNCa1JEbFh6MFd4cjZUOUFqOVZfeVBUTVg5WTY1dWUxNmxqSmhDWWVsWUlHQ1dwNDFYWkotamxGQ2R0UjVUU2wzckFTNVQxUHgzWDNfZXd3RFB3Q1UtNVRCOENDbGZCcFVkaGt6UzV4T1huVTdtOXdhamRtdDlQWlJwR294LUx6bDloWm4yZUNsQ2N2a2lEcl9JRXVOemxjQ0E0NWg2WHVuR2w5aFdMV29CcXYzY3Z3S2tUOXlzbml1RkVGMDNuVEw5TUJSUkNYTlpobW9KamFZM1hVNHh6VzNrZDFCeWIwakRxb3ZkM203NTZ6eF9SV0s?oc=5",
       "title": "Why Some Heavy Cannabis Users Can\u2019t Stop Throwing Up, According to New Research - High Times Magazine",
@@ -2963,6 +2981,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://www.indiewire.com/features/podcast/mother-mary-david-lowery-interview-1235189708/",
+      "title": "David Lowery Turned a Creative Crisis and Late-Night Doubt Into \u2018Mother Mary,\u2019 His Most Complex Movie Yet",
+      "snippet": "As Lowery tells IndieWire, this two-hander between Anne Hathaway\u2019s pop star and Michaela Coel\u2019s fashion designer started off as a conversation he was having with himself.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-17T20:41:37.486607+00:00",
+      "published_at": "2026-04-17T19:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://deadline.com/2026/04/eva-victor-sorry-baby-barry-jenkins-storyhouse-1236864502/",
       "title": "Eva Victor On Crafting Directorial Debut \u2018Sorry, Baby\u2019 & Working With Barry Jenkins \u2014 Storyhouse",
@@ -4744,27 +4780,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQaF91REkwMVZyX3g5RnQ5dFpXUjdGZUhvWXlCb3VMaDlGNFNyUDhoWkgxRDhkLWpkNnVSRmV1UzBacUNXSHh3TGxIdDJrT21ZZmFZa3U2QkxGZTJVQ3FFVk1uTFhsb3hJSEY2UXltQ1JxdHFyNzVDSVpzdU9oSE9UbVp0Z3hudkdLN0VUUUZNdEYwSkt4ZS04cDBMMnNzN3JPNDFkTV9oaC0yUVZLc3BpSFYtM1B2Y1NOUDNYcXY1ekpRNFdRM0lzUFBRaW1heV9wQkJ2ZmM4TXRnRXMxY2czc25KZnBYaUVkQlJxeFMtcllWUXphb1FuMXdkbS10Y0kzRkxZUnRWSXdyVjJnd3ZBMGZVc0dkMDR0N0ZkdQ?oc=5",
-      "title": "Dayton Contemporary Dance Company featured in new documentary and other arts news across the Dayton region - Dayton Daily News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQaF91REkwMVZyX3g5RnQ5dFpXUjdGZUhvWXlCb3VMaDlGNFNyUDhoWkgxRDhkLWpkNnVSRmV1UzBacUNXSHh3TGxIdDJrT21ZZmFZa3U2QkxGZTJVQ3FFVk1uTFhsb3hJSEY2UXltQ1JxdHFyNzVDSVpzdU9oSE9UbVp0Z3hudkdLN0VUUUZNdEYwSkt4ZS04cDBMMnNzN3JPNDFkTV9oaC0yUVZLc3BpSFYtM1B2Y1NOUDNYcXY1ekpRNFdRM0lzUFBRaW1heV9wQkJ2ZmM4TXRnRXMxY2czc25KZnBYaUVkQlJxeFMtcllWUXphb1FuMXdkbS10Y0kzRkxZUnRWSXdyVjJnd3ZBMGZVc0dkMDR0N0ZkdQ?oc=5\" target=\"_blank\">Dayton Contemporary Dance Company featured in new documentary and other arts news across the Dayton region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR28tTFpoUXNHV0ZkeXFERkFWdHFlS1otMlZNVms3U1JhWGo1VC01TzNrbFEzVEMxblB1U01uOFdFcEFUVU9Gb1YzTWZxYUNPZGpaWGx1b3FMUGZCRzBlM3YwcnFSOWRBRmt3cjFoTUd4X053Z0s2UW12cWpYd3E2S2pwVmxrbWpOa2dOV2lKUV9NQ2cxcFA5dHhQdGU4clk?oc=5",
+      "title": "Anthropic Builds Mythos, its Most Powerful AI Model, Then Refuses to Release it - ColombiaOne.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNR28tTFpoUXNHV0ZkeXFERkFWdHFlS1otMlZNVms3U1JhWGo1VC01TzNrbFEzVEMxblB1U01uOFdFcEFUVU9Gb1YzTWZxYUNPZGpaWGx1b3FMUGZCRzBlM3YwcnFSOWRBRmt3cjFoTUd4X053Z0s2UW12cWpYd3E2S2pwVmxrbWpOa2dOV2lKUV9NQ2cxcFA5dHhQdGU4clk?oc=5\" target=\"_blank\">Anthropic Builds Mythos, its Most Powerful AI Model, Then Refuses to Release it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ColombiaOne.com</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-09T13:06:05.957256+00:00",
-      "published_at": "2026-04-08T13:42:07+00:00",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-17T20:52:14.380238+00:00",
+      "published_at": "2026-04-17T20:23:43+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMjRLenNFLUpLOUxrLXROMHgtQTB0S09BV2hFdlNNQ21VNjFKTTZRMDV2Zkt1cVhZOGMta1ZGc0M4bDZVaVlaemk2SzZrVldfa2xmOWZ2UGdSb3Y0NlFwOU9ReThQSjdJeFBHSUJ0MHg0c2ZScnc2dFByOS03YXlSREZkaFZRcWE3bmRiTXpLdHRRSHJhNGthLUVObEUxaC1zUjBQbkxZR2p1cENzZ1lFTi00X3h4WV9FR09MN2JwUFNNdGRjS2hkNERGaXg5V1YtUU5jc1IwZW5XVjZiZzJ0YjhB?oc=5",
       "title": "Meta's Muse Spark Model: Big Improvements Reinvigorate Investors - The Globe and Mail",
@@ -6546,27 +6582,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUgxb2steXB2U3oyaWJILWo0Q1psaURTS01uS0duWHRGVXdsSjV3RFVMT3hjNXRDdlNSU2szd3VrUjVQSkVIQzJRTnFLSFBKRjlrT09DWDROMktrdW9uaE1IYV9JZDctSEx3NzBqZlBrekV1bjZBb2xON0Z5S3BxcWVtU2wxNnhiSlhkeWR3?oc=5",
-      "title": "Introducing Muse Spark: Meta's Most Powerful Model Yet - meta.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUgxb2steXB2U3oyaWJILWo0Q1psaURTS01uS0duWHRGVXdsSjV3RFVMT3hjNXRDdlNSU2szd3VrUjVQSkVIQzJRTnFLSFBKRjlrT09DWDROMktrdW9uaE1IYV9JZDctSEx3NzBqZlBrekV1bjZBb2xON0Z5S3BxcWVtU2wxNnhiSlhkeWR3?oc=5\" target=\"_blank\">Introducing Muse Spark: Meta's Most Powerful Model Yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-09T13:14:07.075355+00:00",
-      "published_at": "2026-04-08T15:59:56+00:00",
+      "url": "https://qns.com/2026/04/south-ozone-park-senior-murder-wife/",
+      "title": "South Ozone Park senior held without bail for the murder of his wife, whose remains were discovered at different locations: DA",
+      "snippet": "A Queens grand jury indicted an elderly South Ozone Park man for allegedly killing his much younger wife whose remains were discovered in separate locations near Idlewild Park and in Broad Channel. Rupchand Simboo, 75, of 135th Street, was arraigned April 17 on an indictment charging him with murder in the second degree, and two...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/south-ozone-park-senior-murder-wife/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-17T20:39:17.699654+00:00",
+      "published_at": "2026-04-17T20:15:37+00:00",
       "price": null,
-      "novelty_score": 0.9,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/mamdani-trash-containerization-queens-nyc/",
       "title": "\u2018Put a lid on it!\u2019 Mamdani announces full trash containerization plans for Queens and NYC",
@@ -8342,24 +8378,6 @@
       "published_at": "2026-04-09T19:05:38+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/sen-addabbo-java-with-joe-forest-hills/",
-      "title": "Sen. Addabbo to hear community concerns at \u2018Java with Joe\u2019 in Forest Hills",
-      "snippet": "State Sen. Joseph P. Addabbo, Jr. is hosting the next installment of &#8220;Java with Joe&#8221; at The Hill&#8217;s Cafe in Forest Hills on Sunday, April 26, from 10 a.m. to noon, where the elected official will listen to residents&#8217; neighborhood concerns over a cup of coffee. The one-on-one meetup follows a tour of neighborhoods in...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/sen-addabbo-java-with-joe-forest-hills/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-09T20:03:17.932583+00:00",
-      "published_at": "2026-04-09T19:30:52+00:00",
-      "price": null,
-      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -13220,6 +13238,24 @@
   ],
   "Politics & world": [
     {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQU1UUnNXdko3VHVsbGRPNE5sc3c2U2stWUlTeHhkSmVMMTlpdnRNRmZMWlhvcXdjandRX3J6QVI2NEIyUzAxeHFRa2hMNDVEQ1pSRlZvN3NFUEZxdklEUVN5SGM5d3BCR200b0tqRGhCSFNNc2k2eldBMzFfbTNNQUNPenlydUVxN2pyVU9tTTAwSUhUU2NSQ2NPOUQ2Snc50gGoAUFVX3lxTE1GekhyM0hzbm1OeEFNX08wNnJoQzdoOHpPUUdXSEVuOFdJVjRmeHk5Z3RwTkNKSXRkTkJBMFQ2R2xtQzRTbW83bExHOFV4aWFtQ1JDWmNsZVVfenZRdmpsMmk4MjBPU0NGMXRLZE1ySWRCWEZIRXhyLU5CT0xhLTlUS1VlU1ZGd09rbzkzWDN6Mlh0MUMxNjJ3RUN3UVpzUUhCWnprVDZ2WQ?oc=5",
+      "title": "House passes a bill to protect Haitian immigrants, in slap back to the Trump administration - NBC 6 South Florida",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNQU1UUnNXdko3VHVsbGRPNE5sc3c2U2stWUlTeHhkSmVMMTlpdnRNRmZMWlhvcXdjandRX3J6QVI2NEIyUzAxeHFRa2hMNDVEQ1pSRlZvN3NFUEZxdklEUVN5SGM5d3BCR200b0tqRGhCSFNNc2k2eldBMzFfbTNNQUNPenlydUVxN2pyVU9tTTAwSUhUU2NSQ2NPOUQ2Snc50gGoAUFVX3lxTE1GekhyM0hzbm1OeEFNX08wNnJoQzdoOHpPUUdXSEVuOFdJVjRmeHk5Z3RwTkNKSXRkTkJBMFQ2R2xtQzRTbW83bExHOFV4aWFtQ1JDWmNsZVVfenZRdmpsMmk4MjBPU0NGMXRLZE1ySWRCWEZIRXhyLU5CT0xhLTlUS1VlU1ZGd09rbzkzWDN6Mlh0MUMxNjJ3RUN3UVpzUUhCWnprVDZ2WQ?oc=5\" target=\"_blank\">House passes a bill to protect Haitian immigrants, in slap back to the Trump administration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC 6 South Florida</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-17T20:48:02.234664+00:00",
+      "published_at": "2026-04-16T19:58:23+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IVmtDd2poR3YxQ0hZT3NaenlwTGZZcVRTTWZhVnROWG5udjBOOUhBMEZjTndSX2JqM0hPbHJuc3ViZkt5Qm16QzE1cmh3U2xRNFQ2VmZPaF8yRVlDMEI3MkZTYWVuZnBPblppemtrajl0am9kUWc?oc=5",
       "title": "House votes to restore protections for Haitians, defying Trump - The Washington Post",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9IVmtDd2poR3YxQ0hZT3NaenlwTGZZcVRTTWZhVnROWG5udjBOOUhBMEZjTndSX2JqM0hPbHJuc3ViZkt5Qm16QzE1cmh3U2xRNFQ2VmZPaF8yRVlDMEI3MkZTYWVuZnBPblppemtrajl0am9kUWc?oc=5\" target=\"_blank\">House votes to restore protections for Haitians, defying Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
@@ -15000,24 +15036,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGFhWlRHX05TeF9SQTctNmFjdDFLZkdzcEFzSElLV3drYW50bUNVcjJiRzBFYW80andnT1hQYWY5Vkd1S3dsRVlncnFGYXB3azdpbS1xWng2UmZPSk5mMlQ4T0hmcmVUX3Z6YU51ejV4NzU4bmhBYUpUWkowSFRKRW8xT0RRMzUwd0HSAY8BQVVfeXFMTVBTYjdWWGxTS0NxZTRlMGRleGN5RVcyOEIzRGJEQnQ5SWl6U1FxNFQzZTFNdHVGTVRjakhaYXpsSGdocW1zeHFJb2RzQ3VUOGkyNnBlcGVvRWJzZm5DMG9oMDhWMWR0a2xYUFpBbHNiTlB5cmd6QmxqUE9iS2hOVWZWYjlQYXNNblNJR1cxX0U?oc=5",
-      "title": "Supreme Court to weigh Trump's bid to end birthright citizenship in test of second-term agenda - CBS News",
-      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGFhWlRHX05TeF9SQTctNmFjdDFLZkdzcEFzSElLV3drYW50bUNVcjJiRzBFYW80andnT1hQYWY5Vkd1S3dsRVlncnFGYXB3azdpbS1xWng2UmZPSk5mMlQ4T0hmcmVUX3Z6YU51ejV4NzU4bmhBYUpUWkowSFRKRW8xT0RRMzUwd0HSAY8BQVVfeXFMTVBTYjdWWGxTS0NxZTRlMGRleGN5RVcyOEIzRGJEQnQ5SWl6U1FxNFQzZTFNdHVGTVRjakhaYXpsSGdocW1zeHFJb2RzQ3VUOGkyNnBlcGVvRWJzZm5DMG9oMDhWMWR0a2xYUFpBbHNiTlB5cmd6QmxqUE9iS2hOVWZWYjlQYXNNblNJR1cxX0U?oc=5\" target=\"_blank\">Supreme Court to weigh Trump's bid to end birthright citizenship in test of second-term agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGh5Si1CVzF0S2ptZzhOUHZDNGZyXzlWZ0YtT3h4bm5Yai1lSjVad3ZNNl9ralpSN2c1MlJCTHowRnlSdkFobUh6bFdteHk2X1hpSzN6SFFZcmJhblF3RjdHV2gwMWRKdGhUamVvb3VVeXpHdS04UnBacS1uSnMya3R5eGM2VWhnWnFRYWk1bVJocU1DcmY5dXE1M2M?oc=5\" target=\"_blank\">Trump\u2019s Birthright Citizenship Order at Supreme Court Splits Conservative Scholars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdE5ITldEWm9Ta0ZCNHJpd3Foa2JtT3A5TmlwZDF1NzEybF9OU2VxUVdmNDRyZGV2blZiQ1NQNjFuTWlPeDlocnEyYk1DdGRCcy16a2JhSGZCNTJqZFN1SWU4Mm1faWhVMXdZRl9STXJIR3paQnlIaUFrVnFZRDdhd1ZaelBnT0Z0N29ZWXZ3?oc=5\" target=\"_blank\">Opinion | The Supreme Court\u2019s birthright citizenship options</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li></ol>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-01T01:57:53.626307+00:00",
-      "published_at": "2026-03-31T10:00:06+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Shopping": [
@@ -15401,6 +15419,42 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1snfk6s/veselka_open_24hrs_again/",
+      "title": "Veselka open 24hrs again",
+      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>FYI: Fri/Sat only. </p> <p><a href=\"https://www.timeout.com/newyork/news/hooray-for-3am-pierogi-veselka-will-once-again-be-open-24/7-starting-on-this-date-040926\">https://www.timeout.com/newyork/news/hooray-for-3am-pierogi-veselka-will-once-again-be-open-24/7-starting-on-this-date-040926</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/isuamadog\"> /u/isuamadog </a> <br /> <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1snfk6s/veselka_open_24hrs_again/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1snfk6s/veselka_open_24hrs_again/\">[comments]</a></span>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-16T20:33:37+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1sobqik/pan_e_panelle_at_bar_ferdinando/",
+      "title": "Pan e panelle at Bar Ferdinando",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1sobqik/pan_e_panelle_at_bar_ferdinando/\"> <img alt=\"Pan e panelle at Bar Ferdinando\" src=\"https://preview.redd.it/xng0i1833tvg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40e32fbf2ef121b0140691a13d7d9dc40649d9c0\" title=\"Pan e panelle at Bar Ferdinando\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>10/10 no notes. Texture was perfect on the panelle, cheese was nice and light, and the lemon juice makes it. Better panelle than I had in Sicily.</p> <p>The prosciutto sandwich was also excellent.</p> <p>Very happy this place reopened. Hoping they'll add some more to the menu like a pasta alla norma.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/IIMsmartII\"> /u/IIMsmartII </a> <br /> <span><a href=\"https://i.redd.it/xng0i1833tvg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1sobqik/pan_e_panelle_at_bar_ferdinando/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-17T19:56:19+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.55,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/queens-distance-runners-filipino-4-miler/",
       "title": "Queens Distance Runners marks return of Cultural Run Series with Filipino 4-Miler at Flushing Meadows Corona Park",

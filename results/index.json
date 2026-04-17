@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.theguardian.com/stage/2026/apr/16/struggling-theatres-must-programme-their-way-out-says-young-vic-artistic-director-nadia-fall",
+      "title": "The Only Path Forward For Struggling Theatres",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/Screenshot_17-4-2026_81959_www.theguardian.com_-150x150.jpeg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />Theatres facing financial difficulty can only prosper by \u201cprogramming their way out of it\u201d, according to the Young Vic artistic director, Nadia Fall, who has announces her new slate of shows, including an anti-Trump musical version of\u00a0Thelma &#38; Louise. &#8211; The Guardian",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-17T22:31:06.814131+00:00",
+      "published_at": "2026-04-17T15:44:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.theguardian.com/tv-and-radio/2026/apr/08/are-onlyfans-models-the-best-way-to-explain-the-climate-crisis#new_tab",
       "title": "The OnlyFans Approach To Spreading Climate Change Awareness",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/1150-2-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />\u201cHeadline Newds, a new series of web videos, &#8230; is made up of bite-size (segments) in which the climate emergency is broken down and raunchily explained to us by a variety of OnlyFans models.\u201d Now, isn\u2019t this better than throwing soup at paintings in art museums? &#8211; The Guardian",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/dolores-huerta-is-the-goat/",
-      "title": "Dolores Huerta Is the GOAT",
-      "snippet": "A show rewrites the narrative of the farmworkers' movement, a permanent home for Ruth Asawa in San Francisco, the museum reviving New York's downtown performance scene, and the discovery of a 7.9-inch Ancient Roman phallus.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-07T10:08:18.218082+00:00",
-      "published_at": "2026-04-07T10:00:29+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -2981,6 +2981,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://www.indiewire.com/features/interviews/the-pitt-season-2-finale-karaoke-scene-1235189477/",
+      "title": "You Oughta Know, \u2018The Pitt\u2019 Finale\u2019s Karaoke Credits Scene Is a Gift for the Fans",
+      "snippet": "Series creator R. Scott Gemmill tells IndieWire about the ways, big and small, that the show wraps up its character arcs for Season 2.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-17T22:34:56.840167+00:00",
+      "published_at": "2026-04-17T13:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.indiewire.com/features/podcast/mother-mary-david-lowery-interview-1235189708/",
       "title": "David Lowery Turned a Creative Crisis and Late-Night Doubt Into \u2018Mother Mary,\u2019 His Most Complex Movie Yet",
@@ -4762,27 +4780,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/04/apple-tv-husbands-cast-joe-alwyn-richard-gadd-joel-kinnaman-1236785464/",
-      "title": "Apple TV Assembles \u2018The Husbands\u2019: Joe Alwyn, Richard Gadd, Kingsley Ben-Adir, Joel Kinnaman, Daniel Ings, Bob Morley & Fehinti Balogun To Star In Upcoming A24 Series With Juno Temple",
-      "snippet": "EXCLUSIVE: Juno Temple\u2019s multiple on-screen husbands have been revealed. Joe Alwyn, Richard Gadd, Kingsley Ben-Adir, Joel Kinnaman, Daniel Ings, Bob Morley and Fehinti Balogun have all signed on to play the spouses to lead star Temple in Apple TV\u2019s The Husbands. The high-concept series comes from A24 and follows Lauren, played by Ted Lasso and [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-09T15:19:47.063173+00:00",
-      "published_at": "2026-04-09T15:00:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnekQySHJOSlZjVnlZbEhDMGJQeGpEaGs1bU1hMm1wWGtXNlQxZVRQVFRITVFUa2YtZi1Tb3ZpbUExMFdyd2EzYnNJSWpQT3JLUU5KTDEySjEtX0lFYkpF?oc=5",
+      "title": "Introducing GPT-Rosalind for life sciences research - OpenAI",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnekQySHJOSlZjVnlZbEhDMGJQeGpEaGs1bU1hMm1wWGtXNlQxZVRQVFRITVFUa2YtZi1Tb3ZpbUExMFdyd2EzYnNJSWpQT3JLUU5KTDEySjEtX0lFYkpF?oc=5\" target=\"_blank\">Introducing GPT-Rosalind for life sciences research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-17T22:45:52.843799+00:00",
+      "published_at": "2026-04-16T17:56:33+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR28tTFpoUXNHV0ZkeXFERkFWdHFlS1otMlZNVms3U1JhWGo1VC01TzNrbFEzVEMxblB1U01uOFdFcEFUVU9Gb1YzTWZxYUNPZGpaWGx1b3FMUGZCRzBlM3YwcnFSOWRBRmt3cjFoTUd4X053Z0s2UW12cWpYd3E2S2pwVmxrbWpOa2dOV2lKUV9NQ2cxcFA5dHhQdGU4clk?oc=5",
       "title": "Anthropic Builds Mythos, its Most Powerful AI Model, Then Refuses to Release it - ColombiaOne.com",
@@ -6564,27 +6582,45 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sb1ZDUXJBS3ZtQlRRWlVWZlFKWTBqajZjMUVKZGZYZFlycXF0MWVMNERlZ2I2cmJCMFRfWmZWSWtFNVVQcTl1Sk5kS1VTTl9KeTFlVHoySGt2M2VZS1FtTFY2NE04ZUZKNTBTMDd6bnc5aFdobXBv?oc=5",
-      "title": "Anthropic built an AI so dangerous it won\u2019t release it - Rolling Out",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9sb1ZDUXJBS3ZtQlRRWlVWZlFKWTBqajZjMUVKZGZYZFlycXF0MWVMNERlZ2I2cmJCMFRfWmZWSWtFNVVQcTl1Sk5kS1VTTl9KeTFlVHoySGt2M2VZS1FtTFY2NE04ZUZKNTBTMDd6bnc5aFdobXBv?oc=5\" target=\"_blank\">Anthropic built an AI so dangerous it won\u2019t release it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rolling Out</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-09T13:14:07.075355+00:00",
-      "published_at": "2026-04-09T11:10:11+00:00",
+      "url": "https://qns.com/2026/04/floating-hospital-160th-anniversary-this-summer/",
+      "title": "\u2018Everybody is welcome here\u2019: Floating Hospital set to celebrate 160th anniversary this summer",
+      "snippet": "The Floating Hospital, a nonprofit health clinic offering primary medical care to the city&#8217;s poorest families, is set to celebrate its 160th anniversary with a celebratory gala this June. Founded in 1866 as one of the first pediatric healthcare charities in the city, The Floating Hospital literally floated for the majority of its 160-year history,...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/floating-hospital-160th-anniversary-this-summer/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-17T22:32:39.926729+00:00",
+      "published_at": "2026-04-17T17:00:42+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://qns.com/2026/04/law-enforcement-sources-scoff-at-dhs-complaint-that-city-rejected-ice-hold-on-alleged-maspeth-killer-arsonist/",
+      "title": "Law enforcement sources scoff at DHS complaint that city rejected ICE hold on alleged Maspeth killer arsonist",
+      "snippet": "The U.S. Department of Homeland Security (DHS) announced that the U.S. Immigration and Customs Enforcement (ICE) requested that the city\u2019s Department of Correction (NYCDOC) not release Maspeth resident Roman Amatitla, who DHS labeled as a \u201ccriminal illegal alien from Mexico,\u201d who is facing murder and arson charges for allegedly torching a residential building in Flushing,...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/law-enforcement-sources-scoff-at-dhs-complaint-that-city-rejected-ice-hold-on-alleged-maspeth-killer-arsonist/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-17T22:32:39.926729+00:00",
+      "published_at": "2026-04-17T21:05:16+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/south-ozone-park-senior-murder-wife/",
       "title": "South Ozone Park senior held without bail for the murder of his wife, whose remains were discovered at different locations: DA",
@@ -8348,45 +8384,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://nyc.streetsblog.org/2026/04/10/delivery-protection-amazon-service-partners",
-      "title": "Mamdani Administration Backs \u2018Delivery Protection\u2019 Law Opposed By Amazon-Backed Coalition",
-      "snippet": "Amazon-backed groups bused dozens of people to City Hall to fight a Mamdani-backed proposal to regulate the e-commerce wild west.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-10T04:42:46.400014+00:00",
-      "published_at": "2026-04-10T04:04:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.thecity.nyc/2026/04/09/ice-lawsuit-new-york-racial-profiling/",
-      "title": "ICE Racially Profiling New York Immigrants, Lawsuit Says",
-      "snippet": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/06/060325_ice_arrests-3.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>A coalition of groups sued the Department of Homeland Security on Wednesday, alleging that ICE and other federal agencies are unlawfully arresting immigrants in New York solely over their race or ethnicity.\u00a0 The coalition, which includes the New York American Civil Liberties Union, Make the Road New York and the Legal Aid Society, filed the [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/09/ice-lawsuit-new-york-racial-profiling/\">ICE Racially Profiling New York Immigrants, Lawsuit Says</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-09T20:43:16.870765+00:00",
-      "published_at": "2026-04-09T19:05:38+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Drag Race & drag": [
+    {
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1soeb2r/jaremi_blessing_us_with_a_surprise_comeback/",
+      "title": "Jaremi blessing us with a surprise comeback",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1soeb2r/jaremi_blessing_us_with_a_surprise_comeback/\"> <img alt=\"Jaremi blessing us with a surprise comeback\" src=\"https://external-preview.redd.it/dXNhMDQ4djVrdHZnMTT7RAp0u2JJcHyOjc4HTSZtBZMmNJwLcaRSwXbESJ0z.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d27ace2b52d5b021bbd9ecc712cae0863b7c6d0d\" title=\"Jaremi blessing us with a surprise comeback\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SnooSprouts3744\"> /u/SnooSprouts3744 </a> <br /> <span><a href=\"https://v.redd.it/dg849rw5ktvg1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1soeb2r/jaremi_blessing_us_with_a_surprise_comeback/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-17T21:32:01+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1so4y31/sell_1_nyc_finale_viewing_with_live_crowning_and/",
       "title": "[SELL] 1 NYC Finale Viewing with Live Crowning and Top 3 + Onya",
@@ -9595,6 +9613,24 @@
     }
   ],
   "Queer & trans": [
+    {
+      "url": "https://www.theguardian.com/us-news/2026/apr/17/philz-coffee-pride-flags-california",
+      "title": "California coffee chain reinstates policy on Pride flags after swift backlash",
+      "snippet": "Petition started by workers gained more than 7,300 signatures after CEO said flags would be removed",
+      "source": "guardian:US news",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-04-17T21:58:06+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa2VLT20tYmJaM3V3a2k2ZHd5UmhfaFRQamRPYkprM2hCNUl6MmtBN3ZPWXd2RllaOG8yXzBLUmdaU3AtTncxMEtreEVGRDgwOWFZaEFKS3FfNVQzejVVXzd0NjZxS1dSTnprczdsQ0NLWVRNQUl6THlQZ0NOY0dLVmx4Z0NONWpyVDkyLU16RkM?oc=5",
       "title": "Republicans attach transgender issues to voter ID push - Roll Call",
@@ -11376,27 +11412,45 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Immigration & ICE": [
     {
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRE9GRGdtTE1ad0NGcU5BVWFfTGdNVXN6Q05MSno3VjdUbnFzTF93aXpsdEtCZEIyWkVyb2ttZm1FUEtHcVVOSGZXSllfY29JczdfVEh5NzE4UnoxRFRMejI4WmltOWpwMWhmMGl1eC0wM2lkeTNnZnVMbVJWczRFMlBZVWs2MlVjbXZ5ZFktbmJZRURFaDFIaGVxRE91ZGRBeXdpbjNHWEJ1R2VlNG9tMjBscE12MnhoUXEyMUEtNHNwblc4cmpBTXdIZlVfbmZXN2NR?oc=5",
-      "title": "Protestors urging Idaho governor to veto bill outing trans kids to parents arrested at Statehouse - Idaho Capital Sun",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRE9GRGdtTE1ad0NGcU5BVWFfTGdNVXN6Q05MSno3VjdUbnFzTF93aXpsdEtCZEIyWkVyb2ttZm1FUEtHcVVOSGZXSllfY29JczdfVEh5NzE4UnoxRFRMejI4WmltOWpwMWhmMGl1eC0wM2lkeTNnZnVMbVJWczRFMlBZVWs2MlVjbXZ5ZFktbmJZRURFaDFIaGVxRE91ZGRBeXdpbjNHWEJ1R2VlNG9tMjBscE12MnhoUXEyMUEtNHNwblc4cmpBTXdIZlVfbmZXN2NR?oc=5\" target=\"_blank\">Protestors urging Idaho governor to veto bill outing trans kids to parents arrested at Statehouse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Idaho Capital Sun</font>",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdXZaQmN5dldmUER5dFBsWUhaejNsVTU0VGExOS1zS3J1OVY5U0J0ZVdlb2NpUC1OWG5nRUVDZDZySk1INndyX0VUN2luOVBGYVN5Wlo1dVZXSThVdTU3d3d5NEJra2tqaWpMamotWXhUdFV0QjJaQnpPb1dNdkZMQUJNdVN6R0MwN2U4MERQSGZjUVlRRkQ1WWNGak5UZ011cDRUYXRfdXpvdzVRa19hZHVxRWEyTFhNMVNpanl0RU5ySHJoN202X1I4aVVzcWc?oc=5",
+      "title": "Law enforcement sources scoff at DHS complaint that city rejected ICE hold on alleged Maspeth killer arsonist - qns.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPdXZaQmN5dldmUER5dFBsWUhaejNsVTU0VGExOS1zS3J1OVY5U0J0ZVdlb2NpUC1OWG5nRUVDZDZySk1INndyX0VUN2luOVBGYVN5Wlo1dVZXSThVdTU3d3d5NEJra2tqaWpMamotWXhUdFV0QjJaQnpPb1dNdkZMQUJNdVN6R0MwN2U4MERQSGZjUVlRRkQ1WWNGak5UZ011cDRUYXRfdXpvdzVRa19hZHVxRWEyTFhNMVNpanl0RU5ySHJoN202X1I4aVVzcWc?oc=5\" target=\"_blank\">Law enforcement sources scoff at DHS complaint that city rejected ICE hold on alleged Maspeth killer arsonist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qns.com</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Queer & trans",
-      "fetched_at": "2026-04-02T07:07:12.298075+00:00",
-      "published_at": "2026-04-02T03:38:06+00:00",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-17T22:40:39.151616+00:00",
+      "published_at": "2026-04-17T21:05:16+00:00",
       "price": null,
-      "novelty_score": 0.6,
+      "novelty_score": 0.4,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Immigration & ICE": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2xrd2xlOGU0bGc0SE1wNHlKVVRMVzlfMHVxSEt6Mjl0Wi1kYVF4S010aFZNZENPdkdjN2hRdjVkY3pGRmYwQWRERjdwcGlkdTFpdXJ1aUNHamtwZ1Vhanp6SGFNd1MyOU1VOWZzLTZKRGpPZ3B4MEtkdk4xZmxVbGpvdlA2VmZQTjlvbjNSaTVTR2ZUeHFpeFM1Sl9FMTdhMGFra2E4dmtiRzhh?oc=5",
+      "title": "Gov. Kathy Hochul expands proposal to protect New Yorkers against ICE - WPTZ",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2xrd2xlOGU0bGc0SE1wNHlKVVRMVzlfMHVxSEt6Mjl0Wi1kYVF4S010aFZNZENPdkdjN2hRdjVkY3pGRmYwQWRERjdwcGlkdTFpdXJ1aUNHamtwZ1Vhanp6SGFNd1MyOU1VOWZzLTZKRGpPZ3B4MEtkdk4xZmxVbGpvdlA2VmZQTjlvbjNSaTVTR2ZUeHFpeFM1Sl9FMTdhMGFra2E4dmtiRzhh?oc=5\" target=\"_blank\">Gov. Kathy Hochul expands proposal to protect New Yorkers against ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPTZ</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-17T22:40:39.151616+00:00",
+      "published_at": "2026-04-17T21:09:00+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMW85VVQtVWZCWFc2OHdRYVRIdm9IVGc5ME5pYUdkcTJKeTQzWmdOMkN5Tno5V2FaTjV0V0dCcHhrMTZ1b0p0ZElrcVFsLVdleFoxZDcxSG5vWEp4dWF0Nk82YTkzR2RseEFnLUFJSVRzLUExelprZWtJcUhtcE1oaUd3MW5YRmJZQ1A1bVg3VXpSbmF1TnYzc2h5VTF6MGtEM1pXalZYVzZkQ09QLW5nRTBuRjBSS2tOVzZkNjI5aWtlWXNpRUJWWGZn?oc=5",
       "title": "NY would ban masks and limit police help for ICE in new Hochul plan - The Journal News | lohud.com",
@@ -13154,42 +13208,6 @@
       "published_at": "2026-04-01T21:57:34+00:00",
       "price": null,
       "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTlBZkI5NTMwUjBuVHJnc2hMVGdIbTduZFczaHhybUpkS0JrTUg3elRzSTA3ZEdBczFNN0ZfRUFxYzFDSDVfQmVFNFZqSmk5a0ZqclRQclllcnBWSWNSYm1iaFdlNDdfaUV0a3RaMHYtakF3a1l6VGhTOFZOc21yRHhXVUxYR0hGbGxDWGE5NUVCeW5iNHJtajNucllLb0xqT3RJdkYwNW8xRVVtSmU4RGZhQTY?oc=5",
-      "title": "ICE, HSI Involved in Long Island Child Assault Case Amid New York Bail Law Constraints - lamag.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTlBZkI5NTMwUjBuVHJnc2hMVGdIbTduZFczaHhybUpkS0JrTUg3elRzSTA3ZEdBczFNN0ZfRUFxYzFDSDVfQmVFNFZqSmk5a0ZqclRQclllcnBWSWNSYm1iaFdlNDdfaUV0a3RaMHYtakF3a1l6VGhTOFZOc21yRHhXVUxYR0hGbGxDWGE5NUVCeW5iNHJtajNucllLb0xqT3RJdkYwNW8xRVVtSmU4RGZhQTY?oc=5\" target=\"_blank\">ICE, HSI Involved in Long Island Child Assault Case Amid New York Bail Law Constraints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lamag.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-04-01T09:05:44.175818+00:00",
-      "published_at": "2026-03-31T21:06:09+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoV0xuVi1LV2pxOGhraTR1M2tmaHIxdVlocTlneVdfaWktZ2ZicjV4M2JldHpWWHR1MzlVRVdhUGFnQ1B2UXJsc2RXcjZDWGdmQXFDRV9JaWQxOWhKaUFiclFGdWRIVWJxVTY1Tkk0SXhLRnFiZUw3aQ?oc=5",
-      "title": "A NYC Social Worker Referred a Shelter Resident to ICE - Hell Gate",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBoV0xuVi1LV2pxOGhraTR1M2tmaHIxdVlocTlneVdfaWktZ2ZicjV4M2JldHpWWHR1MzlVRVdhUGFnQ1B2UXJsc2RXcjZDWGdmQXFDRV9JaWQxOWhKaUFiclFGdWRIVWJxVTY1Tkk0SXhLRnFiZUw3aQ?oc=5\" target=\"_blank\">A NYC Social Worker Referred a Shelter Resident to ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hell Gate</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-04-01T01:57:14.312194+00:00",
-      "published_at": "2026-03-31T18:08:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

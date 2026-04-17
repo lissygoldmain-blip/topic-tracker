@@ -4766,6 +4766,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12VDlIR1NFNjkzOUZCN2hwSmU1d0RmazF2M2tfZGN3SzJabE1XdWRyUm4zVncwdE56WnVybWp3blJwVzRlOW5tcFpSb3lYbVZOQkNiRU5QWmZXRGl6aFVkNU40NHlscWVLOWdWb1J0bw?oc=5",
+      "title": "Anthropic's new Claude Opus 4.7 is its best public AI model \u2014 but not its most powerful - qz.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE12VDlIR1NFNjkzOUZCN2hwSmU1d0RmazF2M2tfZGN3SzJabE1XdWRyUm4zVncwdE56WnVybWp3blJwVzRlOW5tcFpSb3lYbVZOQkNiRU5QWmZXRGl6aFVkNU40NHlscWVLOWdWb1J0bw?oc=5\" target=\"_blank\">Anthropic's new Claude Opus 4.7 is its best public AI model \u2014 but not its most powerful</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-17T15:05:07.289899+00:00",
+      "published_at": "2026-04-16T17:53:06+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDNVJwcHhKcXRyN1lhTlBlSEsyZ0trZVRYS3BqMHVvbFVBY25PMHkybzBRUTBTOTZwZ1dFWk9ZNlJqY3hHUDhiekJ6anBaREJaTmZ1eGdsLWthckl6VkdXZ1BRUEdSV0pWbTdfYlFhbGp1Qy1OMDlnaXFzdw?oc=5",
       "title": "OpenAI Releases New Model to Boost Life Sciences - digit.fyi",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBDNVJwcHhKcXRyN1lhTlBlSEsyZ0trZVRYS3BqMHVvbFVBY25PMHkybzBRUTBTOTZwZ1dFWk9ZNlJqY3hHUDhiekJ6anBaREJaTmZ1eGdsLWthckl6VkdXZ1BRUEdSV0pWbTdfYlFhbGp1Qy1OMDlnaXFzdw?oc=5\" target=\"_blank\">OpenAI Releases New Model to Boost Life Sciences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digit.fyi</font>",
@@ -6546,27 +6564,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmUxLVp4cDZPNU90MnQwZEY3YWRJM2NIZDFzWVJ6eVVwaFFLTDlyaGVMUUpmRTlxX3VFbjRFelh3Y2RfSU9ESUlPTlBRNmtQMDY2RTdyNndBTGVYVXY3Nldqb09Ed3dJY2w1RVNpOF9wYTFOelNRNzA3TFRYaFY3WFJJWnVQR0RCaTZuOdIBkgFBVV95cUxNcWFfTWpSUVpGTVBXRnFzUV9yd1pKbUpsN2xza21lSVJoOVQ5QzhoQWg5aUNvLTBVdmhNSGRHbjliUExsajdZSDZuWlJlczVxYlpMODhTUkIwVk5MUTY5QVFJbV90TGw3a2s4M29sNy15cnNPNDRpZ0l2QmxkWGR0Y0l4TndlSTR4XzE5cDAwQjlsdw?oc=5",
-      "title": "Anthropic limits Mythos AI rollout over fears hackers could use model for cyberattacks - CNBC",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmUxLVp4cDZPNU90MnQwZEY3YWRJM2NIZDFzWVJ6eVVwaFFLTDlyaGVMUUpmRTlxX3VFbjRFelh3Y2RfSU9ESUlPTlBRNmtQMDY2RTdyNndBTGVYVXY3Nldqb09Ed3dJY2w1RVNpOF9wYTFOelNRNzA3TFRYaFY3WFJJWnVQR0RCaTZuOdIBkgFBVV95cUxNcWFfTWpSUVpGTVBXRnFzUV9yd1pKbUpsN2xza21lSVJoOVQ5QzhoQWg5aUNvLTBVdmhNSGRHbjliUExsajdZSDZuWlJlczVxYlpMODhTUkIwVk5MUTY5QVFJbV90TGw3a2s4M29sNy15cnNPNDRpZ0l2QmxkWGR0Y0l4TndlSTR4XzE5cDAwQjlsdw?oc=5\" target=\"_blank\">Anthropic limits Mythos AI rollout over fears hackers could use model for cyberattacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-09T11:08:51.338717+00:00",
-      "published_at": "2026-04-07T18:00:01+00:00",
+      "url": "https://qns.com/2026/04/cm-wong-earth-day-bills/",
+      "title": "CM Wong announces passage of two Earth Day bills to improve parks and protect urban wildlife",
+      "snippet": "On Thursday, April 16, Council Member Phil Wong announced the passage of two pieces of legislation as part of the New York City Council\u2019s Earth Day package, advancing efforts to improve public spaces and strengthen the city\u2019s approach to environmental sustainability and wildlife management. Two of the approved measures \u2014 Intro 805 and Intro 806...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/cm-wong-earth-day-bills/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-17T14:51:26.833157+00:00",
+      "published_at": "2026-04-17T14:30:18+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.amny.com/news/first-on-amny-dot-opens-asks-nyers-to-weigh-in-on-e-bike-charging-cabinet-locations-with-new-portal/",
       "title": "First on amNY | DOT opens asks NYers to weigh-in on e-bike charging cabinet locations with new portal",
@@ -8342,24 +8360,6 @@
       "published_at": "2026-04-09T13:30:44+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.thecity.nyc/2026/04/09/zohran-mamdani-100-days-rent-affordability-child-care/",
-      "title": "With 100 Days Under His Belt, How\u2019s Mamdani Doing?",
-      "snippet": "<figure><img alt=\"Mayor Zohran Mamdani speaks in The Bronx about new efforts to reduce the amount of scaffolding and sidewalk sheds around the city,\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2026/03/030626_mamdani_scaffold_presser-4.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Mayor Zohran Mamdani won City Hall on a pledge to make New York City more livable and affordable.&#160; His promises of a rent freeze for stabilized tenants, no-cost universal childcare, and fast and free buses resonated with more than a million voters \u2014 and created giant expectations in a city hungry for change.&#160; It\u2019ll take [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/09/zohran-mamdani-100-days-rent-affordability-child-care/\">With 100 Days Under His Belt, How\u2019s Mamdani Doing?</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-09T10:56:01.543640+00:00",
-      "published_at": "2026-04-09T09:05:00+00:00",
-      "price": null,
-      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -13202,6 +13202,24 @@
   ],
   "Politics & world": [
     {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLU5JODBCWklMN0dQMXdDV1pJeTlBVnV0aXVMQk1ZVWJGVnQ0eDdIMzVWYThEdmk5TGdLdlA5b0NoLUpZb0h6eUJMcDJVLUVidldlbG9IMExqTXA4RFM4RFZYVmxXeEFFSkdrWGtZQnNUcmt1ekY5X3N4OHhFOUtVMTZudlpZNjU3U0Y3eDlCbkdsckHSAZgBQVVfeXFMTVdlWnZmTk1jZnhGQ1pZcnVlNGFlamdVZTA5cTF0Tjl3cGQ1aVBYMUlsalNXbUVZTlVGdUhEZk43RWRiVU9jRHdvemw4RHFacHBoVmF5NG1PcEYtUU9MQjFyNjBhTEJHVks0UURMZUl6UGRkZWlRTlJ5UUJCeHlxYjAtR1ZGaWFwYS1vT1dPMzlucjRrN2U4Q3Y?oc=5",
+      "title": "Senate votes to repeal Biden-era wilderness protections in Minnesota, sending bill to Trump\u2019s desk - The Hill",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOLU5JODBCWklMN0dQMXdDV1pJeTlBVnV0aXVMQk1ZVWJGVnQ0eDdIMzVWYThEdmk5TGdLdlA5b0NoLUpZb0h6eUJMcDJVLUVidldlbG9IMExqTXA4RFM4RFZYVmxXeEFFSkdrWGtZQnNUcmt1ekY5X3N4OHhFOUtVMTZudlpZNjU3U0Y3eDlCbkdsckHSAZgBQVVfeXFMTVdlWnZmTk1jZnhGQ1pZcnVlNGFlamdVZTA5cTF0Tjl3cGQ1aVBYMUlsalNXbUVZTlVGdUhEZk43RWRiVU9jRHdvemw4RHFacHBoVmF5NG1PcEYtUU9MQjFyNjBhTEJHVks0UURMZUl6UGRkZWlRTlJ5UUJCeHlxYjAtR1ZGaWFwYS1vT1dPMzlucjRrN2U4Q3Y?oc=5\" target=\"_blank\">Senate votes to repeal Biden-era wilderness protections in Minnesota, sending bill to Trump\u2019s desk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-17T15:00:28.274922+00:00",
+      "published_at": "2026-04-16T20:39:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR2hzcEViZDkxblpBcmVUREF4YUZ1Y1QybmJpY2JPeWtIT3JIV0FaUHpLTFlpY29LSkFDYjUyUEpsOG8xeGpRS3RFbzE1MHVVVTZQVm9rNXlCX1BiMEIyRkJTeFd4aGtUei14T050ZHlRZ2FsUFNxTU9tbjhmT29naVR4M204aENwMkFRUXJ4WUhuZjZRLURwRnpCSm5qNkI0LVgtY3ZkVURORS03NXhTZWRHazBocC0tcVhTMVFmalJrTFNOeG1ScUItX3BDcmtEMWlkQQ?oc=5",
       "title": "Big win for mining as Senate votes to remove moratorium on Boundary Waters watershed - MinnPost",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR2hzcEViZDkxblpBcmVUREF4YUZ1Y1QybmJpY2JPeWtIT3JIV0FaUHpLTFlpY29LSkFDYjUyUEpsOG8xeGpRS3RFbzE1MHVVVTZQVm9rNXlCX1BiMEIyRkJTeFd4aGtUei14T050ZHlRZ2FsUFNxTU9tbjhmT29naVR4M204aENwMkFRUXJ4WUhuZjZRLURwRnpCSm5qNkI0LVgtY3ZkVURORS03NXhTZWRHazBocC0tcVhTMVFmalJrTFNOeG1ScUItX3BDcmtEMWlkQQ?oc=5\" target=\"_blank\">Big win for mining as Senate votes to remove moratorium on Boundary Waters watershed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MinnPost</font>",
@@ -14982,24 +15000,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMW81WjBBSGxxSzJidHl6d2E4WElWY3k5V3lsYkpuMnc4SDBzM0ZhUS1NTWx2QkxUNTRBMWtHZmxMTUoycUVHYmlFXzVVdkd0eDF3UzZlV2VaaUxYa3ZEb0dzWlNzbnhSZ0c5bEd1T2EyVkVlMXU3RnZPbzR6MzhndmxFWVl1ekQzMG9qcklLSktjRlJGZUhuSQ?oc=5",
-      "title": "Justices Reject Colorado Law Banning \u2018Conversion Therapy\u2019 for L.G.B.T.Q. Minors - The New York Times",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMW81WjBBSGxxSzJidHl6d2E4WElWY3k5V3lsYkpuMnc4SDBzM0ZhUS1NTWx2QkxUNTRBMWtHZmxMTUoycUVHYmlFXzVVdkd0eDF3UzZlV2VaaUxYa3ZEb0dzWlNzbnhSZ0c5bEd1T2EyVkVlMXU3RnZPbzR6MzhndmxFWVl1ekQzMG9qcklLSktjRlJGZUhuSQ?oc=5\" target=\"_blank\">Justices Reject Colorado Law Banning \u2018Conversion Therapy\u2019 for L.G.B.T.Q. Minors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-03-31T20:46:16.318131+00:00",
-      "published_at": "2026-03-31T14:27:32+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Shopping": [
@@ -15383,6 +15383,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://qns.com/2026/04/queens-distance-runners-filipino-4-miler/",
+      "title": "Queens Distance Runners marks return of Cultural Run Series with Filipino 4-Miler at Flushing Meadows Corona Park",
+      "snippet": "Over 100 runners registered for the Amihan Filipino Run at Flushing Meadows Corona Park on Saturday, April 11. Hosted by Queens Distance Runners (QDR), the four miler signaled the return of the Cultural Run Series \u2014 a running initiative that celebrates the diverse tapestry of the World&#8217;s Borough. The inaugural run, overseen by Christine Jeanjaquet,...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/queens-distance-runners-filipino-4-miler/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-17T15:02:50.987882+00:00",
+      "published_at": "2026-04-17T15:00:05+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/Queens/comments/1nopvb0/some_events_that_are_coming_up_in_september_and/",
       "title": "Some events that are coming up in September and the next 2 months around Queens",

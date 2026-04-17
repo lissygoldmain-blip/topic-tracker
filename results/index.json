@@ -2928,6 +2928,42 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/04/proof-broadway-review-ayo-edebiri-don-cheadle-kara-young-1236861306/",
+      "title": "\u2018Proof\u2019 Review: \u2018The Bear\u2019 Star Ayo Edebiri Serves Up Transfixing Broadway Debut In Mathematical Mystery Play",
+      "snippet": "You don&#8217;t have to come equipped with a knowledge of super-advanced mathematics, or even know what two-plus-two equals, to grasp, from the very start of Thomas Kail&#8217;s new revival of David Auburn&#8217;s Proof, that Ayo Edebiri, so good on TV&#8217;s restaurant drama (or comedy?) The Bear, and the Oscar-winning Don Cheadle are about to make [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-17T10:52:31.455327+00:00",
+      "published_at": "2026-04-17T02:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://www.indiewire.com/criticism/shows/the-pitt-season-2-episode-15-review-finale-ending-theories-1235189311/",
+      "title": "\u2018The Pitt\u2019 Season 2 Finale Is Open to Interpretation \u2014 So Long as You Watch Through the Credits",
+      "snippet": "After spending a season worrying about Dr. Robby (Noah Wyle), the finale once again revolves around pulling our good doctor back from the brink. But whether the staff's efforts succeed or not isn't the only lingering question ahead of Season 3.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-17T10:52:30.998467+00:00",
+      "published_at": "2026-04-17T02:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/04/the-pitt-r-scott-gemmill-season-2-finale-interview-1236863967/",
       "title": "\u2018The Pitt\u2019 Creator R. Scott Gemmill Reveals Dr. Robby Hasn\u2019t Hit Rock Bottom",
       "snippet": "SPOILER ALERT: The following will reveal plot points from the Season 2 finale of\u00a0HBO Max\u2018s\u00a0The Pitt. HBO Max&#8217;s critically acclaimed medical drama The Pitt has put Season 2 to bed tonight, following a heartbreaking finale that saw Dr. Robby (Noah Wyle) narrowly escape the darkness of his mental health crisis. This season, Robby suffered internally [&#8230;]",
@@ -4690,45 +4726,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://www.indiewire.com/features/interviews/fatih-akin-amrum-germany-interview-1235186562/",
-      "title": "Fatih Akin Made a Nazi-Era Coming-of-Age Film as a Favor \u2014 Then It Became an $8 Million Hit",
-      "snippet": "Akin honored his old friend and mentor, the German New Wave veteran Hark Bohm, to deliver Bohm's story on film before he died in 2025.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-08T20:39:20.136671+00:00",
-      "published_at": "2026-04-08T19:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtpZGlFc3NyT0JHNEFyWEw4bEN5NGpONEhGUThjRXNzTm1vSnJualZ3QVdSOWQ2b1N0UVRRbmgyMGF3cGZRZE5idnVyR2NhUmJRVjhodGkzZ2J3WEU0UlBvenBrbnJpUnVpMFVkWm43SFhUZUV1ZC14dkJ1SUQ0V0RIVXZrYmpicjh4LUkxV0Zrc0EtZDE4dWtmZU1JeEkxU0ZKeDJ4Vkg?oc=5",
-      "title": "'Agridulce' Explores Bachata Music's Dominican Roots - National Today",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtpZGlFc3NyT0JHNEFyWEw4bEN5NGpONEhGUThjRXNzTm1vSnJualZ3QVdSOWQ2b1N0UVRRbmgyMGF3cGZRZE5idnVyR2NhUmJRVjhodGkzZ2J3WEU0UlBvenBrbnJpUnVpMFVkWm43SFhUZUV1ZC14dkJ1SUQ0V0RIVXZrYmpicjh4LUkxV0Zrc0EtZDE4dWtmZU1JeEkxU0ZKeDJ4Vkg?oc=5\" target=\"_blank\">'Agridulce' Explores Bachata Music's Dominican Roots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-08T19:07:51.070218+00:00",
-      "published_at": "2026-04-03T13:30:46+00:00",
-      "price": null,
-      "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "AI & tech research": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zUGlGc2RGLWVxcVhuZV9OMWpyUF81aldtVXpwRzhXN1pJQnVsVVJlUldrc1lHcnNSSjFVdFB3LU53UzY1dEhTVXJVdWhncnRX?oc=5",
+      "title": "The AI model that\u2019s \u2018too powerful\u2019 to be released to the public - BBC",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zUGlGc2RGLWVxcVhuZV9OMWpyUF81aldtVXpwRzhXN1pJQnVsVVJlUldrc1lHcnNSSjFVdFB3LU53UzY1dEhTVXJVdWhncnRX?oc=5\" target=\"_blank\">The AI model that\u2019s \u2018too powerful\u2019 to be released to the public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-17T11:04:04.533721+00:00",
+      "published_at": "2026-04-16T09:40:29+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTmRESktkU0prVVlXLU53aDFVd3B3SU9CTXVuSmNQY0gyUmE0bm9tM2RrdE5POXlxQVQ0ZDJNN0N4YkNuOG9nQVRCVjdDOTRiYTlCZXo1M0I5b0tBSW1kWDVKbUZ1TDdPTExtcjk3N011anJpUXp2RGlQMzRyV3psbnVUcnJhMFUxZEJtV2VwRUJDS1g2LXJOWTdUZ1J4YkFjYTRmWk1PXzhOTkZna0tzZDJ0WXluZzlUNk9WS0dyUjN5WnhsU1N5N256UG1SaHfSAdQBQVVfeXFMUGlPd2xiTzhHU2R5S3lCc3ZoV29pTVdvVHg0SVdwZlRTd1RWWWxCbzRXWWJRVjhMNVRaam9aQjFjSUpna1JxV2diSVhyWWJwMmx5UkVQaURjbkZRUmZYcllwcFhYbGp5N2hQZzdBUm9tWnpKSXAxcUxfNlE1Q3FiVkR6N0VpVXJnLXoxZVhKRWV6eTFQVDUyUmY3bTJUbXlkMmlFU3VpWC12aGJFa203NTloZXRwVG85U1FjZ200R1N2RDRnaXE1SU9IdFNIU0phaGdMWGs?oc=5",
       "title": "Anthropic Releases Claude Opus 4.7 AI Model, Calls It Less Advanced Than Claude Mythos - Gadgets 360",
@@ -6510,27 +6528,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUDJMS29xaUgtRVdzWmJlT1VTSGNqYVRKX3lyd3JlUWdPTUZENThTX29hbndJdFVEQUtDNnlKSlRqdFhMT2tUenMyNlgwRTQ3ZkFpMThlY2M2eXVOcmdmN0kzT3dJdHB0UEFLOTVKRjk1TXBxQ3RlMUtEemlmOFBaSWZsbUE?oc=5",
-      "title": "Anthropic Flags AI Model as Too Risky to Release - varindia.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOUDJMS29xaUgtRVdzWmJlT1VTSGNqYVRKX3lyd3JlUWdPTUZENThTX29hbndJdFVEQUtDNnlKSlRqdFhMT2tUenMyNlgwRTQ3ZkFpMThlY2M2eXVOcmdmN0kzT3dJdHB0UEFLOTVKRjk1TXBxQ3RlMUtEemlmOFBaSWZsbUE?oc=5\" target=\"_blank\">Anthropic Flags AI Model as Too Risky to Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">varindia.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-09T10:29:13.478964+00:00",
-      "published_at": "2026-04-09T05:25:27+00:00",
+      "url": "https://www.thecity.nyc/2026/04/17/elevator-access-escalator-125th-street-mta-subway-columbia-university/",
+      "title": "Columbia University Will Pay for Elevator at 125th Street Subway Stop",
+      "snippet": "<figure><img alt=\"An elevated 1 train station provided transportation to a Columbia University campus on West 125th Street,\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2026/04/041626_1_125th_station-4.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>After more than five years of prodding from local residents, elected officials and the MTA, Columbia University will partially pay for accessibility upgrades to the No. 1 line\u2019s towering 125th Street station, THE CITY has learned. The Ivy League school will contribute $33 million for an elevator linking the street with the stop\u2019s mezzanine level [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/17/elevator-access-escalator-125th-street-mta-subway-columbia-university/\">Columbia University Will Pay for Elevator at 125th Street Subway Stop</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-17T10:50:19.544814+00:00",
+      "published_at": "2026-04-17T09:00:00+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.6sqft.com/mamdani-proposes-city-backed-insurance-program-to-cut-costs-for-some-nyc-landlords/",
       "title": "Mamdani proposes city-backed insurance program to cut costs for some NYC landlords",
@@ -8306,24 +8324,6 @@
       "published_at": "2026-04-08T19:00:13+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/sunnyside-yard-information-session/",
-      "title": "Nearly 200 residents attend Sunnyside Yard information session after Mamdani revives plans",
-      "snippet": "Almost 200 local residents attended a community information session on the city&#8217;s proposal to build 12,000 new homes over the Sunnyside Yard railyard. The event, hosted by Council Member Julie Won, took place at Sunnyside Community Services Monday evening and represented the first public engagement on the proposed development since Mayor Zohran Mamdani revived plans...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/sunnyside-yard-information-session/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-08T19:58:03.865799+00:00",
-      "published_at": "2026-04-08T19:30:01+00:00",
-      "price": null,
-      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -11326,6 +11326,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDlVNzdnRjY3VV9Na3dXRnZCbEFiYWZiT3I2RXJEaTl3dXZGeWttOHpxTHMyajJUNnN1SkNrUHBHUkRlYkYybUtMT2RzNTEyVW5MTk5nUWJ2N1ZjTEFycjJtLUszODZxTWpwcEh0a0N0UmdGMFY2VjJiUkxNQThvZm5PT0xXcFJWQklWQWM5RjFkc0ZtVUNkb0NKcV8xSW5vNjdIRURRZVJCU3NsTXRkTllyQ2lHQQ?oc=5",
+      "title": "French government seeking release of 86-year-old French widow detained by ICE - Ideastream",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDlVNzdnRjY3VV9Na3dXRnZCbEFiYWZiT3I2RXJEaTl3dXZGeWttOHpxTHMyajJUNnN1SkNrUHBHUkRlYkYybUtMT2RzNTEyVW5MTk5nUWJ2N1ZjTEFycjJtLUszODZxTWpwcEh0a0N0UmdGMFY2VjJiUkxNQThvZm5PT0xXcFJWQklWQWM5RjFkc0ZtVUNkb0NKcV8xSW5vNjdIRURRZVJCU3NsTXRkTllyQ2lHQQ?oc=5\" target=\"_blank\">French government seeking release of 86-year-old French widow detained by ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ideastream</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-17T10:58:25.846713+00:00",
+      "published_at": "2026-04-16T05:35:00+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUpWQ0ZqWHRfQ3pWeXM4Vy1KaUhYdlhOdk9zT1JXdDhhTFdCZUdoVzNwckdnSE0tZkNFYUJZZ21mNEt0TURnSUxpMThzUm9CRUZ4Q3FMYWV3WHBJbWR3cG1GcUltUDFqXzdFaFQxbGwwMW1ZRlhIU1lfR3JvYlNKckxsaElrb2poaUtZaDg5N0M0Q3FMTElCdDZwY1RzaGd6QUNCWnJ6ZVRvaVFlX2tsSTRBcnpRODhqbGJB?oc=5",
       "title": "Governor Hochul proposes plan to expand protections for New Yorkers from ICE enforcement - WHEC.com",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUpWQ0ZqWHRfQ3pWeXM4Vy1KaUhYdlhOdk9zT1JXdDhhTFdCZUdoVzNwckdnSE0tZkNFYUJZZ21mNEt0TURnSUxpMThzUm9CRUZ4Q3FMYWV3WHBJbWR3cG1GcUltUDFqXzdFaFQxbGwwMW1ZRlhIU1lfR3JvYlNKckxsaElrb2poaUtZaDg5N0M0Q3FMTElCdDZwY1RzaGd6QUNCWnJ6ZVRvaVFlX2tsSTRBcnpRODhqbGJB?oc=5\" target=\"_blank\">Governor Hochul proposes plan to expand protections for New Yorkers from ICE enforcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHEC.com</font>",
@@ -13106,24 +13124,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSVpPV2g5YjBmT0tZY1JFYm94SDdHY0QzNVNHcUxJZ3RYakdtazBIdGo1RG9BNTc0N0NiVjhZS2F3bDZqOXJVQ3Q2YlFSbEFmTF9yVGxGZXRmcUdkdWI2M3UxVzFfV3JUTDl4dWlxaXF5UzNHRzNjbEs0V2tLNHFQRVhrLUFWQWtFbUZfSkl4bEZLemxRM2ZSdmo1V09Hdw?oc=5",
-      "title": "ICE Arrests Latin Kings Gang Member, Criminal Illegal Alien in NYC - mb.ntd.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNSVpPV2g5YjBmT0tZY1JFYm94SDdHY0QzNVNHcUxJZ3RYakdtazBIdGo1RG9BNTc0N0NiVjhZS2F3bDZqOXJVQ3Q2YlFSbEFmTF9yVGxGZXRmcUdkdWI2M3UxVzFfV3JUTDl4dWlxaXF5UzNHRzNjbEs0V2tLNHFQRVhrLUFWQWtFbUZfSkl4bEZLemxRM2ZSdmo1V09Hdw?oc=5\" target=\"_blank\">ICE Arrests Latin Kings Gang Member, Criminal Illegal Alien in NYC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mb.ntd.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-03-30T20:47:14.971088+00:00",
-      "published_at": "2026-03-30T18:42:36+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -13165,6 +13165,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRzMxX2NhTmNvX3BrbEFIdVRZbVVkSnBCSjJESUFHQXRwMVN5aFEzV3dhRk4xX3ZCdWxRRWIzSGlJci1sUGItVjNHZEQ1ei04N2tncXNXZk5kVzI5YnNqS1pwLVNmbzFSOHhZLVBHTW85V1BJalMyeENXcnNqZWhEZU04X3N3VDRlb25XTG03V0hpQmJobXZNQm9FLXZXTUFDOFJVNXVNYTlTWTZH?oc=5",
+      "title": "US House votes to defy Trump, extend Haitians' temporary protections - Reuters",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQRzMxX2NhTmNvX3BrbEFIdVRZbVVkSnBCSjJESUFHQXRwMVN5aFEzV3dhRk4xX3ZCdWxRRWIzSGlJci1sUGItVjNHZEQ1ei04N2tncXNXZk5kVzI5YnNqS1pwLVNmbzFSOHhZLVBHTW85V1BJalMyeENXcnNqZWhEZU04X3N3VDRlb25XTG03V0hpQmJobXZNQm9FLXZXTUFDOFJVNXVNYTlTWTZH?oc=5\" target=\"_blank\">US House votes to defy Trump, extend Haitians' temporary protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-17T10:58:45.070103+00:00",
+      "published_at": "2026-04-16T19:48:48+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0l6cWd3bEI1N2E3M0xhd2ZqSWFZd09ZTkJSRG5IRWVkOU93UkVsaDVlekJjaExzTTkza3h1UHlXWEhWc3NaMEEweE92TkRnbGlUYURNUml5X3AzYlMwX29tdTQ3aVQ0cms2dFAyTHJfdm1CYml3NXVKQ3o4X0s5T0tZdWYxUmVFeU1mSWpPTlRpYTNtRXk2QXNBV2NzVVXSAaQBQVVfeXFMTlJXVi1MTm1OTWxKQ3dva1E0RGdvdVJpaUhUT0pQZFZtaVR4MFZueF9GVHpuWU9oOE81cGh6SGJEMFFPX2JEMlgtZldhdnk3bC1Ca0I4ZF9hM0VPVGNXSGtmYmpQVEhHVFZPWFRDMDhXOHFZeHd0eTdPTVg0OHp5Y3lXc05KZ0psMFdRMXpBOUhMWUFpaG8tSXdjY0ZhSUdMUTRHVlc?oc=5",
       "title": "House breaks with Trump, voting against ending deportation protections for Haitians - CBS News",
@@ -14946,24 +14964,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbTdhMkdmV2tzMjBCazJUd19KTmJDcjRrUjdSSlhvT3pxNmNVLVJTb2o3eHpVc1c5Njh2Yi12MzFGdFYzWDBkQ0sxOWl4Zkk0RHZoMlk4enRPU3AzbDdwNHZ5dktiNl92cmRkUVpmNVM3WklvZlhYNWJvbXNDQWtNT3NKQVV5dmgzbXBEM1JiZTdGZ0VIcWVxanJwQWlwaENDdTI4TkIxWTVBbTZNTkJKeHdyTE9vY0xiXzBnVGxKUlEyZTZhSEd4VHNBcWFtR3hlM3NheXpMNA?oc=5",
-      "title": "Supreme Court Reverses Cox Communications Copyright Infringement Liability Ruling in Landmark Unanimous Decision - Wiley Rein",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbTdhMkdmV2tzMjBCazJUd19KTmJDcjRrUjdSSlhvT3pxNmNVLVJTb2o3eHpVc1c5Njh2Yi12MzFGdFYzWDBkQ0sxOWl4Zkk0RHZoMlk4enRPU3AzbDdwNHZ5dktiNl92cmRkUVpmNVM3WklvZlhYNWJvbXNDQWtNT3NKQVV5dmgzbXBEM1JiZTdGZ0VIcWVxanJwQWlwaENDdTI4TkIxWTVBbTZNTkJKeHdyTE9vY0xiXzBnVGxKUlEyZTZhSEd4VHNBcWFtR3hlM3NheXpMNA?oc=5\" target=\"_blank\">Supreme Court Reverses Cox Communications Copyright Infringement Liability Ruling in Landmark Unanimous Decision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiley Rein</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-03-31T20:03:28.014342+00:00",
-      "published_at": "2026-03-31T14:23:31+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Shopping": [
@@ -15347,6 +15347,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/Queens/comments/1nopvb0/some_events_that_are_coming_up_in_september_and/",
+      "title": "Some events that are coming up in September and the next 2 months around Queens",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Queens/comments/1nopvb0/some_events_that_are_coming_up_in_september_and/\"> <img alt=\"Some events that are coming up in September and the next 2 months around Queens\" src=\"https://b.thumbs.redditmedia.com/Nun0th78U1keVGUaO4FQ4cXAgGyTUyYxdPkemui9yVo.jpg\" title=\"Some events that are coming up in September and the next 2 months around Queens\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lilac2481\"> /u/lilac2481 </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1nopvb0\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Queens/comments/1nopvb0/some_events_that_are_coming_up_in_september_and/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2025-09-23T18:50:26+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1snaph5/a_bayside_excursion_chicken_lovers/",
       "title": "A Bayside excursion: Chicken Lovers",

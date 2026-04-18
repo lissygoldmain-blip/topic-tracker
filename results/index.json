@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/art-talk-with-rama-duwaji/",
+      "title": "Art Talk With Rama Duwaji",
+      "snippet": "The artist and NYC first lady in an exclusive interview, LACMA's stunning new building, Trump plays Christ, and much more.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-18T22:26:25.160523+00:00",
+      "published_at": "2026-04-18T10:00:56+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/joan-semmel-is-doing-her-best-work-at-93/",
       "title": "Joan Semmel Is Doing Her Best Work at 93",
       "snippet": "\u201cYou say, \u2018Fuck you. I'm good and you're wrong,\u2019\u201d she told Hyperallergic. \u201cThis is who I am, this is what I do, and this is what I care about.\u201d",
@@ -1775,24 +1793,6 @@
       "published_at": "2026-04-07T18:01:00+00:00",
       "price": null,
       "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/peep-the-wildest-costumes-of-this-years-easter-bonnet-parade/",
-      "title": "Peep the Wildest Costumes of This Year\u2019s Easter Bonnet Parade",
-      "snippet": "The decorous fashion show has evolved into a rambunctious and all-inclusive pageant of New York\u2019s crafters, artists, and street performers.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-07T18:52:15.121406+00:00",
-      "published_at": "2026-04-06T20:10:55+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -8387,6 +8387,24 @@
     }
   ],
   "Drag Race & drag": [
+    {
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sp97de/athena_with_some_bts_s18_finale_tea_spoilers/",
+      "title": "Athena with some BTS s18 finale tea [spoilers]",
+      "snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/saintrorem\"> /u/saintrorem </a> <br /> <span><a href=\"https://i.redd.it/c8k39rgqi0wg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sp97de/athena_with_some_bts_s18_finale_tea_spoilers/\">[comments]</a></span>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-18T20:56:48+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sokhd7/all_as11_promo_silhouettes/",
       "title": "ALL AS11 PROMO SILHOUETTES",
@@ -15491,6 +15509,42 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1sp0pse/burmese_breakfast_at_nangma_restaurant_in/",
+      "title": "Burmese Breakfast at Nangma Restaurant in Elmhurst, Queens. And how to get more Burmese food in your life.",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1sp0pse/burmese_breakfast_at_nangma_restaurant_in/\"> <img alt=\"Burmese Breakfast at Nangma Restaurant in Elmhurst, Queens. And how to get more Burmese food in your life.\" src=\"https://preview.redd.it/894koix7wyvg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=c31405572a2f61b96c341ea90339077568a92a7e\" title=\"Burmese Breakfast at Nangma Restaurant in Elmhurst, Queens. And how to get more Burmese food in your life.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://maps.app.goo.gl/sfjh9XV6WVHV6HLAA?g_st=ic\">Burmese Breakfast - Google Maps Page</a></p> <p>It\u2019s only on Sundays 8 am - 1 pm on the 2nd floor of Nangma Restaurant. Go early if you can because it can get busy. The vibes are great. Not only very local and Burmese community based, but also other people excited for Burmese food.</p> <p>I enjoyed everything ordered:</p> <ul> <li>Lao-sho-mee-shae - rice noodles with a meat sauce, pork, and other toppings that add a nice texture.</li> <li>Mohinga, the national dish. Broth is off to the side. Creamy fish broth topped with egg, meat, and crispy fritters.</li> <li>Asone Thoke - noodle salad. Savory, tangy, and complex with all the ingredients.</li> </ul> <p>Note it\u2019s cash only.</p> <p>\u2014\u2014\u2014</p> <p>Other Burmese spots off the top of my head:</p> <ul> <li>Burmese Bites. <a href=\"https://reddit.com/r/FoodNYC/comments/1l0y5j0/burmese_bites_at_queens_center_mall_food_court/\">Posted about it last year.</a> They\u2019re now closed at Queens Center Mall, but to open in Astoria per <a href=\"https://reddit.com/r/FoodNYC/comments/1rwgwo8/burmese_bites_in_elmhurst_closed_it_is_apparently/\">this post</a>. They\u2019re still available at <a href=\"https://queensnightmarket.com/vendors\">Queens Night Market</a>. </li> <li>Eaterniti in Elmhurst</li> <li>No Last Names for Burmese breakfast in Dumbo.</li> <li>Asian Bowl in Forest Hills</li> <li>Little Myanmar in the East Village</li> <li>Burmese festival pop-ups that <a href=\"/u/EatinginTranslation\">u/EatinginTranslation</a> often posts here.</li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/justflipping\"> /u/justflipping </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1sp0pse\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1sp0pse/burmese_breakfast_at_nangma_restaurant_in/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-18T15:30:23+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1spailg/prime_trio_color_don_hiromi_sushi/",
+      "title": "Prime Trio Color Don (Hiromi Sushi)",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1spailg/prime_trio_color_don_hiromi_sushi/\"> <img alt=\"Prime Trio Color Don (Hiromi Sushi)\" src=\"https://preview.redd.it/822o6b59s0wg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c6e05634144acf3de9b9e321b813fc60b791595\" title=\"Prime Trio Color Don (Hiromi Sushi)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>$38. Not a bad deal at all. </p> <p><a href=\"https://www.hiromisushi1472.com\">https://www.hiromisushi1472.com</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mheusler1\"> /u/mheusler1 </a> <br /> <span><a href=\"https://i.redd.it/822o6b59s0wg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1spailg/prime_trio_color_don_hiromi_sushi/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-18T21:49:50+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sobfik/humm/",
       "title": "humm....",

@@ -4784,6 +4784,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0V6czVxbDF6QVlSaWhWMVpENkgwM0RDcDNZXzNCMlhEUnBhOTZqTXZzYVZJSG9XMExBcmhubkZQVlBFUnFqYmhONmhycUZEYnRkWnl5U2RjZDZNRVJPektaTF9SZXJZNXU4V0JyQ1BGNFZNT1U3SHRMTnJjMkNrYmx3di1hRWt1Mmt5bEdDNEZDYU1VX0JmRlM4NGVCMzVJNHY1djNPUU45NzJpb21xVFFUSTZvY2sxSXdWV1JLbw?oc=5",
+      "title": "OpenAI Expands Cyber Access Program With New AI Model Release - The National CIO Review",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0V6czVxbDF6QVlSaWhWMVpENkgwM0RDcDNZXzNCMlhEUnBhOTZqTXZzYVZJSG9XMExBcmhubkZQVlBFUnFqYmhONmhycUZEYnRkWnl5U2RjZDZNRVJPektaTF9SZXJZNXU4V0JyQ1BGNFZNT1U3SHRMTnJjMkNrYmx3di1hRWt1Mmt5bEdDNEZDYU1VX0JmRlM4NGVCMzVJNHY1djNPUU45NzJpb21xVFFUSTZvY2sxSXdWV1JLbw?oc=5\" target=\"_blank\">OpenAI Expands Cyber Access Program With New AI Model Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National CIO Review</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-18T04:41:19.291924+00:00",
+      "published_at": "2026-04-14T07:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVUd0aHVVT2VneXU0akFtV3duVWNfNFNQTVdXbnIxcnRqWGUyODV1cHhNbTRjbzZPbTEwdFplLWw1TzZZV1FSeS01N3lONGJueFA1Qkdlcmw0VHVrYmxRMWpUOC1qUEI4cUt0ZDlCX1M?oc=5",
       "title": "Tech Stocks Reach Record Highs as Anthropic Releases AI Model - HarianBasis.co",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVUd0aHVVT2VneXU0akFtV3duVWNfNFNQTVdXbnIxcnRqWGUyODV1cHhNbTRjbzZPbTEwdFplLWw1TzZZV1FSeS01N3lONGJueFA1Qkdlcmw0VHVrYmxRMWpUOC1qUEI4cUt0ZDlCX1M?oc=5\" target=\"_blank\">Tech Stocks Reach Record Highs as Anthropic Releases AI Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HarianBasis.co</font>",
@@ -6564,27 +6582,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY2lHUU53UVMwa2JqUDJNMDlSMG1iaExob0lDdHJXN3JkVE43UVFTWENZZmw2VjdqcXhkY1ZKUVhMWl95czY1MkZzWGVVYUlyT2dIRjd0VTNjek8zbHZBRTBKbEVPT2E5YVgxTlloWUpSV0lOdFY1WThFLVpnZEZJTm1HdlhoUm1kOVFMaDBHeVFjM3RLM3VkaG5nbWlnbmU5MHR6c1RJSE80MGxxSlBPSnlYR2tFS2FGRzJ6Y2NiNGlWWFgwRkFhUF9TVlFobjIzZy1IQ0FDeWpaZzUyXzZoenJUWDFfdjc2U3BfMTdYQzVSZGpCUkNGRzdIcWNrNVY2Wldscg?oc=5",
-      "title": "Anthropic says newest AI model is too powerful to release to public - MSN",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQY2lHUU53UVMwa2JqUDJNMDlSMG1iaExob0lDdHJXN3JkVE43UVFTWENZZmw2VjdqcXhkY1ZKUVhMWl95czY1MkZzWGVVYUlyT2dIRjd0VTNjek8zbHZBRTBKbEVPT2E5YVgxTlloWUpSV0lOdFY1WThFLVpnZEZJTm1HdlhoUm1kOVFMaDBHeVFjM3RLM3VkaG5nbWlnbmU5MHR6c1RJSE80MGxxSlBPSnlYR2tFS2FGRzJ6Y2NiNGlWWFgwRkFhUF9TVlFobjIzZy1IQ0FDeWpaZzUyXzZoenJUWDFfdjc2U3BfMTdYQzVSZGpCUkNGRzdIcWNrNVY2Wldscg?oc=5\" target=\"_blank\">Anthropic says newest AI model is too powerful to release to public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-09T17:14:03.444877+00:00",
-      "published_at": "2026-04-09T16:17:30+00:00",
+      "url": "https://qns.com/2026/04/woodside-houses-man-indicted-slashing/",
+      "title": "Woodside Houses man indicted for slashing two victims on Broadway in Astoria: DA",
+      "snippet": "A Queens grand jury indicted a Woodside Houses man for slashing two victims with a boxcutter during a bloody rampage outside of a fish market in Astoria last month. Antonio Quinones, 35, was arraigned April 16 in Queens Supreme Court on a four-count indictment charging him with assault in the first degree, assault in the...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/woodside-houses-man-indicted-slashing/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-18T04:28:04.391601+00:00",
+      "published_at": "2026-04-17T16:30:17+00:00",
       "price": null,
-      "novelty_score": 0.9,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.amny.com/news/curbside-empire-trash-bins-coming-nyc/",
       "title": "Thousands of curbside \u2018Empire\u2019 trash bins coming to more parts of NYC",
@@ -8366,16 +8384,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://qns.com/2026/04/art-installation-plastic-pollution/",
-      "title": "New art installation addressing plastic pollution set to be unveiled at Hunters Point South Park",
-      "snippet": "Long Island City-based nonprofit art gallery the Blue Bus Project will unveil a large-scale art installation addressing plastic pollution and its impact on urban waterways at Hunters Point South Park as part of Earth Week. Annalisa Iadicicco, environmental artist and founder of the Blue Bus Project, will officially unveil &#8220;OctoTrash&#8221; along the East River waterfront...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/art-installation-plastic-pollution/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-10T14:17:48.058708+00:00",
-      "published_at": "2026-04-10T13:00:43+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sokhd7/all_as11_promo_silhouettes/",
+      "title": "ALL AS11 PROMO SILHOUETTES",
+      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>For some reason there are 7 for purple bracket, and 5 for pink bracket (?????) idk what happened. I'm still seated</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Personal_Set_8457\"> /u/Personal_Set_8457 </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1sokhd7\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sokhd7/all_as11_promo_silhouettes/\">[comments]</a></span>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-18T01:58:51+00:00",
+      "published_at": null,
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -8383,10 +8403,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sok709/all_stars_11_premieres_may_8/",
       "title": "All Stars 11 Premieres May 8",

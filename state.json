@@ -108,7 +108,7 @@
         "disabled_at": "2026-04-19T07:09:28.393017+00:00"
       },
       "playbill_jobs": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 0,
         "disabled": false,
         "disabled_at": null
       },

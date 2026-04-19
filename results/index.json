@@ -4802,6 +4802,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2VaSkFYeTFtaUtIdjZDQ1VLalUyckNzLXpvVDFxb0Z4dkk0ZnFiYU42RXpPRThseHFhbWNUUWZBeUUyNjNXdmNFUF8weTh5Q2JqOFowV0ZXU3lPMms3bDVPbEtKQVlYeHJjRDhFQXBkWnVfLVp6MWMxUHNOUUQ0T1pXY0o?oc=5",
+      "title": "Anthropic CEO met White House chief of staff as US seeks access to Mythos model - Financial Times",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2VaSkFYeTFtaUtIdjZDQ1VLalUyckNzLXpvVDFxb0Z4dkk0ZnFiYU42RXpPRThseHFhbWNUUWZBeUUyNjNXdmNFUF8weTh5Q2JqOFowV0ZXU3lPMms3bDVPbEtKQVlYeHJjRDhFQXBkWnVfLVp6MWMxUHNOUUQ0T1pXY0o?oc=5\" target=\"_blank\">Anthropic CEO met White House chief of staff as US seeks access to Mythos model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-19T20:43:46.993095+00:00",
+      "published_at": "2026-04-17T22:10:14+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVmtSa29DcUZYWGJKYk5oNEs4aGNNZUlEMzR6RWF6eGhJdXFUMkJNMEZ4d0IzRGFLVkEwbC1iXzRhdkh0dUo3Q0hoU2pfdVktXzhMNy04eVZ5cFZFRVZnOWpzamJBX3NJOExxeUtFeVRYLXdPbC15OFAtdW1UTTgwZ1NkelVSZ3dxLTRLRmxya0FaUXhqZU14b2Vjbw?oc=5",
       "title": "Anthropic delays Claude Mythos AI model release over security risks - Crypto Briefing",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVmtSa29DcUZYWGJKYk5oNEs4aGNNZUlEMzR6RWF6eGhJdXFUMkJNMEZ4d0IzRGFLVkEwbC1iXzRhdkh0dUo3Q0hoU2pfdVktXzhMNy04eVZ5cFZFRVZnOWpzamJBX3NJOExxeUtFeVRYLXdPbC15OFAtdW1UTTgwZ1NkelVSZ3dxLTRLRmxya0FaUXhqZU14b2Vjbw?oc=5\" target=\"_blank\">Anthropic delays Claude Mythos AI model release over security risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
@@ -6582,27 +6600,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kbnRfa0sxMEZLaUhyRTdUVWpBa0NyUHUwR1E5dFJncjZQNnZOMG1wYkVqdEdnc01NNEZWWUdObEdEeUR5eHJ0RnM0NlFycUZLdTB2Q01fdmlPOU9WSHd0SG5YMkE2dXViWFFsbGxUVkJBWk5ZcFk1OXQ5Y2k0Zw?oc=5",
-      "title": "OpenAI, Google, Anthropic Unite Against AI Model Theft - Built In",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9kbnRfa0sxMEZLaUhyRTdUVWpBa0NyUHUwR1E5dFJncjZQNnZOMG1wYkVqdEdnc01NNEZWWUdObEdEeUR5eHJ0RnM0NlFycUZLdTB2Q01fdmlPOU9WSHd0SG5YMkE2dXViWFFsbGxUVkJBWk5ZcFk1OXQ5Y2k0Zw?oc=5\" target=\"_blank\">OpenAI, Google, Anthropic Unite Against AI Model Theft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Built In</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-10T04:13:20.579465+00:00",
-      "published_at": "2026-04-09T21:56:27+00:00",
+      "url": "https://www.amny.com/new-york/family-mourns-queens-teen-shot-dead-park/",
+      "title": "\u2018He was just a regular kid\u2019: Family mourns Queens teen shot dead in park as community prepares for emotional vigil",
+      "snippet": "The family of 15-year-old Jaden Pierre, who was shot dead at a Queens park last week, remembered him as \u201cjust a regular kid\u201d a day before an emotional vigil on Monday honoring his life. Rain began to fall hard and fast on April 19 over the spot where Pierre was gunned down mere days\u2026 <a class=\"read-more\" href=\"https://www.amny.com/new-york/family-mourns-queens-teen-shot-dead-park/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-19T20:30:37.266173+00:00",
+      "published_at": "2026-04-19T20:28:01+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.amny.com/news/queens-lawmaker-angry-fiery-car-meetup/",
       "title": "Queens lawmaker incensed after fiery car meetup in neighborhood, demands arrests: \u2018We are not putting up with this garbage\u2019",
@@ -8376,24 +8394,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-04-12T07:04:54.751061+00:00",
       "published_at": "2026-04-10T16:30:00+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.thecity.nyc/2026/04/10/affordable-housing-crisis-vacant-units-delay/",
-      "title": "In NYC\u2019s Brutal Housing Crunch, Finished Affordable Units Often Sit Empty for Months",
-      "snippet": "<figure><img alt=\"The Bronx Point apartments sits on a park nestled between the I87 and The Bronx River.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2023/08/101923_bronx_point_2-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>While New Yorkers feel the crush of a housing crisis, newly built affordable apartments in New York City can remain empty for more than a year. That\u2019s according to a new report released Friday by Enterprise Community Partners, a nonprofit that helps build affordable housing, which analyzed its portfolio of over 800 affordable housing projects [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/10/affordable-housing-crisis-vacant-units-delay/\">In NYC\u2019s Brutal Housing Crunch, Finished Affordable Units Often Sit Empty for Months</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-12T04:43:44.039378+00:00",
-      "published_at": "2026-04-10T09:00:00+00:00",
       "price": null,
       "novelty_score": 0.5,
       "summary": null,

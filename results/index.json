@@ -4802,6 +4802,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRHJGODBRWHFndjlpYWJqWWd0bmRKNW5nazFVWWJNNUVxWlgwZ0xyVVhUcFVRQnlBLThET3VsWEtmalNCRFdOZ25BMTFPS3ZPMzJxdXB1dFdwa1pHckp5eGNic0YwS2F6TWJrZm0xQW5yVEFmRUFiVDVHRDgwNWZkNEItUHFGbGRwMXczMkJKdkhEdy1QNEZLck4tY3ZlRWFTUXhZMmZFRlpzTHk0bmU0TVdrUHF6RVlnMVJBVnA5czZIV01jei0yX3Y0M084V0xNUVRldXBZa1d4M3lPd3NTZFJsaFN4U3F0cDBmR3d2bGRNcUtLSVJKWElZbnl0LW52djZRb3l3TTJ5c0lHaHlnZ0EzZU9iUQ?oc=5",
+      "title": "Anthropic's CEO met with the White House to discuss its new cybersecurity-challenging AI model - PC Gamer",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQRHJGODBRWHFndjlpYWJqWWd0bmRKNW5nazFVWWJNNUVxWlgwZ0xyVVhUcFVRQnlBLThET3VsWEtmalNCRFdOZ25BMTFPS3ZPMzJxdXB1dFdwa1pHckp5eGNic0YwS2F6TWJrZm0xQW5yVEFmRUFiVDVHRDgwNWZkNEItUHFGbGRwMXczMkJKdkhEdy1QNEZLck4tY3ZlRWFTUXhZMmZFRlpzTHk0bmU0TVdrUHF6RVlnMVJBVnA5czZIV01jei0yX3Y0M084V0xNUVRldXBZa1d4M3lPd3NTZFJsaFN4U3F0cDBmR3d2bGRNcUtLSVJKWElZbnl0LW52djZRb3l3TTJ5c0lHaHlnZ0EzZU9iUQ?oc=5\" target=\"_blank\">Anthropic's CEO met with the White House to discuss its new cybersecurity-challenging AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Gamer</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-20T20:14:10.375541+00:00",
+      "published_at": "2026-04-20T16:11:40+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX0I4SWt1ZWZaNmFIV0cyakliQXB4LURmZkZFZjJZWnFCQzRydElmSlppamhYeGFWOXVtUEVZTk1MbF8zem1kUklNUDFPWDJldmlJNjBkcWdzM3lrOHd4dW4wNlNhcGtmQ3hPd2tIYnJZTGg5aGtYSDVzVi1OZUdFdDY2SU9Hd29PZHd5aWtBR3ZXQXBweTllclBHTUtiYzh6M2l6Ujk1bkJ0ei03TEdLelpnUDlJQmxGcTRrZHZXTVhjbHA4LUR3V1pVbVZtVWZrWERwM084Y2tPQndxb0440gHzAUFVX3lxTFB1UEd5NFNYMHJPSHZoczFoa3BoSl94amdCQmVGWThQRkdTUmFITmxQX1VBd01zNlVpOG9CZmZjRU5zcWgzcGlhLW9tNWdWMHBjb0pST21mbm1qellwTDA0cGRScXk0TGJGQllzZXNaS1J4M2Mtb3lNS3h3YWRaczhBLWFib1hVM3FteERiZHJVaU0yNmFra1FiN3lLR1htQTV0elQzNEtKbjJHNzhSSUxjWkZTWkxRNjBsYVZyVDN1TTAxRGhsNFpxOGlCZThTM3hZdi1vdGt2V3ZVVkFvR21XYzNac2Y4SmYxT2NvMEFyV0pDaw?oc=5",
       "title": "Anthropic\u2019s \u2018Mythos\u2019 AI raises cybersecurity fears, withholds public release over \u2018dangers\u2019 - KIRO 7 News Seattle",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX0I4SWt1ZWZaNmFIV0cyakliQXB4LURmZkZFZjJZWnFCQzRydElmSlppamhYeGFWOXVtUEVZTk1MbF8zem1kUklNUDFPWDJldmlJNjBkcWdzM3lrOHd4dW4wNlNhcGtmQ3hPd2tIYnJZTGg5aGtYSDVzVi1OZUdFdDY2SU9Hd29PZHd5aWtBR3ZXQXBweTllclBHTUtiYzh6M2l6Ujk1bkJ0ei03TEdLelpnUDlJQmxGcTRrZHZXTVhjbHA4LUR3V1pVbVZtVWZrWERwM084Y2tPQndxb0440gHzAUFVX3lxTFB1UEd5NFNYMHJPSHZoczFoa3BoSl94amdCQmVGWThQRkdTUmFITmxQX1VBd01zNlVpOG9CZmZjRU5zcWgzcGlhLW9tNWdWMHBjb0pST21mbm1qellwTDA0cGRScXk0TGJGQllzZXNaS1J4M2Mtb3lNS3h3YWRaczhBLWFib1hVM3FteERiZHJVaU0yNmFra1FiN3lLR1htQTV0elQzNEtKbjJHNzhSSUxjWkZTWkxRNjBsYVZyVDN1TTAxRGhsNFpxOGlCZThTM3hZdi1vdGt2V3ZVVkFvR21XYzNac2Y4SmYxT2NvMEFyV0pDaw?oc=5\" target=\"_blank\">Anthropic\u2019s \u2018Mythos\u2019 AI raises cybersecurity fears, withholds public release over \u2018dangers\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KIRO 7 News Seattle</font>",
@@ -6582,27 +6600,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWNYVHB4d1BZVTdYTTBYdXZwTGpzYmZQQndqSEs3RU9xeE5MTUNTZ0lOcUFBdFVIWEMzam1vZm51MFZzRFlpWUpUTWJ3RjlIQ1BSRzlFWVpLTFdmZ2tRazhDRkRlY3IyQlcyRmtiaVk5Z3lGVmZfWVZfdmZmcXhfUHhxLVNRVm9MM0E?oc=5",
-      "title": "Meta debuts new AI model in first test of costly \u2018superintelligence\u2019 team - The Guardian",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWNYVHB4d1BZVTdYTTBYdXZwTGpzYmZQQndqSEs3RU9xeE5MTUNTZ0lOcUFBdFVIWEMzam1vZm51MFZzRFlpWUpUTWJ3RjlIQ1BSRzlFWVpLTFdmZ2tRazhDRkRlY3IyQlcyRmtiaVk5Z3lGVmZfWVZfdmZmcXhfUHhxLVNRVm9MM0E?oc=5\" target=\"_blank\">Meta debuts new AI model in first test of costly \u2018superintelligence\u2019 team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-10T07:32:45.689146+00:00",
-      "published_at": "2026-04-09T17:57:00+00:00",
+      "url": "https://qns.com/2026/04/rendering-mixed-use-84-condominium-units-sunnyside/",
+      "title": "New rendering released for upcoming mixed-use building with 84 condominium units in Sunnyside",
+      "snippet": "A new rendering is now available for an upcoming 19-story mixed-use building at 51-02 Roosevelt Ave. in Sunnyside. The building will feature 84 condominium units, as well as an ambulatory health facility and ground-floor retail space. Created by Nexus, the rendering shows a 5-story podium spanning the full lot to begin the structure. This podium...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/rendering-mixed-use-84-condominium-units-sunnyside/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-20T20:00:41.534721+00:00",
+      "published_at": "2026-04-20T19:00:41+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.amny.com/news/nypd-images-suspects-fiery-queens-car-meetup/",
       "title": "NYPD releases images of those involved in fiery Queens car meetup that outraged community",
@@ -8384,27 +8402,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://qns.com/2026/04/ridgewood-father-injured-hit-and-run-truck-driver/",
-      "title": "Ridgewood father injured by hit-and-run pickup truck driver, who remains at large weeks later: NYPD",
-      "snippet": "Police from the 104th Precinct in Ridgewood are still looking for a hit-and-run driver who crashed into several cars and a 37-year-old man before speeding away from the scene last month. The collision occurred near the intersection of 75th Avenue and 60th Lane at around 11 a.m. on Tuesday, March 17, where the victim was...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/ridgewood-father-injured-hit-and-run-truck-driver/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-12T14:37:41.508614+00:00",
-      "published_at": "2026-04-10T20:00:04+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1squxko/condragulations_myki_meeks_our_official_winner_of/",
+      "title": "CONDRAGULATIONS, Myki Meeks! Our official winner of RPDR season 18!!",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1squxko/condragulations_myki_meeks_our_official_winner_of/\"> <img alt=\"CONDRAGULATIONS, Myki Meeks! Our official winner of RPDR season 18!!\" src=\"https://preview.redd.it/pee5dwk8kdwg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=85c8d7785aa77827f156291adb02da4d118f10f6\" title=\"CONDRAGULATIONS, Myki Meeks! Our official winner of RPDR season 18!!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Gag on her fresh crowning photoshoot\u2014 done for Entertainment Weekly. I\u2019m so proud of her for landing in the bottom once &amp; then Arya Starking her way to the absolute top!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/anettebening\"> /u/anettebening </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1squxko\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1squxko/condragulations_myki_meeks_our_official_winner_of/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-20T16:48:03+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.5,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sqhnsn/kita_mean_is_engaged/",
       "title": "Kita Mean is engaged! \ud83e\udd42\ud83d\udc8d",
@@ -11596,6 +11614,42 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU1RGcklwejRTRGU1endjUldFeE9ISlVuRElOdVlfVWdnSmxuTW9KQkJnTC1FLWtTdzZJZFptWUp2UDlqU1BVNDlTdHdFZHhKLUlIS1Z5WVdDeDRKa0RKVW9WOXZJMzl5N2dDYWNQVk9vT21HLUQ2RHZ1Ums1cjhWSVkxazFWdGdENlgxatIBoAFBVV95cUxNeUVoUW1JaXN6Z2pmTnJGVHhwX2xiWGJRTFVfN1hrOUhPeUJQcEQ4RmE0OHpMQ09jd3V3QVZvTWIwTC1oNjNJUjR4eERhMmVhdXJJb09xcEhjZzYwZUh3TzFyVzdFZ1luVnVtQ2pRQnJTS2x4YzRaM190WjhadDBvNmZTWGQyOVRoalFMVFhzOVlZRXZPbERvMEFmMWYxdDdh?oc=5",
+      "title": "Governor Hochul seeks limits on ICE in new state budget - WWNY",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPU1RGcklwejRTRGU1endjUldFeE9ISlVuRElOdVlfVWdnSmxuTW9KQkJnTC1FLWtTdzZJZFptWUp2UDlqU1BVNDlTdHdFZHhKLUlIS1Z5WVdDeDRKa0RKVW9WOXZJMzl5N2dDYWNQVk9vT21HLUQ2RHZ1Ums1cjhWSVkxazFWdGdENlgxatIBoAFBVV95cUxNeUVoUW1JaXN6Z2pmTnJGVHhwX2xiWGJRTFVfN1hrOUhPeUJQcEQ4RmE0OHpMQ09jd3V3QVZvTWIwTC1oNjNJUjR4eERhMmVhdXJJb09xcEhjZzYwZUh3TzFyVzdFZ1luVnVtQ2pRQnJTS2x4YzRaM190WjhadDBvNmZTWGQyOVRoalFMVFhzOVlZRXZPbERvMEFmMWYxdDdh?oc=5\" target=\"_blank\">Governor Hochul seeks limits on ICE in new state budget</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWNY</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-20T20:09:07.247283+00:00",
+      "published_at": "2026-04-19T22:11:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HZG1nbEJsVGsxSjFIRWYzaGtMQVhqelBfVjVaQUdVUXRfcmNhSDRfRHlkNzE3VlNkbjdpMEh5MVpqSC1CbG1rNmN2MllTUzZVd3V6TWJoVlhvT1ZPN1AzcllmYWFFM0gwZEhkTE5sVE1HVDYzOXV3blYyRXNwdw?oc=5",
+      "title": "Know Your Rights Resources for Immigrant New Yorkers - NYC.gov",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5HZG1nbEJsVGsxSjFIRWYzaGtMQVhqelBfVjVaQUdVUXRfcmNhSDRfRHlkNzE3VlNkbjdpMEh5MVpqSC1CbG1rNmN2MllTUzZVd3V6TWJoVlhvT1ZPN1AzcllmYWFFM0gwZEhkTE5sVE1HVDYzOXV3blYyRXNwdw?oc=5\" target=\"_blank\">Know Your Rights Resources for Immigrant New Yorkers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NYC.gov</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-20T20:09:07.247283+00:00",
+      "published_at": "2026-04-16T07:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVG5RYlk0LUdWOFRkeFFPNTdVMW9VWGRyUnkwNTJkOGpoQl84alhjLVlRRXFWeXVHSW03cGRsLTR1cHdOLTZHNnJ5TnowWERkZ1hCLXhzMUJxa2o3aVVZSnB4OUhYSEllckhUYV9nNEtUM3RUbURwVzBpX3Vubnoxc0h6dGVWMkxiSm5nNWJUdUZlZlFjNnc?oc=5",
       "title": "Outside NYC\u2019s \u2018sanctuary city,\u2019 local cops collude with ICE - THE CITY - NYC News",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVG5RYlk0LUdWOFRkeFFPNTdVMW9VWGRyUnkwNTJkOGpoQl84alhjLVlRRXFWeXVHSW03cGRsLTR1cHdOLTZHNnJ5TnowWERkZ1hCLXhzMUJxa2o3aVVZSnB4OUhYSEllckhUYV9nNEtUM3RUbURwVzBpX3Vubnoxc0h6dGVWMkxiSm5nNWJUdUZlZlFjNnc?oc=5\" target=\"_blank\">Outside NYC\u2019s \u2018sanctuary city,\u2019 local cops collude with ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">THE CITY - NYC News</font>",
@@ -13358,42 +13412,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFNjbGxQdlRMRmk4dlVtRi02cUc3enNYUXlVYzFqLV9USUttUUgzRDl1cmVkU0dGdVBmbkRaeHh2ZWdPRXJnYTYyYllVNW5TSGU4RE55aFJWR1Nvc1MtcFN1S0RDc2xrUWxHQUgtSWNhVnhSZ0RuaFhsaUo2bjJ6UFhqRkI5bjQ?oc=5",
-      "title": "Judge Blocks Deportation of Man Who Was Detained by ICE After Exoneration - The New York Times",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFNjbGxQdlRMRmk4dlVtRi02cUc3enNYUXlVYzFqLV9USUttUUgzRDl1cmVkU0dGdVBmbkRaeHh2ZWdPRXJnYTYyYllVNW5TSGU4RE55aFJWR1Nvc1MtcFN1S0RDc2xrUWxHQUgtSWNhVnhSZ0RuaFhsaUo2bjJ6UFhqRkI5bjQ?oc=5\" target=\"_blank\">Judge Blocks Deportation of Man Who Was Detained by ICE After Exoneration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-04-05T20:34:00.122225+00:00",
-      "published_at": "2026-04-02T19:21:09+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPanFiOXJjemN3NU5ZaXVEamFKQmpOLWVLOVZHVTBiQzEyMXJNWENzX3Q2MzFuaDJpeWNQeGtaY0o1UjQ4M1hXak1zcU1vMjVRelFFY3NiSUFBQ2hqMXd5YnVfRVdtX1BNaGxIYzYtMDVGSk9TWE5nNE5fWnVjdEc3dDNmeFAtRUNMeGk3cU10U1dOSjZhc3oyVWFUSVBDNFl6REtmb3FzbjYtZUdJdWJGYjZ3WQ?oc=5",
-      "title": "TSA sharing passenger data with ICE draws opposition. What to know. - usatoday.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPanFiOXJjemN3NU5ZaXVEamFKQmpOLWVLOVZHVTBiQzEyMXJNWENzX3Q2MzFuaDJpeWNQeGtaY0o1UjQ4M1hXak1zcU1vMjVRelFFY3NiSUFBQ2hqMXd5YnVfRVdtX1BNaGxIYzYtMDVGSk9TWE5nNE5fWnVjdEc3dDNmeFAtRUNMeGk3cU10U1dOSjZhc3oyVWFUSVBDNFl6REtmb3FzbjYtZUdJdWJGYjZ3WQ?oc=5\" target=\"_blank\">TSA sharing passenger data with ICE draws opposition. What to know.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">usatoday.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-04-05T08:44:25.600412+00:00",
-      "published_at": "2026-04-04T09:05:00+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -13435,6 +13453,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWMwa3AyRXF1ejJ1U2Q4QjEwSnlWX0t5aFZqWnZqdDFRRWFHU2dMQWJsX2tvZ2Ezc1BvQUFDTzhhaGtHblRQaDFvSW03cG1qNjBla1J5SmRveU9kZWxCZ1dPaDJEVzg5Y003cVB0dVRJMGo2ZzhEYVdrOVVJSUdDdTF1VUtLUkhRaERXeFlKaFFPVENrX09NUlZhUjlpRnhFbnRQblgwUlZONThRcDFKQkNGR01kOHBZbExQbjJkRzVsbWxfN0lfQXdB0gHPAUFVX3lxTE9mbDdPN2l0d1VnR3pYb1lJUHI0RmlvSjFySnF0dXVlQk1OY2w0UktfQ1Rka2s4dkxnTWVOcW1yaW01aDFqTG03Y1gwQjVMSVJScUdueGdtVTNKYk1OQ1FqSFJMY0NWNy1ZdkY0NnJkSlhXcTY3WnFNOTdoUXJMU2hzX3plOVQwemZ0b0d6UmhMM09xUFB5bEgxeWR6RGIwSXBnNklqMjgtTkNNZmVMa2htRE96U0hKNWQ4T0ZtMUNfcnd6SDZUMWIzZHlILUJqQQ?oc=5",
+      "title": "Louisiana wants oil firms to pay for coastal damage. A Supreme Court ruling just made that harder. - NOLA.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWMwa3AyRXF1ejJ1U2Q4QjEwSnlWX0t5aFZqWnZqdDFRRWFHU2dMQWJsX2tvZ2Ezc1BvQUFDTzhhaGtHblRQaDFvSW03cG1qNjBla1J5SmRveU9kZWxCZ1dPaDJEVzg5Y003cVB0dVRJMGo2ZzhEYVdrOVVJSUdDdTF1VUtLUkhRaERXeFlKaFFPVENrX09NUlZhUjlpRnhFbnRQblgwUlZONThRcDFKQkNGR01kOHBZbExQbjJkRzVsbWxfN0lfQXdB0gHPAUFVX3lxTE9mbDdPN2l0d1VnR3pYb1lJUHI0RmlvSjFySnF0dXVlQk1OY2w0UktfQ1Rka2s4dkxnTWVOcW1yaW01aDFqTG03Y1gwQjVMSVJScUdueGdtVTNKYk1OQ1FqSFJMY0NWNy1ZdkY0NnJkSlhXcTY3WnFNOTdoUXJMU2hzX3plOVQwemZ0b0d6UmhMM09xUFB5bEgxeWR6RGIwSXBnNklqMjgtTkNNZmVMa2htRE96U0hKNWQ4T0ZtMUNfcnd6SDZUMWIzZHlILUJqQQ?oc=5\" target=\"_blank\">Louisiana wants oil firms to pay for coastal damage. A Supreme Court ruling just made that harder.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NOLA.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-20T20:09:42.091440+00:00",
+      "published_at": "2026-04-19T09:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVB3eS1MRVFudFRYQTY4UnVLQkN1aUVKR3p6ZlY4ODNROWREOHRuRjgtb1hBSE9NWU1fZHVjdFRQUnprUXR6U3lLcnJQWlRaWnA4QzRPZDRRai0wdzhod3d0bVlhY05mVkt1R2RPZ0NWdlZHdG01ei15TmdlZGZlZjVyNHQxVHVnbzhsdnBaME5PbXZ3VmFJbU9EaDhtcVp6ZHA2b1Jqa0d2UHF1M1hHeW9FdHE4LVhmSENNb1diQU90Zw?oc=5",
       "title": "Supreme Court will hear religious liberty case on Catholic preschools and LGBTQ families - SCOTUSblog",
@@ -15216,24 +15252,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVhYeGtYSjgzeXRvcHBtbUE1NlpSSVU3TnlFdGQtSWtaTXN5cVJDVTJUbE4xY1hnMkxPdHdsYnNoZi0tYjYxUGVNTWVfQm1LS294TW8wX1pFSUZBT2RiTnhjNzY1X0ljQ0FHdlhqTlM4cHc3MW9nRnc5SzU3SjRiakg2SlVFX0U?oc=5",
-      "title": "Supreme Court hears arguments in birthright citizenship case - CNN",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVhYeGtYSjgzeXRvcHBtbUE1NlpSSVU3TnlFdGQtSWtaTXN5cVJDVTJUbE4xY1hnMkxPdHdsYnNoZi0tYjYxUGVNTWVfQm1LS294TW8wX1pFSUZBT2RiTnhjNzY1X0ljQ0FHdlhqTlM4cHc3MW9nRnc5SzU3SjRiakg2SlVFX0U?oc=5\" target=\"_blank\">Supreme Court hears arguments in birthright citizenship case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-01T15:09:49.166284+00:00",
-      "published_at": "2026-04-01T14:51:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Shopping": [
@@ -15617,6 +15635,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1sr032p/morgensterns_is_back/",
+      "title": "Morgenstern\u2019s is back!",
+      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>Per their IG, they\u2019ve reopened the ice cream shop! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lexistential247\"> /u/Lexistential247 </a> <br /> <span><a href=\"https://www.instagram.com/reel/DXXSuUsiYu4/?igsh=ZXA0aDBpOTRuc2p6\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1sr032p/morgensterns_is_back/\">[comments]</a></span>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-20T19:30:27+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.55,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sq2j0m/new_double_fire_sunset_park/",
       "title": "new double fire sunset park",

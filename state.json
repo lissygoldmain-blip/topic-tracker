@@ -108,7 +108,7 @@
         "disabled_at": null
       },
       "playbill_jobs": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 2,
         "disabled": false,
         "disabled_at": null
       },
@@ -260,7 +260,7 @@
         "disabled_at": null
       },
       "mercari": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 0,
         "disabled": false,
         "disabled_at": null
       },

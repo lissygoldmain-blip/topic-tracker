@@ -3000,6 +3000,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/04/beef-season-2-lee-sung-jin-real-life-inspiration-class-1236865372/",
+      "title": "\u2018Beef\u2019 Creator Lee Sung Jin On The \u201cReal-Life Incident\u201d That Inspired Season 2: \u201cThe Theme Of Class \u2026 Affects Every Interaction\u201d",
+      "snippet": "Beef Season 2 tackles everything from healthcare inequity to class dynamics and diaspora identity, and a majority of it was inspired by real-life events, creator Lee Sung Jin said. Though initially conceived as a limited series \u2014 Season 1 stars Ali Wong and Steven Yeun as strangers-turned-mortal-enemies after a road rage incident spirals out of [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-20T04:21:58.661063+00:00",
+      "published_at": "2026-04-19T21:07:12+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/04/fallen-angels-broadway-review-rose-byrne-kelli-ohara-mark-consuelos-1236864235/",
       "title": "\u2018Fallen Angels\u2019 Broadway Review: Rose Byrne & Kelli O\u2019Hara Are Absolutely Fabulous In Sparkling No\u00ebl Coward Comedy",
       "snippet": "No\u00ebl Coward&#8217;s delightful, rarely produced 1925 comedy Fallen Angels is the sort of Broadway fare that gives critics ample reason to use descriptors like &#8220;fizzy&#8221; and &#8220;intoxicating&#8221; and &#8220;dizzying,&#8221; all apt in capturing the pleasures of its airy sophistication and raucous, gutbucket smart, rich-ladies-get-drunk laughs. What was true in the Jazz Age remains so, as [&#8230;]",
@@ -4780,27 +4798,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://www.indiewire.com/features/interviews/chao-director-interview-gkids-mermaid-anime-1235188426/",
-      "title": "\u2018ChaO\u2019 Envisions a Futuristic Mermaid World You\u2019d Want to Visit",
-      "snippet": "IndieWire spoke to director Yasuhiro Aoki and character designer Hirokazu Kojima about creating the completely unique world of \"ChaO,\" a futuristic paradise where mermaids and humans live in uneasy coexistence.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-11T18:36:14.023594+00:00",
-      "published_at": "2026-04-11T14:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDZqa3hwZHF1Nld6SV9rc3ktaThfQ0NSWkd6RFpMbUhiQTdvYWw3ZEF4MmotTkdrb08yRVR5VFljT3hHaEZmQmM2bUsxOVNhcXhNclR1NXIyYk9UMEhjVExyUndidzdTSFR4M3JDV1F6UXFwdjFDaHY4UUxPUVJsZFZaQ1JWZVZLR09hcWt4ekNuTTcxUGVtTlNmY1V1ZHhHNVphWDhac1hNcG8?oc=5",
+      "title": "Nvidia Releases Nemotron 3 Super, a 120B Open AI Model Built for Agentic Workloads - Bitcoin News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDZqa3hwZHF1Nld6SV9rc3ktaThfQ0NSWkd6RFpMbUhiQTdvYWw3ZEF4MmotTkdrb08yRVR5VFljT3hHaEZmQmM2bUsxOVNhcXhNclR1NXIyYk9UMEhjVExyUndidzdTSFR4M3JDV1F6UXFwdjFDaHY4UUxPUVJsZFZaQ1JWZVZLR09hcWt4ekNuTTcxUGVtTlNmY1V1ZHhHNVphWDhac1hNcG8?oc=5\" target=\"_blank\">Nvidia Releases Nemotron 3 Super, a 120B Open AI Model Built for Agentic Workloads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin News</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-20T04:32:53.107558+00:00",
+      "published_at": "2026-04-20T03:34:01+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.9,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0llbjdkSW5wbVA5ZWdKWTNUUnExM1dpVExka09OQkU2bTQ1OUxMaHM3TlBfRUdnajZFMlhUTnBvdjY5OUdPZ1dFdmZtcEhxa2pTUU1lWmJNM1FIQ1A1YkVoVFRYd2lSQzdYb0l0azNnaVhiVHlwQTBPcFNGTFBuRnBXTXdvUUs0NlJ2bmUwcVBxN05RSFMxMnJB?oc=5",
       "title": "Anthropic delays Claude Mythos release over cybersecurity concerns - Crypto Briefing",
@@ -6582,27 +6600,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUndfdkRldjZzYk82SUQyMlZXcVdpeEY4OUloWXNRM0FoeUZSeG11SkUyeXc1YU1sU21XTm55QmJWaDE5ZU42SlNiZ0VGaFR3ekZCMkZzZUpydUY2dlc3QzJnamtfckdTUUpob2loSlBIUmdQY1dOZEk3TGVKemV6MDFfVk5JTU11cmNuTTlQcENvUFlVZ0tCNFYyT3RMYUNMbG1TQQ?oc=5",
-      "title": "Meta's long-awaited AI model is finally here. But can it make money? - CNBC",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUndfdkRldjZzYk82SUQyMlZXcVdpeEY4OUloWXNRM0FoeUZSeG11SkUyeXc1YU1sU21XTm55QmJWaDE5ZU42SlNiZ0VGaFR3ekZCMkZzZUpydUY2dlc3QzJnamtfckdTUUpob2loSlBIUmdQY1dOZEk3TGVKemV6MDFfVk5JTU11cmNuTTlQcENvUFlVZ0tCNFYyT3RMYUNMbG1TQQ?oc=5\" target=\"_blank\">Meta's long-awaited AI model is finally here. But can it make money?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-10T04:55:49.429264+00:00",
-      "published_at": "2026-04-09T12:00:01+00:00",
+      "url": "https://nyc.streetsblog.org/2026/04/20/ag-james-wont-charge-cop-who-ran-over-and-dragged-sleeping-man-in-park-while-applying-makeup",
+      "title": "AG James Won\u2019t Charge Cop Who Ran Over And Dragged Sleeping Man in Park While Applying Makeup",
+      "snippet": "Lip service! The top state law-enforcement official won't charge a cop who held an open tube of lip gloss as she drove over and killed a sleeping man in Flushing Meadows Park last year.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-20T04:19:48.258291+00:00",
+      "published_at": "2026-04-20T04:03:00+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.amny.com/new-york/family-mourns-queens-teen-shot-dead-park/",
       "title": "\u2018He was just a regular kid\u2019: Family mourns Queens teen shot dead in park as community prepares for emotional vigil",
@@ -8376,24 +8394,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-04-12T09:46:58.554330+00:00",
       "published_at": "2026-04-09T16:48:51+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.6sqft.com/even-amid-nycs-housing-crisis-new-affordable-units-sit-vacant-for-over-14-months/",
-      "title": "Even amid NYC\u2019s housing crisis, new affordable units sit vacant for over 14 months",
-      "snippet": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://thumbs.6sqft.com/wp-content/uploads/2026/04/10102249/NYC-Apartment-Buildings-1040x694.jpg?w=768&amp;format=webp\" width=\"1024\" /><p>A report released Thursday is calling for reforms to New York City\u2019s leasing process, finding that some affordable housing buildings can take up to 14 months to reach full occupancy due to delays. Published by Enterprise, the report highlights how even amid the city\u2019s housing crisis, newly built affordable units can sit vacant for months&#160;[...]</p>\n<p>The post <a href=\"https://www.6sqft.com/even-amid-nycs-housing-crisis-new-affordable-units-sit-vacant-for-over-14-months/\">Even amid NYC\u2019s housing crisis, new affordable units sit vacant for over 14 months</a> first appeared on <a href=\"https://www.6sqft.com\">6sqft</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-12T07:04:54.751061+00:00",
-      "published_at": "2026-04-10T16:30:00+00:00",
       "price": null,
       "novelty_score": 0.5,
       "summary": null,
@@ -11542,6 +11542,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNl9mQnpHeGMyODFoazhiTVZndFM5SWlyRm1WMGpKOHJLb2VQdlowMVAyT3Z6MGUzXzAxeE1TRU5taHZnejBtdW1EMXp5VHFVdkRzSjBZZmtTcTROdHdEY2k4TVdQTlZPTTE4SmtCdWg2ZHBySTlaUGpwTXhVUm1VOVo0QWN3MEJ2SUNpcEhQQVVGaEdiUXMxSQ?oc=5",
+      "title": "Hochul proposes plan to expand protections against ICE - Saratogian",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNl9mQnpHeGMyODFoazhiTVZndFM5SWlyRm1WMGpKOHJLb2VQdlowMVAyT3Z6MGUzXzAxeE1TRU5taHZnejBtdW1EMXp5VHFVdkRzSjBZZmtTcTROdHdEY2k4TVdQTlZPTTE4SmtCdWg2ZHBySTlaUGpwTXhVUm1VOVo0QWN3MEJ2SUNpcEhQQVVGaEdiUXMxSQ?oc=5\" target=\"_blank\">Hochul proposes plan to expand protections against ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Saratogian</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-20T04:27:48.994243+00:00",
+      "published_at": "2026-04-18T18:02:38+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlExQlcza0FyQ3o3T2tyYnBVTC1iSFF5RTVqMFJzUmVyYTg0UmlKUTVNaTVQSklDN01WUkEyQ0hrYmJ6NUFRNFBaa1dMRkVfUGU3R3pvWU0tLTJBSExBb1dPRnlTOE9UaGlXZlFkdGd5RExOYkZlZ3hvS1RCMmVqQXdoLW10NTRjdHc?oc=5",
       "title": "Upstate New York ICE arrests surge under Trump - Investigative Post",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlExQlcza0FyQ3o3T2tyYnBVTC1iSFF5RTVqMFJzUmVyYTg0UmlKUTVNaTVQSklDN01WUkEyQ0hrYmJ6NUFRNFBaa1dMRkVfUGU3R3pvWU0tLTJBSExBb1dPRnlTOE9UaGlXZlFkdGd5RExOYkZlZ3hvS1RCMmVqQXdoLW10NTRjdHc?oc=5\" target=\"_blank\">Upstate New York ICE arrests surge under Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investigative Post</font>",
@@ -13314,24 +13332,6 @@
       "topic_name": "Immigration & ICE",
       "fetched_at": "2026-04-03T10:46:09.251708+00:00",
       "published_at": "2026-04-03T10:14:18+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0YxV1d6VzlYa0EzVnIyUXU2Vk9LRkM0cjQ5U0lmZ1IzR3lNb1BzdGFaQ0ZiLXI5akt1bHpPYnpjSElzQ3JMUlNoNU1CdVd6QmZaMGZURVQtUktPNUhCTUNpdHQ0SUh2aHlxbXBTaXRKNUhFU0E0ZFdlTUZacjdPOHNrSVo3TmpFTlNCamJBXzJtTHhQTUpkX2RyVG9mS1l3Y2QxcHpLTUZCaDAtZjV1blVFclg2OXFN?oc=5",
-      "title": "NYC councilwoman\u2019s house raided over corruption scandal linked to migrant shelters - Washington Examiner",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0YxV1d6VzlYa0EzVnIyUXU2Vk9LRkM0cjQ5U0lmZ1IzR3lNb1BzdGFaQ0ZiLXI5akt1bHpPYnpjSElzQ3JMUlNoNU1CdVd6QmZaMGZURVQtUktPNUhCTUNpdHQ0SUh2aHlxbXBTaXRKNUhFU0E0ZFdlTUZacjdPOHNrSVo3TmpFTlNCamJBXzJtTHhQTUpkX2RyVG9mS1l3Y2QxcHpLTUZCaDAtZjV1blVFclg2OXFN?oc=5\" target=\"_blank\">NYC councilwoman\u2019s house raided over corruption scandal linked to migrant shelters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-04-03T08:54:12.315253+00:00",
-      "published_at": "2026-04-02T19:37:44+00:00",
       "price": null,
       "novelty_score": 0.4,
       "summary": null,

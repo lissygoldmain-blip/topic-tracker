@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.artnews.com/art-news/news/artnet-layoffs-artsy-merger-andrew-wolff-1234781869/",
+      "title": "Layoffs At Artnet And Artsy",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/Screenshot_23-4-2026_7276_www.artnews.com_-150x150.jpeg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />Days after layoffs at\u00a0Artnet\u00a0and\u00a0Artsy\u00a0shook the art world, investor and owner Andrew E. Wolff has\u00a0offered his clearest explanation\u00a0yet for the cuts, framing them as part of a broader consolidation strategy already underway at the two companies. &#8211; ARTnews",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-23T15:31:53.994648+00:00",
+      "published_at": "2026-04-23T15:15:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.yahoo.com/entertainment/music/articles/michael-tilson-thomas-eminent-orchestra-135550718.html#new_tab",
       "title": "Michael Tilson Thomas Is Dead At 81",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/906-2-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />\u201cHe was widely considered one of the most distinguished American conductors of his generation\u201d \u2014 most notably for his 25 years as music director of the San Francisco Symphony. \u201cIn addition to making more than 100 recordings of both rare and familiar classical repertory, he created valuable\u00a0instructional series\u00a0for\u00a0television\u00a0and radio.\u201d &#8211; The Washington Post (Yahoo)",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/the-brooklyn-fine-art-print-fair-has-taken-off-its-training-wheels/",
-      "title": "The Brooklyn Fine Art Print Fair Has Taken Off Its Training Wheels",
-      "snippet": "Shaking off any initial caution from last year\u2019s beta test, it has charged forward and made itself a space to showcase the radical history and present of printmaking.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-10T22:28:48.371076+00:00",
-      "published_at": "2026-04-10T21:58:28+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -3035,6 +3035,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://deadline.com/2026/04/buddy-movie-release-date-roadside-attractions-saban-films-1236868793/",
+      "title": "Casper Kelly\u2019s Sundance Horror Flick \u2018Buddy\u2019 Starring Delaney Quinn, Keegan-Michael Key & Cristin Miloti Acquired By Roadside Attractions & Saban Films",
+      "snippet": "EXCLUSIVE: Roadside Attractions and Saban Films have acquired North American rights to Buddy, the horror film marking the feature directorial debut of Too Many Cooks helmer Casper Kelly, which premiered in the Midnight section of this year&#8217;s Sundance Film Festival. The film will open exclusively in theaters, in wide release, on September 4. Produced by [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-23T15:36:00.135251+00:00",
+      "published_at": "2026-04-23T15:30:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://deadline.com/2026/04/dustin-milligan-diona-doherty-committed-bbc-ni-cbc-1236868190/",
       "title": "Canada\u2019s CBC & BBC Northern Ireland Are \u2018Committed\u2019 To Comedy Starring Dustin Milligan & Diona Doherty",
@@ -4808,24 +4826,6 @@
       "topic_name": "Film & TV",
       "fetched_at": "2026-04-16T07:24:48.878205+00:00",
       "published_at": "2026-04-16T04:46:45+00:00",
-      "price": null,
-      "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.indiewire.com/criticism/movies/amrum-review-fatih-akin-1235189194/",
-      "title": "\u2018Amrum\u2019 Review: Fatih Akin\u2019s World War II Coming-of-Age Film Is Unlike Anything He\u2019s Done Before",
-      "snippet": "Fatih Akin took directing duties on \"Amrum\" when his friend, the cult German director Hark Bohm, fell ill and couldn't make it himself.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-16T01:54:55.407247+00:00",
-      "published_at": "2026-04-15T18:00:00+00:00",
       "price": null,
       "novelty_score": 0.7,
       "summary": null,
@@ -6640,6 +6640,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://qns.com/2026/04/aanhpi-curriculum-bill-john-liu/",
+      "title": "Sen. Liu calls on state Legislature to pass AANHPI curriculum bill",
+      "snippet": "State Sen. John Liu joined elected officials and a coalition of Asian American, Native Hawaiian and Pacific Islander (AANHPI) community members outside the State Capitol in Albany Tuesday morning to call on the state legislature to pass the AANHPI curriculum bill. Liu joined Assemblymembers Nily Rozic and Grace Lee, along with members of the Representing...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/aanhpi-curriculum-bill-john-liu/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-23T15:33:28.840368+00:00",
+      "published_at": "2026-04-23T14:00:18+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://qns.com/2026/04/southeast-queens-senior-charged-sexual-abuse-jamaica/",
       "title": "Southeast Queens senior charged with sexually abusing a 6-year-old girl in toy aisle of a Jamaica department store: DA",
       "snippet": "A elderly Jamaica man was criminally charged with sexual abuse and other crimes for groping a 6-year-old girl in the toy aisle of a Marshalls department store on April 16. Angel Farias, 71, of 149th Street, was arraigned in Queens Criminal Court on Tuesday night on a complaint charging him with sexual abuse in the...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/southeast-queens-senior-charged-sexual-abuse-jamaica/\">Read More</a>",
@@ -8414,24 +8432,6 @@
       "published_at": "2026-04-14T21:32:50+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/housing-lottery-50-units-jackson-heights-rent-2500/",
-      "title": "Housing lottery underway for 50 units in Jackson Heights, rent starts at $2,500",
-      "snippet": "Sign up for our\u00a0weekly email newsletter\u00a0to stay updated on the latest housing lotteries in New York City. New York City has launched a housing lottery for 50 units at 34-20 Junction Blvd. in Jackson Heights. The mixed-use building features 164 total units, of which 114 are at market rate. All 50 units set aside in...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/housing-lottery-50-units-jackson-heights-rent-2500/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-15T14:30:32.305396+00:00",
-      "published_at": "2026-04-15T13:00:57+00:00",
-      "price": null,
-      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -15941,6 +15941,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1stfvq7/luosifen_in_chinatown/",
+      "title": "Luosifen in Chinatown",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1stfvq7/luosifen_in_chinatown/\"> <img alt=\"Luosifen in Chinatown\" src=\"https://preview.redd.it/zevhid0ucxwg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=eae2d06dce70fccfb4b8f0f781f8eab1fb97ae16\" title=\"Luosifen in Chinatown\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Finding a good Luosifen spot can be hard to find in NYC. Tried out Silk Noodle Bar in Chinatown and it is good. However, it is not spicy enough for me to say it\u2019s the best Luosifen I\u2019ve ever had. Worth a try for anyone who likes Luosifen, went twice and couldn\u2019t get a seat as it seems to always be packed. </p> <p>Their website isn\u2019t live yet so here is a small write up for anyone interested:</p> <p><a href=\"https://theblot.org/silk-noodle-bar-nyc-review/\">https://theblot.org/silk-noodle-bar-nyc-review/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Euphoric_Emergency31\"> /u/Euphoric_Emergency31 </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1stfvq7\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1stfvq7/luosifen_in_chinatown/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-23T11:22:11+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1stj38h/paladares_columbian_bakery_103rd_st_corona_queens/",
       "title": "Paladares Columbian Bakery @ 103rd st, Corona, Queens",

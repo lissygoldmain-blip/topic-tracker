@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.artnews.com/art-news/news/venice-biennale-jury-israel-russia-statement-1234782386/",
+      "title": "Cutting The Baby In Half? Venice Biennale Jury Says It Won\u2019t Consider Russia Or Israel For Top Prize",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/Screenshot_24-4-2026_83952_www.artnews.com_-150x150.jpeg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />The\u00a0Venice Biennale\u2018s jury said on Thursday that it would not consider nations whose leaders have been charged with crimes against humanity by the International Criminal Court\u2014a move that effectively tosses Israel and Russia out of the running for the top honors at the world\u2019s greatest art exhibition. &#8211; ARTnews",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-24T16:46:19.485462+00:00",
+      "published_at": "2026-04-24T16:31:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.thestage.co.uk/news/londons-bridge-theatre-in-line-for-sale#new_tab",
       "title": "Nicholas Hytner\u2019s London Theatre Company Is Looking To Sell Its Home, The Bridge Theatre",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/803-7-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />\u201cThe Stage understands the Bridge Theatre, which opened in October 2017 and was founded by former National Theatre director Nicholas Hytner and executive director Nick Starr, could be sold as part of a process that began with an investment opportunity being launched.\u201d &#8211; The Stage",
@@ -1781,16 +1799,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Health research": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlZQeFVvNDRlbGR4bzMzZXB2bEc2aWUwa2I1X09ueHlDS2R3NTgwRS04bXczSjVLLW1xNXJoVEF5YVZ5UFdrOTJkQlV6VFl1SUNQbks2Z0RoVmxtLUh0X2prd241bUV1TTRGU2pGRnRHV3dELTgwU0hMN2k4LXk0UVRXOXBQb0NsSXhseXdCSThJUTFmYnRVN281RzVxWW92ZnNqSUtCeEdIa3F4cDJYUzBFbC1YTThlRC1aNzkyaVk0N1B5TW9hSA?oc=5",
-      "title": "Queens Dancer Wins Red Bull Dance Your Style Qualifier at Brooklyn Museum - National Today",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlZQeFVvNDRlbGR4bzMzZXB2bEc2aWUwa2I1X09ueHlDS2R3NTgwRS04bXczSjVLLW1xNXJoVEF5YVZ5UFdrOTJkQlV6VFl1SUNQbks2Z0RoVmxtLUh0X2prd241bUV1TTRGU2pGRnRHV3dELTgwU0hMN2k4LXk0UVRXOXBQb0NsSXhseXdCSThJUTFmYnRVN281RzVxWW92ZnNqSUtCeEdIa3F4cDJYUzBFbC1YTThlRC1aNzkyaVk0N1B5TW9hSA?oc=5\" target=\"_blank\">Queens Dancer Wins Red Bull Dance Your Style Qualifier at Brooklyn Museum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFNuYzJwcTFlcXhBTG5KZXRXVTdFRDRUZGhocGZfaXY5MG9Db1ZVdGxMWmRtZ0VHelNxWDNieUk4QzlXX3FVYjM0Y2dLYVlUbTE3VUVZaHlFNU9fX0hId2VVUUpCS0dCd0R5S1RscUVEV2QzeFItSlBZcGF4RS1rNGJNaWgySS1fTnd2bFo2R1U3X2dRTTRMQktaOXdDMlhLZGZ6b0x4RHFEQmlDY29VTjRXd0d5c0lhMGU5dnFvUU1jMm8?oc=5",
+      "title": "GLP-1 Drugs Show Vascular Benefits in Diabetic Retinopathy Patients, Study Finds - Review of Optometry",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFNuYzJwcTFlcXhBTG5KZXRXVTdFRDRUZGhocGZfaXY5MG9Db1ZVdGxMWmRtZ0VHelNxWDNieUk4QzlXX3FVYjM0Y2dLYVlUbTE3VUVZaHlFNU9fX0hId2VVUUpCS0dCd0R5S1RscUVEV2QzeFItSlBZcGF4RS1rNGJNaWgySS1fTnd2bFo2R1U3X2dRTTRMQktaOXdDMlhLZGZ6b0x4RHFEQmlDY29VTjRXd0d5c0lhMGU5dnFvUU1jMm8?oc=5\" target=\"_blank\">GLP-1 Drugs Show Vascular Benefits in Diabetic Retinopathy Patients, Study Finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Review of Optometry</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-13T19:02:35.899702+00:00",
-      "published_at": "2026-04-13T17:00:16+00:00",
+      "topic_name": "Health research",
+      "fetched_at": "2026-04-24T16:49:45.060599+00:00",
+      "published_at": "2026-04-24T10:01:03+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -1798,10 +1818,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Health research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84N2ZtREQ4RGE1aGRCRHUyYkhOelJ3OHBmdXgwNGxMSmIzQjcxQnUyVFNYYVk2dE5wWHlWQTItaDNoZW5xcmx5T3N6R0djdkhoNXE1WjhBWWJ1dDVMQ1Y3c3ZPTmJyQQ?oc=5",
       "title": "What a New Study Shows About Brain Health and GLP-1 Drugs - MedPage Today",
@@ -3053,6 +3071,60 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://www.indiewire.com/features/interviews/robert-aramayo-i-swear-baftas-john-davidson-tourettes-1235190387/",
+      "title": "Robert Aramayo\u2019s Star-Making Turn in \u2018I Swear\u2019 Is Already Award-Winning, Now He Just Wants People to See It",
+      "snippet": "The \"I Swear\" star nabbed two BAFTAs at this year's fraught ceremony, but as he tells IndieWire, the next step isn't more glory \u2014 it's just more audience members, more knowledge, and hopefully more understanding.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-24T16:50:16.473446+00:00",
+      "published_at": "2026-04-24T13:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://www.indiewire.com/criticism/movies/ricky-movie-review-stephan-james-1235088827/",
+      "title": "\u2018Ricky\u2019 Review: Stephan James Stars in a Deeply Affecting Drama About Life After Prison",
+      "snippet": "First-time director Rashad Frett establishes himself as a major force in a film that tells a familiar story with a personal touch.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-24T16:50:16.473446+00:00",
+      "published_at": "2026-04-24T14:30:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://www.indiewire.com/criticism/movies/the-school-duel-movie-review-1235190553/",
+      "title": "\u2018The School Duel\u2019 Review: A Dystopian Answer to Pointless Shootings Announces a Provocative New Film Talent",
+      "snippet": "Todd Wiseman Jr.'s queasily, unsubtly disturbing black-and-white film turns up the prescience dial to the max \u2014 and would make a winning double feature with last year's \"The Long Walk.\"",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-24T16:50:16.473446+00:00",
+      "published_at": "2026-04-24T15:30:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://deadline.com/2026/04/mary-oliver-saved-by-the-beauty-of-the-world-kino-lorber-acquisition-1236870580/",
       "title": "Kino Lorber Acquires \u2018Mary Oliver: Saved By The Beauty Of The World,\u2019 Documentary About Poet Beloved By Stephen Colbert, Oprah & More",
@@ -4798,63 +4870,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://deadline.com/2026/04/an-unfinished-love-story-doris-kearns-goodwin-richard-goodwin-david-hemingson-sony-1236863438/",
-      "title": "Sony Pictures Lands \u2018An Unfinished Love Story,\u2019 Sets \u2018The Holdovers\u2019 David Hemingson To Script Love Story Of Doris Kearns Goodwin & Richard Goodwin In Backdrop Of Turbulent \u201960s",
-      "snippet": "EXCLUSIVE: Sony has acquired and tapped Oscar-nominated The Holdovers screenwriter David Hemingson&#160;to adapt Pulitzer Prize-winning historian Doris Kearns Goodwin\u2019s memoir An Unfinished Love Story: A Personal History of the 1960s. Playtone partners Tom Hanks and Gary Goetzman and Eon Productions\u2019 Barbara Broccoli initially optioned the book and will produce alongside Goodwin and her Pastimes Productions [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-16T20:44:22.370177+00:00",
-      "published_at": "2026-04-16T20:21:52+00:00",
-      "price": null,
-      "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.indiewire.com/features/interviews/bob-odenkirk-derek-kolstad-normal-action-films-interview-1235149006/",
-      "title": "Bob Odenkirk\u2019s Transformation Into John Wick Is Just Beginning",
-      "snippet": "The sketch comedy veteran and \"Better Call Saul\" star is finding a new lane in films like \"Nobody\" and \"Normal,\" and he's teaming with \"John Wick\" creator Derek Kolstad and producer Marc Provissiero to make a lot more action films.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-16T20:44:22.184030+00:00",
-      "published_at": "2026-04-16T17:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.indiewire.com/criticism/movies/erupcja-movie-review-charli-xcx-1235149120/",
-      "title": "\u2018Erupcja\u2019 Review: Charli xcx Ditches Her Boyfriend for a Polish Girl in Light and Breezy Movie About the Upside of Main Character Syndrome",
-      "snippet": "\u201cJethica\" director Pete Ohs applies his semi-improvised style to a Warsaw-set film that splits the difference between Sofia Coppola and Jacques Rivette.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-16T20:44:22.184030+00:00",
-      "published_at": "2026-04-16T17:10:00+00:00",
-      "price": null,
-      "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "AI & tech research": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HV2liRWlDR0N2QUQwbXNVR0kwamV5c0tjc3QwQWk1ekJOcXJGUzRVc2k2dmlnTUo1Vk16SzR0dDRrWHc4cUpIZUZrR29sTGpmUU9CZTVDTkV4enN5UUR1WjRsZm5tYnZGSjFJbkphdEMxOHl2M3QzNXFvY05Qdw?oc=5",
+      "title": "China\u2019s DeepSeek releases new AI model V4. Here\u2019s everything to know as the AI race speeds up - Yahoo News Singapore",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1HV2liRWlDR0N2QUQwbXNVR0kwamV5c0tjc3QwQWk1ekJOcXJGUzRVc2k2dmlnTUo1Vk16SzR0dDRrWHc4cUpIZUZrR29sTGpmUU9CZTVDTkV4enN5UUR1WjRsZm5tYnZGSjFJbkphdEMxOHl2M3QzNXFvY05Qdw?oc=5\" target=\"_blank\">China\u2019s DeepSeek releases new AI model V4. Here\u2019s everything to know as the AI race speeds up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Singapore</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-24T17:01:24.158218+00:00",
+      "published_at": "2026-04-24T14:42:49+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY1N4R2xJOGhJOUpsQzg3ZGowVE9uRFBnZUhEUDFyX2UwS0VmWU5PZEJBUnY3eHc5VjFPem1UNGlIdldQamptcjZqTERPTlZaTXgwRlBNSGtoZktmSm45MmhsM1E4eE9HZXpiUmJVWkpLZGxwdDdRWVdHTURYbmdVTmxQeVN3OU1lcl9EemhfZDB0TG9YaHluMW5uUXVZNVJodmJ6QlhPNjE0cURqOUV2VlRhNk5DNmZOTDQ5Q2VYc0Z0YmJrbXpFLS1sNzlkd2RVTGd6WkRxRS1GSm90ZVRodXVR?oc=5",
       "title": "China's DeepSeek releases long-awaited new AI model - Key Biscayne Portal",
@@ -6636,27 +6672,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSVQtN2hCcWE5WEpERnRfQWNKVDJycUVacXc0c2lVTFVIRHVobm5SQnpqR0xacWRGanRIUnFuazM0ZzJGNFVQVXdVV2trbktsM0ZxTlB2UlJjSWZad0NUSHgzNllWVU1NUi0wMkRBY2VtR09FVEZhNkd4UnoxRERtOVkyaTdhcVVlV1BOa2NJWTFZdU1MMFJqUHlrZ2l0Q2NVNmNmN2hpaGtsMXUzYVBTVkZwRjRhM3VtQWV1TUFmYWM1aElZcHJnVW44MFM5V1ctYkY5S2MzX3VPaU9RRnUxLThuYXdYbHotdzRjdGxzdlVqTlZzV0N2RURPdUFRWWo10gGGAkFVX3lxTE5KUk9GNGJJaDBHSW9MOHd5UFEzRXVXcnBWYlk1OEp0eDlCTWtha1pkYXNVaFhrM0ViWnBmRm1OV3k4YzA3Y3R1MGRrd01ScEdkWGhGQkJSR1B2dFVfZXhtcWRtWTFhbVI0Vnkwb2RXZWp0OE04Z3F0NllYek9QbVJibWotM1F6ZmNIT3NyYVpWanNyQWNHVm42TnNNLWtzZXJzbWF5MjZSanNMRm5BZ211RTVUU2lsdHQxLXdDWWpFVGxXNnJnQ1JBTXgtODFBck5laGhZUXJzVGlmM1hDOTlKYU1TRlNfUW10bEhHUGN2dE15VWo5eWdyekVINUtOeEJ6SkxZcmc?oc=5",
-      "title": "MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, Vision, and Search - MarkTechPost",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNSVQtN2hCcWE5WEpERnRfQWNKVDJycUVacXc0c2lVTFVIRHVobm5SQnpqR0xacWRGanRIUnFuazM0ZzJGNFVQVXdVV2trbktsM0ZxTlB2UlJjSWZad0NUSHgzNllWVU1NUi0wMkRBY2VtR09FVEZhNkd4UnoxRERtOVkyaTdhcVVlV1BOa2NJWTFZdU1MMFJqUHlrZ2l0Q2NVNmNmN2hpaGtsMXUzYVBTVkZwRjRhM3VtQWV1TUFmYWM1aElZcHJnVW44MFM5V1ctYkY5S2MzX3VPaU9RRnUxLThuYXdYbHotdzRjdGxzdlVqTlZzV0N2RURPdUFRWWo10gGGAkFVX3lxTE5KUk9GNGJJaDBHSW9MOHd5UFEzRXVXcnBWYlk1OEp0eDlCTWtha1pkYXNVaFhrM0ViWnBmRm1OV3k4YzA3Y3R1MGRrd01ScEdkWGhGQkJSR1B2dFVfZXhtcWRtWTFhbVI0Vnkwb2RXZWp0OE04Z3F0NllYek9QbVJibWotM1F6ZmNIT3NyYVpWanNyQWNHVm42TnNNLWtzZXJzbWF5MjZSanNMRm5BZ211RTVUU2lsdHQxLXdDWWpFVGxXNnJnQ1JBTXgtODFBck5laGhZUXJzVGlmM1hDOTlKYU1TRlNfUW10bEhHUGN2dE15VWo5eWdyekVINUtOeEJ6SkxZcmc?oc=5\" target=\"_blank\">MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, Vision, and Search</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarkTechPost</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-13T20:17:28.557743+00:00",
-      "published_at": "2026-04-13T05:17:40+00:00",
+      "url": "https://qns.com/2026/04/firefighters-injured-fire-astoria-church-rectory/",
+      "title": "Six firefighters injured battling 5-alarm fire at historic 19th-century church and rectory in Old Astoria: FDNY",
+      "snippet": "Hundreds of FDNY firefighters battled a 5-alarm fire at a historic church in Old Astoria on Thursday night. The FDNY received a call at around 6:45 p.m. on April 23 reporting a blaze at the rectory located at 27-21 12th St. By the time units arrived at the scene minutes later, the blaze had extended...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/firefighters-injured-fire-astoria-church-rectory/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-24T16:47:54.345766+00:00",
+      "published_at": "2026-04-24T16:30:13+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.amny.com/politics/mamdani-vetoes-protest-buffer-zone-bill/",
       "title": "Mamdani vetoes one protest buffer zone bill, \u2018allows\u2019 another to become law",
@@ -8438,16 +8474,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://qns.com/2026/04/31st-street-bike-lanes/",
-      "title": "DOT launches expanded proposal for 31st Street bike lanes from 20th Avenue to Northern Boulevard",
-      "snippet": "The Department of Transportation (DOT) has restarted public engagement for the 31st Street Redesign in Astoria, announcing an expanded proposal to install curbside protected bike lanes from 20th Avenue to Northern Boulevard. In December, Queens Supreme Court Justice Chere\u00e9 Buggs ordered the DOT to halt plans for the redesign, siding with a number of local...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/31st-street-bike-lanes/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-16T17:07:23.594607+00:00",
-      "published_at": "2026-04-16T17:04:55+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1suitfo/suzie_on_the_s18_queens_on_monet_talks/",
+      "title": "Suzie on the S18 queens on Monet Talks",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1suitfo/suzie_on_the_s18_queens_on_monet_talks/\"> <img alt=\"Suzie on the S18 queens on Monet Talks\" src=\"https://external-preview.redd.it/dzJ0OWJpY2FvNXhnMb8FYYyZ9okZRTLRCTz36hLBmfwZJMZ1XyDvu3XNsru3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=636619c8a4b159100c18ae8b9b602313b482109c\" title=\"Suzie on the S18 queens on Monet Talks\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/btriscuit\"> /u/btriscuit </a> <br /> <span><a href=\"https://v.redd.it/92dzrvfao5xg1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1suitfo/suzie_on_the_s18_queens_on_monet_talks/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-24T15:22:37+00:00",
+      "published_at": null,
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -8455,10 +8493,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1strq1g/rupauls_drag_race_all_stars_11_all_closeup_promo/",
       "title": "Rupaul\u2019s Drag Race All Stars 11: All Close-Up Promo Looks",

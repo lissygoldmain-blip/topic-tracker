@@ -1,6 +1,42 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/a-buddha-is-reborn-on-the-high-line/",
+      "title": "A Buddha Is Reborn on the High Line",
+      "snippet": "Tuan Andrew Nguyen\u2019s sandstone and brass take on the destroyed Bamiyan Buddhas reminds passersby that history repeats.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-24T22:33:58.186824+00:00",
+      "published_at": "2026-04-24T21:59:01+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://hyperallergic.com/nude-performance-at-mfa-boston-confronts-one-of-arts-oldest-tropes/",
+      "title": "Nude Performance at MFA Boston Confronts One of Art\u2019s Oldest Tropes",
+      "snippet": "Artist Xandra Ibarra's \u201cNude Laughing\u201d  sparks conversations about consent, viewer etiquette, art history, and the human body.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-24T22:33:58.186824+00:00",
+      "published_at": "2026-04-24T22:03:22+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.artsjournal.com/2026/04/riyadh-walks-venice-cuts-berlin-stalls.html",
       "title": "Riyadh walks, Venice cuts, Berlin stalls",
       "snippet": "Good morning The Met Opera&#8217;s $200 million Saudi deal is dead \u2014 Riyadh walked from an arrangement that would have sent the company to perform three-week February seasons at the new Royal Diriyah Opera House in exchange for badly needed funding (The New York Times). It&#8217;s the highest-profile casualty in a day full of cultural [&#8230;]",
@@ -1755,42 +1791,6 @@
       "topic_name": "NYC theater & arts",
       "fetched_at": "2026-04-14T15:07:59.834930+00:00",
       "published_at": "2026-04-13T17:27:31+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.irishtimes.com/culture/stage/2026/04/11/us-theatres-are-afraid-to-book-us-says-les-ballets-trockadero-de-monte-carlo-director/#new_tab",
-      "title": "To This We\u2019ve Come: The Trocks Say US Presenters Are Now Afraid To Book Them",
-      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/734-1-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />Les Ballets Trockadero de Monte Carlo, to use the full name, has been popular all over the country and overseas for decades. Now some venues worry that what little government funding they get will be cancelled if they present a drag troupe, even one that\u2019s been around for 50 years. &#8211; The Irish Times",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-14T14:48:16.176282+00:00",
-      "published_at": "2026-04-14T14:34:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/ai-weiwei-and-the-art-of-keeping-your-mouth-shut/",
-      "title": "Ai Weiwei and the Art of Keeping Your Mouth Shut",
-      "snippet": "\u201cOn Censorship\u201d offers timely reflections from the dissident artist, whose entire life and career have been marked by state persecution.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-14T14:48:16.025079+00:00",
-      "published_at": "2026-04-13T15:24:19+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -4874,6 +4874,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd3BGX1RVY2NmcVZoZnpqQ0hDTmdhem9nVE5wLWlKN2lIYzNuVjJtUjdqeU9oWWIxVjY4WG1BU0ctMm5VNURWZmhnU05IQTVnakRJUFJSeHI5dFB0WThCb1h1Q2Fnb3k5aUwyTUd6NEZ3bU1LRWs5OHZvTi1MQlJpVzNMbnRzcDd6UkZxdFlsX0FycjU5SVc4OA?oc=5",
+      "title": "China's DeepSeek releases preview of long-awaited V4 model as AI race intensifies - CNBC",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPd3BGX1RVY2NmcVZoZnpqQ0hDTmdhem9nVE5wLWlKN2lIYzNuVjJtUjdqeU9oWWIxVjY4WG1BU0ctMm5VNURWZmhnU05IQTVnakRJUFJSeHI5dFB0WThCb1h1Q2Fnb3k5aUwyTUd6NEZ3bU1LRWs5OHZvTi1MQlJpVzNMbnRzcDd6UkZxdFlsX0FycjU5SVc4OA?oc=5\" target=\"_blank\">China's DeepSeek releases preview of long-awaited V4 model as AI race intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-24T22:48:39.552919+00:00",
+      "published_at": "2026-04-24T04:42:57+00:00",
+      "price": null,
+      "novelty_score": 0.85,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdXdKYlZTNndJLTlWbHRHMnRnd3JzTlBhSDdZb0NtZFRqakh3bWtjc3lldTA0QjJFaXRlSFMwSFd6cndTOFhIS1JsR0JsUTFFOVpxdDVhNUdSU3gtbURXbVBhOGJaY1FhTVNoamsyZndSVmJjVTNnemEyaEpNZ0FCNTNnWW1xREJVNS1PU0hjS2w2MXRpaEViLUZlaU96WTlOdWJTU1YxR3ljLUNEek1zOVVzSXZFQVVvQnlVVnVaNm03XzJSWnoyWjRwTkFZdVJkdEtaU2F6dkN0VlUzanEzc3RMcHo0RWFzdDZ2Rg?oc=5",
       "title": "China\u2019s DeepSeek Releases New AI Models It Claims \u2018Nearly\u2019 Match Up To OpenAI, Anthropic Tech - Stocktwits",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdXdKYlZTNndJLTlWbHRHMnRnd3JzTlBhSDdZb0NtZFRqakh3bWtjc3lldTA0QjJFaXRlSFMwSFd6cndTOFhIS1JsR0JsUTFFOVpxdDVhNUdSU3gtbURXbVBhOGJaY1FhTVNoamsyZndSVmJjVTNnemEyaEpNZ0FCNTNnWW1xREJVNS1PU0hjS2w2MXRpaEViLUZlaU96WTlOdWJTU1YxR3ljLUNEek1zOVVzSXZFQVVvQnlVVnVaNm03XzJSWnoyWjRwTkFZdVJkdEtaU2F6dkN0VlUzanEzc3RMcHo0RWFzdDZ2Rg?oc=5\" target=\"_blank\">China\u2019s DeepSeek Releases New AI Models It Claims \u2018Nearly\u2019 Match Up To OpenAI, Anthropic Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
@@ -6654,27 +6672,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRlpvUm5CWFlzNHFJdGg1ejZHSFFjakF1aFdoMEkyaEtpRzd3SER6NWlZRktXQ1pONHgxWW11Vnh1UFNhVm5uR3cwNkJKbGtBakg3QjU2LVgwSUpnZ3RXa21XWjUwSkNBUTdObFZOeWlqU2lUeDhEdjJhQjhVNkgxM1ZzNnBNWllhSFNjVDFMTkxoVkxWbDZpaENiRXlfZw?oc=5",
-      "title": "Meta releases first new AI model in a year - Gulf Business",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRlpvUm5CWFlzNHFJdGg1ejZHSFFjakF1aFdoMEkyaEtpRzd3SER6NWlZRktXQ1pONHgxWW11Vnh1UFNhVm5uR3cwNkJKbGtBakg3QjU2LVgwSUpnZ3RXa21XWjUwSkNBUTdObFZOeWlqU2lUeDhEdjJhQjhVNkgxM1ZzNnBNWllhSFNjVDFMTkxoVkxWbDZpaENiRXlfZw?oc=5\" target=\"_blank\">Meta releases first new AI model in a year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Business</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-14T13:16:24.733589+00:00",
-      "published_at": "2026-04-09T05:58:14+00:00",
+      "url": "https://nyc.streetsblog.org/2026/04/24/no-balls-nypd-cancels-dots-world-cup-street-viewing-parties-organizers-say",
+      "title": "No Balls! DOT Cancels World Cup Street Viewing Parties After NYPD Balks, Organizers Say",
+      "snippet": "It\u2019s the latest World Cup fail.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-24T22:35:32.340478+00:00",
+      "published_at": "2026-04-24T21:36:03+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/college-point-fugitive-extradited-bayside/",
       "title": "College Point fugitive extradited back to city from Panama to face charges of burglarizing Bayside home, others in northeast Queens: DA",
@@ -8456,16 +8474,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://qns.com/2026/04/gunman-woodside-houses/",
-      "title": "Gunman opens fire near NYCHA\u2019s Woodside Houses, flees into nearby apartment building: NYPD",
-      "snippet": "Police from the 114th Precinct are looking for a gunman who opened fire near the Woodside Houses NYCHA complex during the early morning hours of Tuesday, April 7. Police say the suspect was in front of a home at 32-17 51st St. across the road from the Woodside Houses at 1:20 a.m. when he pulled...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/gunman-woodside-houses/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-16T20:42:13.949185+00:00",
-      "published_at": "2026-04-16T19:30:01+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1susjxf/lexi_love_detox_and_latrice_royale_performing_at/",
+      "title": "Lexi Love, Detox, and Latrice Royale Performing At The Park Club In Roanoke, Virginia For The Pride Weekend Festival. Starting Tonight Friday, April 24th - Sunday, April 26th",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1susjxf/lexi_love_detox_and_latrice_royale_performing_at/\"> <img alt=\"Lexi Love, Detox, and Latrice Royale Performing At The Park Club In Roanoke, Virginia For The Pride Weekend Festival. Starting Tonight Friday, April 24th - Sunday, April 26th\" src=\"https://preview.redd.it/ik1yrw5xf7xg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=a2aaae1b90e169639cf966d36a6c5186377dd9ca\" title=\"Lexi Love, Detox, and Latrice Royale Performing At The Park Club In Roanoke, Virginia For The Pride Weekend Festival. Starting Tonight Friday, April 24th - Sunday, April 26th\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Lexi Love, Detox, and Latrice Royale Performing At The Park Club In Roanoke, Virginia For The Pride Weekend Festival. Starting Tonight Friday, April 24th - Sunday, April 26th</p> <p>ROANOKE PRIDE 34 EVENING VIP &amp; GENERAL ADMISSION TICKETS &amp; PACKAGES By Roanoke Pride Inc:</p> <p><a href=\"https://www.zeffy.com/en-US/ticketing/roanoke-pride-34-evening-vip-and-general-admission-tickets-and-packages-by-roanoke-pride-inc\">https://www.zeffy.com/en-US/ticketing/roanoke-pride-34-evening-vip-and-general-admission-tickets-and-packages-by-roanoke-pride-inc</a> </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DatsMoneyHoney\"> /u/DatsMoneyHoney </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1susjxf\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1susjxf/lexi_love_detox_and_latrice_royale_performing_at/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-24T21:18:10+00:00",
+      "published_at": null,
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -8473,10 +8493,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sumr8q/lydia_b_kollins_stars_in_a_short_film/",
       "title": "Lydia B Kollins stars in a short film \u201cBOSHBLOBBERBOSH\u201d",
@@ -16031,6 +16049,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1suslu8/bong_crown_heights_amazing/",
+      "title": "Bong (Crown Heights) - Amazing!",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1suslu8/bong_crown_heights_amazing/\"> <img alt=\"Bong (Crown Heights) - Amazing!\" src=\"https://preview.redd.it/m6xvg7xfg7xg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2b41b05454fd7e25b662d219c7c78fc4f1bb2c90\" title=\"Bong (Crown Heights) - Amazing!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Went yesterday at 5:30pm and had a blast! All the food is incredible and the service and atmosphere is wonderful. We ordered:</p> <p>1) Asparagus dish</p> <p>2) Pomelo salad </p> <p>3) Pork chop (get it with rice to soak up the delicious sauce)</p> <p>4) Fried chicken </p> <p>5) Bottle of the pignoletto frizzante wine</p> <p>Everything was so delicious and unlike anything we\u2019ve ever had in NYC. Highly recommend! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/toputitfrankly\"> /u/toputitfrankly </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1suslu8\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1suslu8/bong_crown_heights_amazing/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-24T21:20:14+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1sulym3/good_news_tampopo_ramens_moving_on_up_after_a/",
       "title": "Good news: Tampopo Ramen\u2019s Moving on up after a decade at their current spot! Last weekend at 1 Bennett Avenue (4/24 to 4/26/2026), after that they\u2019ll relocate a few blocks away. Reopening next month in May.",

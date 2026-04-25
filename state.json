@@ -16,9 +16,9 @@
     },
     "NYC theater & arts": {
       "gdelt": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-24T13:01:24.555403+00:00"
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       },
       "google_news": {
         "consecutive_failures": 0,
@@ -56,9 +56,9 @@
         "disabled": false
       },
       "gdelt": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-24T13:02:13.993944+00:00"
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       },
       "rss": {
         "consecutive_failures": 0,
@@ -103,7 +103,7 @@
         "disabled": false
       },
       "indeed": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 2,
         "disabled": false,
         "disabled_at": null
       },
@@ -125,9 +125,9 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-24T22:48:38.979031+00:00"
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       },
       "google_news": {
         "consecutive_failures": 0,
@@ -272,9 +272,9 @@
     },
     "Substack picks": {
       "substack": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-24T22:37:19.995391+00:00"
+        "consecutive_failures": 2,
+        "disabled": false,
+        "disabled_at": null
       }
     }
   }

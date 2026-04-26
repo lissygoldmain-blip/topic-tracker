@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.artsjournal.com/2026/04/institutional-stresses-and-a-fight-over-venice.html",
+      "title": "Institutional stresses and a Fight over Venice",
+      "snippet": "<p>This Week&#8217;s Highlights: The question of which artists get heard collided hard with the institutions that decide this week. The Venice Biennale jury said it won&#8217;t consider nations whose leaders face ICC charges for top prizes \u2014 putting Russia and Israel out of contention (ARTnews). The EU then cut Biennale funding over Russia&#8217;s inclusion at [&#8230;]</p>\n<p>The post <a href=\"https://www.artsjournal.com/2026/04/institutional-stresses-and-a-fight-over-venice.html\">Institutional stresses and a Fight over Venice</a> appeared first on <a href=\"https://www.artsjournal.com\">ArtsJournal</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-26T04:21:32.232510+00:00",
+      "published_at": "2026-04-26T01:54:32+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/jan-staller-photographs-the-nuts-and-bolts-of-manhattans-urban-symphony/",
       "title": "Jan Staller Photographs the Nuts and Bolts of Manhattan's Urban Symphony",
       "snippet": "The American photographer's new book transforms the city's endless construction sites into otherworldly visions.",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/apr/11/apy-lands-indigenous-australian-art-exhibition-nga-ngura-pulka-lawsuit#new_tab",
-      "title": "Australia\u2019s Most Controversial Exhibition Of Indigenous Art Opens After Three-Year Delay",
-      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/901-1-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />The major exhibition \u201cNgura Pu\u1e3bka \u2013 Epic Country,\u201d was supposed to open at the National Gallery in Canberra in 2023. It was almost entirely installed when The Australian (a Murdoch paper) published allegations which led to a string of investigations, sustained and divisive public commentary, a multimillion-dollar lawsuit, and a three-year postponement. &#8211; The Guardian",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-14T16:57:41.583450+00:00",
-      "published_at": "2026-04-14T16:01:00+00:00",
-      "price": null,
-      "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -3089,6 +3089,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://deadline.com/2026/04/trump-shooting-whcd-reaction-1236872329/",
+      "title": "WHCD Canceled Tonight After Shooting, Trump To Speak From White House Soon",
+      "snippet": "UPDATE: The 2026 White House Correspondents Dinner has been canceled after a shooting tonight. Despite posting earlier that he wanted the event to &#8220;go on,&#8221; Donald Trump has consented to the wishes of the Secret Service and has exited the Washington Hilton. POTUS intends to deliver remarks from the White House in a press conference [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-26T04:25:22.009417+00:00",
+      "published_at": "2026-04-26T01:35:28+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HVm9qU0E0SFkyUG9LNkQtblBCZUMydmpkdmJlbGhXd1lqY3plbDE5OUNsbXl0OTlMV2ttZlZWTGNOQzB4S1dtdHVDa3o5MnE0ME9Yc2Y4cU9pdmFGTEdDUGZQSEtrb2NtaEtvTzczb1B0c1Q3SlBJdw?oc=5",
       "title": "Fourth annual Newark LGBTQ Film Festival to spotlight dozens of BIPOC queer films - Gay City News",
@@ -4870,27 +4888,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/04/nassim-soleimanpour-omar-elerian-launch-then-and-there-1236864197/",
-      "title": "Nassim Soleimanpour And Omar Elerian Launch Theater Producer Then & There With New West End Run Of \u2018White Rabbit Red Rabbit\u2019",
-      "snippet": "Iranian playwright\u00a0Nassim Soleimanpour\u00a0and director\u00a0Omar Elerian\u00a0have launched a theater production company, There &#38; Then. They are planning on a West End version of Soleimanpour&#8217;s White Rabbit Red Rabbit at the Duchess Theatre as their inaugural production, presented in association with Nica Burns and her Nimax Theatre Group. The play sees a different performer taking to the [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-17T10:18:52.222918+00:00",
-      "published_at": "2026-04-17T10:17:22+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkpGZmlkWGZOcUstU2VNMFNGcjdsTWFuM2hCNGFYVXl0Y0dJN0o0ZkQ5QVJDbTNKeGNFb2lTb3hhR0Z1elU4andwUGRsYkswN3JxaWhha01rbG83WktKLXBXRzRiTUY5a3JvR2xSX0p1eTRNMmQ4V3BQSzR2VzBJZ3ljOWY?oc=5",
+      "title": "DeepSeek\u2019s Sequel Set to Extend China\u2019s Reach in Open-Source A.I. - The New York Times",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkpGZmlkWGZOcUstU2VNMFNGcjdsTWFuM2hCNGFYVXl0Y0dJN0o0ZkQ5QVJDbTNKeGNFb2lTb3hhR0Z1elU4andwUGRsYkswN3JxaWhha01rbG83WktKLXBXRzRiTUY5a3JvR2xSX0p1eTRNMmQ4V3BQSzR2VzBJZ3ljOWY?oc=5\" target=\"_blank\">DeepSeek\u2019s Sequel Set to Extend China\u2019s Reach in Open-Source A.I.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-26T04:35:58.045115+00:00",
+      "published_at": "2026-04-24T04:29:40+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnZwTTZrYzk5U1pFLXB0cUxFYUlJTXc5MUF3alV2MU1ZSFVWdS1TM3VHbWw1MDJMSXpVbFBteDNjZFM1VUZieDQyTWxNNndmanJFSVBnSXpUenNEaWQ5YW1jRkl5a1FCRnZtMlNPN3I3WHdtY0JzQVBmem1lc0hDZW9NV3prWXQtbm9samZqNGRpQTFYRkJwanpESEp6Y3I5dmhuS9IBpAFBVV95cUxNZnZwTTZrYzk5U1pFLXB0cUxFYUlJTXc5MUF3alV2MU1ZSFVWdS1TM3VHbWw1MDJMSXpVbFBteDNjZFM1VUZieDQyTWxNNndmanJFSVBnSXpUenNEaWQ5YW1jRkl5a1FCRnZtMlNPN3I3WHdtY0JzQVBmem1lc0hDZW9NV3prWXQtbm9samZqNGRpQTFYRkJwanpESEp6Y3I5dmhuSw?oc=5",
       "title": "China\u2019s DeepSeek challenges rivals with high-performance, low-cost V4 AI model - Harici",
@@ -6666,24 +6684,6 @@
       "published_at": "2026-04-09T18:33:35+00:00",
       "price": null,
       "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY0w5YzBSbDVPc0YxMVRUMjVBcVJsM1VIblBvRkx1aEtSckh1UFBQOUZWeV91eUdjWXVIVzlQb1Q3YURTSkNQakRaQzlsLVAyTERfWUMyME1tc2pPQUgxRXhVcy00bjBWeVNyUzY5ZUdvSmh6NWQtcDBwb19RYVAyZ1VyaEVZUjlySFgydDBkd1dSUm51NU1NRXhMQ0JHUUFfRG5CdTg5TVlsVUJGMXloMFVWci0xYTZZNGZkbTZ6NFVEOEdocFdROW45Y2ZVUm16aENnTmNGRzdwRGl2dHhXZ192TUtHNUtYSTJlZUljOXAxZTVJVG9teA?oc=5",
-      "title": "Anthropic readies Claude Opus 4.7 and AI design tool for launch - MSN",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY0w5YzBSbDVPc0YxMVRUMjVBcVJsM1VIblBvRkx1aEtSckh1UFBQOUZWeV91eUdjWXVIVzlQb1Q3YURTSkNQakRaQzlsLVAyTERfWUMyME1tc2pPQUgxRXhVcy00bjBWeVNyUzY5ZUdvSmh6NWQtcDBwb19RYVAyZ1VyaEVZUjlySFgydDBkd1dSUm51NU1NRXhMQ0JHUUFfRG5CdTg5TVlsVUJGMXloMFVWci0xYTZZNGZkbTZ6NFVEOEdocFdROW45Y2ZVUm16aENnTmNGRzdwRGl2dHhXZ192TUtHNUtYSTJlZUljOXAxZTVJVG9teA?oc=5\" target=\"_blank\">Anthropic readies Claude Opus 4.7 and AI design tool for launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-16T10:31:35.171697+00:00",
-      "published_at": "2026-04-14T20:55:25+00:00",
-      "price": null,
-      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -8495,6 +8495,24 @@
     }
   ],
   "Drag Race & drag": [
+    {
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1svspkv/hormona_lisa_spilling_that_queens_send_the/",
+      "title": "Hormona Lisa spilling that queens send the producers options for confessional looks.",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1svspkv/hormona_lisa_spilling_that_queens_send_the/\"> <img alt=\"Hormona Lisa spilling that queens send the producers options for confessional looks.\" src=\"https://preview.redd.it/cls4wjxljfxg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=feda820c4874896961cde1aff9f38f21841c1eb6\" title=\"Hormona Lisa spilling that queens send the producers options for confessional looks.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ibettercomeon\"> /u/ibettercomeon </a> <br /> <span><a href=\"https://i.redd.it/cls4wjxljfxg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1svspkv/hormona_lisa_spilling_that_queens_send_the/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-26T00:32:15+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1svp6fi/drag_show_mocking_tpusa_raises_20k_for_aclu/",
       "title": "\ud83d\udca1Drag Show mocking TPUSA Raises $20K For ACLU\ud83c\uddfa\ud83c\uddf8",
@@ -16157,6 +16175,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1svsl4g/new_world_mall_eats/",
+      "title": "New World Mall eats \ud83e\udd5f",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1svsl4g/new_world_mall_eats/\"> <img alt=\"New World Mall eats \ud83e\udd5f\" src=\"https://preview.redd.it/sejjtsckifxg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80a91565372c24ee99183bcd79abdab18acc001a\" title=\"New World Mall eats \ud83e\udd5f\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>Top -</strong> <strong><em>Pan fried pork buns</em></strong> </p> <p>-Liu Liu Sheng Jian</p> <p><strong>Left -</strong> <strong><em>Shrimp, pork and chive dumpling soup</em></strong> </p> <p>-Joong Hang Boon Sik</p> <p><strong>Right -</strong> <strong><em>Shrimp rice roll</em></strong> </p> <p>-Joe\u2019s Steam Rice Roll</p> <p>Everything was so so good \ud83d\ude2e\u200d\ud83d\udca8</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SuuuuuzuQ\"> /u/SuuuuuzuQ </a> <br /> <span><a href=\"https://i.redd.it/sejjtsckifxg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1svsl4g/new_world_mall_eats/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-04-26T00:26:23+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1suslu8/bong_crown_heights_amazing/",
       "title": "Bong (Crown Heights) - Amazing!",

@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/giant-buddha-lands-in-new-york/",
+      "title": "Giant Buddha Lands in New York",
+      "snippet": "A nude performance, a photography fair turns to craft, and a review of Alice Tippit's erotics",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-27T15:30:48.067448+00:00",
+      "published_at": "2026-04-27T10:00:06+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.artsjournal.com/2026/04/opera-contra-opera.html",
       "title": "Opera contra opera",
       "snippet": "<p>Good Morning, Two opera pieces landed on ArtsJournal today, pointed in opposite directions. In Opera America, an argument that the form will die unless it can wrest itself back from Big Tech \u2014 &#8220;irreplaceable&#8221; has to be made explicit when AI generates infinite aesthetic stuff at zero cost. The New York Sun counters that the [&#8230;]</p>\n<p>The post <a href=\"https://www.artsjournal.com/2026/04/opera-contra-opera.html\">Opera contra opera</a> appeared first on <a href=\"https://www.artsjournal.com\">ArtsJournal</a>.</p>",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://www.yahoo.com/entertainment/articles/streetcar-named-desire-real-streetcar-150000629.html#new_tab",
-      "title": "Performing \u201cA Streetcar Named Desire\u201d In \u201cFound Spaces\u201d All Across The U.S.",
-      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/04/1105-2-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />\u201cFeaturing four actors, a sparse set, and no props, \u2026 this production has been performed since 2023 on all manner of improvised stages. An airplane hangar in Los Angeles. An opera house in Colorado. A dining hall, library and bar at Yale. A Baptist church and various homes in Manhattan.\u201d &#8211; The Washington Post (Yahoo!)",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-14T19:01:18.708273+00:00",
-      "published_at": "2026-04-14T18:05:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -3107,6 +3107,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://www.indiewire.com/features/craft/beef-season-2-sound-design-interview-1235190624/",
+      "title": "The Fight Sounds in \u2018Beef\u2019 Season 2 Bloom Like a Bruise",
+      "snippet": "The sound team behind Season 2 of \"Beef\" tells IndieWire about amping up the tension between the show's feuding couples.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-27T15:34:39.948023+00:00",
+      "published_at": "2026-04-24T20:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://deadline.com/2026/04/prime-video-backs-hair-make-up-ethnic-minority-course-1236873218/",
       "title": "Industry Course Designed To Help Improve Hair & Make-Up Experience For Actors From Ethnic Minority Backgrounds Backed By Prime Video & British Broadcasters",
@@ -4888,27 +4906,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://www.indiewire.com/criticism/shows/the-pitt-season-2-episode-15-review-finale-ending-theories-1235189311/",
-      "title": "\u2018The Pitt\u2019 Season 2 Finale Is Open to Interpretation \u2014 So Long as You Watch Through the Credits",
-      "snippet": "After spending a season worrying about Dr. Robby (Noah Wyle), the finale once again revolves around pulling our good doctor back from the brink. But whether the staff's efforts succeed or not isn't the only lingering question ahead of Season 3.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-17T10:52:30.998467+00:00",
-      "published_at": "2026-04-17T02:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2hzNnRYZENEYVJzd2Q3ejViYVVXTjZUMHBlUWM0TlJMdGtuX0JuUVZDUG5DVERsUG9RbjlyUlpUQ0VyWngtVTBHSHA1eHd5UUczVGxuTjR6MnY0aEZzV0FHMFVfWHcxY1E1Z1FHODhuUWZYTVVZZWNpbG9UZ2NEVVBWOGI2bEE?oc=5",
+      "title": "Hackers breach Anthropic's 'too dangerous to release' Mythos AI model, report - Yahoo News Australia",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2hzNnRYZENEYVJzd2Q3ejViYVVXTjZUMHBlUWM0TlJMdGtuX0JuUVZDUG5DVERsUG9RbjlyUlpUQ0VyWngtVTBHSHA1eHd5UUczVGxuTjR6MnY0aEZzV0FHMFVfWHcxY1E1Z1FHODhuUWZYTVVZZWNpbG9UZ2NEVVBWOGI2bEE?oc=5\" target=\"_blank\">Hackers breach Anthropic's 'too dangerous to release' Mythos AI model, report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Australia</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-27T15:45:49.535981+00:00",
+      "published_at": "2026-04-24T12:33:22+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGpkWk93cmZ1NThMS2wxS0xBcjJpX0dSbnpDNnh4aV9FcTFqTTFNX3oyZnF3RTdnRHdLZVBnS1lEcmZPaUpZT0dSd3kwUFl3TnBpVHdvRXRGSGo4QjQ3QVpWXzZKUmlUZUczLWZsVVlqR1B5d0NVSU1QbnJnalNyd1FLMjdHNG00MkhKbWlVNjZQbF9xQ1JLRXJmeE0zd3VwMmRVaDJ6WUxhWFlkZkdXdUxkQQ?oc=5",
       "title": "NIH-funded AI model predicts cancer survival from single-cell tumor data - National Institutes of Health (.gov)",
@@ -6690,27 +6708,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ01TLXZYdmpYbkxZUW9BSldKb2hpT2ZmU3JvaDdoWmE4TmhGMWE5MnViVU5CRnoxeHVOZ3VfMHlvQ1JDcDFzaHh6REMzSFlrR3NPYVRtVUFiTVdxUnctQ3FxRklQQXBDb2w4MlZhdXBvdlgtZWpBd1ZWbWROcVdqSWQ0RTNRUnNZV0E?oc=5",
-      "title": "OpenAI Has a New AI Model Built for Biology and Science - CNET",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ01TLXZYdmpYbkxZUW9BSldKb2hpT2ZmU3JvaDdoWmE4TmhGMWE5MnViVU5CRnoxeHVOZ3VfMHlvQ1JDcDFzaHh6REMzSFlrR3NPYVRtVUFiTVdxUnctQ3FxRklQQXBDb2w4MlZhdXBvdlgtZWpBd1ZWbWROcVdqSWQ0RTNRUnNZV0E?oc=5\" target=\"_blank\">OpenAI Has a New AI Model Built for Biology and Science</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-18T01:41:24.570136+00:00",
-      "published_at": "2026-04-17T19:35:00+00:00",
+      "url": "https://qns.com/2026/04/bellerose-man-killed-fatal-collision/",
+      "title": "Bellerose man killed in fatal collision on Bell Boulevard in Hollis Hills that also left 5-year-old boy injured: NYPD",
+      "snippet": "A Bellerose motorist was killed, and a woman and young boy were injured in a fatal crash on Bell Boulevard in Hollis Hills on Friday, April 24, according to the NYPD. Police from the 111th Precinct responded to a 911 call of a vehicle collision at 86th Avenue where the eastern most section on Cunningham...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/bellerose-man-killed-fatal-collision/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-27T15:32:22.735323+00:00",
+      "published_at": "2026-04-27T15:30:01+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/teamsters-amazon-dbk4-facility-maspeth/",
       "title": "Teamsters, drivers protest at Amazon\u2019s DBK4 facility in Maspeth over third-party delivery model",
@@ -8484,24 +8502,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-04-17T14:21:14.423082+00:00",
       "published_at": "2026-04-17T11:56:22+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/celebrate-lockwoods-grand-opening-this-weekend/",
-      "title": "Celebrate Lockwood\u2019s grand opening this weekend in Astoria",
-      "snippet": "Lockwood is getting ready to cut the ribbon as it celebrates the grand opening of its new flagship store on Saturday, April 18, starting at 10 a.m. in Astoria with giveaways, fun surprises and more. The shop, located at 25-15 Broadway, brought all three of its Astoria locations under one roof so customers can explore...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/celebrate-lockwoods-grand-opening-this-weekend/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-17T14:21:14.423082+00:00",
-      "published_at": "2026-04-17T14:00:19+00:00",
       "price": null,
       "novelty_score": 0.5,
       "summary": null,
@@ -12118,6 +12118,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0NlhlU0xkSDdwU1VyTHRMOTdMdjUwTWdVYzhINjlUbzZULUtVYXMwN3Y5Qi1OaV9ZdEg5bWpWMUVMZkMtUGRnZEswamZ2NXk2NW14ZHplckJQcnVvSDd3ekppVkJSQVpzcFh0WEg2bC11Y3hQdmlZ?oc=5",
+      "title": "'No One Will Save You': How a Band of Volunteers is Helping Identify People Arrested by ICE - Documented",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA0NlhlU0xkSDdwU1VyTHRMOTdMdjUwTWdVYzhINjlUbzZULUtVYXMwN3Y5Qi1OaV9ZdEg5bWpWMUVMZkMtUGRnZEswamZ2NXk2NW14ZHplckJQcnVvSDd3ekppVkJSQVpzcFh0WEg2bC11Y3hQdmlZ?oc=5\" target=\"_blank\">'No One Will Save You': How a Band of Volunteers is Helping Identify People Arrested by ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Documented</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-27T15:40:38.595616+00:00",
+      "published_at": "2026-04-27T10:58:44+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzY2WEpITTVVUWVHWVpIc3dobmZ4NFhyenBKRGVWeTdHb1ZqZVFRYUdlMnJrd3RfMmhEWkNabEhHakhvWDBmWEtIOTF5bktGdzU2Y3JmeWt4czdDbDJZUUltdWFEakZqNjRkdWU1d1JWeEItM3NGbVFQNmU2NHpmWGd3X3k4aUtsQVIzeDhzU1AwT0ZqYmxxa245emFqLVRFSlE?oc=5",
       "title": "He went to report crime to an upstate NY sheriff. Instead, ICE arrested him. - Gothamist",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzY2WEpITTVVUWVHWVpIc3dobmZ4NFhyenBKRGVWeTdHb1ZqZVFRYUdlMnJrd3RfMmhEWkNabEhHakhvWDBmWEtIOTF5bktGdzU2Y3JmeWt4czdDbDJZUUltdWFEakZqNjRkdWU1d1JWeEItM3NGbVFQNmU2NHpmWGd3X3k4aUtsQVIzeDhzU1AwT0ZqYmxxa245emFqLVRFSlE?oc=5\" target=\"_blank\">He went to report crime to an upstate NY sheriff. Instead, ICE arrested him.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gothamist</font>",
@@ -13898,24 +13916,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxRGM4alRJS1BRWFRXNFpzQTF6Y0xDNVpXTzY2VHlJcFJRWnVHZ2xQOTR0eTZfRTM2Si1BZ1p2YzJmSXMyYW1icklTcFB0TS16RWpBVVdsMFJlLVYxUlRabnp3cTlaa1B3cWlXSzI3bUc?oc=5",
-      "title": "Arrests Tripled. Warrants Didn't. Now DHS Is Being Sued. - Migrant Insider",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBxRGM4alRJS1BRWFRXNFpzQTF6Y0xDNVpXTzY2VHlJcFJRWnVHZ2xQOTR0eTZfRTM2Si1BZ1p2YzJmSXMyYW1icklTcFB0TS16RWpBVVdsMFJlLVYxUlRabnp3cTlaa1B3cWlXSzI3bUc?oc=5\" target=\"_blank\">Arrests Tripled. Warrants Didn't. Now DHS Is Being Sued.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Migrant Insider</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-04-10T12:59:35.592093+00:00",
-      "published_at": "2026-04-10T12:05:37+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -13957,6 +13957,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkw1R1drTVpHWjRqaGthWE9laHZWOFdvVHgwMmx4SXZ4ckZmZWIzVmxhNjNQYmNta3ljWGJPYWp6U1ZiTmY2ZS1ETUJPb0JuQzYzY3IyS0hnbVdMVGh6bVJUZDB1UVFsdzRmRTZlZzBkTDZoNzVWTnRoQ0M0YkMtMGY2Zjg5WGNHNkhMbktMbklXUkU2R3pmOWRnSmhTX0ZZbzhYWXNqTFM2UGRWLWpaUEU0amFWWnfSAbwBQVVfeXFMTzRrcWEzRk1kSEtBTkFUSW5iNjh0NUtabkpGSU1UX0xBTENWMnFxMjBwV0tsenlIV28tb0tUNld3ZDNRQnhGX2ExZlZMSHNwWFV4cWIzM25kcDdwM0JPSFBBWUhELVphMlZhUWVxMzJxNnEzNWpWZHJnU1pGSzcxaEY5S0luMk5MUGNOM1g5YTJZdWxmRHlIVTdENkxYMWxUaGpHelpFT2tXeGtCdGQxWXEyOHhDbHE5bkdEWmM?oc=5",
+      "title": "Supreme Court hands GOP a redistricting win by striking down lower court block on Texas map - Fox News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkw1R1drTVpHWjRqaGthWE9laHZWOFdvVHgwMmx4SXZ4ckZmZWIzVmxhNjNQYmNta3ljWGJPYWp6U1ZiTmY2ZS1ETUJPb0JuQzYzY3IyS0hnbVdMVGh6bVJUZDB1UVFsdzRmRTZlZzBkTDZoNzVWTnRoQ0M0YkMtMGY2Zjg5WGNHNkhMbktMbklXUkU2R3pmOWRnSmhTX0ZZbzhYWXNqTFM2UGRWLWpaUEU0amFWWnfSAbwBQVVfeXFMTzRrcWEzRk1kSEtBTkFUSW5iNjh0NUtabkpGSU1UX0xBTENWMnFxMjBwV0tsenlIV28tb0tUNld3ZDNRQnhGX2ExZlZMSHNwWFV4cWIzM25kcDdwM0JPSFBBWUhELVphMlZhUWVxMzJxNnEzNWpWZHJnU1pGSzcxaEY5S0luMk5MUGNOM1g5YTJZdWxmRHlIVTdENkxYMWxUaGpHelpFT2tXeGtCdGQxWXEyOHhDbHE5bkdEWmM?oc=5\" target=\"_blank\">Supreme Court hands GOP a redistricting win by striking down lower court block on Texas map</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-27T15:41:13.307524+00:00",
+      "published_at": "2026-04-27T14:10:12+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2RLa3NZQXFDd3BQbVN6SU9YQlNjR002SzBjS2pGTTR0VE9hOFhFWW40NDR6M2EtUV9jRTB5X1RxOXlrZklqY1V3Z3oxVkxsUlVHTWptYVhYbE1PTlRkVXAyNFkwZE5JWHNfQm1UR1c3NjgzSHRUNjZ2UGhaT3BBRk1ObWVfWVMtXy1VYWZUOTVtNlpuWDl5c3VRajhsN3NvYVlNbEhJZ05TdF9fTHo0VldSZnBNSmlJcGtzcVhrOUNVMzFHNEZwa1R3UmhQdw?oc=5",
       "title": "Supreme Court to Hear Family Farm\u2019s Case Challenging Agency Court that Acts as Prosecutor, Judge and Jury - The Institute for Justice",
@@ -15730,24 +15748,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-04-06T01:39:41.966156+00:00",
       "published_at": "2026-04-02T11:29:13+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJbnFIRXo2VmZpNWk2eU1kb1F5NFl0Vk9nTTlQOWZFZXppRll4ZHFZbTBTMEVXRlpSQ0pvQTVDRjNPS29FLTlKaGt0QTRjdEpZNTV1REJLMTdOMXBPclE4eVVfYzg3Y2lkQjhNSThTMEdDT1BR0gF6QVVfeXFMT2JHVzE3cE5hY2JPVm1aYkkwUkRyTU42bTA3RG1MLXFXOEFLUTNhdVVBYWluck5ta0M2a2pGa25mWW9YMndyb3c3WXFENWp3RkFrYjJrLVVjSmlKa1NpT1dpVGRselR2MTVrdkR2NG1BWUVKeGplZEcybEE?oc=5",
-      "title": "DHS shutdown: Senate advances deal to fund agency with TSA, waits on House - CNBC",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBJbnFIRXo2VmZpNWk2eU1kb1F5NFl0Vk9nTTlQOWZFZXppRll4ZHFZbTBTMEVXRlpSQ0pvQTVDRjNPS29FLTlKaGt0QTRjdEpZNTV1REJLMTdOMXBPclE4eVVfYzg3Y2lkQjhNSThTMEdDT1BR0gF6QVVfeXFMT2JHVzE3cE5hY2JPVm1aYkkwUkRyTU42bTA3RG1MLXFXOEFLUTNhdVVBYWluck5ta0M2a2pGa25mWW9YMndyb3c3WXFENWp3RkFrYjJrLVVjSmlKa1NpT1dpVGRselR2MTVrdkR2NG1BWUVKeGplZEcybEE?oc=5\" target=\"_blank\">DHS shutdown: Senate advances deal to fund agency with TSA, waits on House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-05T08:44:49.750425+00:00",
-      "published_at": "2026-04-02T13:28:24+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

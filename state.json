@@ -99,7 +99,7 @@
     },
     "Jobs": {
       "adzuna": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 0,
         "disabled": false
       },
       "indeed": {
@@ -108,7 +108,7 @@
         "disabled_at": null
       },
       "playbill_jobs": {
-        "consecutive_failures": 2,
+        "consecutive_failures": 3,
         "disabled": false,
         "disabled_at": null
       },
@@ -125,9 +125,9 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 4,
-        "disabled": false,
-        "disabled_at": null
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-04-27T15:45:48.786537+00:00"
       },
       "google_news": {
         "consecutive_failures": 0,

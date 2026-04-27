@@ -3108,6 +3108,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/04/nedra-talley-ross-dead-the-ronettes-1236873122/",
+      "title": "Nedra Talley Ross Dies: Last Surviving Member Of The Ronettes Was 80",
+      "snippet": "Nedra Talley Ross, a Rock and Roll Hall of Fame inductee and the last surviving member of the &#8217;60s-era pop group The Ronettes has died, according to a post on the group&#8217;s Facebook page. She was 80. &#8220;It is with heavy hearts that we share the news of Nedra Talley Ross\u2019 passing. She was a [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-27T04:32:48.939652+00:00",
+      "published_at": "2026-04-27T03:49:38+00:00",
+      "price": null,
+      "novelty_score": 0.9,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/04/trump-shooting-whcd-reaction-1236872329/",
       "title": "WHCD Canceled Tonight After Shooting, Trump To Speak From White House Soon",
       "snippet": "UPDATE: The 2026 White House Correspondents Dinner has been canceled after a shooting tonight. Despite posting earlier that he wanted the event to &#8220;go on,&#8221; Donald Trump has consented to the wishes of the Secret Service and has exited the Washington Hilton. POTUS intends to deliver remarks from the White House in a press conference [&#8230;]",
@@ -4888,27 +4906,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/04/seriencamp-unveils-plot-next-tech-strand-the-marquise-1236864181/",
-      "title": "German TV Market Seriencamp Unveils Plot Next Tech Strand Featuring Showrunner Behind Netflix Portugal Series \u2018The Marquise\u2019",
-      "snippet": "EXCLUSIVE: German TV market Seriencamp is taking on artificial intelligence this year in a big way. The Cologne-based confab is launching a Plot Next strand that will explore the &#8220;intersection between storytelling and technology.&#8221; More will be unveiled in due course but names so far unveiled include showrunner Pandora de Cunha Telles, who will present [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-17T10:18:52.222918+00:00",
-      "published_at": "2026-04-17T10:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1QwTzNzb0tNRnBHRUhvRmU5UkpEejVvMkI0LTNEWmFOQldPUWJmZ3Bsc0MzYmNMdkhIU2hrTndub00wY29XS01tNTFzemdGU2xxT21FZ3U1SW1YSFJ0ZmpVUDdnTGtkWjl0TnpETFUtYjdmN0V4SGN0WDl1SC02MVNzNlBCbmx4R09JQWN5V2FxWWUza0VQbzBxT1FpZG5RV2ZXbC1aN1pNVXgwZHBQckZtMGxPa1hqcWplRldMYlpZWWs0c0lYVWw0OA?oc=5",
+      "title": "Everything to know about DeepSeek\u2019s new AI model V4 - Euronews.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1QwTzNzb0tNRnBHRUhvRmU5UkpEejVvMkI0LTNEWmFOQldPUWJmZ3Bsc0MzYmNMdkhIU2hrTndub00wY29XS01tNTFzemdGU2xxT21FZ3U1SW1YSFJ0ZmpVUDdnTGtkWjl0TnpETFUtYjdmN0V4SGN0WDl1SC02MVNzNlBCbmx4R09JQWN5V2FxWWUza0VQbzBxT1FpZG5RV2ZXbC1aN1pNVXgwZHBQckZtMGxPa1hqcWplRldMYlpZWWs0c0lYVWw0OA?oc=5\" target=\"_blank\">Everything to know about DeepSeek\u2019s new AI model V4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-27T04:43:55.683392+00:00",
+      "published_at": "2026-04-24T14:42:49+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNGM0lqMWwzNGo5QXFCYjBNYzlKc0VWT05hOUg0RWVscnlHRnVVVWMtS1hEOWtuSzQ3SUVyT2hTZWJZR18tSkRSVXhzWnhsMnNuakM0ZmNHMzlmMGt6MDBWODhsdUZRWVR3eGRnZVJaS2t1Nl9hd200QUduM2ZMb0tEMWl4Tzd5dk8wQnE5OTJVaTU1TEk4bHlRNEZSUQ?oc=5",
       "title": "DeepSeek-V4, the Chinese AI model adapted for Huawei chips - Reuters",
@@ -6684,24 +6702,6 @@
       "published_at": "2026-04-17T06:36:22+00:00",
       "price": null,
       "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQkkwMnB2b0tyeFllX3Iwa2FrRXNZbW5Dem5ERGlLVzFkbGNycUN1UXVEMnhYVlVmaGNTNDZuSTVWZ3d3alpjN29LbkprZV9qTjg1QVFKdURnYk9FYlFTQWFReVRNdEJPaHdTWlhGUTM?oc=5",
-      "title": "Anthropic releases Claude Opus 4.7: How to try it, benchmarks, safety - Mashable",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQkkwMnB2b0tyeFllX3Iwa2FrRXNZbW5Dem5ERGlLVzFkbGNycUN1UXVEMnhYVlVmaGNTNDZuSTVWZ3d3alpjN29LbkprZV9qTjg1QVFKdURnYk9FYlFTQWFReVRNdEJPaHdTWlhGUTM?oc=5\" target=\"_blank\">Anthropic releases Claude Opus 4.7: How to try it, benchmarks, safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-17T04:25:32.030715+00:00",
-      "published_at": "2026-04-16T22:37:26+00:00",
-      "price": null,
-      "novelty_score": 0.85,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

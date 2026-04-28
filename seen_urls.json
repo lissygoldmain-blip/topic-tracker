@@ -379,14 +379,6 @@
     "seen_at": "2026-03-28T16:32:19.463446+00:00",
     "source_type": "news"
   },
-  "https://www.adzuna.com/details/5657819031?utm_medium=api&utm_source=bde9bf2e": {
-    "seen_at": "2026-03-28T16:33:54.456013+00:00",
-    "source_type": "jobs"
-  },
-  "https://www.adzuna.com/details/5655193380?utm_medium=api&utm_source=bde9bf2e": {
-    "seen_at": "2026-03-28T16:33:54.456273+00:00",
-    "source_type": "jobs"
-  },
   "https://www.themoviedb.org/movie/1659007": {
     "seen_at": "2026-03-28T16:37:10.093921+00:00",
     "source_type": "entertainment"
@@ -582,10 +574,6 @@
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxONXpsbVlyT0JkdURKeG1NaTB4OVRvT1pwaHRVUkpqUHV6NzVLRDk0SjVmYURIdnlWd19zN093WHNSUmdhSHpBUGdBc2dwVnBIMDE3U0pkUG9tTUJ1MzZZWDY0Q003YnBJRkdYWXYzR3B6X2dSVVY2LTdCOHlqQkZaLWF1ZUdjSlZyb3Y1enR0MEEzbzRIUFd5YUFYMDIta3ZmU21n?oc=5": {
     "seen_at": "2026-03-28T18:37:28.292993+00:00",
     "source_type": "news"
-  },
-  "https://www.adzuna.com/details/5680923178?utm_medium=api&utm_source=bde9bf2e": {
-    "seen_at": "2026-03-28T18:38:53.051715+00:00",
-    "source_type": "jobs"
   },
   "https://www.themoviedb.org/movie/1657444": {
     "seen_at": "2026-03-28T18:42:13.097039+00:00",
@@ -8773,6 +8761,38 @@
   },
   "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQ3A5eldyai1BcDRZN252R3RmTndmSFViWGVoZGFaaHY1TnZzUWxBcVVDLWs1OGxUeGZQTnBqbkwzWGVPdGlZY3pJakxoRER4a1o5aWZoQWFRUE1faUVPaXk4YXRqd2NfaDYwbnMzclBBSC0zelpheXBhbUFlYnhQNU96eTBhMjZWSThmbHBnXzJvYU1DdXk4d0FkeWR5MzBSbEtGc3FaN1lLYnl5MVlzbGtTcDJCekQ5QkVEcnVXRWJvUERJTGZKLW9NUS10NGdVWW9RU2NqWnRZQV81eXd4VFVma0lmMmU3bFNmaGMzdy1pQlAzdkxjcFI2M0FBUQ?oc=5": {
     "seen_at": "2026-04-28T16:33:04.110105+00:00",
+    "source_type": "news"
+  },
+  "https://news.artnet.com/art-world/medieval-codex-h-new-testament-discovery-2768248#new_tab": {
+    "seen_at": "2026-04-28T19:23:55.694667+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.nytimes.com/2026/04/27/arts/dance/courtney-washington-ballroom-juicy-couture-parsons.html#new_tab": {
+    "seen_at": "2026-04-28T19:23:55.694952+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.amny.com/news/queens-a-train-shooting-of-15-year-old-boy-was-act-of-revenge-from-prior-altercation-sources/": {
+    "seen_at": "2026-04-28T19:25:49.577222+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.amny.com/politics/mamdani-menin-nyc-budget-deadline-delay-hochul/": {
+    "seen_at": "2026-04-28T19:25:49.577519+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.indiewire.com/news/breaking-news/ross-mcelwee-shermans-march-4k-remake-release-dates-1235190827/": {
+    "seen_at": "2026-04-28T19:28:16.694857+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.reddit.com/r/FoodNYC/comments/1sy856z/hosting_a_5_course_vegan_tasting/": {
+    "seen_at": "2026-04-28T19:37:11.071302+00:00",
+    "source_type": "social"
+  },
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGdKZVE1V01vSF94Tm9aU1QtTVdGY19wTnQtQXZpaXVHbmlEb2NaYTZhaXVDdjdMSlRRdkdDUnRZU0wwemxmZjdSemM5cFd2Y2w1ZGVWUVpfc2xXWWt4XzJibFl1cEJfYzlySzZyQ3RzMjl3WWxsVkVzMHc0dms0LWZWdlVMcUpTNnFUZEZlWmI4Zm9PaHBEWm9aUjh3ODVBVWFzaTV5VVJOSEp1cV9GQVViZm5LNnZ0VDM3MDVmdkpHMHhm?oc=5": {
+    "seen_at": "2026-04-28T19:38:33.336475+00:00",
+    "source_type": "news"
+  },
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLUtGR2JBTEd3TlBPbl9jR3N4WEhCUTF0b2lqTXNva3hzdWs1LW91Y0pUdjc1VXQtdmYzWUxmSmtzdS1MZUg2WHJ4OVdObFIycXJkblZodEV3MlBHeS1FeUlLQk4ybzNVZVhUVFZFeTJqM1RLV3dTYUo5LTJIV3Z5VThPcm96V2NCVWItNDJUU1l5T0hzNzdfMEJhTW9tMUlnRExReVNHS1h0blJfck8xQ1BlSjJ0YktDUTJmTDVCeFrSAbwBQVVfeXFMTUJBMHd2YU1RVUFmR0RwRmZsVWJ2djFjN196OGZPVjRwOS1zS05ObTVkSVhYUkNGd2xON09HY2lpX29TX3U4aXBiZGRXbVlCTnhwUXhlUkR2VDhpZ0daNTVmMVlvbUNjM2NpQmllb2xncy1lc3hxal84S0NZdVBCS1FCeHN4cFd1d3FfcFotR09qNEFuUHFZMHppMk9RQ0pzVnoyejc3MVJxTFhOQi1ndmZncHVRa0JFamRvVnA?oc=5": {
+    "seen_at": "2026-04-28T19:38:33.336816+00:00",
     "source_type": "news"
   }
 }

@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/the-us-pavilion-is-taking-online-donations/",
+      "title": "The US Pavilion Is Taking Online Donations",
+      "snippet": "The American Arts Conservancy, the nascent nonprofit executing Alma Allen\u2019s 2026 pavilion project, said it received no financial support from institutions.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-28T22:48:24.967739+00:00",
+      "published_at": "2026-04-28T21:40:05+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/daca-artist-uses-thread-to-weave-immigration-stories/",
       "title": "DACA Artist Uses Thread to Weave Immigration Stories",
       "snippet": "Arleene Correa Valencia transforms bark paper and embroidery into a tender reckoning with the reality of being undocumented in the United States.",
@@ -1781,16 +1799,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Health research": [
     {
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYi1URmROS2dXWDhFb3VIbS05dkF0bGlOQlZfRUZXeDItN2Q0RlJlZnhtSTRER3piM21zYW8yaHhRRS1lQUNyOVVyeUcwa0lwUnJqa2dJc0RWVlgzYzd2d01XTDR0ZjVlNlRzSWRpMndQMFBKZXpNWGVIQktoMl9yTzFSVmZ1UndQWFdfemJCYlBWb2JFS1Rxdm9qamJtOXlCUnpVcUJWWnp4VHhGQjZkQjJ2R1NMb3RkUjNtdFp1SkxDQTlOVlZqUmFmMlJEZnVzeUE?oc=5",
-      "title": "HITCITY: TEMPTATIONS EDITION To Play Queens Theatre In One-Day Motown Celebration - BroadwayWorld",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYi1URmROS2dXWDhFb3VIbS05dkF0bGlOQlZfRUZXeDItN2Q0RlJlZnhtSTRER3piM21zYW8yaHhRRS1lQUNyOVVyeUcwa0lwUnJqa2dJc0RWVlgzYzd2d01XTDR0ZjVlNlRzSWRpMndQMFBKZXpNWGVIQktoMl9yTzFSVmZ1UndQWFdfemJCYlBWb2JFS1Rxdm9qamJtOXlCUnpVcUJWWnp4VHhGQjZkQjJ2R1NMb3RkUjNtdFp1SkxDQTlOVlZqUmFmMlJEZnVzeUE?oc=5\" target=\"_blank\">HITCITY: TEMPTATIONS EDITION To Play Queens Theatre In One-Day Motown Celebration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BroadwayWorld</font>",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVFxcVFtRldjLTM3S2s1c0dxOERxME0yOHI4aEJxaDU5Y1V0TFdBbEFzUzhaVVdCTk1rM3NHbGNYTVA2ZWYxdWVDN2tNX2RlNzg0a2xwV3g4bkRrT0ZkY3dTQ3E0XzBaSXc3ZGNGdDJQcmpwODVUbkpIWE1zTGRTN1lURi1VSl9JeTBLdVR0bFFrNlF4LU9YbmlNNmk4Mm1MaHJvX3hrRTNybmphTXdJ?oc=5",
+      "title": "Interrupting and Resuming GLP-1 Therapy for Weight Loss May Reduce Drug Effectiveness - Bioengineer.org",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVFxcVFtRldjLTM3S2s1c0dxOERxME0yOHI4aEJxaDU5Y1V0TFdBbEFzUzhaVVdCTk1rM3NHbGNYTVA2ZWYxdWVDN2tNX2RlNzg0a2xwV3g4bkRrT0ZkY3dTQ3E0XzBaSXc3ZGNGdDJQcmpwODVUbkpIWE1zTGRTN1lURi1VSl9JeTBLdVR0bFFrNlF4LU9YbmlNNmk4Mm1MaHJvX3hrRTNybmphTXdJ?oc=5\" target=\"_blank\">Interrupting and Resuming GLP-1 Therapy for Weight Loss May Reduce Drug Effectiveness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bioengineer.org</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-16T09:09:40.558912+00:00",
-      "published_at": "2026-04-14T23:54:42+00:00",
+      "topic_name": "Health research",
+      "fetched_at": "2026-04-28T22:51:53.536088+00:00",
+      "published_at": "2026-04-28T21:30:41+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -1798,10 +1818,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Health research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0xwRTB2VU4xU2JGc290ckhZelpneUozcmdmWFdSd0oyZW5zWTZ4OWs3QUI3c1BxTjNNVkJwSWNjTjdxMThpeEZyZUFSSzVHMzluQmFDMkZ4OVZYYnhRNGNEUVY2UG4ydFdVYTR3WXZvaklxT3h0aks1d1YzS1haRjVPQU5tc1dubTJxa3Q2Nm1iRk5aUWxBNkpZSk9FWWE3bm1QWWhuaw?oc=5",
       "title": "Highest Dose Of Semaglutide For Weight Loss: Safety And Efficacy [qd1qsP6fBIY] - qsr.mlit.go.jp",
@@ -6748,6 +6766,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://qns.com/2026/04/suspect-sought-vandalizing-statue-dutch-kills-church/",
+      "title": "Hate Crimes Task Force releases images of suspect wanted for vandalizing religious statue at Dutch Kills church: NYPD",
+      "snippet": "The NYPD Hate Crimes Task Force has released surveillance images of the suspect wanted for vandalizing a statue and spraying anti-religious remarks in front of a house of worship in the Dutch Kills section of Long Island City in March. Investigators are asking for the public\u2019s assistance in identifying the bearded man who allegedly defaced...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/suspect-sought-vandalizing-statue-dutch-kills-church/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-28T22:49:59.316694+00:00",
+      "published_at": "2026-04-28T15:33:11+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://qns.com/2026/04/ricas-pupusas-mas-mothers-day/",
       "title": "Sample El Salvador\u2019s national dish from Sunnyside\u2019s woman-owned Ricas Pupusas & Mas this Mother\u2019s Day",
       "snippet": "Irma Vargas never expected to open a restaurant before opening Ricas Pupusas &#38; Mas in Sunnyside seven years ago. Vargas, who opened the popular Salvadoran restaurant 47-55 47th Ave. in September 2018, was working in customer service when she began selling pupusas alongside her mother in 2013 to support her Jackson Heights church La Luz...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/ricas-pupusas-mas-mothers-day/\">Read More</a>",
@@ -8522,24 +8558,6 @@
       "published_at": "2026-04-17T16:38:13+00:00",
       "price": null,
       "novelty_score": 0.55,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWjVWQU9sbEp1UFlrcFpNM2VoeGNVR1hTT3V3TDNRVTZIQ3lpWVN2V203ZWN3WFQwMzhBNUhqZ2Zyckhib0VOd1E3dllHSTlndlBnN0RNMDlGRFJaV0pPTDBTYUtIWlQ3YUUwd0ExT180MTVac2dGMHU5Zk8wX2UzNFJZaXRkRVdyVmhjbm5ZUmJLa3BsSm44UnlOTm5qUU5lODVrUWxOUFpQanotOGJTSNIBtgFBVV95cUxORjhJUmg3bzY2bVNEZm5oakxTRWtzUGNHT2pJSEFNOEpPYVdRUHl3aThqVnQ3UFh4RXNNQWRkREhyVTVpNC11OHNTOHRHT2Rmam8xS1E4MXdCZ185UmZySmh3c0hQbGZ5U25IZTB5Vjh3OGJxalNPaGFMbkZyNk5oTXRMbmRqcUNDaHp2akJvV055WGdZdFdwdHZZYVladWE4R1d5d2pwOTg2eTZWa0lDZU1tRFBUQQ?oc=5",
-      "title": "Car takeover of Maspeth streets angers residents, Queens Councilman Phil Wong calls for crackdown - ABC7 New York",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWjVWQU9sbEp1UFlrcFpNM2VoeGNVR1hTT3V3TDNRVTZIQ3lpWVN2V203ZWN3WFQwMzhBNUhqZ2Zyckhib0VOd1E3dllHSTlndlBnN0RNMDlGRFJaV0pPTDBTYUtIWlQ3YUUwd0ExT180MTVac2dGMHU5Zk8wX2UzNFJZaXRkRVdyVmhjbm5ZUmJLa3BsSm44UnlOTm5qUU5lODVrUWxOUFpQanotOGJTSNIBtgFBVV95cUxORjhJUmg3bzY2bVNEZm5oakxTRWtzUGNHT2pJSEFNOEpPYVdRUHl3aThqVnQ3UFh4RXNNQWRkREhyVTVpNC11OHNTOHRHT2Rmam8xS1E4MXdCZ185UmZySmh3c0hQbGZ5U25IZTB5Vjh3OGJxalNPaGFMbkZyNk5oTXRMbmRqcUNDaHp2akJvV055WGdZdFdwdHZZYVladWE4R1d5d2pwOTg2eTZWa0lDZU1tRFBUQQ?oc=5\" target=\"_blank\">Car takeover of Maspeth streets angers residents, Queens Councilman Phil Wong calls for crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 New York</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-19T01:52:32.753195+00:00",
-      "published_at": "2026-04-18T19:40:09+00:00",
-      "price": null,
-      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

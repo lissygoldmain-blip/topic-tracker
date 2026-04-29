@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/edouard-glissants-museum-as-archipelago/",
+      "title": "\u00c9douard Glissant\u2019s Museum-as-Archipelago",
+      "snippet": "An exhibition of his collection finds provisional alliances between artists, rather than reiterating established hierarchies.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-29T20:54:45.411948+00:00",
+      "published_at": "2026-04-29T20:47:35+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/nada-new-york-2026-welcomes-121-international-galleries/",
       "title": "NADA New York 2026 Welcomes 121 International Galleries",
       "snippet": "The 12th edition of the New Art Dealers Alliance\u2019s signature fair presents an expanded selection of contemporary art from around the world. On view May 13\u201317.",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/in-surprising-twist-adaa-art-fair-will-now-benefit-the-whitney-museum/",
-      "title": "In Surprising Twist, ADAA Art Fair Will Now Benefit the Whitney Museum",
-      "snippet": "The organization abruptly terminated its longstanding partnership with the Henry Street Settlement social services organization last year.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-16T22:33:15.222608+00:00",
-      "published_at": "2026-04-16T20:40:52+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -3197,6 +3197,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://www.indiewire.com/news/trailers/one-night-only-trailer-callum-turner-monica-barbaro-rom-com-1235191338/",
+      "title": "\u2018One Night Only\u2019 Trailer: Callum Turner and Monica Barbaro Charm Their Way Through a Rom-Com Twist on \u2018The Purge\u2019",
+      "snippet": "In Will Gluck's new rom-com, premarital sex is only legal one night each year. Guess when our would-be lovebirds meet?",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-04-29T20:58:39.078974+00:00",
+      "published_at": "2026-04-29T16:30:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.indiewire.com/criticism/movies/hokum-review-adam-scott-1235184840/",
       "title": "\u2018Hokum\u2019 Review: Adam Scott Is Haunted in a Hair-Raising, Often Exhilarating Irish Horror Tale",
@@ -4972,24 +4990,6 @@
       "published_at": "2026-04-19T00:18:44+00:00",
       "price": null,
       "novelty_score": 0.95,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://deadline.com/2026/04/aubrey-plaza-pitching-kevin-with-ex-about-their-cat-1236864956/",
-      "title": "Aubrey Plaza On \u201cReally Weird\u201d Experience Pitching \u2018Kevin\u2019 Animated Series With Ex-Boyfriend About Their Cat: \u201cLike An Acid Trip For Me\u201d",
-      "snippet": "Although Aubrey Plaza&#8217;s latest series is about a talking cat in Queens, Kevin is very much inspired by her own life. The Golden Globe nominee, who voices Kevin&#8217;s person Dana, recently discussed the &#8220;really weird&#8221; experience pitching the animated Prime Video series with co-creators Dan Murphy and Joe Wengert, Plaza&#8217;s ex-boyfriend with whom she wrote [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-18T20:32:03.431141+00:00",
-      "published_at": "2026-04-18T17:44:44+00:00",
-      "price": null,
-      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -6802,6 +6802,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://qns.com/2026/04/arrest-astoria-house-fire/",
+      "title": "One person arrested in connection with Astoria house fire that injured two firefighters: FDNY",
+      "snippet": "Two FDNY firefighters were injured while battling a two-alarm house fire in Astoria on Wednesday morning, according to the FDNY.\u00a0 The FDNY received a call of a fire in a private home at 32-16 42nd St. near Broadway just before 11 a.m. on April 28. Arriving units found fire on the first floor of the...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/arrest-astoria-house-fire/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-29T20:56:18.213087+00:00",
+      "published_at": "2026-04-29T20:15:34+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://qns.com/2026/04/queens-botanical-garden-soil-sculptures-beekeeper/",
       "title": "Queens Botanical Garden hosts Soil Sculptures and Meet the Beekeeper event",
       "snippet": "Queens Botanical Garden hosted Crafting with Lewis Latimer House: Soil Sculptures and Meet the Beekeeper on Saturday, April 25, in Flushing. Held on a rainy Saturday afternoon under the Visitor and Administration Building, guests on one table were able to use clay to create little sculptures inspired by insects seen in the soil. On another...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/queens-botanical-garden-soil-sculptures-beekeeper/\">Read More</a>",
@@ -8582,27 +8600,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://qns.com/2026/04/homeless-woman-charged-arson-maspeth-fires/",
-      "title": "Homeless woman from Chicago charged with arson for setting fires at three Maspeth locations that injured four: DA",
-      "snippet": "A homeless woman from Chicago is being held without bail after she was criminally charged with arson for setting fires at three locations in Maspeth injuring two people on the night of Monday, April 13. Shaniqua Fort, 36, was arraigned Friday in Queens Criminal Court on a complaint charging her with two counts of arson...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/homeless-woman-charged-arson-maspeth-fires/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-20T22:37:47.019158+00:00",
-      "published_at": "2026-04-20T21:30:05+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sz5v4j/sam_star_no_honey_this_is_samantha_superstar/",
+      "title": "sam star? no honey this is SAMANTHA SUPERSTAR",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sz5v4j/sam_star_no_honey_this_is_samantha_superstar/\"> <img alt=\"sam star? no honey this is SAMANTHA SUPERSTAR\" src=\"https://preview.redd.it/oy1a4utp16yg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=acd8630b85cd056e96cf87f526d8bbf4cf1d6b54\" title=\"sam star? no honey this is SAMANTHA SUPERSTAR\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I\u2019m gagged and glad at the same time that Sam Star looked FABULOUS in the new All Stars 11 trailer after her controversial entrance look. This is probably one of her lip sync outfits, so I\u2019m assuming from her reaction, she won a challenge here. I\u2019m predicting she won a lip sync based on her reaction of being gagged alone LOL</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fragrant_Web4800\"> /u/Fragrant_Web4800 </a> <br /> <span><a href=\"https://i.redd.it/oy1a4utp16yg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sz5v4j/sam_star_no_honey_this_is_samantha_superstar/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-29T17:40:04+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.5,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sz95d8/all_stars_11_guest_rotating_judges/",
       "title": "All Stars 11 Guest & Rotating Judges! \ud83d\udcab",
@@ -10375,24 +10393,6 @@
       "source_type": "social",
       "topic_name": "Drag Race & drag",
       "fetched_at": "2026-03-30T15:33:47+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1s7ol68/myki_meeks_makes_herstory_as_the_4th_drag_race/",
-      "title": "Myki Meeks makes herstory as the 4th Drag Race queen to place in the top for 7 consecutive episodes.",
-      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1s7ol68/myki_meeks_makes_herstory_as_the_4th_drag_race/\"> <img alt=\"Myki Meeks makes herstory as the 4th Drag Race queen to place in the top for 7 consecutive episodes.\" src=\"https://preview.redd.it/s2awmeg4a6sg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c906cb6f4f0b0bf7f75240e8b794f8cf206e256\" title=\"Myki Meeks makes herstory as the 4th Drag Race queen to place in the top for 7 consecutive episodes.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JimatJimat\"> /u/JimatJimat </a> <br /> <span><a href=\"https://i.redd.it/s2awmeg4a6sg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1s7ol68/myki_meeks_makes_herstory_as_the_4th_drag_race/\">[comments]</a></span> </td></tr></table>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-03-30T12:02:22+00:00",
       "published_at": null,
       "price": null,
       "novelty_score": 0.6,
@@ -12208,6 +12208,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVFZU2hiT1FyWVY2WkQ1a1oyak0tVi1kSkhOTUZaclRyR1g3RVllVy1MclFWVldINTFuRVBfbWNQSmp0dTF5YWViRWNxTG92SklPbDlmOERBZnJvSFoyeXRkU21IUThCZThKV0cxTlZHcjVmYnh0dkkxSUlsTzN4SG5uMFJBYXVGN3M0SWxHM2NqNGtENUx0d1VpbGEwM1o2NlFj?oc=5",
+      "title": "A limit on informal ICE collusion is nixed from budget talks - City & State New York",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVFZU2hiT1FyWVY2WkQ1a1oyak0tVi1kSkhOTUZaclRyR1g3RVllVy1MclFWVldINTFuRVBfbWNQSmp0dTF5YWViRWNxTG92SklPbDlmOERBZnJvSFoyeXRkU21IUThCZThKV0cxTlZHcjVmYnh0dkkxSUlsTzN4SG5uMFJBYXVGN3M0SWxHM2NqNGtENUx0d1VpbGEwM1o2NlFj?oc=5\" target=\"_blank\">A limit on informal ICE collusion is nixed from budget talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City & State New York</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-04-29T21:04:33.238312+00:00",
+      "published_at": "2026-04-29T20:01:55+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdEdYMk5mMG9MWWNYaG82b1F3V2FKYVplNngzYktKdVNTLVZQS2RYdUFzR0l4RUFCc2ptNVg0YjQwTWxEakFYdG9xcmFTYlluakxLM1V2TDNzZnlxQ1pTOEx1Z1BDcVRuYk5DUnJUVnRGV3dFVGF2ODFWVzB1TkVBQW5UeGt3WE8tSC0yQVNPa2d6VjdEWFk2bzRNRmNBRnUxbGln0gGoAUFVX3lxTE9oMkM4NElHb0JnZ3FDQ3dYTUM2Y2JJcElrSUcxTEVxYmFCWEJvRXpzZUItcWNlYXd4aTByTEVtbkltS1RFTjRZN3d1M2NKRkRadUF5bWl5TUI3Z29hQXZfd3Q4ODVacWRVY1RnQWc4akRWdHJwbExFcEM5Y05NU0hKM0ppQ0ZUS2ZaX3A5Y0p2amZIM01VbC1SUURwWXBTMWlTYVhKX2tSWQ?oc=5",
       "title": "US appeals court rejects Trump\u2019s immigration detention policy - Al Jazeera",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdEdYMk5mMG9MWWNYaG82b1F3V2FKYVplNngzYktKdVNTLVZQS2RYdUFzR0l4RUFCc2ptNVg0YjQwTWxEakFYdG9xcmFTYlluakxLM1V2TDNzZnlxQ1pTOEx1Z1BDcVRuYk5DUnJUVnRGV3dFVGF2ODFWVzB1TkVBQW5UeGt3WE8tSC0yQVNPa2d6VjdEWFk2bzRNRmNBRnUxbGln0gGoAUFVX3lxTE9oMkM4NElHb0JnZ3FDQ3dYTUM2Y2JJcElrSUcxTEVxYmFCWEJvRXpzZUItcWNlYXd4aTByTEVtbkltS1RFTjRZN3d1M2NKRkRadUF5bWl5TUI3Z29hQXZfd3Q4ODVacWRVY1RnQWc4akRWdHJwbExFcEM5Y05NU0hKM0ppQ0ZUS2ZaX3A5Y0p2amZIM01VbC1SUURwWXBTMWlTYVhKX2tSWQ?oc=5\" target=\"_blank\">US appeals court rejects Trump\u2019s immigration detention policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
@@ -13988,24 +14006,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjdwd2l6Y3BNWkhIMnpqck1aN3Y0Q1JYTFZEZmhOOXFXakdZZm9YazFULWtNNHZqYzF0NDN2UHowYThlX0otSks3by1MV0d4TlFEY3BBV05INW1oSWI2ZnRaal95dnAyaW5TQ0lDUGVINmg1M2pLQ0Y3S1lMYVREbDFpaHU2NE1vbTlhY1JzcTNBUXpDUGthVjJISmxleEVjd0F2NndRVQ?oc=5",
-      "title": "CT Senate passes ICE oversight bill that would limit immigration enforcement efforts - CT Insider",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjdwd2l6Y3BNWkhIMnpqck1aN3Y0Q1JYTFZEZmhOOXFXakdZZm9YazFULWtNNHZqYzF0NDN2UHowYThlX0otSks3by1MV0d4TlFEY3BBV05INW1oSWI2ZnRaal95dnAyaW5TQ0lDUGVINmg1M2pLQ0Y3S1lMYVREbDFpaHU2NE1vbTlhY1JzcTNBUXpDUGthVjJISmxleEVjd0F2NndRVQ?oc=5\" target=\"_blank\">CT Senate passes ICE oversight bill that would limit immigration enforcement efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CT Insider</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-04-15T15:11:25.590590+00:00",
-      "published_at": "2026-04-15T01:36:30+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14047,6 +14047,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcUJWejZuTERwVkFhS0pmbGdkeEd3ZlpfNm5VNjkzdFJRTC1heGhNR0tkYzU3YWxta081U0tlUVI1X1ZacG53bTJ6VkVqOWVYOG5zNUlLMnZTaUUtcU5fM20xSmlzQWRZMFMzdUZJZW9VamtDcWl5ZFM1bzloZVlmVVdqTzdKWkw3VUhnd1BzMkl5M05SVGs3LU1wS0RGdEdSdDUySDMwQUtJYUU0b01OUXRmWFRhdGx5OGFBMGFkR3lNYWZKamJwLUt3cEt0TEVyOFZnVjlaTno5NS0xcG55RkVRYzdqdw?oc=5",
+      "title": "US Supreme Court ruling voids Black majority congressional district in Louisiana, further weakening Voting Rights Act - PBS Wisconsin",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcUJWejZuTERwVkFhS0pmbGdkeEd3ZlpfNm5VNjkzdFJRTC1heGhNR0tkYzU3YWxta081U0tlUVI1X1ZacG53bTJ6VkVqOWVYOG5zNUlLMnZTaUUtcU5fM20xSmlzQWRZMFMzdUZJZW9VamtDcWl5ZFM1bzloZVlmVVdqTzdKWkw3VUhnd1BzMkl5M05SVGs3LU1wS0RGdEdSdDUySDMwQUtJYUU0b01OUXRmWFRhdGx5OGFBMGFkR3lNYWZKamJwLUt3cEt0TEVyOFZnVjlaTno5NS0xcG55RkVRYzdqdw?oc=5\" target=\"_blank\">US Supreme Court ruling voids Black majority congressional district in Louisiana, further weakening Voting Rights Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS Wisconsin</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-29T21:05:07.458533+00:00",
+      "published_at": "2026-04-29T20:58:31+00:00",
+      "price": null,
+      "novelty_score": 0.9,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMVhBNXgtUFJQQ3owOHp5cGxDZHNuNnZxd3Y2ZXNtanE4MXhVVjczcDNPQkdnYk41el9kR0pYMVFLR3lCVlNBRDViU05UdTNvYzVXekphbU5JdWxBM1E2U0Zqb3lsM3g3RlpnNlp6U3N2WG0zVS1rQThYdG1ZVFF6TGNNdG8wdDFpNzY2MnFHaDA3YkpFQ3g1MzBVbzVaS285NGZ3YndQZ2FMSzhYd1BXUDdRWTAzTl9hN0dlc0Y4eUR1c1k?oc=5",
       "title": "Supreme Court Strikes Down Louisiana Map and Destroys Key Voting Rights Act Provision - Legal Defense Fund",
@@ -15820,24 +15838,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-04-08T08:20:53.355046+00:00",
       "published_at": "2026-04-06T13:44:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGNDMlB1RWp4ZVhPQXljaktXRTgwT3hiVWRxdjhXOUN4RXFuWHcxQThvNTdxcXhqeXVfYWFkLXFfbGFManJGOFBTNHhLd3M2bzFIeVp5Vkc4VWozZ1hSR2o4VkdSYjlJaExQRDRYNkpLbl9CRmhzX1JKNkdURkNxT21kVnM?oc=5",
-      "title": "Supreme Court Clears the Way for Dismissal of Steve Bannon\u2019s Conviction - nytimes.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGNDMlB1RWp4ZVhPQXljaktXRTgwT3hiVWRxdjhXOUN4RXFuWHcxQThvNTdxcXhqeXVfYWFkLXFfbGFManJGOFBTNHhLd3M2bzFIeVp5Vkc4VWozZ1hSR2o4VkdSYjlJaExQRDRYNkpLbl9CRmhzX1JKNkdURkNxT21kVnM?oc=5\" target=\"_blank\">Supreme Court Clears the Way for Dismissal of Steve Bannon\u2019s Conviction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-08T07:17:15.915499+00:00",
-      "published_at": "2026-04-06T14:02:32+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

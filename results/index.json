@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/russias-venice-pavilion-to-close-to-the-public-in-compliance-with-sanctions/",
+      "title": "Russia's Venice Pavilion to Close to the Public in Compliance With Sanctions",
+      "snippet": "Organizers discussed making the nation\u2019s pavilion accessible only during the vernissage dates to select guests and the press, according to reports.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-04-29T10:56:36.146713+00:00",
+      "published_at": "2026-04-27T22:18:36+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/miniature-model-and-giant-buddha/",
       "title": "Miniature Model and Giant Buddha",
       "snippet": "This week: a miniature model at MCNY, a giant Buddha on the High Line, Greater New York, and more.",
@@ -1781,27 +1799,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Health research": [
     {
-      "url": "https://hyperallergic.com/the-marsden-hartley-legacy-project-launches-online/",
-      "title": "The Marsden Hartley Legacy Project Launches Online",
-      "snippet": "The first comprehensive catalogue of artworks by acclaimed modernist painter Marsden Hartley is now freely available on the internet.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-16T15:20:42.664040+00:00",
-      "published_at": "2026-04-16T15:00:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWFEYVhwdlhnRlJEUEFGaDVoSGVTX2gtd2RUd0NaSHBHRjJhZU1zbFB0WVAyRHJSYzNtWUp5WUtxb0ozRlo5M3BfY3AxM0FlN3AweXF5dldJaE1rWUwtdzJ0QlRpZjZHUDhhVzY5MzlPWW9oa25qTUdtVnI2cG5VbWdYNTlPcTBxaFJwbGlHSjZlNnYwTzVlVHdSQmxZWkhCeVZpeS1Gcw?oc=5",
+      "title": "How Long Can You Safely Use Semaglutide For Sustained Weight Loss? [KhxbA2Hgjh3] - qsr.mlit.go.jp",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWFEYVhwdlhnRlJEUEFGaDVoSGVTX2gtd2RUd0NaSHBHRjJhZU1zbFB0WVAyRHJSYzNtWUp5WUtxb0ozRlo5M3BfY3AxM0FlN3AweXF5dldJaE1rWUwtdzJ0QlRpZjZHUDhhVzY5MzlPWW9oa25qTUdtVnI2cG5VbWdYNTlPcTBxaFJwbGlHSjZlNnYwTzVlVHdSQmxZWkhCeVZpeS1Gcw?oc=5\" target=\"_blank\">How Long Can You Safely Use Semaglutide For Sustained Weight Loss? [KhxbA2Hgjh3]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qsr.mlit.go.jp</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-04-29T11:00:04.572925+00:00",
+      "published_at": "2026-04-28T12:07:43+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Health research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVFxcVFtRldjLTM3S2s1c0dxOERxME0yOHI4aEJxaDU5Y1V0TFdBbEFzUzhaVVdCTk1rM3NHbGNYTVA2ZWYxdWVDN2tNX2RlNzg0a2xwV3g4bkRrT0ZkY3dTQ3E0XzBaSXc3ZGNGdDJQcmpwODVUbkpIWE1zTGRTN1lURi1VSl9JeTBLdVR0bFFrNlF4LU9YbmlNNmk4Mm1MaHJvX3hrRTNybmphTXdJ?oc=5",
       "title": "Interrupting and Resuming GLP-1 Therapy for Weight Loss May Reduce Drug Effectiveness - Bioengineer.org",
@@ -6766,6 +6784,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://nyc.streetsblog.org/2026/04/29/amtrak-wont-make-key-trump-penn-station-documents-public",
+      "title": "Amtrak Won\u2019t Make Key Trump Penn Station Documents Public",
+      "snippet": "Andy Byford has no plans to release Amtrak's criteria for selecting a \"master developer\" for Trump's Penn Station rehab.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-29T10:58:10.725878+00:00",
+      "published_at": "2026-04-29T04:05:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.6sqft.com/electric-air-taxis-are-traveling-between-jfk-and-manhattan/",
       "title": "Electric \u2018air taxis\u2019 are traveling between JFK Airport and Manhattan this week",
       "snippet": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"682\" src=\"https://thumbs.6sqft.com/wp-content/uploads/2026/04/27120324/Joby-Aircraft-In-Flight-1-1040x693.jpg?w=768&amp;format=webp\" width=\"1024\" /><p>New York City\u2019s airspace, one of the nation\u2019s busiest, is getting a new addition: electric flying taxis between John F. Kennedy International Airport and Manhattan. Joby Aviation on Monday announced the completion of the first point-to-point trip of its electric air taxi, developed as part of a federal program aimed at accelerating the introduction of&#160;[...]</p>\n<p>The post <a href=\"https://www.6sqft.com/electric-air-taxis-are-traveling-between-jfk-and-manhattan/\">Electric \u2018air taxis\u2019 are traveling between JFK Airport and Manhattan this week</a> first appeared on <a href=\"https://www.6sqft.com\">6sqft</a>.</p>",
@@ -8540,24 +8576,6 @@
       "published_at": "2026-04-19T02:04:00+00:00",
       "price": null,
       "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.6sqft.com/trump-releases-funds-for-second-avenue-subway-extension/",
-      "title": "Trump will release funds for Second Avenue Subway extension",
-      "snippet": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://thumbs.6sqft.com/wp-content/uploads/2019/09/16150429/Second-Avenue-Subway-96th-Street.jpg?w=768&amp;format=webp\" width=\"1024\" /><p>The Trump administration on Thursday agreed to release nearly $60 million in federal funding for the Second Avenue Subway extension, ending a monthslong dispute that began during October\u2019s government shutdown. According to the New York Times, in a letter filed in Federal Claims Court, a lawyer for the government said the administration would resume payments&#160;[...]</p>\n<p>The post <a href=\"https://www.6sqft.com/trump-releases-funds-for-second-avenue-subway-extension/\">Trump will release funds for Second Avenue Subway extension</a> first appeared on <a href=\"https://www.6sqft.com\">6sqft</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-19T07:07:27.212406+00:00",
-      "published_at": "2026-04-17T16:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

@@ -6784,6 +6784,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://www.thecity.nyc/2026/04/29/julie-su-mamdani-economy-housing-citadel-ken-griffin/",
+      "title": "Mamdani\u2019s \u2018Economic Justice\u2019 Deputy Wants a Bigger Pie",
+      "snippet": "<figure><img alt=\"Julie Su speaks on Staten Island next to Mayor-elect Zohran Mamdani about her appointment as Deputy Mayor for Economic Justice,\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/12/121925_bozorg_su_appointments-3.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>New York\u2019s first-ever deputy mayor for economic justice says her job is to grow the economy by delivering on Mayor Zohran Mamdani\u2019s agenda for helping those who need it the most. In: Affordable housing, free childcare and city-owned grocery stores.\u00a0 Out: Billions in tax breaks and incentives to big developers and employers, unless they improve [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/29/julie-su-mamdani-economy-housing-citadel-ken-griffin/\">Mamdani\u2019s \u2018Economic Justice\u2019 Deputy Wants a Bigger Pie</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-29T11:30:39.823726+00:00",
+      "published_at": "2026-04-29T09:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://nyc.streetsblog.org/2026/04/29/amtrak-wont-make-key-trump-penn-station-documents-public",
       "title": "Amtrak Won\u2019t Make Key Trump Penn Station Documents Public",
       "snippet": "Andy Byford has no plans to release Amtrak's criteria for selecting a \"master developer\" for Trump's Penn Station rehab.",
@@ -8564,27 +8582,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmczS0lzWlR3NnZFWjA1b2EtS2JYTmpndzJGZ2diVDRBNzM0SU9yY3owMnFsanNVcmNyWDYxU3E5aGRFUGRpRzdVRGlNdUJPY1hRYy15OEhKWC05ampBdXhOMkxhOVF3YWFNSU1XMUNWWWxLcjB5WmFqanFrc2tnZ2xtZ1dNYV9DWWI0?oc=5",
-      "title": "Drag racing street takeover in Queens prompts NYPD investigation - CBS News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmczS0lzWlR3NnZFWjA1b2EtS2JYTmpndzJGZ2diVDRBNzM0SU9yY3owMnFsanNVcmNyWDYxU3E5aGRFUGRpRzdVRGlNdUJPY1hRYy15OEhKWC05ampBdXhOMkxhOVF3YWFNSU1XMUNWWWxLcjB5WmFqanFrc2tnZ2xtZ1dNYV9DWWI0?oc=5\" target=\"_blank\">Drag racing street takeover in Queens prompts NYPD investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-19T08:46:06.720564+00:00",
-      "published_at": "2026-04-19T02:04:00+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1syoch8/manila_luzon_talk_about_filipino_drag_and/",
+      "title": "Manila Luzon talk about Filipino drag and learning to cook on TV.",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1syoch8/manila_luzon_talk_about_filipino_drag_and/\"> <img alt=\"Manila Luzon talk about Filipino drag and learning to cook on TV.\" src=\"https://external-preview.redd.it/OXZnY2RidXozMnlnMfoFeMApq3LcXPomPU5EOAANbKInlhZ68bhNko4et_tO.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=49e512a9beb8a34e61584eae1d880fdbb34c265e\" title=\"Manila Luzon talk about Filipino drag and learning to cook on TV.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JimatJimat\"> /u/JimatJimat </a> <br /> <span><a href=\"https://v.redd.it/4v08vhtz32yg1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1syoch8/manila_luzon_talk_about_filipino_drag_and/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-29T04:25:51+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.5,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjZlZ1JwcmdKOE41eWJLV1VXZGJxVFA4cC14azgxcERBd2xDaVhLdTdxS0x5UkxfMndNVFRpMENmMEFNWEpKeGRmSWxsT2VsTTFsRjhjemoxYzdJTTBOaXphWExjYUY4WS0yTFE1ekhRcXpuMHFNTEt4d0VZYXpUdXlGSTV1WXBCaFlZTEtOaUVpUWZ2SFZZWmZucWt5cDBJYmN2ajRn?oc=5",
       "title": "After Hours: Preserving Queer History and Nightlife in Staten Island - GO Magazine",
@@ -10357,24 +10375,6 @@
       "source_type": "social",
       "topic_name": "Drag Race & drag",
       "fetched_at": "2026-03-29T15:01:57+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1s6gbhq/hormona_congratulates_spoiler/",
-      "title": "Hormona congratulates [Spoiler!]",
-      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hormona Lisa\u2019s bob has finally won her first maxi challenge after two years in the werkroom. Hard work pays off!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ok-Addition-4961\"> /u/Ok-Addition-4961 </a> <br /> <span><a href=\"https://i.redd.it/g28ldr52mvrg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1s6gbhq/hormona_congratulates_spoiler/\">[comments]</a></span>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-03-29T00:09:40+00:00",
       "published_at": null,
       "price": null,
       "novelty_score": 0.6,

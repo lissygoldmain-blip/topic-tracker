@@ -4982,6 +4982,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGx2dTVpXzgtR1dldHpreUtNYzVEZ0VnWENZYnI4a2V5dVJFRlVQV1VfcTNxem5vVDltbHhodXQyNm1NZVYwN0daWVcteFJqQ09fOWF6bWZpS0pCVUJiaGE0TWVjSzluVFB2WWQ2aXFJZnNEYkRyTVpvRy10dGt1RkdVd24tTFVXLTlVRWJkWGJsa05haVZTeHFNZDc?oc=5",
+      "title": "OpenAI says new model adept at making AI better - The Straits Times",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGx2dTVpXzgtR1dldHpreUtNYzVEZ0VnWENZYnI4a2V5dVJFRlVQV1VfcTNxem5vVDltbHhodXQyNm1NZVYwN0daWVcteFJqQ09fOWF6bWZpS0pCVUJiaGE0TWVjSzluVFB2WWQ2aXFJZnNEYkRyTVpvRy10dGt1RkdVd24tTFVXLTlVRWJkWGJsa05haVZTeHFNZDc?oc=5\" target=\"_blank\">OpenAI says new model adept at making AI better</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Straits Times</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-04-29T16:20:12.214281+00:00",
+      "published_at": "2026-04-23T23:29:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRUZKcmg2M1dQRDV4ZmM2UkphbDBXbU1xXzlCMUpwTkNiSE56UElIVnZIaVVXSUoydFhVZlU4M0M0dzZvUGJNSXkxdzlrelM2TVB0dGJzTEhiM1QwbUc1OFRGS1U1aThmMlZrOEg0T0RVbTdvNGY0TVRvS0VVS3BuaEJPbTlVWjlNX2JKbDMtMHA2NXdyQkNrU00taThQOElia1VGVTl3S2VYc3ZmcU15X0FQeHhkM29PWDFjenI4aUk2aUZBZDRQWDRleHpKakVPeFdURFRLbG1abm1kTTRRV2ZYMWpGcm1tNWl6RGRkemdKTEtTQjlLM0dkd0Zla0JyWHBtaURqNWhhSm5Hck9DeUZ30gGXAkFVX3lxTE8zOXBjaFBVeXF2c1lXME41QnEydE1IRTROdDlBSXNLOHAxd3Z6WWU0QmJnWUxMTFdPbmZtZ2ZxcDBLZzdQV0EtbHV3c2FlV0U5bUdnaUF0ajFLUnE4SEx2THdDdXBoNXlpOFdlT3dZTWZfTUd2MXUyZjlZcWlyTy1pbnUwOVYyWnhVNkliRjVtRzJKdlVIOVNkcmt0V2FmbTRZQWR6bHk1RU94bHR2SmdwRHpaUjN2VkM0U3FSTEU4cW1LSjl2ejZjN01RSjU0OXk1bE1DcmJQRW10YnlqUHNlc3JzemMwYUt4OUs1bkJicC1lS2hvSFV3V1c5UjZYMXZGV0k3OGU0UU9wR0Iwd1kzY1FucGZFWQ?oc=5",
       "title": "What global banks said about Anthropic's new Mythos model that the company \u2018refused\u2019 to release publicly - The Times of India",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQRUZKcmg2M1dQRDV4ZmM2UkphbDBXbU1xXzlCMUpwTkNiSE56UElIVnZIaVVXSUoydFhVZlU4M0M0dzZvUGJNSXkxdzlrelM2TVB0dGJzTEhiM1QwbUc1OFRGS1U1aThmMlZrOEg0T0RVbTdvNGY0TVRvS0VVS3BuaEJPbTlVWjlNX2JKbDMtMHA2NXdyQkNrU00taThQOElia1VGVTl3S2VYc3ZmcU15X0FQeHhkM29PWDFjenI4aUk2aUZBZDRQWDRleHpKakVPeFdURFRLbG1abm1kTTRRV2ZYMWpGcm1tNWl6RGRkemdKTEtTQjlLM0dkd0Zla0JyWHBtaURqNWhhSm5Hck9DeUZ30gGXAkFVX3lxTE8zOXBjaFBVeXF2c1lXME41QnEydE1IRTROdDlBSXNLOHAxd3Z6WWU0QmJnWUxMTFdPbmZtZ2ZxcDBLZzdQV0EtbHV3c2FlV0U5bUdnaUF0ajFLUnE4SEx2THdDdXBoNXlpOFdlT3dZTWZfTUd2MXUyZjlZcWlyTy1pbnUwOVYyWnhVNkliRjVtRzJKdlVIOVNkcmt0V2FmbTRZQWR6bHk1RU94bHR2SmdwRHpaUjN2VkM0U3FSTEU4cW1LSjl2ejZjN01RSjU0OXk1bE1DcmJQRW10YnlqUHNlc3JzemMwYUt4OUs1bkJicC1lS2hvSFV3V1c5UjZYMXZGV0k3OGU0UU9wR0Iwd1kzY1FucGZFWQ?oc=5\" target=\"_blank\">What global banks said about Anthropic's new Mythos model that the company \u2018refused\u2019 to release publicly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
@@ -6762,27 +6780,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1lBRzB6ZTFpTERuYWtWVWpVaG5sdjRaek04RVJFSnlla1ZCQnNYZXhTRkxuekt2UTE1Y1dGU2UxcUh3MWtvUUlkdWlxXy1YVFk4UWE2Rlp6LUpZdmU3YnFWVmxqNDNRdjBpQXZveklmYW1VcWljY3RjdHFvQ3dfeDMzcFUzbFJudURnQldBbmdnODRSYXg3eEw2aEY1Rjg1SHNXTWZab1Fzd0NlblJtU0pwVGs?oc=5",
-      "title": "Unauthorised users hack Anthropic's 'too dangerous to release' AI - Euronews.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1lBRzB6ZTFpTERuYWtWVWpVaG5sdjRaek04RVJFSnlla1ZCQnNYZXhTRkxuekt2UTE1Y1dGU2UxcUh3MWtvUUlkdWlxXy1YVFk4UWE2Rlp6LUpZdmU3YnFWVmxqNDNRdjBpQXZveklmYW1VcWljY3RjdHFvQ3dfeDMzcFUzbFJudURnQldBbmdnODRSYXg3eEw2aEY1Rjg1SHNXTWZab1Fzd0NlblJtU0pwVGs?oc=5\" target=\"_blank\">Unauthorised users hack Anthropic's 'too dangerous to release' AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-22T09:28:04.170282+00:00",
-      "published_at": "2026-04-22T09:20:48+00:00",
+      "url": "https://qns.com/2026/04/queens-centers-for-progress-2026-footsteps-5k-run/",
+      "title": "Queens Centers for Progress hosts 2026 Footsteps for Progress 5K run",
+      "snippet": "Runners \u2013 whether they\u2019d be professional or recreational \u2013 of all ages prepared themselves for a 5-kilometer, or 3.1-mile run, on a breezy Sunday morning around Flushing Meadows Corona Park. The run serves one goal in mind: to help make a difference in the lives of those with intellectual and developmental disabilities. On Sunday, April...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/queens-centers-for-progress-2026-footsteps-5k-run/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-04-29T15:57:06.174589+00:00",
+      "published_at": "2026-04-29T15:00:16+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/04/i-love-my-park-day-gantry-plaza-state-park/",
       "title": "I Love My Park Day cleanup returning to Gantry Plaza State Park this Saturday",
@@ -8564,27 +8582,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://www.amny.com/news/queens-lawmaker-angry-fiery-car-meetup/",
-      "title": "Queens lawmaker incensed after fiery car meetup in neighborhood, demands arrests: \u2018We are not putting up with this garbage\u2019",
-      "snippet": "A Queens lawmaker is demanding that the NYPD arrest those connected to a massive and dangerous early-morning car meetup on Saturday that saw drivers turn fiery tricks in the middle of a quiet neighborhood. The shocking incident unfolded at the intersection of 69th Street and Eliot Avenue on the Maspeth/Middle Village boundary just before\u2026 <a class=\"read-more\" href=\"https://www.amny.com/news/queens-lawmaker-angry-fiery-car-meetup/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-19T13:59:28.815073+00:00",
-      "published_at": "2026-04-19T13:43:18+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sz333c/all_stars_11_trailer_rupauls_drag_race_all_stars/",
+      "title": "All Stars 11 Trailer \ud83c\udfc6 RuPaul\u2019s Drag Race All Stars",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sz333c/all_stars_11_trailer_rupauls_drag_race_all_stars/\"> <img alt=\"All Stars 11 Trailer \ud83c\udfc6 RuPaul\u2019s Drag Race All Stars\" src=\"https://external-preview.redd.it/_we1J1FZMhoNkczsa5VLOWuk7KIB-wYgBzzZcsy4bZg.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b55735c0912d408c71064d00029292eb41500bb7\" title=\"All Stars 11 Trailer \ud83c\udfc6 RuPaul\u2019s Drag Race All Stars\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Samerrrrrrrrr\"> /u/Samerrrrrrrrr </a> <br /> <span><a href=\"https://youtu.be/NwTUMNACGEA?si=LL1IUqaiwYySfq0q\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sz333c/all_stars_11_trailer_rupauls_drag_race_all_stars/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-04-29T16:02:17+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.5,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1syoch8/manila_luzon_talk_about_filipino_drag_and/",
       "title": "Manila Luzon talk about Filipino drag and learning to cook on TV.",
@@ -10357,24 +10375,6 @@
       "source_type": "social",
       "topic_name": "Drag Race & drag",
       "fetched_at": "2026-03-29T19:22:22+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1s6xef5/bianca_live_in_houston_with_mib/",
-      "title": "Bianca LIVE in Houston with MIB",
-      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1s6xef5/bianca_live_in_houston_with_mib/\"> <img alt=\"Bianca LIVE in Houston with MIB\" src=\"https://external-preview.redd.it/MjM2cWhzYXIwMHNnMX05OdNJWjeVk0C3SPLi0mGojVbwQrSKTKCmNMxj44vv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=be7d0f798e10383797ad1e49d364df9c991c3d70\" title=\"Bianca LIVE in Houston with MIB\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Bianca del Rio was in Houston with Mistress Isabelle Brooks on Friday! It was PACKED but so fun! I am so happy I was able to see Bianca in the flesh especially since she doesn\u2019t generally do club appearances. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/88momma\"> /u/88momma </a> <br /> <span><a href=\"https://v.redd.it/0d9e63st00sg1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1s6xef5/bianca_live_in_houston_with_mib/\">[comments]</a></span> </td></tr></table>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-03-29T15:01:57+00:00",
       "published_at": null,
       "price": null,
       "novelty_score": 0.6,
@@ -14030,6 +14030,24 @@
   ],
   "Politics & world": [
     {
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1FaT3V3bVM1RTNvYVpmOENUeFRYQjVpOENaNnpKRkNLZnowbGFLU2NKVU9JOTd5S3RYcDY4ZzZBeUU3MklyUWdBaEZ0N2o1eFVCcnBIU0lFZ01hVWV1TFV0TlNNU19uTzNnYndVQTRDLVc5cjFvRmNXV3ozNzhxVE1meDhTaEpCRFJJYzQ0UHNobGdwRVc5MWdnR2pRRUdIQnpoRFpSeU1KVEN4bDRPTGZ1anhWT3o3T1c4ZDl2STlVWkFLcXg2Q1NMX0x4VTVrRXfSAdcBQVVfeXFMT0VVR1o4VEgybFhVbVRBWXppRWJMblFoZ0hybUFDNXY5Zjg5Q1BzV09qZ3ZaSXlWNzRvbzZRWkdlS2NOeEpHQzQ3N1Jfd29mVmE0TG9Ecm9iM1Y2SmxPdzg1SlItNW5SQVJ0VE1uNnZBcmNKVFppbmc5SnNEdlNrR1A2SE95RlQ2QkN2R01WY3podURLUkRNelU1Wmk0aE1STmd1SWRLNHllTm1XVmFlZ1FlS1N5aHdDbEpoWnoySnlLcUVvRG9SZ195eUxFWWZmVWdSQkFlVEE?oc=5",
+      "title": "Supreme Court voids majority Black congressional district in Louisiana, boosting Republican chances - PBS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1FaT3V3bVM1RTNvYVpmOENUeFRYQjVpOENaNnpKRkNLZnowbGFLU2NKVU9JOTd5S3RYcDY4ZzZBeUU3MklyUWdBaEZ0N2o1eFVCcnBIU0lFZ01hVWV1TFV0TlNNU19uTzNnYndVQTRDLVc5cjFvRmNXV3ozNzhxVE1meDhTaEpCRFJJYzQ0UHNobGdwRVc5MWdnR2pRRUdIQnpoRFpSeU1KVEN4bDRPTGZ1anhWT3o3T1c4ZDl2STlVWkFLcXg2Q1NMX0x4VTVrRXfSAdcBQVVfeXFMT0VVR1o4VEgybFhVbVRBWXppRWJMblFoZ0hybUFDNXY5Zjg5Q1BzV09qZ3ZaSXlWNzRvbzZRWkdlS2NOeEpHQzQ3N1Jfd29mVmE0TG9Ecm9iM1Y2SmxPdzg1SlItNW5SQVJ0VE1uNnZBcmNKVFppbmc5SnNEdlNrR1A2SE95RlQ2QkN2R01WY3podURLUkRNelU1Wmk0aE1STmd1SWRLNHllTm1XVmFlZ1FlS1N5aHdDbEpoWnoySnlLcUVvRG9SZ195eUxFWWZmVWdSQkFlVEE?oc=5\" target=\"_blank\">Supreme Court voids majority Black congressional district in Louisiana, boosting Republican chances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-04-29T16:13:30.863961+00:00",
+      "published_at": "2026-04-29T14:25:30+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa2FOcm0zVXNNNm4tcjlxMDhZR3VUaDllLUU3SFdua2VrbmxVNzUyZ3FNeFdyNEJEQmR3b1EtSFpxS2JLd080cDVkZFhzSnMzYlAwNFVLQXpEYUJ0b25ROEd5VVdnVjFZM2d6NzI2YXF2SXRSWlJCMEhfVUVaYnFvd3ZXNWVVZVNiakhjV0RNRnlpbm9Dd2hkWGRjdWlNZ3REdXkta2RjLUl5bnR1OG03RHBQVkFTYndRNmlvbk1pd2JhMmpJTzhZSTBuN3JvWHltUTFMNjNlWVBOT3Y3QlZlVlJvd3B5UdIB7gFBVV95cUxQVGRERWt6Q0FIR3VPcEdGcnhqZnhjZVJMM0dSTkFhWVFxaEpZWjFRa19hUVNpUVltejI5ZXhrTDRrT3ZaMXprb2JGZFNJcmRnRzhiZ21tNTRRSjVZdEFINThGdE1Qb1EwZDlVSUU3bENVY2c3N1Q5YWNJVGtHeUdMMjloSG5Xd0RRcEZDTFNlcm5NWTFNZW9SSkJEdF9tTlFNU2pUeFVtN3dNRWk3Uy1pVm1rRDU2VlhISDNLdWpyQkg0SC1xOHQ2WFpmWnVoRHF0amNKSmZaN0JPU3hoTVNXc3F6MG1uMWlQel9leWd3?oc=5",
       "title": "Supreme Court rules against majority Black Louisiana district in blow to Voting Rights Act - NBC4 Washington",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa2FOcm0zVXNNNm4tcjlxMDhZR3VUaDllLUU3SFdua2VrbmxVNzUyZ3FNeFdyNEJEQmR3b1EtSFpxS2JLd080cDVkZFhzSnMzYlAwNFVLQXpEYUJ0b25ROEd5VVdnVjFZM2d6NzI2YXF2SXRSWlJCMEhfVUVaYnFvd3ZXNWVVZVNiakhjV0RNRnlpbm9Dd2hkWGRjdWlNZ3REdXkta2RjLUl5bnR1OG03RHBQVkFTYndRNmlvbk1pd2JhMmpJTzhZSTBuN3JvWHltUTFMNjNlWVBOT3Y3QlZlVlJvd3B5UdIB7gFBVV95cUxQVGRERWt6Q0FIR3VPcEdGcnhqZnhjZVJMM0dSTkFhWVFxaEpZWjFRa19hUVNpUVltejI5ZXhrTDRrT3ZaMXprb2JGZFNJcmRnRzhiZ21tNTRRSjVZdEFINThGdE1Qb1EwZDlVSUU3bENVY2c3N1Q5YWNJVGtHeUdMMjloSG5Xd0RRcEZDTFNlcm5NWTFNZW9SSkJEdF9tTlFNU2pUeFVtN3dNRWk3Uy1pVm1rRDU2VlhISDNLdWpyQkg0SC1xOHQ2WFpmWnVoRHF0amNKSmZaN0JPU3hoTVNXc3F6MG1uMWlQel9leWd3?oc=5\" target=\"_blank\">Supreme Court rules against majority Black Louisiana district in blow to Voting Rights Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC4 Washington</font>",
@@ -15802,24 +15820,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-04-07T14:39:24.390763+00:00",
       "published_at": "2026-04-07T13:11:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiZzE4TkpWUzhpZFI0Ym9sZVIyNGhvaEtYTDFqZGoyaUxGeVN5LUh3YXFfQ3VuMlJxWVRuRWVWNXhtZ0FNOXlCSG83M016ZmdkOUxiNWtfRkh1aWo1SlYtcEtKTTV0ekhqbVdIc1JqVFNsOG1aa0llNUVSYjTSAYIBQVVfeXFMUDZkSWh2RkxTNW5McEk0RjdJMXItN3pzRDB6UmVKV09HVDNpelBSRW00ZXdWanRIaTB5Vng5SmNjZ2xmc1FlT0JGaE5QX2E2Vk1fSUdwYnd1Z3ZwWVlwQVZDZzdzWWJweW84M19jZ1FISTdkVkY2VkxTM2lDbE51Q0xnZw?oc=5",
-      "title": "Supreme Court rules in favor of Steve Bannon, likely to dismiss criminal case - LiveNOW from FOX",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBiZzE4TkpWUzhpZFI0Ym9sZVIyNGhvaEtYTDFqZGoyaUxGeVN5LUh3YXFfQ3VuMlJxWVRuRWVWNXhtZ0FNOXlCSG83M016ZmdkOUxiNWtfRkh1aWo1SlYtcEtKTTV0ekhqbVdIc1JqVFNsOG1aa0llNUVSYjTSAYIBQVVfeXFMUDZkSWh2RkxTNW5McEk0RjdJMXItN3pzRDB6UmVKV09HVDNpelBSRW00ZXdWanRIaTB5Vng5SmNjZ2xmc1FlT0JGaE5QX2E2Vk1fSUdwYnd1Z3ZwWVlwQVZDZzdzWWJweW84M19jZ1FISTdkVkY2VkxTM2lDbE51Q0xnZw?oc=5\" target=\"_blank\">Supreme Court rules in favor of Steve Bannon, likely to dismiss criminal case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveNOW from FOX</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-07T13:11:29.337251+00:00",
-      "published_at": "2026-04-07T12:55:22+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

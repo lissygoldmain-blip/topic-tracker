@@ -3324,6 +3324,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/05/dylan-obrien-lewis-pullman-kaia-gerber-starring-in-bulls-1236878356/",
+      "title": "Dylan O\u2019Brien, Lewis Pullman & Kaia Gerber To Star In Erotic Thriller \u2018Bulls\u2019 From Director James Morosini & \u2018Anyone But You\u2019 & \u2018Get Out\u2019 Producers \u2014 Cannes Market",
+      "snippet": "Dylan O\u2019Brien (Send Help) is set to star in James Morosini\u2019s erotic thriller Bulls, alongside Lewis Pullman (Thunderbolts*) and Kaia Gerber (Bottoms), we can reveal. Yvette Zhuang and Zach Glueck, co-CEOs of Manifest Pictures, are launching the project ahead of the Cannes market. Written and directed by Morosini, a SXSW winner for I Love My [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-05-01T20:06:49.181590+00:00",
+      "published_at": "2026-05-01T20:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.indiewire.com/news/trailers/milky-way-trailer-vasilis-kekatos-series-1235191636/",
       "title": "\u2018Milky Way\u2019 Trailer: Short Film Palme d\u2019Or-Winning Filmmaker Vasilis Kekatos Tackles Teen Pregnancy with Dark Humor",
       "snippet": "Exclusive: \"The Distance Between Us and the Sky\" filmmaker is turning to TV with a new limited series about a perennial topic with plenty of imaginative flourishes.",
@@ -5104,27 +5122,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/04/melissa-mccarthy-circling-turpentine-thriller-craig-zobel-1236867478/",
-      "title": "Melissa McCarthy In Talks To Star In Thriller \u2018Turpentine\u2019 From Director Craig Zobel; T-Street & ShivHans Pictures Producing",
-      "snippet": "EXCLUSIVE: Two-time Academy Award nominee Melissa McCarthy is in talks to star in Turpentine, a new thriller directed by The Penguin and Mare of Easttown&#8216;s Craig Zobel, Deadline has learned. Based on a script by Justin Varava that made the 2024 Black List, Turpentine follows a deadbeat son who hires friends to rob his own [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-21T22:36:56.824691+00:00",
-      "published_at": "2026-04-21T21:52:14+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTExyTy1GNlVRWng3UThiWHh1ZjlhbzVCMUxfelNuRzNYTFNfVFJxa0pJanhDQ3UxdThQbUlpWW1zdXFoQkFDX2M0N3hVSjFMeER6YVNGMm11VHBzQTduV2p4ZUVUZzNEOEFvbF9fWF9sSWx5THJtS2gyNFhlZ3c1aHNWQ0tYeWU2WUlkajM0VnZaYkZBTTJkaWFEYkUzemdXdEJ2ZmlPRlYwOGhk?oc=5",
+      "title": "Simbian Launches Cyber Defense Benchmark, Reveals Major Gap in AI Security Capabilities - Unite.AI",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTExyTy1GNlVRWng3UThiWHh1ZjlhbzVCMUxfelNuRzNYTFNfVFJxa0pJanhDQ3UxdThQbUlpWW1zdXFoQkFDX2M0N3hVSjFMeER6YVNGMm11VHBzQTduV2p4ZUVUZzNEOEFvbF9fWF9sSWx5THJtS2gyNFhlZ3c1aHNWQ0tYeWU2WUlkajM0VnZaYkZBTTJkaWFEYkUzemdXdEJ2ZmlPRlYwOGhk?oc=5\" target=\"_blank\">Simbian Launches Cyber Defense Benchmark, Reveals Major Gap in AI Security Capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-01T20:17:21.311252+00:00",
+      "published_at": "2026-04-28T16:22:49+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2hCMF9SM3hrcWxKQzJDdzRBeTlZbTNMYmlkUzlWMWI2VldYbmwwSUlOM3E3bXZ4b1NVQzdSVmxsU3RKT0tBVVAwUEpDNFcxOHQ5aGZFVXIydUVQMWpURnlnVHZpM0JTWUJMVUwyQjFiakVJRWFSYXhHbEpYZTdLYXM4ZklCMjRUTEVsaHgyY1Zvcmtjckcw?oc=5",
       "title": "Evaluating Claude\u2019s bioinformatics research capabilities with BioMysteryBench - Anthropic",
@@ -6906,27 +6924,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kM0M1bXdZcFhlb1BDVEl6eTRQUDJQem9KQ1dCRFl2TTRSTFFhS1ZPZGh0UFdXQ3hjSFZQcXlLMGxpOFBIQW8xOTRfMnhwR2lPYmwwckhJZzUwaUZpbm5fX3JoNDlwYWVBWm1FYnN5bDhkYXhoM0E?oc=5",
-      "title": "OpenAI Unveils Its New, More Powerful GPT-5.5 Model - The New York Times",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5kM0M1bXdZcFhlb1BDVEl6eTRQUDJQem9KQ1dCRFl2TTRSTFFhS1ZPZGh0UFdXQ3hjSFZQcXlLMGxpOFBIQW8xOTRfMnhwR2lPYmwwckhJZzUwaUZpbm5fX3JoNDlwYWVBWm1FYnN5bDhkYXhoM0E?oc=5\" target=\"_blank\">OpenAI Unveils Its New, More Powerful GPT-5.5 Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-23T22:52:01.135217+00:00",
-      "published_at": "2026-04-23T18:00:06+00:00",
+      "url": "https://qns.com/2026/05/concert-season-forest-hills-stadium-summer/",
+      "title": "Get ready for another concert season at Forest Hills Stadium this summer",
+      "snippet": "Music fans across New York City and beyond are eagerly anticipating another epic season of concerts at Queens\u2019 iconic Forest Hills Stadium this summer. The dynamic 2026 lineup features returning music legends, like Bob Dylan and Queens\u2019 own Paul Simon, along with global stars the Zac Brown Band, Haley Williams, Wilco, the Dave Matthews Band,...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/05/concert-season-forest-hills-stadium-summer/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-01T20:04:17.699411+00:00",
+      "published_at": "2026-05-01T18:00:10+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.caribbeanlife.com/inside-stasha-harris-magic-fingers-institute-turning-students-into-entrepreneurs/",
       "title": "Inside Stasha Harris\u2019 Magic Fingers Institute: Turning students into entrepreneurs",
@@ -8702,24 +8720,6 @@
       "published_at": "2026-04-22T17:20:44+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/cb1-votes-in-favor-31st-street-bike-lanes/",
-      "title": "CB1 votes in favor of DOT\u2019s new plan for protected bike lanes along 31st Street in Astoria",
-      "snippet": "Queens Community Board 1 (CB1) voted overwhelmingly in favor of recommending the city&#8217;s plans to redesign a 2.5-mile stretch of 31st Street with parking protected bike lanes following a marathon public engagement session on Tuesday night. Astoria World Manor was standing room only for CB1&#8217;s monthly meeting on April 21 as dozens of opponents and...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/cb1-votes-in-favor-31st-street-bike-lanes/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-22T22:42:27.242040+00:00",
-      "published_at": "2026-04-22T21:00:13+00:00",
-      "price": null,
-      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -12334,6 +12334,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDRlOWwtTXFqZUxudUN5bjBBdDRJNUR0b1BzWVZQU0xoNFc1Z0NURXZiLXJGbU5CX2NwRDJDZkktUURuX3QtU2JZQkdNUkpsMWpiZU42VlFNS2c1RnVqQ0dFQ2w1REhyNUpQa1AydzdEa2N0RDJoRVJIal9LNzlfWmNROWo3NnB1ek1MVFdLWmpqWTNFUEkwRU5Va2JkbzFUbEhuUGhsMTZUUVdnN1ZTVlJ3eHVmRF9zVlZxOWcwTFfSAcYBQVVfeXFMTnNpSkJiSWJLWHRwRjdwYUFvLXRoNHNYUU1sVldzU21VNkwxaGxPUktSRWpkdkhhVUk4eVBpdTNTVEFsV0R2b0VINU1Ka2pnOGI5dUlpMFc3bVVrRTI2YTRCZUlPeGhkNUNDSlUwa0JnRjZGcHZBUE1ZQ0tUb2VYbFFyZk5oMjlyYWRlM2FWaXJxQ1JrOUs0ZHpIYWZMVmxSLWZzZXdPZFFNRGI5VkI3MDFQb1VJWVdNMmJVc3lnb1lKSW1ZeXBn?oc=5",
+      "title": "After major enforcement operations, the Trump administration recalibrates its immigration crackdown - ABC News - Breaking News, Latest News and Videos",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDRlOWwtTXFqZUxudUN5bjBBdDRJNUR0b1BzWVZQU0xoNFc1Z0NURXZiLXJGbU5CX2NwRDJDZkktUURuX3QtU2JZQkdNUkpsMWpiZU42VlFNS2c1RnVqQ0dFQ2w1REhyNUpQa1AydzdEa2N0RDJoRVJIal9LNzlfWmNROWo3NnB1ek1MVFdLWmpqWTNFUEkwRU5Va2JkbzFUbEhuUGhsMTZUUVdnN1ZTVlJ3eHVmRF9zVlZxOWcwTFfSAcYBQVVfeXFMTnNpSkJiSWJLWHRwRjdwYUFvLXRoNHNYUU1sVldzU21VNkwxaGxPUktSRWpkdkhhVUk4eVBpdTNTVEFsV0R2b0VINU1Ka2pnOGI5dUlpMFc3bVVrRTI2YTRCZUlPeGhkNUNDSlUwa0JnRjZGcHZBUE1ZQ0tUb2VYbFFyZk5oMjlyYWRlM2FWaXJxQ1JrOUs0ZHpIYWZMVmxSLWZzZXdPZFFNRGI5VkI3MDFQb1VJWVdNMmJVc3lnb1lKSW1ZeXBn?oc=5\" target=\"_blank\">After major enforcement operations, the Trump administration recalibrates its immigration crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-05-01T20:12:32.088566+00:00",
+      "published_at": "2026-05-01T10:53:52+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSWlxSzNPdE8xMkZwSGlRbGw5T043RnlWTUI1QWpsTndkbTlQTDVSTkhubDVUR2hEbEM2NWI0TF83aGdldWlXOGVqWFNGN3hwN1FQZGNkM0o2VmdsaG1YVUtvUV9fM1pDdmRjeDlHdHIzMWhvSTh6WjUyYWZRUjE3WDJoTE42S0dGazB4YmlXR2ZrcnRwNnE5SEYtNS0xR0h4TzRzT2E1eXZzaVlIM1ZCSGpFbzE0QWk3QkQ0N0VkSENRNGZIbTVRLTM1UlZQVldQTmljYWUxd0tSVzQ2eENEYklBNzJvaTFX?oc=5",
       "title": "Ten Rabbis Arrested in NYC Jewish Protest Against ICE - Haaretz",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSWlxSzNPdE8xMkZwSGlRbGw5T043RnlWTUI1QWpsTndkbTlQTDVSTkhubDVUR2hEbEM2NWI0TF83aGdldWlXOGVqWFNGN3hwN1FQZGNkM0o2VmdsaG1YVUtvUV9fM1pDdmRjeDlHdHIzMWhvSTh6WjUyYWZRUjE3WDJoTE42S0dGazB4YmlXR2ZrcnRwNnE5SEYtNS0xR0h4TzRzT2E1eXZzaVlIM1ZCSGpFbzE0QWk3QkQ0N0VkSENRNGZIbTVRLTM1UlZQVldQTmljYWUxd0tSVzQ2eENEYklBNzJvaTFX?oc=5\" target=\"_blank\">Ten Rabbis Arrested in NYC Jewish Protest Against ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Haaretz</font>",
@@ -14114,24 +14132,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXd5NUJ6R0IyRl9zZi1yc0dQbU93bjBOdjRXS1NPYTQtVnVfQlBXRUFmM2xmN0ZwenY3RTlIRGkxYzR0U1AwM2hjbXR0YWFRY0JrNzhvYWZxS3hacUhJY19hMVRxTTI4a2d6RXF6SlNEWmQ2TC1XX3hIdUVMWk9TbW1Sb19WOVRuTmRkVThROF9aWTJvNldlU0xqSFhtOWZwemZaOGFzQQ?oc=5",
-      "title": "NYC refuses ICE request to detain suspect in deadly arson, DHS says - Tippah News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXd5NUJ6R0IyRl9zZi1yc0dQbU93bjBOdjRXS1NPYTQtVnVfQlBXRUFmM2xmN0ZwenY3RTlIRGkxYzR0U1AwM2hjbXR0YWFRY0JrNzhvYWZxS3hacUhJY19hMVRxTTI4a2d6RXF6SlNEWmQ2TC1XX3hIdUVMWk9TbW1Sb19WOVRuTmRkVThROF9aWTJvNldlU0xqSFhtOWZwemZaOGFzQQ?oc=5\" target=\"_blank\">NYC refuses ICE request to detain suspect in deadly arson, DHS says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tippah News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-04-17T07:31:19.534563+00:00",
-      "published_at": "2026-04-17T06:23:23+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14173,6 +14173,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXAzbllSZ0M2XzU0ZnY5S01MSXUteDM0N3RNcmZWNUFRakl0M1Q5cU1ia2VKRjlFcU1jLUpTRFVYVGFwMTN5YkNtb3p3TURreHBaaEdJY1poazRIUl9NNDRyWFRRaHN4LWRNYXNxV3VtYkY2VUlIdkkxYzZTUG9WclZUU05ZX09rY2Q1LTBPd0FCSmZMam1RNUdxbzROdUh4UUJYLXlR0gGrAUFVX3lxTE85NXRsZXJndHpvQjZJMWNYc0wya1R4ZS0xdDY3M0M0R3B0Qi1sR1pQT0hfaHR0aldENDdXMEZIY0wxRUJZTERzTjk5QUt0czVjX2QySzBkam56Rk1CbThuS1M4bGNFbVNGOWllTklXUGUwVEtNLUJBanZRVWlGaW5HUktxQXEwRFJDWGcwTlM2UElfQzFTTmFwRF9TVEUwZjBBcnJJT1RGVnNJaw?oc=5",
+      "title": "Trump signs Homeland Security funding bill, ending record shutdown - PBS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXAzbllSZ0M2XzU0ZnY5S01MSXUteDM0N3RNcmZWNUFRakl0M1Q5cU1ia2VKRjlFcU1jLUpTRFVYVGFwMTN5YkNtb3p3TURreHBaaEdJY1poazRIUl9NNDRyWFRRaHN4LWRNYXNxV3VtYkY2VUlIdkkxYzZTUG9WclZUU05ZX09rY2Q1LTBPd0FCSmZMam1RNUdxbzROdUh4UUJYLXlR0gGrAUFVX3lxTE85NXRsZXJndHpvQjZJMWNYc0wya1R4ZS0xdDY3M0M0R3B0Qi1sR1pQT0hfaHR0aldENDdXMEZIY0wxRUJZTERzTjk5QUt0czVjX2QySzBkam56Rk1CbThuS1M4bGNFbVNGOWllTklXUGUwVEtNLUJBanZRVWlGaW5HUktxQXEwRFJDWGcwTlM2UElfQzFTTmFwRF9TVEUwZjBBcnJJT1RGVnNJaw?oc=5\" target=\"_blank\">Trump signs Homeland Security funding bill, ending record shutdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-05-01T20:13:11.296418+00:00",
+      "published_at": "2026-04-30T22:23:49+00:00",
+      "price": null,
+      "novelty_score": 0.95,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNelpwNUZuTHdTTFdsdkNzdGVNRUFUM1Zxdk1JeFRVU1g4OG5SWTZoU1NLMHg3R181LXV1cHM1aUNiMnhRcnZKbGd6NjMyMEpFNHgzVGFwVHQzckYtWG5xWGNVTWl5dU81MHVkRGs5anYyajRNSVhad2dlYVZRNXJEVzBUQTRZQ0ZpU1VSdG10ZDR1a01hMWVBc2x4RmtDNkxZT2JRVDNrYml3eV96Z0ZGVUN2YVlmVUFaMGRTZ194TC1salBsdVBDUFRoRUNSTmZQNmc?oc=5",
       "title": "Supreme Court weakens the Voting Rights Act and aids GOP efforts to control the House - ap.org",
@@ -15946,24 +15964,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-04-16T17:17:05.951651+00:00",
       "published_at": "2026-04-15T15:04:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82cDkyZU5JMUtKdTFEQW5YSkNUMk9jVjdGZ3FNX2NramFFdEtmS013SXB1X08wdTNrVnJmaWpkQUdPUHFVekRLXzhFUEkwUXlzZnlCU21lc0I2V2lySmUxQXR2SmJXRVpqMm5DN1BPTXlWNFQ1RlE?oc=5",
-      "title": "House defies Trump on immigration with move to shield Haitians - The Washington Post",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE82cDkyZU5JMUtKdTFEQW5YSkNUMk9jVjdGZ3FNX2NramFFdEtmS013SXB1X08wdTNrVnJmaWpkQUdPUHFVekRLXzhFUEkwUXlzZnlCU21lc0I2V2lySmUxQXR2SmJXRVpqMm5DN1BPTXlWNFQ1RlE?oc=5\" target=\"_blank\">House defies Trump on immigration with move to shield Haitians</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-16T15:31:32.096647+00:00",
-      "published_at": "2026-04-16T06:00:10+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

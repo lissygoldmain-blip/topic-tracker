@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/the-venice-biennale-jury-resigns/",
+      "title": "Venice Biennale Jury Resigns",
+      "snippet": "The exhibition\u2019s international jury quits, Banksy strikes again, and a conversation with artist-activist Tania Bruguera.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-05-01T11:03:04.951738+00:00",
+      "published_at": "2026-05-01T10:00:23+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/george-baselitz-purveyor-of-the-tortured-male-genius-myth-dies-at-88/",
       "title": "George Baselitz, Purveyor of the Tortured Male Genius Myth, Dies at 88",
       "snippet": "The German artist was known for emotionally charged paintings and distorted views about women artists.",
@@ -1781,16 +1799,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Health research": [
     {
-      "url": "https://www.artsjournal.com/2026/04/inside-the-pillaging-of-the-kennedy-center.html",
-      "title": "Inside the Pillaging of the Kennedy Center",
-      "snippet": "Good Morning &#8220;Get rid of everything.&#8221; That was Richard Grenell&#8217;s instruction about the Kennedy Center&#8217;s permanent art collection, according to a former staffer&#8217;s devastating firsthand account of what happened inside during the shutdown (The Atlantic). Meanwhile, the Commission of Fine Arts \u2014 stacked with Trump appointees \u2014 has approved a preliminary design for the President&#8217;s [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-17T19:56:07.044158+00:00",
-      "published_at": "2026-04-17T19:43:51+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbW9jU2c0SzR1NUx3dGxyTlp3RHo4dVo1YU1JUHVxNzJQdkpQMDQtTENyek9BeDgzT0ZpVlZmSVpsNEhUbWt1eFVxTTB6blpMaFpHVG15cHp6UVY2emJfb0tUOHBtTzZnVlZ5MVdCSEdQY3hsSEpQZWRPRnFsQmV4ZU5Fb2VxUjE0SlRIUWpEbGlyc1ByVGVtS0N1Z1FPOXAwMk13QUFtT1FRR09vQWFoQklGODEtVlJPX2EwQg?oc=5",
+      "title": "GLP-1 Drugs Show Vascular Benefits in Diabetic Retinopathy Patients, Study Finds - Review of Optometry",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbW9jU2c0SzR1NUx3dGxyTlp3RHo4dVo1YU1JUHVxNzJQdkpQMDQtTENyek9BeDgzT0ZpVlZmSVpsNEhUbWt1eFVxTTB6blpMaFpHVG15cHp6UVY2emJfb0tUOHBtTzZnVlZ5MVdCSEdQY3hsSEpQZWRPRnFsQmV4ZU5Fb2VxUjE0SlRIUWpEbGlyc1ByVGVtS0N1Z1FPOXAwMk13QUFtT1FRR09vQWFoQklGODEtVlJPX2EwQg?oc=5\" target=\"_blank\">GLP-1 Drugs Show Vascular Benefits in Diabetic Retinopathy Patients, Study Finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Review of Optometry</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-05-01T11:06:30.775722+00:00",
+      "published_at": "2026-04-24T12:12:44+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -1798,10 +1818,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Health research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZktjODdqNXNqRDhISjdWbFRmVURPWlhjR2ozbGRPTGtVaHI5VVU2RVRPRFBsS1NWSDhIUGREYWJTUWg0dm1qbDQ2V1RydFpXTTlqVFo3ZVhqa256U01kUUUzWVZ0N29hTWNTVm9jenhodW5iNC0wcDRyd3MxOU9keUtSWVJOZXVjcjdHTXZlUmpUUWxfQ3JSc001eHN6R1BZ?oc=5",
       "title": "GLP-1 Medications Offer Lasting Cardiovascular Benefits, New Research Shows - Bioengineer.org",
@@ -6892,6 +6910,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://www.thecity.nyc/2026/05/01/dog-poop-bags-street-clean-council-bills-compost/",
+      "title": "Dog Poo in Council Crosshairs After a Filthy Winter",
+      "snippet": "<figure><img alt=\"West Village building super Chris walks his friend\u2019s French Bulldog, Winnifred, in Brooklyn,\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2026/04/043026_bulldog.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>They want to curb your dog. The New York City Council on Thursday introduced a package of bills aimed at helping the scourge of dog poop that intensified during weeks of feces-strewn snow piles this winter. The four bills, which will have hearings in the coming weeks, focused on both outreach and other ways to [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/05/01/dog-poop-bags-street-clean-council-bills-compost/\">Dog Poo in Council Crosshairs After a Filthy Winter</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-01T11:04:40.227085+00:00",
+      "published_at": "2026-05-01T09:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://nyc.streetsblog.org/2026/05/01/opinion-mamdanis-new-era-for-bus-riders-starts-with-a-bold-streets-plan",
       "title": "Opinion: Mamdani\u2019s New Era For Bus Riders Starts With A Bold \u2018Streets Plan\u2019",
       "snippet": "We need a whole-of-government approach to fixing our slowest-in-the-nation buses.",
@@ -8664,24 +8700,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-04-22T19:00:45.082055+00:00",
       "published_at": "2026-04-20T18:13:55+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.thecity.nyc/2026/04/20/espaillat-poll-darializa-avila-chevalier-ny13/",
-      "title": "Challenger\u2019s Poll Shows Soft Support for Espaillat in NY-13",
-      "snippet": "<figure><img alt=\"Harlem-based union organizer Darializa Avila Chevalier, right, is running to unseat Democratic U.S. Rep. Adriano Espaillat.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2026/04/espaillat_chevalier-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Only 42% of likely Democratic primary voters in the House district spanning Upper Manhattan and parts of The Bronx would vote for longtime incumbent U.S. Rep. Adriano Espaillat in the primary election according to an internal poll from challenger Darializa Avila Chevalier. Based on name recognition alone, voters picked Espaillat over Avila Chevalier 42% to [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/20/espaillat-poll-darializa-avila-chevalier-ny13/\">Challenger\u2019s Poll Shows Soft Support for Espaillat in NY-13</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-22T16:52:50.422692+00:00",
-      "published_at": "2026-04-20T13:25:00+00:00",
       "price": null,
       "novelty_score": 0.5,
       "summary": null,
@@ -14138,6 +14156,24 @@
   ],
   "Politics & world": [
     {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXowMm9iU3hLdW9yZUkyX1pmM3lUalgweUktc2J6ek14NW1kLVFFcjd4YWRuazA2Q1hLWWVTNV84enFqRHB6SnZlMWllM0xzbnlBNlRHWmRvWW5HZHdHc3hpRXlOMmV5SkZFbFdCcnEwUE81SjRxV3pNQmFXSGJlU3pfWWd5TjZYRFFDME5oTmx5VnZ3QmtDZmpTMGw?oc=5",
+      "title": "House Passes Farm Bill With Pesticide Liability Shield Removed - Civil Eats",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXowMm9iU3hLdW9yZUkyX1pmM3lUalgweUktc2J6ek14NW1kLVFFcjd4YWRuazA2Q1hLWWVTNV84enFqRHB6SnZlMWllM0xzbnlBNlRHWmRvWW5HZHdHc3hpRXlOMmV5SkZFbFdCcnEwUE81SjRxV3pNQmFXSGJlU3pfWWd5TjZYRFFDME5oTmx5VnZ3QmtDZmpTMGw?oc=5\" target=\"_blank\">House Passes Farm Bill With Pesticide Liability Shield Removed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Civil Eats</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-05-01T11:13:44.377489+00:00",
+      "published_at": "2026-04-30T16:36:37+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3FIV1NtU0R1c0RoWGxMX0w4R2xFbHNpWjcyd2FLM2tnU1Zwa1daWVZTdGtTaVVrMkZnUmdINm5lWDBBVGU0TnkydzJDMVNULXdfWlFiVmZTbXZRMUFrTndNQm1MNXpEMWtRWjd0WDFNb3BZNmNkYl9qdS1yVmRnb2ZXckc0aHRyUVhPYUQwanFIbEpudUZiTTZrMjVFd2FIeDd0Wnpya0hiTTVIUXc?oc=5",
       "title": "Supreme Court hollows out a landmark law that had protected minority voting rights for 6 decades - AP News",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3FIV1NtU0R1c0RoWGxMX0w4R2xFbHNpWjcyd2FLM2tnU1Zwa1daWVZTdGtTaVVrMkZnUmdINm5lWDBBVGU0TnkydzJDMVNULXdfWlFiVmZTbXZRMUFrTndNQm1MNXpEMWtRWjd0WDFNb3BZNmNkYl9qdS1yVmRnb2ZXckc0aHRyUVhPYUQwanFIbEpudUZiTTZrMjVFd2FIeDd0Wnpya0hiTTVIUXc?oc=5\" target=\"_blank\">Supreme Court hollows out a landmark law that had protected minority voting rights for 6 decades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
@@ -15910,24 +15946,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-04-16T02:02:00.969784+00:00",
       "published_at": "2026-04-15T00:03:11+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0U3eFZMa243aGxYaGhKTTBCdGt4alZFN0FXdmZTUXE2WkpBSTlQTWtKZG1nSmVQSTV3MTRaOXkybGZLV2taS3o1UXQweDY1YXR4THVVcVl2SGZFTHFxN2RSZEVXak9oU2prWHBQdVZ6RzlpUVNxQTRUckQ2Q1pkWDdVcVNnbFRfYkc4cVhiektLVEhIMmVJVFVXRk9KTzR2WDhQOGRnVUlMUmRrOFVDRlV0cERFRlhjZXUtTg?oc=5",
-      "title": "BREAKING: Pressley Wins Key Vote on Extending Temporary Protected Status for Haiti - House.gov",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0U3eFZMa243aGxYaGhKTTBCdGt4alZFN0FXdmZTUXE2WkpBSTlQTWtKZG1nSmVQSTV3MTRaOXkybGZLV2taS3o1UXQweDY1YXR4THVVcVl2SGZFTHFxN2RSZEVXak9oU2prWHBQdVZ6RzlpUVNxQTRUckQ2Q1pkWDdVcVNnbFRfYkc4cVhiektLVEhIMmVJVFVXRk9KTzR2WDhQOGRnVUlMUmRrOFVDRlV0cERFRlhjZXUtTg?oc=5\" target=\"_blank\">BREAKING: Pressley Wins Key Vote on Extending Temporary Protected Status for Haiti</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">House.gov</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-15T22:46:17.269990+00:00",
-      "published_at": "2026-04-15T20:45:08+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

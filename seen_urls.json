@@ -1719,10 +1719,6 @@
     "seen_at": "2026-04-01T07:10:01.401978+00:00",
     "source_type": "news"
   },
-  "https://glimmerglass.org/employment/": {
-    "seen_at": "2026-04-01T07:13:26.550252+00:00",
-    "source_type": "jobs"
-  },
   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmQ2ZmtYekE5VU1tQlcwOHAtTk0wMExMcjdfd3VLV1dBZV9ZeGpZRzB1NVFWWWNWUnhSMXZaeURwVlpta1VnR2pMTGQ3dGdReVh3ZVlqcWkwN0NvT2RLYUFUcW1RRVVlNWYtRkVpSGtlZk1faFlFa3hfQjMtdWFBQUFqY04zcjJKTnVn?oc=5": {
     "seen_at": "2026-04-01T07:14:46.404959+00:00",
     "source_type": "news"
@@ -9825,6 +9821,22 @@
   },
   "https://news.google.com/rss/articles/CBMiowJBVV95cUxPSFNhWkRTVm84QURKdlZxOWlWc0RkNUxLTy1selhnVjdNUFhHT2JoVlc0REtCeU51dWJOUjNJS0JXY0xPWFZGSWNmNExWcHJobHFYZDU4dzZEallSWGdudWFCbUVGQzVzQW0wbUxYcGFnWHRTZmxFUzAxcWV0TjBDNUhBY0dGYWZkM3JxS1RNLWVELTl5UUFKaEdmMno5NUUta2hHMHhMX21YajBHb3pMdlpBczhHaFJ6dEEtaWdvT1BJVElvMlR3NG9YUW5sU2tlV19YVDd1YVZJaXdKbjNpdC00bEZYY1JwTkNZVnV5MDFBZ3JTaEtXZEY3d05ENHFsYTlieExnRWZzWXBvNWVfWndFWnEza29kYjJzZ29Xc05GRUE?oc=5": {
     "seen_at": "2026-05-02T05:05:20.778393+00:00",
+    "source_type": "news"
+  },
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONnJQMmxMdGdEY0ZKWG5NMDRoQVIxb0JLSGxtZG5ILVVzcWQ3SkFuUERlN1hVay0tMXdQX2ZmYkVHN0JRR0ZtWGJ0MExYMjQwOVBRd0NsZU9WdmRLNkQ0LV93Q28yUEZvMkUxZTlZTVJtR19PSkhIclpSLTNmalhiZ1JkbFZDSXVfM0F0V1lOcHI4bWZTZkVmMll6eS00SXE2LXdoNzlyZzVFczTSAbABQVVfeXFMT0s3c3VmNzZtSmtqdWRFWGZZaWJNMGlTYjZCWnRCeWp6anhQZHl2dnVqVFhJb1h4amZ0b3I2b1NRSmVoMlZuZVg0QmdvbTE0V2xndExqVjVmMVNVX0RJZ1hVWWRyVmdKRjhoVEFYR3NYcUU1NHVTcXkzNG5sUWp3UWpFcldHY01PSEItZl9wcEZpbENFVGgweWVick5VTDcxZm1RR0lHS05rbTFIMmx5Ync?oc=5": {
+    "seen_at": "2026-05-02T07:25:14.405805+00:00",
+    "source_type": "news"
+  },
+  "https://deadline.com/2026/05/hot-docs-2026-prizes-1236878873/": {
+    "seen_at": "2026-05-02T07:27:01.869131+00:00",
+    "source_type": "feeds"
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGxSaW5KbE40SW5QcFozdjdsNXNuSW1vdGpydmxYLVRiTXQ5aV84TzJJaFNYZ214Mi1KeGpNUGdrOXRLaFdwaFU1Q2J2c0ZwUHM5WTdIZ0htNFpDc1lGdFhraF9UM18wd0JMajFURHVfYlRFLTdTWU53eUJlbk1PN054b1JST0paWGpubi1kYmh2UQ?oc=5": {
+    "seen_at": "2026-05-02T07:31:44.111231+00:00",
+    "source_type": "news"
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wcEZvLU5TY0ZRdXBnbjVsa1dTSzJwS1dvamRmN3luclg5RC04VVR3dy1naFF6LXNDcWZEajBwaU9BSW1nWkVJSzJFeXJDMTBZc1k0aUE2MVpXb011SFlBcnpEb293WmpmZWc?oc=5": {
+    "seen_at": "2026-05-02T07:37:04.561207+00:00",
     "source_type": "news"
   }
 }

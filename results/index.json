@@ -3342,6 +3342,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/05/connor-storrie-snl-olivia-rodrigo-musical-performance-1236879255/",
+      "title": "Connor Storrie Stops By \u2018SNL\u2019 To Introduce Olivia Rodrigo As Double Duty Host Debuts Unreleased Track",
+      "snippet": "After Blondie&#8217;s Debbie Harry introduced Olivia Rodrigo&#8217;s first Saturday Night Live performance of the night, Connor Storrie also appeared in a surprise cameo to intro the artist&#8217;s second track \u2014 an unreleased one \u2014 during her double duty stint. Rodrigo seemed to perform a new song off of her upcoming album you\u00a0seem\u00a0pretty\u00a0sad for a\u00a0girl\u00a0so in\u00a0love,\u00a0which [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-05-03T07:53:54.873039+00:00",
+      "published_at": "2026-05-03T04:53:24+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/05/studios-sag-aftra-confirm-new-deal-amptp-1236879173/",
       "title": "It\u2019s Official! Studios & SAG-AFTRA Confirm New Deal",
       "snippet": "UPDATED with PGA &#38; DGA statements: As Deadline exclusively reported earlier today, SAG-AFTRA and the Alliance of Motion Picture and Television Producers have nailed down a new contract. Of course, until this is voted on by some 160,000 members of the actors&#8217; guild, everything will remain tentative for the time being. Yet, with AI protections, [&#8230;]",
@@ -5122,27 +5140,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/04/studio-tf1-sales-cannes-forsaken-abandon-samuel-paty-1236867802/",
-      "title": "Studio TF1 Launches Sales On Cannes-Bound \u2018Forsaken\u2019 About Killing Of Teacher Samuel Paty",
-      "snippet": "EXCLUSIVE: Studio TF1 has boarded sales on Vincent Garenq\u2019s Cannes-selected drama Forsaken (L\u2019Abandon) revisiting the final 11 days of French school teacher Samuel Paty, whose murder triggered by a class on free speech shook France in 2020. Antoine Reinartz (Beats Per Minute, Anatomy of a Fall) plays Paty in the drama which will debut Out [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-22T10:24:07.266577+00:00",
-      "published_at": "2026-04-22T10:04:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMUVQcjdMV1hPQjdpUHpBY1JVRjRvQ2NHdFdDVXhTblpIVVBZTXFXT2tyaHg4STBfNm1uQmU4dHpSbVFYLXNtTWVyZDF1aEVFTUJ6RG03Z2lBQ0ZiV3VSdmpaTjc4U3prb2dLNFZDVmpTTFY2VW5SWmNnbERHb0lJRVlwNDk1amZhTDU2bEg4VDkyQVllQ0pPM241RENJQQ?oc=5",
+      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed - WIRED",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMUVQcjdMV1hPQjdpUHpBY1JVRjRvQ2NHdFdDVXhTblpIVVBZTXFXT2tyaHg4STBfNm1uQmU4dHpSbVFYLXNtTWVyZDF1aEVFTUJ6RG03Z2lBQ0ZiV3VSdmpaTjc4U3prb2dLNFZDVmpTTFY2VW5SWmNnbERHb0lJRVlwNDk1amZhTDU2bEg4VDkyQVllQ0pPM241RENJQQ?oc=5\" target=\"_blank\">Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-03T08:04:56.815105+00:00",
+      "published_at": "2026-04-29T17:23:00+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVVlFNVpyaGpmcWxsMlR2ZjhTcXd5MjRiQmpEbVlHdWdjOTRmS0xudmgxajFBQUdQX0NYTGI1eHpxNHhyWlhSNFBhZmhHNm1mWEoxQmh6U1BlekVrSzZSVk82YlZMTnpKaEkxYWliTTNwbUF0ZFN6ZWpOeno2Yjg4SzEzR29QTmhMbTliTFFNdzcwTkhtdTV5d1JvUzFhNV9RVFg1X1FVQm9mVFBxSGtnSGZyQUc2dVc2RTk2aVZTNXpDZWljYVE?oc=5",
       "title": "The Mythos AI preview is here. Corporate war rooms are mobilizing to deal with the fallout - The Globe and Mail",
@@ -6916,24 +6934,6 @@
       "topic_name": "AI & tech research",
       "fetched_at": "2026-04-24T05:04:46.871633+00:00",
       "published_at": "2026-04-24T04:38:37+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObkR4RUZnVmN1clFZM3VHSWFRS0NsUGhiYTRscE00VWVyalo0eHZ5OTNieXZWQTZTOTFVTDNBcER2MUViYmg0ZHVJWUM3U21SRWFycTZKQzNqRzZiaUQ2ektKTlltT2NWclh4X3VCdmctYUExc2tLNmtxMDVlVUVxcVNXZF9faDJ2bC1kcmVlcURuNExEM0IzWDBIS05ZelZSS3NkVHlXX2pocVllbFVlVzVxNTI3TmVjZHlxQ1M5Smh3eW9GbnN6cVNvNWtEbWZFREJVWlJmb2Y5SW9aVnc?oc=5",
-      "title": "OpenAI says new model adept at making AI better - Key Biscayne Portal",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxObkR4RUZnVmN1clFZM3VHSWFRS0NsUGhiYTRscE00VWVyalo0eHZ5OTNieXZWQTZTOTFVTDNBcER2MUViYmg0ZHVJWUM3U21SRWFycTZKQzNqRzZiaUQ2ektKTlltT2NWclh4X3VCdmctYUExc2tLNmtxMDVlVUVxcVNXZF9faDJ2bC1kcmVlcURuNExEM0IzWDBIS05ZelZSS3NkVHlXX2pocVllbFVlVzVxNTI3TmVjZHlxQ1M5Smh3eW9GbnN6cVNvNWtEbWZFREJVWlJmb2Y5SW9aVnc?oc=5\" target=\"_blank\">OpenAI says new model adept at making AI better</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Key Biscayne Portal</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-24T05:04:46.871633+00:00",
-      "published_at": "2026-04-24T02:18:03+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

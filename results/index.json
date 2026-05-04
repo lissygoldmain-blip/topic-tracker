@@ -6964,6 +6964,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSV9KOHI1U1N6cDFreDR5cV9vanhidVhDeU1pMFRPNE9VcTBPY2lfTTN6UmxZNGJFckRLdWdOR0ptNTdpOHpJR1hsSGhiTS1Ec0dLdERoNTNPSHBPWGJIUHhnekZvYXBBMzVtR0RKaTliQXBnNFdib19kOVgtVUk?oc=5",
+      "title": "Firefighter seriously injured battling East Elmhurst, Queens, house fire - CBS News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSV9KOHI1U1N6cDFreDR5cV9vanhidVhDeU1pMFRPNE9VcTBPY2lfTTN6UmxZNGJFckRLdWdOR0ptNTdpOHpJR1hsSGhiTS1Ec0dLdERoNTNPSHBPWGJIUHhnekZvYXBBMzVtR0RKaTliQXBnNFdib19kOVgtVUk?oc=5\" target=\"_blank\">Firefighter seriously injured battling East Elmhurst, Queens, house fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-04T02:02:33.613623+00:00",
+      "published_at": "2026-05-03T23:02:16+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fNG1PamhVd3JFeFo2ZTAwbGlYNl9zb0FsSU03QkZNZGNEQkJBcmNEV25TaDI3X1RPdmtVVm8wcDRQTFNpT1p3enV4WkJQcV9QbFFSSFM2NUZ4UjhfWUJGdGJjZkE2ekNsOUFCZzFXeVkwUzFEOEFZ0gF8QVVfeXFMUGY2MXRLOElKdUt6X25nMWNLRUFxV2tkdEFWS1VXQXRyQ2xuNUNxdTJWTWo0aEo2YzBvSVh3OU9YMG8wT29HTlFad0hqcjZndk8yRTAwQWx6OUtDbkowRGVER2Z4WVlYQ3JFMGVzU3N6Y2xMU0VTWDVnQjFGUw?oc=5",
       "title": "Massive fire tears through building in Queens - ABC7 New York",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9fNG1PamhVd3JFeFo2ZTAwbGlYNl9zb0FsSU03QkZNZGNEQkJBcmNEV25TaDI3X1RPdmtVVm8wcDRQTFNpT1p3enV4WkJQcV9QbFFSSFM2NUZ4UjhfWUJGdGJjZkE2ekNsOUFCZzFXeVkwUzFEOEFZ0gF8QVVfeXFMUGY2MXRLOElKdUt6X25nMWNLRUFxV2tkdEFWS1VXQXRyQ2xuNUNxdTJWTWo0aEo2YzBvSVh3OU9YMG8wT29HTlFad0hqcjZndk8yRTAwQWx6OUtDbkowRGVER2Z4WVlYQ3JFMGVzU3N6Y2xMU0VTWDVnQjFGUw?oc=5\" target=\"_blank\">Massive fire tears through building in Queens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 New York</font>",
@@ -8744,16 +8762,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://www.thecity.nyc/2026/04/24/mamdani-to-veto-school-protest-buffer-zone-bill/",
-      "title": "Mamdani To Veto School Protest \u2018Buffer Zone\u2019 Bill",
-      "snippet": "<figure><img alt=\"Free speech advocates protest at City Hall against a bill to create a protest buffer zone around schools and houses of worship,\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2026/02/022526_house_worship_buffer_zone_presser-7.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Mayor Zohran Mamdani will veto a controversial bill approved by the City Council last month instructing the police department to establish anti-protest \u201cbuffer zones\u201d around schools and educational institutions, THE CITY has learned. A related bill calling for security perimeters around houses of worship passed by a veto-proof majority. In a statement, the mayor said [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/04/24/mamdani-to-veto-school-protest-buffer-zone-bill/\">Mamdani To Veto School Protest &#8216;Buffer Zone&#8217; Bill</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-24T14:32:38.106555+00:00",
-      "published_at": "2026-04-24T14:07:27+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1t32tms/lazy_susan_zelda_moons_show_is_out/",
+      "title": "Lazy Susan & Zelda Moon\u2019s show is out!",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1t32tms/lazy_susan_zelda_moons_show_is_out/\"> <img alt=\"Lazy Susan &amp; Zelda Moon\u2019s show is out!\" src=\"https://external-preview.redd.it/z2quKgKUG7-VlScI3lo9x4VQtQfQspXUGy77mfMln1k.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9cd41763faaafc6d52db6724df5ec1f638d17a39\" title=\"Lazy Susan &amp; Zelda Moon\u2019s show is out!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hello dear sweet redditors,</p> <p>Lazy Susan here - once again coming at you with the shameless self promotion. The first episode of The Witchy Girls premiered last night and I am so excited to share it with you all. With guest appearances from Rhys Nicholson and THE Alaska Thunderfuck 5000 from the planet glamtron! </p> <p>Please go and watch it! </p> <p>Also if you do lemmi know you came from this fab reddit with alil \u2018\ud83d\udc60\u2019 in the comments. Drag stuff seems to get buried or weirdly shadowbanned in the algorithm atm- so all the liking/commenting/subscribing is greatly appreciated.</p> <p>xxx</p> <p>Lazy</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MsLazySusan\"> /u/MsLazySusan </a> <br /> <span><a href=\"https://youtu.be/-ZvuSfjyJrk?si=6UxKjVfJzXCzMBSF\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1t32tms/lazy_susan_zelda_moons_show_is_out/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-05-04T00:51:18+00:00",
+      "published_at": null,
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -8761,10 +8781,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1t2n12y/katya_health_update_she_got_out_of_the_hospital_a/",
       "title": "Katya health update: she got out of the hospital a couple of days ago.",
@@ -10540,24 +10558,6 @@
       "published_at": null,
       "price": null,
       "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sbi2by/see_the_official_transport_movie_trailer_starring/",
-      "title": "See the Official 'Transport' Movie Trailer starring Bruno from Drag Race in his acting debut!",
-      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sbi2by/see_the_official_transport_movie_trailer_starring/\"> <img alt=\"See the Official 'Transport' Movie Trailer starring Bruno from Drag Race in his acting debut!\" src=\"https://external-preview.redd.it/guJ-EUOHxXCNz5ybJHUBrCrOytnhHQVBnQDVcpI4NVs.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=da9d086b301f4d66fe588e01583729b35a8fe097\" title=\"See the Official 'Transport' Movie Trailer starring Bruno from Drag Race in his acting debut!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>It is a thriller, horror adventure along the lines of Jumanji, Saw and Escape Room with an AI element discussion within the short film. Currently entered into several film festivals worldwide.</p> <p>Have a great Friday and Happy Drag Race day! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TrippyTranMan\"> /u/TrippyTranMan </a> <br /> <span><a href=\"https://youtu.be/hPHKuCmyPjA?si=7vHm3OiqrqM6aJGM\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sbi2by/see_the_official_transport_movie_trailer_starring/\">[comments]</a></span> </td></tr></table>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-04-03T16:17:53+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -12370,6 +12370,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTVIzc0VEY0xQWjhQd3poZFE4R3dMNnpINF9ac3ZHOXBkR21qclAyczRReU9FVVdEdW1OQkFpR1ZSR0szX2hrSWEtUVplbEMwSndmdExNOS1FQVlCOEQyYWI3Nk5aTFBVMElPZ0swYnZldmlfZjlkZVNpeTBNU29UNXFCQXJOcjhzaDhzMTlYekdhSjV0Tmw3Um8yYUNaQV91WmpzS3lwcU9GRThReThUeThlM2llSGxhRVBTX21nb9IBxAFBVV95cUxOQ083Y2xYLXZPeVFQNUpaeDFnTTJMTlRXUU84RjlKREZKUGZXNmM5UW45aE9fOUNuc3Q2akhnVElRaVZVblItV2Z5eWhsWHZEeWgyMjZYdm90OWE1d0NfbUR0UVFBYU1wV1luVEVLSnQwNlFCZTFDTEdjS29TV2FEaE1YOXFWT2pVX0dvSHlCOGJUWnFXRk9EVnB3VWFYNXB0U0NLaDJrSzdVb1BrLU1Kc2M0STVKUGxaZW5icUlWR1JESHZm?oc=5",
+      "title": "ICE enforcement action triggers protests at NYC hospital, 8 arrested - upi.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTVIzc0VEY0xQWjhQd3poZFE4R3dMNnpINF9ac3ZHOXBkR21qclAyczRReU9FVVdEdW1OQkFpR1ZSR0szX2hrSWEtUVplbEMwSndmdExNOS1FQVlCOEQyYWI3Nk5aTFBVMElPZ0swYnZldmlfZjlkZVNpeTBNU29UNXFCQXJOcjhzaDhzMTlYekdhSjV0Tmw3Um8yYUNaQV91WmpzS3lwcU9GRThReThUeThlM2llSGxhRVBTX21nb9IBxAFBVV95cUxOQ083Y2xYLXZPeVFQNUpaeDFnTTJMTlRXUU84RjlKREZKUGZXNmM5UW45aE9fOUNuc3Q2akhnVElRaVZVblItV2Z5eWhsWHZEeWgyMjZYdm90OWE1d0NfbUR0UVFBYU1wV1luVEVLSnQwNlFCZTFDTEdjS29TV2FEaE1YOXFWT2pVX0dvSHlCOGJUWnFXRk9EVnB3VWFYNXB0U0NLaDJrSzdVb1BrLU1Kc2M0STVKUGxaZW5icUlWR1JESHZm?oc=5\" target=\"_blank\">ICE enforcement action triggers protests at NYC hospital, 8 arrested</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">upi.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-05-04T02:10:53.636576+00:00",
+      "published_at": "2026-05-04T01:32:33+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDAwel8zUnpOYnZlaDI4T2pQVFFTRFNoOE1zdDdTaGl2MmRGbG5qRlhSbHVTdjhNS1E4TmpJSXZTZkQ1LUJ4WHVFNHZ1eWxqc3VXRDViZjUzOUYybWZvNjdWSkxFa3BBNnczQzJWVXV3cFppUDNpeUljU0JNbE5YTDJYd1JNWDRKZ1VYeTh6OUdvZWlickxTeGFsLUtRVkltYlhETnRBcll4RUpoTmlfbm9JcHBYZFYyTUFuaVpUMEY?oc=5",
       "title": "Federal Judge Orders Release of Honduran Man Held by ICE Without Bond Hearing in New York - Shore News Network",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDAwel8zUnpOYnZlaDI4T2pQVFFTRFNoOE1zdDdTaGl2MmRGbG5qRlhSbHVTdjhNS1E4TmpJSXZTZkQ1LUJ4WHVFNHZ1eWxqc3VXRDViZjUzOUYybWZvNjdWSkxFa3BBNnczQzJWVXV3cFppUDNpeUljU0JNbE5YTDJYd1JNWDRKZ1VYeTh6OUdvZWlickxTeGFsLUtRVkltYlhETnRBcll4RUpoTmlfbm9JcHBYZFYyTUFuaVpUMEY?oc=5\" target=\"_blank\">Federal Judge Orders Release of Honduran Man Held by ICE Without Bond Hearing in New York</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shore News Network</font>",
@@ -14150,24 +14168,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX1o2TEhyUFQtbkZzLUw2WWxfZ0pqS0gwOHFOLUNOOXFGOVVKZ1lVU01qWEllejh5MlliOUlUSk1RcE5HLTE0QkE0OWNKVlJDalZ3MmVRR3luMnduWVlBWXZWTFVSWmVfdDJZVk94Tm93Y0p1dmkyVk5BZnh2V3dtU2xLdm9pc1JhcGl0M2F1bGNnbDE4dFVZOThiZ3cwVXAwTmFRbnI2NFYwWXpjMFhpcEdfeHllUHp0aVd4dEs4X1BvZlRMdGpvd2twQWFaLXBJaUE?oc=5",
-      "title": "Takeaways from AP investigation that found problems in the backgrounds of some new ICE officers - MyNorthwest.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX1o2TEhyUFQtbkZzLUw2WWxfZ0pqS0gwOHFOLUNOOXFGOVVKZ1lVU01qWEllejh5MlliOUlUSk1RcE5HLTE0QkE0OWNKVlJDalZ3MmVRR3luMnduWVlBWXZWTFVSWmVfdDJZVk94Tm93Y0p1dmkyVk5BZnh2V3dtU2xLdm9pc1JhcGl0M2F1bGNnbDE4dFVZOThiZ3cwVXAwTmFRbnI2NFYwWXpjMFhpcEdfeHllUHp0aVd4dEs4X1BvZlRMdGpvd2twQWFaLXBJaUE?oc=5\" target=\"_blank\">Takeaways from AP investigation that found problems in the backgrounds of some new ICE officers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNorthwest.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-04-18T08:50:07.556065+00:00",
-      "published_at": "2026-04-17T07:14:26+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14209,6 +14209,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlZseXM3UmNvcmo2VlpmS29tc2oydHpiRjBfc3RlUVFPc0owYnRTb05xVDJWOTJDVUxBRWpBSXlSOXBndXNxUlBSUVBVMF9Dam5Fc2l1OGQyOXMtMkhZVko3cEtMTUR2VXlwX2FaaFFqSVZqSzBGX0kzRHRsRlIzcC1Tblg4ZXBFMXZNVEg1cEVSa0prcUdlTWxLa3U4Q085dmVJOWRwc0VWc0l5TGdjNlA1R1FFY0VvVmhTcWloX2tkb3ZzdGfSAcsBQVVfeXFMUGtRNDRrNHd2UGNpS0s2UUZ2T0hzVzNwS0VRakhUcERlYVk4RllhNWkxWElOWm5uVmQtWlFpQ1VBOUtCWmROUF9XT21QdzRlckNWRHk3a1RweVRiTm05UnA4OFF4S0pQalRvN3UxUjYweHB2N2dEZmxTeXlMd2VZdmZjNG81X0d4WWlOb2RaczZ6NUplN1J4NHdQR1o5eUp4WGQ5VUppWGpPSXFHeVlmbGxyaWhHa2IwdnY2VXBJa3BPWnVwcXBnNTJMYzA?oc=5",
+      "title": "President Trump signs bill funding the Department of Homeland Security, ending record shutdown - 6abc Philadelphia",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlZseXM3UmNvcmo2VlpmS29tc2oydHpiRjBfc3RlUVFPc0owYnRTb05xVDJWOTJDVUxBRWpBSXlSOXBndXNxUlBSUVBVMF9Dam5Fc2l1OGQyOXMtMkhZVko3cEtMTUR2VXlwX2FaaFFqSVZqSzBGX0kzRHRsRlIzcC1Tblg4ZXBFMXZNVEg1cEVSa0prcUdlTWxLa3U4Q085dmVJOWRwc0VWc0l5TGdjNlA1R1FFY0VvVmhTcWloX2tkb3ZzdGfSAcsBQVVfeXFMUGtRNDRrNHd2UGNpS0s2UUZ2T0hzVzNwS0VRakhUcERlYVk4RllhNWkxWElOWm5uVmQtWlFpQ1VBOUtCWmROUF9XT21QdzRlckNWRHk3a1RweVRiTm05UnA4OFF4S0pQalRvN3UxUjYweHB2N2dEZmxTeXlMd2VZdmZjNG81X0d4WWlOb2RaczZ6NUplN1J4NHdQR1o5eUp4WGQ5VUppWGpPSXFHeVlmbGxyaWhHa2IwdnY2VXBJa3BPWnVwcXBnNTJMYzA?oc=5\" target=\"_blank\">President Trump signs bill funding the Department of Homeland Security, ending record shutdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">6abc Philadelphia</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-05-04T02:11:37.457245+00:00",
+      "published_at": "2026-05-01T02:34:40+00:00",
+      "price": null,
+      "novelty_score": 0.95,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTVl2cnpZZmk1b0VCMFRmazZDb1FyWWhCY3M1Y0N5NnF2WGJHSE1Oalk0TEE4YzM5Q1pzenVGM1RBUkJRc1M1WUNxS3BhTF9lY2l6RDF2eGhmLUpOdmlyYlNLUFUtN29yTFZMMzN1NTM5dlRnaHRlQWY3ZDBiT2hXdkdOY21pSVhqX1E?oc=5",
       "title": "House Passes 2026 Farm Bill - NACS",
@@ -15982,24 +16000,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-04-17T10:58:45.070103+00:00",
       "published_at": "2026-04-16T19:48:48+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0l6cWd3bEI1N2E3M0xhd2ZqSWFZd09ZTkJSRG5IRWVkOU93UkVsaDVlekJjaExzTTkza3h1UHlXWEhWc3NaMEEweE92TkRnbGlUYURNUml5X3AzYlMwX29tdTQ3aVQ0cms2dFAyTHJfdm1CYml3NXVKQ3o4X0s5T0tZdWYxUmVFeU1mSWpPTlRpYTNtRXk2QXNBV2NzVVXSAaQBQVVfeXFMTlJXVi1MTm1OTWxKQ3dva1E0RGdvdVJpaUhUT0pQZFZtaVR4MFZueF9GVHpuWU9oOE81cGh6SGJEMFFPX2JEMlgtZldhdnk3bC1Ca0I4ZF9hM0VPVGNXSGtmYmpQVEhHVFZPWFRDMDhXOHFZeHd0eTdPTVg0OHp5Y3lXc05KZ0psMFdRMXpBOUhMWUFpaG8tSXdjY0ZhSUdMUTRHVlc?oc=5",
-      "title": "House breaks with Trump, voting against ending deportation protections for Haitians - CBS News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0l6cWd3bEI1N2E3M0xhd2ZqSWFZd09ZTkJSRG5IRWVkOU93UkVsaDVlekJjaExzTTkza3h1UHlXWEhWc3NaMEEweE92TkRnbGlUYURNUml5X3AzYlMwX29tdTQ3aVQ0cms2dFAyTHJfdm1CYml3NXVKQ3o4X0s5T0tZdWYxUmVFeU1mSWpPTlRpYTNtRXk2QXNBV2NzVVXSAaQBQVVfeXFMTlJXVi1MTm1OTWxKQ3dva1E0RGdvdVJpaUhUT0pQZFZtaVR4MFZueF9GVHpuWU9oOE81cGh6SGJEMFFPX2JEMlgtZldhdnk3bC1Ca0I4ZF9hM0VPVGNXSGtmYmpQVEhHVFZPWFRDMDhXOHFZeHd0eTdPTVg0OHp5Y3lXc05KZ0psMFdRMXpBOUhMWUFpaG8tSXdjY0ZhSUdMUTRHVlc?oc=5\" target=\"_blank\">House breaks with Trump, voting against ending deportation protections for Haitians</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-17T10:25:23.801998+00:00",
-      "published_at": "2026-04-16T11:06:00+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

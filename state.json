@@ -16,9 +16,9 @@
     },
     "NYC theater & arts": {
       "gdelt": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-30T19:06:46.171421+00:00"
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       },
       "google_news": {
         "consecutive_failures": 0,
@@ -56,9 +56,9 @@
         "disabled": false
       },
       "gdelt": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-04-30T19:07:40.991144+00:00"
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       },
       "rss": {
         "consecutive_failures": 0,

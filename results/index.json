@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/culture-workers-announce-venice-biennale-strike-in-israeli-pavilion-protest/",
+      "title": "Culture Workers Announce Venice Biennale Strike in Israeli Pavilion Protest",
+      "snippet": "Labor unions, grassroots groups, and artists plan to withhold their labor on Friday, May 8, with a call to \"shut down the genocide pavilion.\"",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-05-05T22:49:06.282067+00:00",
+      "published_at": "2026-05-05T21:32:04+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/rare-keith-haring-self-portrait-and-other-intimate-works-go-on-view-in-nyc/",
       "title": "Rare Keith Haring Self-Portrait and Other Intimate Works Go on View in NYC",
       "snippet": "Paintings, furniture, and photos that the artist gifted to his childhood best friend are being exhibited ahead of an auction at Sotheby's.",
@@ -1775,24 +1793,6 @@
       "published_at": "2026-04-22T10:00:36+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/barbara-chase-riboud-speaks-out-on-declining-us-biennale-pavilion/",
-      "title": "Barbara Chase-Riboud Speaks Out on Declining US Biennale Pavilion",
-      "snippet": "The sculptor told the Financial Times that \u201cthis was not the moment\u201d to represent the nation at the Venice Biennale.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-22T01:46:53.985885+00:00",
-      "published_at": "2026-04-21T20:28:43+00:00",
-      "price": null,
-      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -5198,6 +5198,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTlQaHVUN1Rwa25wU0hzaTB3ZVlxYkVRUXNvWmYxXzk2b3FyOVYtWjNHMjVtRGJuaG1HcUxsSnV4b2hCalQ2dTEzX3NqYTMtQ2IwMUdCZnNtdENFMkFVUmdwbG5yNGYzRVkyT1o4Vk56b0NOWGF1Nl9KQWpHTWZkb3hiOWJnSFVManV0ckx2V1VKc3FEQnhCLThLc2JHQQ?oc=5",
+      "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models - The Verge",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYTlQaHVUN1Rwa25wU0hzaTB3ZVlxYkVRUXNvWmYxXzk2b3FyOVYtWjNHMjVtRGJuaG1HcUxsSnV4b2hCalQ2dTEzX3NqYTMtQ2IwMUdCZnNtdENFMkFVUmdwbG5yNGYzRVkyT1o4Vk56b0NOWGF1Nl9KQWpHTWZkb3hiOWJnSFVManV0ckx2V1VKc3FEQnhCLThLc2JHQQ?oc=5\" target=\"_blank\">Google, Microsoft, and xAI will allow the US government to review their new AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-05T23:05:41.743757+00:00",
+      "published_at": "2026-05-05T14:26:59+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQlJqWUhSb3Zab1Y1VzNUVzQyQXctOHlOUmQxaGx6LVoxYU84TVlIMGdjQzlSX3BvY2tzSWRSQl9pLUx3a1ExazRPUlgyWFBoUlVOblRWVUFiRHRGeVdPSURZNUx2SGRublN5a0dtVGtWQVFrd2sxRDJHbmFXNkVXWVZ3OWlLY1l2VGthbQ?oc=5",
       "title": "Federal officials will test Google and Microsoft AI models before release - The Washington Post",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQlJqWUhSb3Zab1Y1VzNUVzQyQXctOHlOUmQxaGx6LVoxYU84TVlIMGdjQzlSX3BvY2tzSWRSQl9pLUx3a1ExazRPUlgyWFBoUlVOblRWVUFiRHRGeVdPSURZNUx2SGRublN5a0dtVGtWQVFrd2sxRDJHbmFXNkVXWVZ3OWlLY1l2VGthbQ?oc=5\" target=\"_blank\">Federal officials will test Google and Microsoft AI models before release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
@@ -6978,27 +6996,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU1lBRl9RaXdhdlRYYl94Z3RiaHZfVWdlQmw1SUhRMWJwMkhNbzViNVJ1S2s2VTdOcTdZbjFoRkg3bHNJZ1BBd0wwaUhsM2d5WWJqWXFGY2xPTVktbVA5ZW1RN2hSMl9DeV9ibXM0TXNUbVJ6S1FXMFhwdmJIQmFnejV3MHB4eG13YWZfaS1yWmo?oc=5",
-      "title": "OpenAI Unveils GPT-5.5: A Faster, Smarter Leap Toward an AI Super App - Android Headlines",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOU1lBRl9RaXdhdlRYYl94Z3RiaHZfVWdlQmw1SUhRMWJwMkhNbzViNVJ1S2s2VTdOcTdZbjFoRkg3bHNJZ1BBd0wwaUhsM2d5WWJqWXFGY2xPTVktbVA5ZW1RN2hSMl9DeV9ibXM0TXNUbVJ6S1FXMFhwdmJIQmFnejV3MHB4eG13YWZfaS1yWmo?oc=5\" target=\"_blank\">OpenAI Unveils GPT-5.5: A Faster, Smarter Leap Toward an AI Super App</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Android Headlines</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-25T04:05:27.012439+00:00",
-      "published_at": "2026-04-24T21:57:32+00:00",
+      "url": "https://qns.com/2026/05/springfield-gardens-teen-no-bail-murder/",
+      "title": "Springfield Gardens teen held without bail for murder of 15-year-old Jaden Pierre at Roy Wilkins Park in St. Albans: DA",
+      "snippet": "A Springfield Gardens teenager is being held without bail after he was criminally charged with murder in the second degree, gang assault in the first degree and criminal possession of a weapon in connection with the shooting death of a 15-year-old boy in Roy Wilkins Park in St. Albans. Zahir Davis, 18, of Springfield Gardens,...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/05/springfield-gardens-teen-no-bail-murder/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-05T22:50:41.263436+00:00",
+      "published_at": "2026-05-05T21:00:59+00:00",
       "price": null,
-      "novelty_score": 0.9,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.thecity.nyc/2026/05/05/the-bronx-and-queens-get-new-public-schools-including-one-for-hip-hop/",
       "title": "The Bronx and Queens Get New Public Schools, Including One for Hip-Hop",
@@ -8774,24 +8792,6 @@
       "published_at": "2026-04-28T15:00:32+00:00",
       "price": null,
       "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/04/no-criminal-charges-nypd-fatal-shooting-corona/",
-      "title": "AG James\u2019 office will not pursue criminal charges in an NYPD-involved fatal shooting in Corona just over two years ago",
-      "snippet": "New York Attorney General Letitia James\u2019 Office of Special Investigation (OSI) on Tuesday released its report on the death of Jesus Alberto Nunez Reyes, who died just over two years ago during an encounter with NYPD police officers in Corona. Following a long-term investigation, which included review of footage from body-worn cameras and a nearby...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/04/no-criminal-charges-nypd-fatal-shooting-corona/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-28T21:02:55.612143+00:00",
-      "published_at": "2026-04-28T20:30:58+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -12406,6 +12406,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORllNSjYzTjRFQWdIX3RDWDUwVXBXUU5BZm9fbDdRWE04aXlZQ3dMZWJkNEJpTER1d2c1ZFBvV1JrNXV3blhkTTZLV3BReTdtVDZSZFNWQlNTbTlpdnhteVFtQ0VVRktyQ1FsblJiR2gzZk5odzYtTDJFU2pUOE5fam1NZnFtdVN3TEFkVQ?oc=5",
+      "title": "NYC man who spent 5 months in ICE custody finally reunited with husband, community - CBS News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORllNSjYzTjRFQWdIX3RDWDUwVXBXUU5BZm9fbDdRWE04aXlZQ3dMZWJkNEJpTER1d2c1ZFBvV1JrNXV3blhkTTZLV3BReTdtVDZSZFNWQlNTbTlpdnhteVFtQ0VVRktyQ1FsblJiR2gzZk5odzYtTDJFU2pUOE5fam1NZnFtdVN3TEFkVQ?oc=5\" target=\"_blank\">NYC man who spent 5 months in ICE custody finally reunited with husband, community</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-05-05T23:00:15.721169+00:00",
+      "published_at": "2026-05-05T22:52:03+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nam9qdlRhd0s0dDJSWDZOSHFEX1puSzIxWmlWYkdOR3kwUFhkYmxjQ3FFS25jOXlCM0hiT2ZmUk4wY3M0SFBJZ1lzdVp1U0JDQnJCYUNsN3M1UUVrWGQ5bWJQNENVTDcyX2M5VFhRczU3ckNVTFhV?oc=5",
       "title": "Gov Hochul warns that Trump admin may \u2018surge\u2019 ICE agents to NY - AOL.com",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5nam9qdlRhd0s0dDJSWDZOSHFEX1puSzIxWmlWYkdOR3kwUFhkYmxjQ3FFS25jOXlCM0hiT2ZmUk4wY3M0SFBJZ1lzdVp1U0JDQnJCYUNsN3M1UUVrWGQ5bWJQNENVTDcyX2M5VFhRczU3ckNVTFhV?oc=5\" target=\"_blank\">Gov Hochul warns that Trump admin may \u2018surge\u2019 ICE agents to NY</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
@@ -14186,24 +14204,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGx2TmtlTlJTTG1TUjIzVlk0RVBIcW5xOV9wNXpZQ1NCd1dfM19DZkVpMVZfV1NvZEljWE9JZjdOZHlOa3RWeUU4QVNJQ0FCRXgwWk9GY0U2b1NDcE5yWDEwN2RzWnhxLU0zeVdFRDNzeTgzMllBcEd0QmlwdEYtZWlkZTVfcGlWaFBrRllRMlVqYk5Q?oc=5",
-      "title": "Three Strategies to Help Neighbors at Risk of Being Arrested by ICE - Documented",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGx2TmtlTlJTTG1TUjIzVlk0RVBIcW5xOV9wNXpZQ1NCd1dfM19DZkVpMVZfV1NvZEljWE9JZjdOZHlOa3RWeUU4QVNJQ0FCRXgwWk9GY0U2b1NDcE5yWDEwN2RzWnhxLU0zeVdFRDNzeTgzMllBcEd0QmlwdEYtZWlkZTVfcGlWaFBrRllRMlVqYk5Q?oc=5\" target=\"_blank\">Three Strategies to Help Neighbors at Risk of Being Arrested by ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Documented</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-04-27T11:14:12.851014+00:00",
-      "published_at": "2026-04-27T10:59:06+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14245,6 +14245,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiTEtCLWVoSHYzWFIwZXFtamMtWUhqZU9lZk9yRXVIU2tkYVR5cTkwaWFDa1A1bndDLU1Hc0ZaLXpfVm9LcS12NU9lR010NlNDazQzTC12dENsWjBVbTU3Rks3TUlMQW43aXhLbXIwbWlPYVk?oc=5",
+      "title": "U.S. House of Representatives passes 2026 Farm Bill - gardencentermag.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBiTEtCLWVoSHYzWFIwZXFtamMtWUhqZU9lZk9yRXVIU2tkYVR5cTkwaWFDa1A1bndDLU1Hc0ZaLXpfVm9LcS12NU9lR010NlNDazQzTC12dENsWjBVbTU3Rks3TUlMQW43aXhLbXIwbWlPYVk?oc=5\" target=\"_blank\">U.S. House of Representatives passes 2026 Farm Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gardencentermag.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-05-05T23:01:41.121296+00:00",
+      "published_at": "2026-05-04T18:41:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWGZyV3hmaG1kQU1GZVZUYjVoS25HR3NfOGxqdWFYRDZpWmFPQmNteUJHNlZ6QzNQZF9YS2xjVm55R3lVdTdXS29jdW1NTWZ5c2Y4cXFvaFhvWjRTc1Y4N0NiMkdUSFdxdFRPV2VsYi1saXBVeEl2bXlhQXRkZ2ZJV3FzcjVYcV9TZ3dzSEVIZE5QekpkTXlnMkhsVV90QkVCQzdkMlZCV3NYaFRrVHV2WjJLTW9UMXJtN2RhU2l0eGNiZ1daSmlQX2d3?oc=5",
       "title": "Court finalizes Voting Rights Act ruling and temporarily restores mail access to abortion pill - SCOTUSblog",
@@ -16026,24 +16044,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFFmaGxIb1hJaC1oLUZ3ZlZjcExGdjhhSDA3eGFRMDVtcEF5RVZubjRld1B6SkFsSU54eXlwN2FON3JFZDg5YTYyb2VYS0JCaVFIMG5mVW5qRFdhaXhaVkpEN2VwdGgxOXV0UmFMc01Td0QxRFE3Wlp6UjkwYXZINjhrWDZVUHpFN01qWTVsMS1KcHdNdHd0T0NZdEg?oc=5",
-      "title": "House Votes to Preserve Deportation Protections for Haitians, Rebuking Trump - The New York Times",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFFmaGxIb1hJaC1oLUZ3ZlZjcExGdjhhSDA3eGFRMDVtcEF5RVZubjRld1B6SkFsSU54eXlwN2FON3JFZDg5YTYyb2VYS0JCaVFIMG5mVW5qRFdhaXhaVkpEN2VwdGgxOXV0UmFMc01Td0QxRFE3Wlp6UjkwYXZINjhrWDZVUHpFN01qWTVsMS1KcHdNdHd0T0NZdEg?oc=5\" target=\"_blank\">House Votes to Preserve Deportation Protections for Haitians, Rebuking Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-18T09:59:31.820234+00:00",
-      "published_at": "2026-04-16T18:54:54+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Shopping": [
@@ -16589,6 +16589,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1t4vdlx/ambassador_clubhouse_nyc/",
+      "title": "Ambassador Clubhouse NYC",
+      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>good, but the hype is doing overtime</p> <p>Went to Ambassador\u2019s Clubhouse after seeing it everywhere and\u2026 yeah, it\u2019s solid, but not mind blowing like people make it sound.</p> <p>The space and vibe are honestly great. Feels luxe, dimly lit, very special occasion energy. Service was also on point.</p> <p>Now the food. We tried quite a bit, Beetroot Raj Kachori Chaat, Aloo Mattar Satpura (that layered samosa style dish), Warqi Lamb Seekh Kebab, Original BBQ Butter Chicken Chops, and finished with the Gur Wale French Toast.</p> <p>If you eat meat, you\u2019ll probably have a much better time. The Warqi Lamb Seekh Kebab and Butter Chicken Chops were easily the highlights. Really well cooked, juicy, properly seasoned, and actually felt worth the hype.</p> <p>Vegetarian side though\u2026 kind of a letdown. The Beetroot Raj Kachori Chaat sounded exciting but didn\u2019t quite land. Same with the chole kulcha naan. Everything leaned heavily on spice, but not in a balanced, layered way. More like heat and masala hitting you without depth, so nothing really stood out or felt memorable.</p> <p>The Gur Wale French Toast at the end was nice, not overly sweet, but not something I\u2019d go back just for.</p> <p>Overall good place, nice vibe, but definitely overhyped, especially if you\u2019re vegetarian. Would go back for the ambience or with meat eating friends, but not rushing there again just for the food.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Top_Pollution3636\"> /u/Top_Pollution3636 </a> <br /> <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1t4vdlx/ambassador_clubhouse_nyc/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1t4vdlx/ambassador_clubhouse_nyc/\">[comments]</a></span>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-05-05T23:01:11+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1t3m4a6/which_places_have_become_part_of_your_regular/",
       "title": "Which places have become part of your regular rotation the past year?",

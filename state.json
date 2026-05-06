@@ -108,7 +108,7 @@
         "disabled_at": "2026-05-05T19:08:51.450079+00:00"
       },
       "playbill_jobs": {
-        "consecutive_failures": 4,
+        "consecutive_failures": 0,
         "disabled": false,
         "disabled_at": null
       },
@@ -125,7 +125,7 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 3,
+        "consecutive_failures": 4,
         "disabled": false,
         "disabled_at": null
       },

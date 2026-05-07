@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.artsjournal.com/2026/05/book-publishers-fire-on-zukerberg.html",
+      "title": "Book Publishers Fire on Zukerberg",
+      "snippet": "<p>Good Morning, The big publishing houses filed their long-telegraphed class action against Meta yesterday \u2014 and notably, Mark Zuckerberg is named individually, with the complaint alleging he &#8220;personally authorized and actively encouraged&#8221; the use of pirated books to train Llama (AP). Five of the largest houses, with Scott Turow as class lead (Washington Post). Adjacent [&#8230;]</p>\n<p>The post <a href=\"https://www.artsjournal.com/2026/05/book-publishers-fire-on-zukerberg.html\">Book Publishers Fire on Zukerberg</a> appeared first on <a href=\"https://www.artsjournal.com\">ArtsJournal</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-05-07T06:31:30.038353+00:00",
+      "published_at": "2026-05-06T22:27:28+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/israeli-pavilion-artist-made-legal-threats-before-venice-biennale-jury-resigned/",
       "title": "Israeli Pavilion Artist Made Legal Threats Before Venice Biennale Jury Resigned",
       "snippet": "Belu-Simion Fainaru alleged antisemitism and discrimination after the jury decided to exclude Israel from awards, new reports reveal.",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/required-reading-781/",
-      "title": "Required Reading",
-      "snippet": "This week, a museum as a site of motherhood, the amazing and terrible ways writers make their livings, Nara Smith as a performance artist? And more.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-24T04:49:45.934169+00:00",
-      "published_at": "2026-04-23T19:17:19+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -3395,6 +3395,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://deadline.com/2026/05/matka-king-prime-video-season-2-india-1236882674/",
+      "title": "\u2018Matka King\u2019: Prime Video Crowns Second Season Of Crime Drama Set In 1960s India",
+      "snippet": "EXCLUSIVE: After hitting top spot in 17 territories last month, a second season of Prime Video Indian gambling crime drama Matka King was odds-on, and the Amazon streamer has now played its hand. The Vijay Varma-starring series has been commissioned for Season 2 after the first run became the service&#8217;s most-watched new scripted show of [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-05-07T06:35:29.536996+00:00",
+      "published_at": "2026-05-07T06:25:00+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://deadline.com/2026/05/kelly-marie-tran-ilia-isorelys-paulino-quads-the-kicker-1236883738/",
       "title": "Kelly\u00a0Marie\u00a0Tran, Ashley Reyes, Jamie Neumann & Ilia Isorel\u00fds Paulino Starring In Noir Thriller \u2018Quads & The Kicker\u2019 About Female Poker Grifters",
@@ -5176,27 +5194,45 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://www.indiewire.com/features/interviews/robert-aramayo-i-swear-baftas-john-davidson-tourettes-1235190387/",
-      "title": "Robert Aramayo\u2019s Star-Making Turn in \u2018I Swear\u2019 Is Already Award-Winning, Now He Just Wants People to See It",
-      "snippet": "The \"I Swear\" star nabbed two BAFTAs at this year's fraught ceremony, but as he tells IndieWire, the next step isn't more glory \u2014 it's just more audience members, more knowledge, and hopefully more understanding.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-04-24T16:50:16.473446+00:00",
-      "published_at": "2026-04-24T13:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFZkMzlpQ3I0YnY2dElJdFc2UnRibzNTMlpLVlNYN2VDTkltYmFfay1vVUR2cjhucXJYLThUTlZqS0l4aS1kWVJkSWJrS1VpMExEVEs2Yy1lczQzdDVKaTQ0VnNOcllkZ1pramxzWEtlOWFJNndtamZpcjdQVEx2eWdSc9IBgwFBVV95cUxPdFZkMzlpQ3I0YnY2dElJdFc2UnRibzNTMlpLVlNYN2VDTkltYmFfay1vVUR2cjhucXJYLThUTlZqS0l4aS1kWVJkSWJrS1VpMExEVEs2Yy1lczQzdDVKaTQ0VnNOcllkZ1pramxzWEtlOWFJNndtamZpcjdQVEx2eWdScw?oc=5",
+      "title": "OpenBind's first data and model release marks a milestone for AI enabled drug discovery - Phys.org",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFZkMzlpQ3I0YnY2dElJdFc2UnRibzNTMlpLVlNYN2VDTkltYmFfay1vVUR2cjhucXJYLThUTlZqS0l4aS1kWVJkSWJrS1VpMExEVEs2Yy1lczQzdDVKaTQ0VnNOcllkZ1pramxzWEtlOWFJNndtamZpcjdQVEx2eWdSc9IBgwFBVV95cUxPdFZkMzlpQ3I0YnY2dElJdFc2UnRibzNTMlpLVlNYN2VDTkltYmFfay1vVUR2cjhucXJYLThUTlZqS0l4aS1kWVJkSWJrS1VpMExEVEs2Yy1lczQzdDVKaTQ0VnNOcllkZ1pramxzWEtlOWFJNndtamZpcjdQVEx2eWdScw?oc=5\" target=\"_blank\">OpenBind's first data and model release marks a milestone for AI enabled drug discovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-07T06:47:06.433048+00:00",
+      "published_at": "2026-05-07T03:42:37+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVTBmcW5vdTJoTDFKZXEyRWJ1NGt0c1lSVm9oeXhFWEZhVlZNbWotZmJvZFpRQ3IxV2ptanBEMnNUZ3Y2ODJtUi1kQ2l6RGQxZ2xxQzRVQTBFTmdDUVhydFlfX0kzWVphWjl0QW8tWkZ4OHNneVpxSzFoVllVSnhNcURnNkVXakFPWUt2TGpzZC1qcmhGd1pldFE0QXh3elczdVJncVdUWGJGMjd2NnVORDNTY1hlVEJ0bVNsem5Ybw?oc=5",
+      "title": "US government agency to safety test frontier AI models before release - Computerworld",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVTBmcW5vdTJoTDFKZXEyRWJ1NGt0c1lSVm9oeXhFWEZhVlZNbWotZmJvZFpRQ3IxV2ptanBEMnNUZ3Y2ODJtUi1kQ2l6RGQxZ2xxQzRVQTBFTmdDUVhydFlfX0kzWVphWjl0QW8tWkZ4OHNneVpxSzFoVllVSnhNcURnNkVXakFPWUt2TGpzZC1qcmhGd1pldFE0QXh3elczdVJncVdUWGJGMjd2NnVORDNTY1hlVEJ0bVNsem5Ybw?oc=5\" target=\"_blank\">US government agency to safety test frontier AI models before release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Computerworld</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-07T06:47:06.433048+00:00",
+      "published_at": "2026-05-07T02:51:03+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVVVcGZjcGM0aUswU2dyUUxVTFlhTThiZEZldkRoaVU5MnhMVUVDV05ENUVXTHU5YmR0a3RTZWRXcC1WRkRneWgtOUd0WEd6TGdxQXhLODBSaHY4dkFvWHI1ZHBoUjdrbkU5NExPWEE1emxBYmJtRWdLZUtYQnBnTFl6Zmtxd2k5ekoxR1RtcTlBYlJ3STJySElUQlBEd0VBc2hNcGZ6Q0NmN3BwUXFwQnF6S0lzekk?oc=5",
       "title": "CAISI Signs Agreements Regarding Frontier AI National Security Testing With Google DeepMind, Microsoft and xAI - National Institute of Standards and Technology (.gov)",
@@ -6960,45 +6996,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVNpLVJvYy0yenVVV1JpS3EyNHBCa0Z0Tjk3QWgxZDd4d2JVR05HRGR6QS10MmpVWWE2TmlPamlBMEMyU2laMnNiYmFXQWZrTG9aZmpVNXloVEoyc2Jlbk8tUU5HSl9zSTFPTWcyaW0tR3N4M09GaUtCb2xadEl2NVFNYmxCZG9fcGJRUtIBmgFBVV95cUxNYWhJekN6NTBvRXNvaVRBM2ZJOGpxZ3hObzJ3ek5tNVR2Sy04b21nWXEzSzNVcnF0SFlHY09kYzRqOUZxLUd1WlR1Q2I2MWEwRHZBdFRqSldjTDFZb0wya3FOdjNTS0ZCbHNtRmZpa1dSX0taNG4xQXV6N0VRRlo4N0tWY2poUS1fclVUU2swc0N5WHp6VG01UUdn?oc=5",
-      "title": "China\u2019s DeepSeek Rolls Out New AI Model a Year After Breakthrough to Rival US Giants - The Bridge Chronicle",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVNpLVJvYy0yenVVV1JpS3EyNHBCa0Z0Tjk3QWgxZDd4d2JVR05HRGR6QS10MmpVWWE2TmlPamlBMEMyU2laMnNiYmFXQWZrTG9aZmpVNXloVEoyc2Jlbk8tUU5HSl9zSTFPTWcyaW0tR3N4M09GaUtCb2xadEl2NVFNYmxCZG9fcGJRUtIBmgFBVV95cUxNYWhJekN6NTBvRXNvaVRBM2ZJOGpxZ3hObzJ3ek5tNVR2Sy04b21nWXEzSzNVcnF0SFlHY09kYzRqOUZxLUd1WlR1Q2I2MWEwRHZBdFRqSldjTDFZb0wya3FOdjNTS0ZCbHNtRmZpa1dSX0taNG4xQXV6N0VRRlo4N0tWY2poUS1fclVUU2swc0N5WHp6VG01UUdn?oc=5\" target=\"_blank\">China\u2019s DeepSeek Rolls Out New AI Model a Year After Breakthrough to Rival US Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Bridge Chronicle</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-25T14:52:06.964682+00:00",
-      "published_at": "2026-04-24T06:03:22+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbUxzbVVGNG9PbXM1SHF4UHZZUlJwbFd0aG56ZnZBQzdLQ0tjMnhzb3pGRVJFVmpHU0hqNU5sdnJleFFrSWM2dGI1Zk55ZDFidFA2RDBuY3h3RHlkam5UMWtwSE9NLXY1Q3M4a3Qzc0xJbmdyN014TFdMN3drYklzaHdseGlpclBwaVFzNDVuWnlTdE9OTG53a2FjNi1SQ083cGkydkk4VU9RSkY4WFh6RlNxNTRQUdIBvAFBVV95cUxQR0xWN2RldEpxUVNQUC1PM1hzSGJreVgzQUtnb2Q3OGV6Q0gwWktnalFSLUI2cFNub2k2UXpjYmlUQzIxU1ltdGVLU05kOElrZllyTExMYmE4ZWxoZDRHeDFYUHJCVWh6SVMxeXhNLW5MQlp0cXh3cXhucmgwSUV5NnVjTVh2d3hDWHdHTHBVNHJiN1o0Rmp6VTZiRW1rUUlwMDBmNFlnOTFTRDN2LUhDNDRYeW11QWpjRVBLYg?oc=5",
-      "title": "China's DeepSeek releases long-awaited new AI model - The Hindu",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNbUxzbVVGNG9PbXM1SHF4UHZZUlJwbFd0aG56ZnZBQzdLQ0tjMnhzb3pGRVJFVmpHU0hqNU5sdnJleFFrSWM2dGI1Zk55ZDFidFA2RDBuY3h3RHlkam5UMWtwSE9NLXY1Q3M4a3Qzc0xJbmdyN014TFdMN3drYklzaHdseGlpclBwaVFzNDVuWnlTdE9OTG53a2FjNi1SQ083cGkydkk4VU9RSkY4WFh6RlNxNTRQUdIBvAFBVV95cUxQR0xWN2RldEpxUVNQUC1PM1hzSGJreVgzQUtnb2Q3OGV6Q0gwWktnalFSLUI2cFNub2k2UXpjYmlUQzIxU1ltdGVLU05kOElrZllyTExMYmE4ZWxoZDRHeDFYUHJCVWh6SVMxeXhNLW5MQlp0cXh3cXhucmgwSUV5NnVjTVh2d3hDWHdHTHBVNHJiN1o0Rmp6VTZiRW1rUUlwMDBmNFlnOTFTRDN2LUhDNDRYeW11QWpjRVBLYg?oc=5\" target=\"_blank\">China's DeepSeek releases long-awaited new AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-25T14:17:04.454718+00:00",
-      "published_at": "2026-04-24T08:56:18+00:00",
-      "price": null,
-      "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Queens & NYC local": [
+    {
+      "url": "https://empire.streetsblog.org/stop-super-speeders-act-included-in-final-budget",
+      "title": "VICTORY: \u2018Stop Super Speeders\u2019 Act Included In Final Budget",
+      "snippet": "Common-sense street safety legislation will make it into the state's spending plan.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-07T06:33:07.351571+00:00",
+      "published_at": "2026-05-07T04:47:35+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzV2SUl5TTFMNENpNEdPTEwtU2dRbzgyekF6RC1jVndTeFdJVUk4MWZOR0NpOVJOdlcyN2dJdmhGMmZOSG1iS0pUbHBEZ0V2Q05MLWhadVI0eFhnZGJMUUwyRXd5MXlVR3J2QWJ5cTA2RXJFWU1wYWdnc0lla1FwTW4zYW1GNkdNTlNFU2N1bU9NU0EyRlNZ?oc=5",
       "title": "Despite Casino Approval, Flushing\u2019s Political Voice Flourishes - The Indypendent",
@@ -8780,27 +8798,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://www.amny.com/news/fare-evasion-lieber-defends-european-model-enforcement/",
-      "title": "Fare evasion: MTA boss Lieber defends \u2018European\u2019 model of enforcement, acknowledges pushback \u2018may happen\u2019",
-      "snippet": "MTA Chair and CEO Janno Lieber on Wednesday defended the agency's embrace of a new \"European-model\" of enforcement to crack down on bus fare dodgers, though he did acknowledge there may be pushback against scanning straphangers' phones and credit cards to verify payment. Lieber, during a news conference following an April 29 MTA board\u2026 <a class=\"read-more\" href=\"https://www.amny.com/news/fare-evasion-lieber-defends-european-model-enforcement/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-04-30T02:06:47.976664+00:00",
-      "published_at": "2026-04-29T21:45:46+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1t60s30/trixie_katya_cancel_netflix_is_a_joke_show_for/",
+      "title": "Trixie & Katya cancel Netflix is a Joke show for the latter\u2019s health and recovery.",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1t60s30/trixie_katya_cancel_netflix_is_a_joke_show_for/\"> <img alt=\"Trixie &amp; Katya cancel Netflix is a Joke show for the latter\u2019s health and recovery.\" src=\"https://preview.redd.it/n3ruziztdnzg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40b47555eb742dbcbd19a1fc4968f9cd77a0225f\" title=\"Trixie &amp; Katya cancel Netflix is a Joke show for the latter\u2019s health and recovery.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/2mock2turtle\"> /u/2mock2turtle </a> <br /> <span><a href=\"https://i.redd.it/n3ruziztdnzg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1t60s30/trixie_katya_cancel_netflix_is_a_joke_show_for/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-05-07T05:03:17+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.5,
+      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1t5f3q8/butttootking_will_tour_the_us_again_this_october/",
       "title": "ButtTootKing will tour the US again this October!",
@@ -10573,24 +10591,6 @@
       "source_type": "social",
       "topic_name": "Drag Race & drag",
       "fetched_at": "2026-04-06T07:33:45+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sczr61/whoever_wins_the_season_will_be_a_firsttimer/",
-      "title": "Whoever wins the season will be a first-timer. \ud83d\udc51",
-      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>Here\u2019s one for the spreadsheet divas:</p> <p>If Myki or Darlene win the crown, they\u2019re going to be the first to do so without getting a challenge win within the first 5 episodes they competed in.</p> <p>If Nini wins, she\u2019s going to be the first winner that lip-synced for her life 3 times.</p> <p>*Regular franchise only (RuPaul\u2019s Drag Race)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nhrecords\"> /u/nhrecords </a> <br /> <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sczr61/whoever_wins_the_season_will_be_a_firsttimer/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sczr61/whoever_wins_the_season_will_be_a_firsttimer/\">[comments]</a></span>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-04-05T10:00:08+00:00",
       "published_at": null,
       "price": null,
       "novelty_score": 0.6,
@@ -12406,6 +12406,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6NzNLNlV4dXRyM2V2c0MtOVZGM09YaFEzUzloWHE5eVd6alFxZW1paDd4d3NSUTViNjFnZnJsZkpld1NMSl9aU3FWRTI4TGlqcWVvdHIyTmQ3U2hEWnN2YkNub1dlX2lmWlNRSjJBX0Uxdw?oc=5",
+      "title": "Ex-Mayor Bill de Blasio\u2019s son Dante among more than 60 anti-ICE protesters busted at NYC Hilton - AOL.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB6NzNLNlV4dXRyM2V2c0MtOVZGM09YaFEzUzloWHE5eVd6alFxZW1paDd4d3NSUTViNjFnZnJsZkpld1NMSl9aU3FWRTI4TGlqcWVvdHIyTmQ3U2hEWnN2YkNub1dlX2lmWlNRSjJBX0Uxdw?oc=5\" target=\"_blank\">Ex-Mayor Bill de Blasio\u2019s son Dante among more than 60 anti-ICE protesters busted at NYC Hilton</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-05-07T06:41:47.664208+00:00",
+      "published_at": "2026-05-06T19:09:15+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nZkVpZVdoa2RmZ2xISkowREwyNGJXNXY0MjFXcWZSVklKcFNOUDEyVjVvZk9EaThZM0FncVVpa1FWa2NUWjVRWG5FbllWcFRlcjhXWlBJUEYweW1jMmFRRGQ1QXVmNnIzVEpyMk9SUXBGSmxmczJITWs3aw?oc=5",
       "title": "ICE agents to flood cities that won't work with feds, Tom Homan says - KTAR News 92.3 FM",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1nZkVpZVdoa2RmZ2xISkowREwyNGJXNXY0MjFXcWZSVklKcFNOUDEyVjVvZk9EaThZM0FncVVpa1FWa2NUWjVRWG5FbllWcFRlcjhXWlBJUEYweW1jMmFRRGQ1QXVmNnIzVEpyMk9SUXBGSmxmczJITWs3aw?oc=5\" target=\"_blank\">ICE agents to flood cities that won't work with feds, Tom Homan says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTAR News 92.3 FM</font>",
@@ -14186,24 +14204,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUW02RmV3UzNlbEpseDdaWkZQZXVQYXRsY1FaMWhlckxoNXVhaTB3RzZrSldTLTltMHY4NndKM0FhU1Zub2l3YXF2eWdzZFdRRlI2Yk9WNlV5N3A2bHRfMHQxZVpFdjdyYVdleWJRR082bU95ZFYtXzk4SkxwLW9VN2FIMTRQc1Q0UnRKbVZ6ZjgwbHRMTER5TGJjNlNFdkc3S0kwYVg1R1fSAa4BQVVfeXFMT19mc1hrZWliUTlqTnlCaDkycjItc1pQNVpEaW5SR0E1V3V4SnpZa0R5SlRhVGoxV0VZT1kteVdHYkc5RVhCcEtrczNQYnF0Zkx5RFVhOFIwVXM3VTZXVHRVSVRkdldKVzhscmVDc29EdnBTUnRkRkgzemVaTkNpTjZlS1VOcGVQc1VUVzRwOFBkcEx4QjI1el9qWWRFM0xBSHRmWVdLVURYNGlhVlN3?oc=5",
-      "title": "House Republicans narrowly approve blueprint to fund ICE, CBP - ABC News - Breaking News, Latest News and Videos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUW02RmV3UzNlbEpseDdaWkZQZXVQYXRsY1FaMWhlckxoNXVhaTB3RzZrSldTLTltMHY4NndKM0FhU1Zub2l3YXF2eWdzZFdRRlI2Yk9WNlV5N3A2bHRfMHQxZVpFdjdyYVdleWJRR082bU95ZFYtXzk4SkxwLW9VN2FIMTRQc1Q0UnRKbVZ6ZjgwbHRMTER5TGJjNlNFdkc3S0kwYVg1R1fSAa4BQVVfeXFMT19mc1hrZWliUTlqTnlCaDkycjItc1pQNVpEaW5SR0E1V3V4SnpZa0R5SlRhVGoxV0VZT1kteVdHYkc5RVhCcEtrczNQYnF0Zkx5RFVhOFIwVXM3VTZXVHRVSVRkdldKVzhscmVDc29EdnBTUnRkRkgzemVaTkNpTjZlS1VOcGVQc1VUVzRwOFBkcEx4QjI1el9qWWRFM0xBSHRmWVdLVURYNGlhVlN3?oc=5\" target=\"_blank\">House Republicans narrowly approve blueprint to fund ICE, CBP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-01T04:56:14.788335+00:00",
-      "published_at": "2026-04-30T15:18:37+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14245,6 +14245,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVDBId29FSVg5SEpGYmVTSC1fT0Z2aVlFN1VaVHJFMFVYN21iclM3OGJlREVPVHVNcGcxZ3NadEdtbWZiZ3R1djlSdm04eHhHWHZxSXRXVmlNN3g3MHlYbDdHRF9feEpobWZwU2UtZ3VYYlNIWkZJRmxNVllOSXhsNWc2SE1NUl82NS1TTHY3TElRNVlMN05KM2l2MnE2eXlDaEF2LS1MSEtLTlBxaWVwSFBQbHdkNllUS1hZWklJRUZHQkpfRkJDZ2x5aEZjMkY0aW0yY0c5ek80RHVhVzhzM2p3c1Zyd0syV1lUZjlObGFidkMtaUpzeDFNUl9WcEE?oc=5",
+      "title": "Tennessee poised to vote on new US House map sought by Trump that carves up Memphis - Union-Bulletin",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVDBId29FSVg5SEpGYmVTSC1fT0Z2aVlFN1VaVHJFMFVYN21iclM3OGJlREVPVHVNcGcxZ3NadEdtbWZiZ3R1djlSdm04eHhHWHZxSXRXVmlNN3g3MHlYbDdHRF9feEpobWZwU2UtZ3VYYlNIWkZJRmxNVllOSXhsNWc2SE1NUl82NS1TTHY3TElRNVlMN05KM2l2MnE2eXlDaEF2LS1MSEtLTlBxaWVwSFBQbHdkNllUS1hZWklJRUZHQkpfRkJDZ2x5aEZjMkY0aW0yY0c5ek80RHVhVzhzM2p3c1Zyd0syV1lUZjlObGFidkMtaUpzeDFNUl9WcEE?oc=5\" target=\"_blank\">Tennessee poised to vote on new US House map sought by Trump that carves up Memphis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Union-Bulletin</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-05-07T06:43:19.404312+00:00",
+      "published_at": "2026-05-07T04:02:52+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdURhVkJqeDZtNkxnWnpEQU1zZ29qdi1LSF9ZRnlBcV9BWENMMkpRaHRXbVdneElNMVFIcFpRNFUwTl9md0ZzZi12VjZKbjdfZ01vaHU2dk9qa1hGdlpQbTMzajRuNjQtRlFRUlNFQWdCNEVSUjMwY3NtTGFpMzZNeUdRUzU3LWRUbVdjdVFmU1BTVGxvTzR4M3JPR195S2hzZXppYzlSS2M0X2MyVHNCY2lpN3NUUQ?oc=5",
       "title": "US Supreme Court lets Voting Rights Act ruling take effect ahead of schedule - Reuters",
@@ -16018,24 +16036,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-04-20T20:09:42.091440+00:00",
       "published_at": "2026-04-19T09:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVB3eS1MRVFudFRYQTY4UnVLQkN1aUVKR3p6ZlY4ODNROWREOHRuRjgtb1hBSE9NWU1fZHVjdFRQUnprUXR6U3lLcnJQWlRaWnA4QzRPZDRRai0wdzhod3d0bVlhY05mVkt1R2RPZ0NWdlZHdG01ei15TmdlZGZlZjVyNHQxVHVnbzhsdnBaME5PbXZ3VmFJbU9EaDhtcVp6ZHA2b1Jqa0d2UHF1M1hHeW9FdHE4LVhmSENNb1diQU90Zw?oc=5",
-      "title": "Supreme Court will hear religious liberty case on Catholic preschools and LGBTQ families - SCOTUSblog",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVB3eS1MRVFudFRYQTY4UnVLQkN1aUVKR3p6ZlY4ODNROWREOHRuRjgtb1hBSE9NWU1fZHVjdFRQUnprUXR6U3lLcnJQWlRaWnA4QzRPZDRRai0wdzhod3d0bVlhY05mVkt1R2RPZ0NWdlZHdG01ei15TmdlZGZlZjVyNHQxVHVnbzhsdnBaME5PbXZ3VmFJbU9EaDhtcVp6ZHA2b1Jqa0d2UHF1M1hHeW9FdHE4LVhmSENNb1diQU90Zw?oc=5\" target=\"_blank\">Supreme Court will hear religious liberty case on Catholic preschools and LGBTQ families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SCOTUSblog</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-20T17:08:35.885383+00:00",
-      "published_at": "2026-04-20T16:01:01+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

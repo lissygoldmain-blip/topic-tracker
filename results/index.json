@@ -5270,6 +5270,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWVld2xId3JBdUdtcVA5VTk1aDluOTZWU0VaTDZrZFBlbmNjN2VPcGVBRnZ2dDgteVR5QnVUckJDakdvdENMMjE5ZEtfZ0k5UlR1ZS1ab2N1MEViNkxibmhfeUJwZTQ5bGlEelV3dFQxVmJhOTlFa29uTExrX1hrWmhRbmZ2RHlwbFJoTktiUXhFcjF4Vll2Ymk3QjJveTdiMmJNX2FaNUdickpEUDBDTVg1WDI?oc=5",
+      "title": "Google\u2019s Gemma 4 AI models get 3x speed boost by predicting future tokens - Ars Technica",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWVld2xId3JBdUdtcVA5VTk1aDluOTZWU0VaTDZrZFBlbmNjN2VPcGVBRnZ2dDgteVR5QnVUckJDakdvdENMMjE5ZEtfZ0k5UlR1ZS1ab2N1MEViNkxibmhfeUJwZTQ5bGlEelV3dFQxVmJhOTlFa29uTExrX1hrWmhRbmZ2RHlwbFJoTktiUXhFcjF4Vll2Ymk3QjJveTdiMmJNX2FaNUdickpEUDBDTVg1WDI?oc=5\" target=\"_blank\">Google\u2019s Gemma 4 AI models get 3x speed boost by predicting future tokens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-09T13:18:41.783474+00:00",
+      "published_at": "2026-05-06T15:44:20+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMnJXMl9DSHEwdzQ0Zlh5Vl9UNGgtaXBORHI4dEJWdXFMc0JCcENVS05takpoelVpbmloMm9obTByRjltSXFrWk43NnhScXRHVDlJdkMxRmZFTTVLRFRER2VPRFMxb1A0YXNHWHJwa2Y3b0Y5Z01lOUI5eVFGT2pVWXFYb3FfT3VsOGl0TC0tUzRUX0sxQmpzemZkaw?oc=5",
       "title": "White House Considers Mandatory Vetting for AI Models - Let's Data Science",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOMnJXMl9DSHEwdzQ0Zlh5Vl9UNGgtaXBORHI4dEJWdXFMc0JCcENVS05takpoelVpbmloMm9obTByRjltSXFrWk43NnhScXRHVDlJdkMxRmZFTTVLRFRER2VPRFMxb1A0YXNHWHJwa2Y3b0Y5Z01lOUI5eVFGT2pVWXFYb3FfT3VsOGl0TC0tUzRUX0sxQmpzemZkaw?oc=5\" target=\"_blank\">White House Considers Mandatory Vetting for AI Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
@@ -7050,27 +7068,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNGM0lqMWwzNGo5QXFCYjBNYzlKc0VWT05hOUg0RWVscnlHRnVVVWMtS1hEOWtuSzQ3SUVyT2hTZWJZR18tSkRSVXhzWnhsMnNuakM0ZmNHMzlmMGt6MDBWODhsdUZRWVR3eGRnZVJaS2t1Nl9hd200QUduM2ZMb0tEMWl4Tzd5dk8wQnE5OTJVaTU1TEk4bHlRNEZSUQ?oc=5",
-      "title": "DeepSeek-V4, the Chinese AI model adapted for Huawei chips - Reuters",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNGM0lqMWwzNGo5QXFCYjBNYzlKc0VWT05hOUg0RWVscnlHRnVVVWMtS1hEOWtuSzQ3SUVyT2hTZWJZR18tSkRSVXhzWnhsMnNuakM0ZmNHMzlmMGt6MDBWODhsdUZRWVR3eGRnZVJaS2t1Nl9hd200QUduM2ZMb0tEMWl4Tzd5dk8wQnE5OTJVaTU1TEk4bHlRNEZSUQ?oc=5\" target=\"_blank\">DeepSeek-V4, the Chinese AI model adapted for Huawei chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHNhVW9Bd2tXclVFSEhEUkVfSnBKdGtDUmExdnhXZ0R0ZjhsWnRMUDgweUt0OU1XRndkcGVxc3FuYWdZVnVuMGkyR2xSTnE4LTVjZnZUV1ptU3c1bDR1ZXlNdU96VlZ0WElYNl9VLTk2QzY2VXUxV0w2ZXlDU3k4d0owSS1DMlhxYk9WLTBGaTRGUFpiTDBBTFVPRC1XNEpldTVwX2pSZ0M0V2xDNmtxRVY0TdIBuAFBVV95cUxPZEp2MURxZGprUGlLcW1kUkp6TkJlUUZMV3lZOG4xWTZqVFd1c2ZCNFB5cjRTOUpwUWJnNTBoU2VQYThTU29EQmx2ZEFnRjdnaGlYalhkdGJtczU4MnJTX0pfYzgxLTQxWVFXTVFaUWhSc1RoMng4d3o4YXJybXplU3lqczdPZ2dMVDRmd0xrakRJMDFOYnJxRmR6U2VrLUxHaWxWV3FKd1VOa1hwRjFaSzBGQU41ZjBi?oc=5",
+      "title": "Queens man arrested 5 months after deadly shooting that killed 27-year-old, injured another - FOX 5 New York",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHNhVW9Bd2tXclVFSEhEUkVfSnBKdGtDUmExdnhXZ0R0ZjhsWnRMUDgweUt0OU1XRndkcGVxc3FuYWdZVnVuMGkyR2xSTnE4LTVjZnZUV1ptU3c1bDR1ZXlNdU96VlZ0WElYNl9VLTk2QzY2VXUxV0w2ZXlDU3k4d0owSS1DMlhxYk9WLTBGaTRGUFpiTDBBTFVPRC1XNEpldTVwX2pSZ0M0V2xDNmtxRVY0TdIBuAFBVV95cUxPZEp2MURxZGprUGlLcW1kUkp6TkJlUUZMV3lZOG4xWTZqVFd1c2ZCNFB5cjRTOUpwUWJnNTBoU2VQYThTU29EQmx2ZEFnRjdnaGlYalhkdGJtczU4MnJTX0pfYzgxLTQxWVFXTVFaUWhSc1RoMng4d3o4YXJybXplU3lqczdPZ2dMVDRmd0xrakRJMDFOYnJxRmR6U2VrLUxHaWxWV3FKd1VOa1hwRjFaSzBGQU41ZjBi?oc=5\" target=\"_blank\">Queens man arrested 5 months after deadly shooting that killed 27-year-old, injured another</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 New York</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-26T22:44:54.894512+00:00",
-      "published_at": "2026-04-24T14:04:52+00:00",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-09T12:58:49.206439+00:00",
+      "published_at": "2026-05-07T15:11:59+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONkpreE1WSUpBOXlWOGs4OHRLS1ROV3Q5VDZfTUVpZmxhLXRVQU40NlJQYlB0ckZsY2Q1VnZPZzk0ZjA4TmFfREJSME1sRFJ3WmJ5eTNIQ2hzRGk4Q0RnU2l0clpSN1ZsS0xLY05meGNLV2VaM0Jmd1puQmpxaUtzM0dXZ1VMTVhsUU5UdmJQRWl1TlphWGVaenhlRE9sZnZJWkQxcmNGMThrdGJIVUJzWEdySjRvMEZy?oc=5",
       "title": "$1.5K stolen from food delivery driver during armed robbery in Flushing: NYPD - PIX11",
@@ -8846,24 +8864,6 @@
       "published_at": "2026-05-01T15:00:23+00:00",
       "price": null,
       "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/05/central-astoria-ldc-international-cultural-fest/",
-      "title": "Central Astoria LDC hosts 12th annual International Cultural Festival",
-      "snippet": "On Saturday, April 25, Central Astoria LDC hosted its 12th annual International Cultural Festival. Stemming two blocks starting from 31-28 Steinway St., the festival is made possible thanks to the public funds received from the NYC Department of Cultural Affairs. The event was partnered by City Council and Council Member Tiffany Caban through the Cultural...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/05/central-astoria-ldc-international-cultural-fest/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-01T20:44:23.133651+00:00",
-      "published_at": "2026-05-01T17:30:30+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -10676,6 +10676,24 @@
   ],
   "Queer & trans": [
     {
+      "url": "https://www.theguardian.com/us-news/2026/may/08/supreme-court-voting-rights-act-misleading-data-doj",
+      "title": "Samuel Alito\u2019s Voting Rights Act ruling cited misleading data from DoJ",
+      "snippet": "<strong>Exclusive:</strong> Data in justice department filing quoted in landmark supreme court decision relied on questionable methodology, Guardian analysis finds",
+      "source": "guardian:US news",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-05-08T11:00:26+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVWtLVktJQmFrSWh2Z2didXBQOGJZM0syV25iNTRkU2FfbUpnRFhQbm0wYkp5ekNvd0FXODA4ZkJpejI5X1FqTWFPQzFDTzU1MWVLX08xcXRjcXFzYUpuLUYzNTNzbjJPdGZXOVRoaGF1VU9xMXVsV3ZhdGwtSTg0bVNkakE0eGhMRUxHOExVbmQ5TDVxTWFFR1ZQZ3N5UkNobDFZLW9pNDg2Y3dxamFmWkRvR2VRNV9ubWRUdjRDaUROUXZDQWZiM0pTR1VMcFJUV1ZXU29nalFiTDQy?oc=5",
       "title": "Karnataka HC Transgender Rights: HRT Order Amid 2026 Act Challenge - Deccan Herald",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVWtLVktJQmFrSWh2Z2didXBQOGJZM0syV25iNTRkU2FfbUpnRFhQbm0wYkp5ekNvd0FXODA4ZkJpejI5X1FqTWFPQzFDTzU1MWVLX08xcXRjcXFzYUpuLUYzNTNzbjJPdGZXOVRoaGF1VU9xMXVsV3ZhdGwtSTg0bVNkakE0eGhMRUxHOExVbmQ5TDVxTWFFR1ZQZ3N5UkNobDFZLW9pNDg2Y3dxamFmWkRvR2VRNV9ubWRUdjRDaUROUXZDQWZiM0pTR1VMcFJUV1ZXU29nalFiTDQy?oc=5\" target=\"_blank\">Karnataka HC Transgender Rights: HRT Order Amid 2026 Act Challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
@@ -12456,27 +12474,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Immigration & ICE": [
     {
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWYtSW5SaGtnaXl0TVE1MFZONzNKSVJLQl9ybUtvd3Radk1FclpfMmhWSlgwbEFPZ1B6bnVFUHZFR3BsZHREcFQ3M2dPeWltNnFXbXZ6RzI3WDFPUUhtZjVCU0Y3RDVtZk11ZXhBbE9ycEhYa3VkS0d4eFJoNnUwdE9FWDVjUVp4QnZVbmJwbnJ4SDJw?oc=5",
-      "title": "EHRC updates guidance on how to apply supreme court ruling on gender - The Guardian",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWYtSW5SaGtnaXl0TVE1MFZONzNKSVJLQl9ybUtvd3Radk1FclpfMmhWSlgwbEFPZ1B6bnVFUHZFR3BsZHREcFQ3M2dPeWltNnFXbXZ6RzI3WDFPUUhtZjVCU0Y3RDVtZk11ZXhBbE9ycEhYa3VkS0d4eFJoNnUwdE9FWDVjUVp4QnZVbmJwbnJ4SDJw?oc=5\" target=\"_blank\">EHRC updates guidance on how to apply supreme court ruling on gender</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRDFUVWswQjdSTjVjZ215MVE2RnJKUDJEd0Z6TjE3SUc5eURUSWFTblRUVmpDWGdHdDVQVENVVVBjMjVLM0szOVJwbXRmb1ZBUjU5NmpLN1FsTVhLc2Y1OFMzSmMwd2t4aG9lOEVvaGN6d2JEdkJhbzJVR2lYcll6c0I3eUhtWDVwLW95RkUwVHdnblhJSFE?oc=5",
+      "title": "Brooklyn couple reunited after ICE detainment - Spectrum News 13",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRDFUVWswQjdSTjVjZ215MVE2RnJKUDJEd0Z6TjE3SUc5eURUSWFTblRUVmpDWGdHdDVQVENVVVBjMjVLM0szOVJwbXRmb1ZBUjU5NmpLN1FsTVhLc2Y1OFMzSmMwd2t4aG9lOEVvaGN6d2JEdkJhbzJVR2lYcll6c0I3eUhtWDVwLW95RkUwVHdnblhJSFE?oc=5\" target=\"_blank\">Brooklyn couple reunited after ICE detainment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News 13</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Queer & trans",
-      "fetched_at": "2026-04-15T13:08:46.508663+00:00",
-      "published_at": "2026-04-15T01:30:00+00:00",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-05-09T13:11:39.487320+00:00",
+      "published_at": "2026-05-06T00:00:00+00:00",
       "price": null,
-      "novelty_score": 0.6,
+      "novelty_score": 0.4,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Immigration & ICE": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEh6RlFVYjZyYlR0UHdfeUlwSkNGVDhYMDRzd1BZZlFBdTFMNG9jclpkNEpLazNFMUtjakdKaS1XZEFidDdZcGdsTW5JWHJqb2ltamVfNU90b2RraDllTHFncE9GaVM5Xzd1YUdha2piQVplVXpINnp3WUQ2RWlpdmhEaTFINWg4TWJiSnQxTENyNW04MnlkM0tyZFl5QUlRejFOUkROM1BYbTlqSXg2R1RTNGdFQmgyM3h0bFZ5eVZuYnRpc05nTmoyN2FuZw?oc=5",
       "title": "Tom Homan claims Hochul hurting migrants as NY Dems look to shrink local partnerships with ICE: \u2018You\u2019re forcing us\u2019 - New York Post",
@@ -14258,24 +14276,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": false
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3R4MFMydlFYa0I4NjlubzFjQVlBZDhfQkVPbEh0eWJiT2NYRW93RWtyRXFpVFZwUUQ4VmlaNmRyUkx2WTZmaGJEVkZZQkNzektJS0NUbkZMekUyNFppdXp2UTEycEZOMU1ESlZQX2VFVjB5MmN5bC15d3hjT2pWam1McTlILWJhNWQ3d2NTQWlpTFVEOGhYS1MxMWJ5cjJGY1ZoVQ?oc=5",
-      "title": "Mamdani condemns ICE action at Bushwick hospital, says NYPD didn\u2019t coordinate - Gothamist",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3R4MFMydlFYa0I4NjlubzFjQVlBZDhfQkVPbEh0eWJiT2NYRW93RWtyRXFpVFZwUUQ4VmlaNmRyUkx2WTZmaGJEVkZZQkNzektJS0NUbkZMekUyNFppdXp2UTEycEZOMU1ESlZQX2VFVjB5MmN5bC15d3hjT2pWam1McTlILWJhNWQ3d2NTQWlpTFVEOGhYS1MxMWJ5cjJGY1ZoVQ?oc=5\" target=\"_blank\">Mamdani condemns ICE action at Bushwick hospital, says NYPD didn\u2019t coordinate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gothamist</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-04T20:23:07.534332+00:00",
-      "published_at": "2026-05-04T17:14:00+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": false
     }
   ],
   "Wildfang": [
@@ -14317,6 +14317,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1FGT3QtQ2YwY29SOVliNVh6bl9IRVlQemJYQVBJUFozUHRaUGZWRlNZbV9VNERGRldIZW5FOFpRa1ZXaEJoZnFxTUVuN1dkMFRablR3VXJrdHBQZE15UGppd3NqRi01Z1BTbk1rUmh6dTJ0Z0lrMUkxM0NXY2FoaV9KZkQ3cFhXTTJhVTVYWVNwTWJSeTE5MWRQZjZUWFk?oc=5",
+      "title": "Virginia Supreme Court throws out redistricting referendum results - Axios",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1FGT3QtQ2YwY29SOVliNVh6bl9IRVlQemJYQVBJUFozUHRaUGZWRlNZbV9VNERGRldIZW5FOFpRa1ZXaEJoZnFxTUVuN1dkMFRablR3VXJrdHBQZE15UGppd3NqRi01Z1BTbk1rUmh6dTJ0Z0lrMUkxM0NXY2FoaV9KZkQ3cFhXTTJhVTVYWVNwTWJSeTE5MWRQZjZUWFk?oc=5\" target=\"_blank\">Virginia Supreme Court throws out redistricting referendum results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-05-09T13:13:00.143512+00:00",
+      "published_at": "2026-05-09T03:27:31+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObXpIdThXNy1CNmtZTW5Hd3ZnMTJla1ZXWUpfRzJJcmQ1R0ZkTG15bHBBeEhQSWxyOTJpY1EwM1VDM2pjWmM3Njh0QXV0cHdPNHNPWFh2Y1JrT2ZfcjNzVkIxT0VyN2t1ZDJvLXBfQ19kbWpGM3RxQmR0cmxkOWtSZHZVa1ptRkxYc1lYaUdzNjVucV92NVFTbzBoTTFrdE5wSTdV0gGoAUFVX3lxTFBvaTFVSVRRVTJ5dkpVcUhsY1dxb3NJUGgtb1hZLWdRdG03U3BrQUtXblpldW9ubTN2Wjc4VHYxSm8tSXFiblFtT3FBRUZNMlpMdTV3SUVrME9NaUpyU0dweUU3MHpidjAxVlZFU293MWxTeWNjWDJ4cTZ0bGtYb2xteEt4V2JrQ09senQ2WHhQU045MnFfYV9WSWNid2ppclljYmRmSVdMVg?oc=5",
       "title": "TN lawmakers pass redistricting bill fracturing Memphis congressional district - WKRN News 2",
@@ -16090,24 +16108,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-04-23T04:22:11.177459+00:00",
       "published_at": "2026-04-21T12:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMHpqRVFOdUYxR2lPdU9kd0hZYjlIRUVfeXdweGRiWHhYazZEVzFxT1RYT1NfOVZERGhrTHRGSGdCTDlvY1FZcndudWQ3RlhBWlFCanpxTnBYODVwUW9weGQ2NDJvSFdkNkg3bHlZdlUtbFJPc0hZX3d6Wm4xUUVUU3pISWRtbGc3UlZMSjdYenlISFNweWd5U2xEMHlhRGFzbGRnTmJpb3NEcGFhNXJubFdkdTNsOTlvczBmT3pKdjgzNzRJUloxNHBCY193THlBRFNZRS1rZzBzVVpwUXcySHpwSG1qOVotM0JkTW5mSklIcnFy?oc=5",
-      "title": "Supreme Court rules against Enbridge, sends Line 5 case to state court - WPBN",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMHpqRVFOdUYxR2lPdU9kd0hZYjlIRUVfeXdweGRiWHhYazZEVzFxT1RYT1NfOVZERGhrTHRGSGdCTDlvY1FZcndudWQ3RlhBWlFCanpxTnBYODVwUW9weGQ2NDJvSFdkNkg3bHlZdlUtbFJPc0hZX3d6Wm4xUUVUU3pISWRtbGc3UlZMSjdYenlISFNweWd5U2xEMHlhRGFzbGRnTmJpb3NEcGFhNXJubFdkdTNsOTlvczBmT3pKdjgzNzRJUloxNHBCY193THlBRFNZRS1rZzBzVVpwUXcySHpwSG1qOVotM0JkTW5mSklIcnFy?oc=5\" target=\"_blank\">Supreme Court rules against Enbridge, sends Line 5 case to state court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPBN</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-23T02:01:04.585323+00:00",
-      "published_at": "2026-04-22T17:24:29+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

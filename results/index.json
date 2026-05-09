@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/dozens-of-venice-biennale-artists-withdraw-from-awards-en-masse/",
+      "title": "Dozens of Venice Biennale Artists Withdraw From Awards En Masse",
+      "snippet": "Almost half of the artists in the international exhibition plus 16 national pavilions signed onto a statement of withdrawal in solidarity with the jury\u2019s resignation.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-05-09T19:54:50.706931+00:00",
+      "published_at": "2026-05-09T17:29:22+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iRDI0NURBVkVLVG9laVlKZGpZQWxERnMtLV9kRllkTnlFVjRka0xLRjhPVlRVdWVuR2J5SnJzOVVCNHBwQWlFUVFHTkt6ZmdWZWlyZXEtNUhydEp0cjg5RktXcXFLaFVQeHNzTVhQdWhuMFFESkstVQ?oc=5",
       "title": "Talk Back at Queens Theatre Gage Thomas, Charles Pang, Bella Villanueva, Ellis Gage, Kimbirdlee Fadner, Sarah Chiu, Brian Jose, Annie Yamamoto Set design: Madeline Goddard Projection Design: Photo (February 17, 2023) - BroadwayWorld",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1iRDI0NURBVkVLVG9laVlKZGpZQWxERnMtLV9kRllkTnlFVjRka0xLRjhPVlRVdWVuR2J5SnJzOVVCNHBwQWlFUVFHTkt6ZmdWZWlyZXEtNUhydEp0cjg5RktXcXFLaFVQeHNzTVhQdWhuMFFESkstVQ?oc=5\" target=\"_blank\">Talk Back at Queens Theatre Gage Thomas, Charles Pang, Bella Villanueva, Ellis Gage, Kimbirdlee Fadner, Sarah Chiu, Brian Jose, Annie Yamamoto Set design: Madeline Goddard Projection Design: Photo (February 17, 2023)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BroadwayWorld</font>",
@@ -1775,24 +1793,6 @@
       "published_at": "2026-04-27T18:31:00+00:00",
       "price": null,
       "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/lee-shinjas-handwoven-portals/",
-      "title": "Lee ShinJa's Handwoven Portals",
-      "snippet": "The nonagenarian South Korean artist helped catapult fiber art from the realm of domestic craft and tradition into the experimental field of contemporary art.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-04-27T20:06:34.504872+00:00",
-      "published_at": "2026-04-27T18:23:15+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -5270,6 +5270,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkpjZlFwTjdqNDNtRUVKdXpwSGs0NFBWanR4QnRwRVRWakZ4b2NicXNrdUF3VkFNNlM0LUw0NG1FVjMtbWg2eHN0ai1mVUJkS1JhamFoQkxJSkJzLXFOQ2tEUXdZaWdoNnJPLTA1Tks1RExrUHpTeVZibWVDc2NKakFza2FHcndkYjdkTVI4SzI2RzRSam1YRllURndfYzIzOXRNMWp2b3J1aTBrSG9YMmR6OWRTRVZUMWxj?oc=5",
+      "title": "White House explores executive order to vet AI models before release - Investing.com Nigeria",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkpjZlFwTjdqNDNtRUVKdXpwSGs0NFBWanR4QnRwRVRWakZ4b2NicXNrdUF3VkFNNlM0LUw0NG1FVjMtbWg2eHN0ai1mVUJkS1JhamFoQkxJSkJzLXFOQ2tEUXdZaWdoNnJPLTA1Tks1RExrUHpTeVZibWVDc2NKakFza2FHcndkYjdkTVI4SzI2RzRSam1YRllURndfYzIzOXRNMWp2b3J1aTBrSG9YMmR6OWRTRVZUMWxj?oc=5\" target=\"_blank\">White House explores executive order to vet AI models before release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-09T20:09:38.605133+00:00",
+      "published_at": "2026-05-06T14:11:05+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXBIT1haWmxDVC1OVXduTTgyU0QxVzRtbWJPbTV3Z19QNDhKM01QbHRacHlybnpNWEFrMnJEb2N3aWNxcXNnc2dCV1pCbXJ5eXd1Zm91d0dHRV9xclhFVTdPck0wV2U3eUNZN2tzSTdLQnpQcDBoSEpUOXUwMUNMZmU3WmY2Zw?oc=5",
       "title": "OpenAI rolls out advanced AI cyber model to challenge Anthropic\u2019s Mythos - Politico",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXBIT1haWmxDVC1OVXduTTgyU0QxVzRtbWJPbTV3Z19QNDhKM01QbHRacHlybnpNWEFrMnJEb2N3aWNxcXNnc2dCV1pCbXJ5eXd1Zm91d0dHRV9xclhFVTdPck0wV2U3eUNZN2tzSTdLQnpQcDBoSEpUOXUwMUNMZmU3WmY2Zw?oc=5\" target=\"_blank\">OpenAI rolls out advanced AI cyber model to challenge Anthropic\u2019s Mythos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
@@ -7050,27 +7068,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTBVMGJtaXp6b0szQ1RTVUhNbGFkT2tYRXZaVWxvOGZYcnBVeks0M0FpN21kMmI1OEJDOFZNMjZReWxvai1xZmgzTHh5NmtUaFBzaFlDZjVFWGNzS2YzUG1SSVZaTlV1THJHS0hkbUctZ1dlS2pnSFRWUUxjbWhobUJsRmxaZWVDU0xDUW15Mi0tM3FjRHZUS2xfaDVZZFk0X1dFeWdRMnR0UW04SGdvYzZlMNIBuAFBVV95cUxQNnB2eXZjY1p3MlF6RHRmVVRSTEQtQXJuTmczT1l6Y21MdGE4eUxLN29WYXVyNGxZNkhNZGlmc292M2RrOXdWUGRVWHlEYk1tSTFrOUNlTzY3QzBpd0JaSHNnSWRFRmtxdzhDTm5jTGRGbF9yMzQzVFliSXVnMzd6MTB0eXh0YVpkMV9tTjEtUlFsT2xWRUs4VlA3aGZlTVZiRjJxV1RBYnJaR2ZMNzRwdEd1UE5wX1du?oc=5",
-      "title": "Anthropic's Mythos AI found over 2,000 unknown software vulnerabilities in just seven weeks of testing - Fox News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTBVMGJtaXp6b0szQ1RTVUhNbGFkT2tYRXZaVWxvOGZYcnBVeks0M0FpN21kMmI1OEJDOFZNMjZReWxvai1xZmgzTHh5NmtUaFBzaFlDZjVFWGNzS2YzUG1SSVZaTlV1THJHS0hkbUctZ1dlS2pnSFRWUUxjbWhobUJsRmxaZWVDU0xDUW15Mi0tM3FjRHZUS2xfaDVZZFk0X1dFeWdRMnR0UW04SGdvYzZlMNIBuAFBVV95cUxQNnB2eXZjY1p3MlF6RHRmVVRSTEQtQXJuTmczT1l6Y21MdGE4eUxLN29WYXVyNGxZNkhNZGlmc292M2RrOXdWUGRVWHlEYk1tSTFrOUNlTzY3QzBpd0JaSHNnSWRFRmtxdzhDTm5jTGRGbF9yMzQzVFliSXVnMzd6MTB0eXh0YVpkMV9tTjEtUlFsT2xWRUs4VlA3aGZlTVZiRjJxV1RBYnJaR2ZMNzRwdEd1UE5wX1du?oc=5\" target=\"_blank\">Anthropic's Mythos AI found over 2,000 unknown software vulnerabilities in just seven weeks of testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-27T08:22:07.325312+00:00",
-      "published_at": "2026-04-25T19:25:57+00:00",
+      "url": "https://www.thecity.nyc/2026/05/07/affordable-housing-development-labor-485x-tax-break/",
+      "title": "99-Apartment Building Boom Makes 99 Problems for NYC Housing Crisis",
+      "snippet": "<figure><img alt=\"A rendering of two connected 99-unit buildings at East 86th Street and First Avenue\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2026/05/86th_development_render.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>They\u2019ve popped up all across the city, scores of new building plans by different companies in very different neighborhoods, with one thing in common: They all have exactly 99 apartments. In the past two years, developers have filed permits for more than 150 residential buildings with that precise number of units, per city data. Why? [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/05/07/affordable-housing-development-labor-485x-tax-break/\">99-Apartment Building Boom Makes 99 Problems for NYC Housing Crisis</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-09T19:56:26.398887+00:00",
+      "published_at": "2026-05-07T09:01:00+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/05/sacred-heart-church-glendale-celebrates-85-years/",
       "title": "Sacred Heart Church in Glendale celebrates 85 years of faith and community",
@@ -8844,24 +8862,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-05-02T04:18:38.482950+00:00",
       "published_at": "2026-05-01T15:30:16+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.thecity.nyc/2026/05/01/rikers-island-deaths-report-medical-emergencies-contraband/",
-      "title": "Three Rikers Deaths, Similar Failures: Officers Off Post, Medical Care Bungled",
-      "snippet": "<figure><img alt=\"Criminal justice reform advocates protest against detained people dying on Rikers Island Island,\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2026/05/022822_rikers_deaths_protest.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>One detainee was found dead with 66 pills in his cell. Another lay in distress for five minutes during an apparent overdose before staff administered Narcan. A third was left locked in his cell, unsupervised, for nearly half an hour as he spiraled into a medical crisis. Those were some of the damning findings outlined [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/05/01/rikers-island-deaths-report-medical-emergencies-contraband/\">Three Rikers Deaths, Similar Failures: Officers Off Post, Medical Care Bungled</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-02T01:57:33.823862+00:00",
-      "published_at": "2026-05-01T22:25:36+00:00",
       "price": null,
       "novelty_score": 0.5,
       "summary": null,
@@ -16661,6 +16661,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1t86mko/spicy_salad_beer/",
+      "title": "Spicy Salad & Beer",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1t86mko/spicy_salad_beer/\"> <img alt=\"Spicy Salad &amp; Beer\" src=\"https://preview.redd.it/d60eiovih40h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=527b949fbccd43fb444ce43d210c895bf95453b2\" title=\"Spicy Salad &amp; Beer\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Spicy salad: Spicy, hell yes</p> <p>Beer: Cold</p> <p>10/10</p> <p><a href=\"https://www.atninenyc.com/\">https://www.atninenyc.com/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Odd-Philosopher5509\"> /u/Odd-Philosopher5509 </a> <br /> <span><a href=\"https://i.redd.it/d60eiovih40h1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1t86mko/spicy_salad_beer/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-05-09T14:33:24+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1t8b4c2/oyatte_chef_hasung_lees_first_restaurant_of_his/",
       "title": "Oyatte, chef Hasung Lee\u2019s first restaurant of his own in Murray Hill",

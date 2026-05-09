@@ -3563,10 +3563,6 @@
     "seen_at": "2026-04-08T16:56:45.554955+00:00",
     "source_type": "news"
   },
-  "https://www.usitt.orgmailto:natasha.tolleson@templecivictheatre.com": {
-    "seen_at": "2026-04-08T19:07:47.117363+00:00",
-    "source_type": "jobs"
-  },
   "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjQwYWh5Rm9XOHZOUEFqeXdRSkF3Z2F6R3p0T0JNMy1HbG8yRXJZREVyVTlzbWtCTU1QV0tZVmVDYUxzd3pvNnE2SC03QlY4Ny1YZ0FQc2V5dWo2T3hkVHBYTWZrNGtPamxiTDY2UmpmaHhwS0Z2dG90MDhsd29QVXV4TFo0QjZ0R0hvTFotVmQwcWZCVW9zYmtndTNlUUt0TFRtWGYtb3VROGlUeGw2WDBSOHl5dVVPcm9mVzlEbmdYMmczQUg5blNiOXcyeWxNNlN5cFVqZlNGQ3Q4OC1STQ?oc=5": {
     "seen_at": "2026-04-08T19:09:42.218100+00:00",
     "source_type": "news"
@@ -11938,5 +11934,21 @@
   "https://www.reddit.com/r/FoodNYC/comments/1t8b4c2/oyatte_chef_hasung_lees_first_restaurant_of_his/": {
     "seen_at": "2026-05-09T19:04:30.737559+00:00",
     "source_type": "social"
+  },
+  "https://hyperallergic.com/dozens-of-venice-biennale-artists-withdraw-from-awards-en-masse/": {
+    "seen_at": "2026-05-09T19:56:26.025266+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.thecity.nyc/2026/05/07/affordable-housing-development-labor-485x-tax-break/": {
+    "seen_at": "2026-05-09T19:58:14.172639+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.reddit.com/r/FoodNYC/comments/1t86mko/spicy_salad_beer/": {
+    "seen_at": "2026-05-09T20:09:34.523522+00:00",
+    "source_type": "social"
+  },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkpjZlFwTjdqNDNtRUVKdXpwSGs0NFBWanR4QnRwRVRWakZ4b2NicXNrdUF3VkFNNlM0LUw0NG1FVjMtbWg2eHN0ai1mVUJkS1JhamFoQkxJSkJzLXFOQ2tEUXdZaWdoNnJPLTA1Tks1RExrUHpTeVZibWVDc2NKakFza2FHcndkYjdkTVI4SzI2RzRSam1YRllURndfYzIzOXRNMWp2b3J1aTBrSG9YMmR6OWRTRVZUMWxj?oc=5": {
+    "seen_at": "2026-05-09T20:11:15.076691+00:00",
+    "source_type": "news"
   }
 }

@@ -5270,6 +5270,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV240UkozZUJfWWRtVHQ5LXJkcHBIbmNTUTBxa1U4SUNDRndoNXJhOGxTQWQwdDZXdUpzS0g1WW5JN3FCRGFkdFdUd25jUmdqVkctbWFYQWdCczFEeVN4cFB6VlJDT3ZycGdPZE9LaHdWbkw3WjRtWTN3aE5STDdaT2duWTMtaGNjTDIyMzMtQm5WN1VaZlM2dUhiUmFpWWpNaGtqTG5n?oc=5",
+      "title": "MIT releases first AI model built to make Alzheimer\u2019s preventable - The Brighter Side of News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQV240UkozZUJfWWRtVHQ5LXJkcHBIbmNTUTBxa1U4SUNDRndoNXJhOGxTQWQwdDZXdUpzS0g1WW5JN3FCRGFkdFdUd25jUmdqVkctbWFYQWdCczFEeVN4cFB6VlJDT3ZycGdPZE9LaHdWbkw3WjRtWTN3aE5STDdaT2duWTMtaGNjTDIyMzMtQm5WN1VaZlM2dUhiUmFpWWpNaGtqTG5n?oc=5\" target=\"_blank\">MIT releases first AI model built to make Alzheimer\u2019s preventable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brighter Side of News</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-09T14:32:47.148614+00:00",
+      "published_at": "2026-05-09T14:07:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWVld2xId3JBdUdtcVA5VTk1aDluOTZWU0VaTDZrZFBlbmNjN2VPcGVBRnZ2dDgteVR5QnVUckJDakdvdENMMjE5ZEtfZ0k5UlR1ZS1ab2N1MEViNkxibmhfeUJwZTQ5bGlEelV3dFQxVmJhOTlFa29uTExrX1hrWmhRbmZ2RHlwbFJoTktiUXhFcjF4Vll2Ymk3QjJveTdiMmJNX2FaNUdickpEUDBDTVg1WDI?oc=5",
       "title": "Google\u2019s Gemma 4 AI models get 3x speed boost by predicting future tokens - Ars Technica",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWVld2xId3JBdUdtcVA5VTk1aDluOTZWU0VaTDZrZFBlbmNjN2VPcGVBRnZ2dDgteVR5QnVUckJDakdvdENMMjE5ZEtfZ0k5UlR1ZS1ab2N1MEViNkxibmhfeUJwZTQ5bGlEelV3dFQxVmJhOTlFa29uTExrX1hrWmhRbmZ2RHlwbFJoTktiUXhFcjF4Vll2Ymk3QjJveTdiMmJNX2FaNUdickpEUDBDTVg1WDI?oc=5\" target=\"_blank\">Google\u2019s Gemma 4 AI models get 3x speed boost by predicting future tokens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
@@ -7050,27 +7068,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1QwTzNzb0tNRnBHRUhvRmU5UkpEejVvMkI0LTNEWmFOQldPUWJmZ3Bsc0MzYmNMdkhIU2hrTndub00wY29XS01tNTFzemdGU2xxT21FZ3U1SW1YSFJ0ZmpVUDdnTGtkWjl0TnpETFUtYjdmN0V4SGN0WDl1SC02MVNzNlBCbmx4R09JQWN5V2FxWWUza0VQbzBxT1FpZG5RV2ZXbC1aN1pNVXgwZHBQckZtMGxPa1hqcWplRldMYlpZWWs0c0lYVWw0OA?oc=5",
-      "title": "Everything to know about DeepSeek\u2019s new AI model V4 - Euronews.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1QwTzNzb0tNRnBHRUhvRmU5UkpEejVvMkI0LTNEWmFOQldPUWJmZ3Bsc0MzYmNMdkhIU2hrTndub00wY29XS01tNTFzemdGU2xxT21FZ3U1SW1YSFJ0ZmpVUDdnTGtkWjl0TnpETFUtYjdmN0V4SGN0WDl1SC02MVNzNlBCbmx4R09JQWN5V2FxWWUza0VQbzBxT1FpZG5RV2ZXbC1aN1pNVXgwZHBQckZtMGxPa1hqcWplRldMYlpZWWs0c0lYVWw0OA?oc=5\" target=\"_blank\">Everything to know about DeepSeek\u2019s new AI model V4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWREpVWUUzMWIwVzh4TEo1SHRCTzRoN2hiZkJyUHlSYzlqSENfRXJZZ05IbG9PNWVvYUlLSDYxM3FIbmtQVjc1cUt3RnZ1TU5yWFBUWk5vM1RPc1RiMWpmdkhnUlRHMWc?oc=5",
+      "title": "Queens could see lower energy costs by 2030 through new Propel NY Energy project - qns.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWREpVWUUzMWIwVzh4TEo1SHRCTzRoN2hiZkJyUHlSYzlqSENfRXJZZ05IbG9PNWVvYUlLSDYxM3FIbmtQVjc1cUt3RnZ1TU5yWFBUWk5vM1RPc1RiMWpmdkhnUlRHMWc?oc=5\" target=\"_blank\">Queens could see lower energy costs by 2030 through new Propel NY Energy project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qns.com</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-27T04:43:55.683392+00:00",
-      "published_at": "2026-04-24T14:42:49+00:00",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-09T14:18:34.339165+00:00",
+      "published_at": "2026-05-07T20:00:05+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHNhVW9Bd2tXclVFSEhEUkVfSnBKdGtDUmExdnhXZ0R0ZjhsWnRMUDgweUt0OU1XRndkcGVxc3FuYWdZVnVuMGkyR2xSTnE4LTVjZnZUV1ptU3c1bDR1ZXlNdU96VlZ0WElYNl9VLTk2QzY2VXUxV0w2ZXlDU3k4d0owSS1DMlhxYk9WLTBGaTRGUFpiTDBBTFVPRC1XNEpldTVwX2pSZ0M0V2xDNmtxRVY0TdIBuAFBVV95cUxPZEp2MURxZGprUGlLcW1kUkp6TkJlUUZMV3lZOG4xWTZqVFd1c2ZCNFB5cjRTOUpwUWJnNTBoU2VQYThTU29EQmx2ZEFnRjdnaGlYalhkdGJtczU4MnJTX0pfYzgxLTQxWVFXTVFaUWhSc1RoMng4d3o4YXJybXplU3lqczdPZ2dMVDRmd0xrakRJMDFOYnJxRmR6U2VrLUxHaWxWV3FKd1VOa1hwRjFaSzBGQU41ZjBi?oc=5",
       "title": "Queens man arrested 5 months after deadly shooting that killed 27-year-old, injured another - FOX 5 New York",
@@ -8844,24 +8862,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-05-01T22:44:00.825180+00:00",
       "published_at": "2026-05-01T19:00:57+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/05/housing-lottery-closing-9-units-jamaica-rent-2027/",
-      "title": "Housing lottery closing soon for nine units in Jamaica, rent starts at $2,027",
-      "snippet": "Sign up for our\u00a0weekly email newsletter\u00a0to stay updated on the latest housing lotteries in New York City. Ten days remain to sign up for a housing lottery for nine units at 166-13 91st Ave. in Jamaica. The 7-story mixed-use building has 17 total units, with 8 at market rate. Eight of the units set aside...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/05/housing-lottery-closing-9-units-jamaica-rent-2027/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-01T20:44:23.133651+00:00",
-      "published_at": "2026-05-01T15:00:23+00:00",
       "price": null,
       "novelty_score": 0.5,
       "summary": null,

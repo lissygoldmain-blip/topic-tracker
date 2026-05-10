@@ -99,7 +99,7 @@
     },
     "Jobs": {
       "adzuna": {
-        "consecutive_failures": 2,
+        "consecutive_failures": 0,
         "disabled": false
       },
       "indeed": {
@@ -125,9 +125,9 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 4,
-        "disabled": false,
-        "disabled_at": null
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-05-10T13:19:26.471902+00:00"
       },
       "google_news": {
         "consecutive_failures": 0,
@@ -272,9 +272,9 @@
     },
     "Substack picks": {
       "substack": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-05-10T06:33:11.945681+00:00"
+        "consecutive_failures": 2,
+        "disabled": false,
+        "disabled_at": null
       }
     }
   }

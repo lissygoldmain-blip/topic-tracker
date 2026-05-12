@@ -3486,6 +3486,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/05/pierre-salvadori-opening-cannes-electric-kiss-1236889725/",
+      "title": "\u2018The Electric Kiss\u2019 Director  Pierre Salvadori Talks Joy & Terror Of Opening Cannes; Love Of Lubitsch & Why His Brand Of Comedy Is Not A Cynical Ploy",
+      "snippet": "Pierre Salvadori opens the 79th Cannes Film Festival this evening with Roaring Twenties Paris art world-set romantic tragicomedy The Electric Kiss starring Pio Marma\u00ef, Ana\u00efs Demoustier, Vimala Pons and Gilles Lellouche.\u00a0Taking time out of the mixing room to talk to Deadline just days before the premiere, the French director admits to feeling a mixture of [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-05-12T09:36:13.743516+00:00",
+      "published_at": "2026-05-12T09:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.95,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.indiewire.com/criticism/movies/forge-review-1235101662/",
       "title": "\u2018Forge\u2019 Review: A Game of Cat-and-Mouse in the Miami Art World Makes for a Thrilling Directorial Debut",
       "snippet": "A portrait of an underground forgery artist whose desire for recognition brings her too close to the sun, this Florida-set thriller should establish Jing Ai Ng as a director to watch.",
@@ -5266,27 +5284,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/05/carrie-coon-ben-platt-lukas-gage-i-am-not-your-mother-film-1236877874/",
-      "title": "Carrie Coon, Ben Platt & Lukas Gage To Star In \u201cDarkly Funny\u201d Psychological Thriller \u2018I Am Not Your Mother\u2019 \u2014 Cannes Market",
-      "snippet": "EXCLUSIVE: Carrie Coon (The White Lotus)\u00a0Ben Platt (The Politician), and Lukas Gage (Smile 2) are set to star in psychological thriller,\u00a0I Am Not Your Mother,\u00a0which will be directed by Craig Johnson (The Skeleton Twins) and written by Johnson\u00a0and Ryan O\u2019Connell (Special). Mister Smith Entertainment will launch international sales at the upcoming Cannes market\u00a0on the &#8220;twisted [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-05-01T09:01:15.208723+00:00",
-      "published_at": "2026-05-01T08:50:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHdCTl9ZcUs5c3o2QnhDVGtzMnZ0amFSa0tEV29nYk5sNjBsdzVMTF9TT1pwZ0J6dnB1bmJlT2xoMjBzbWl0T3hySXJjOGhtY1Z0XzNMYnNHc3JlSEl0TU9GNnVkV3JUaThJSWVCRjVLcmtSUVNjT3dWSFptQ0xtdTJyYUJ3bWhxU3RkOHlCeHF4Zw?oc=5",
+      "title": "Thinking Machines announced new SOTA Realtime Voice model - TestingCatalog AI News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHdCTl9ZcUs5c3o2QnhDVGtzMnZ0amFSa0tEV29nYk5sNjBsdzVMTF9TT1pwZ0J6dnB1bmJlT2xoMjBzbWl0T3hySXJjOGhtY1Z0XzNMYnNHc3JlSEl0TU9GNnVkV3JUaThJSWVCRjVLcmtSUVNjT3dWSFptQ0xtdTJyYUJ3bWhxU3RkOHlCeHF4Zw?oc=5\" target=\"_blank\">Thinking Machines announced new SOTA Realtime Voice model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TestingCatalog AI News</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-12T09:47:16.350201+00:00",
+      "published_at": "2026-05-11T22:05:38+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVNnNGtXWHd3RHBEQlluQ3FTR1MteGt3eGJGZXc3ZE5fRzNUV2RPV21HbE5id3hQTmIxbVppMlJTem5JQUEyZ1JDSG5CVEdEaVBCRzlKYlF4amQtV3VsYUZLWDlhc0lVcW92VzJDWmRjQlphME4tWnduQ0xNSjU5TUFrYTBGeWNDUFNvbmJjUDN5YXhYQ2pzMGo0TkV0VmVnNGo5RXYxNUM4QWc2Z19hckRnRERfaDljcUpPVUdxNVdrZXJjQUE?oc=5",
       "title": "Frontier AI models to be subject to pre-release safety checks amid rising cybersecurity concerns - Lexology",
@@ -7068,27 +7086,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2hzNnRYZENEYVJzd2Q3ejViYVVXTjZUMHBlUWM0TlJMdGtuX0JuUVZDUG5DVERsUG9RbjlyUlpUQ0VyWngtVTBHSHA1eHd5UUczVGxuTjR6MnY0aEZzV0FHMFVfWHcxY1E1Z1FHODhuUWZYTVVZZWNpbG9UZ2NEVVBWOGI2bEE?oc=5",
-      "title": "Hackers breach Anthropic's 'too dangerous to release' Mythos AI model, report - Yahoo News Australia",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2hzNnRYZENEYVJzd2Q3ejViYVVXTjZUMHBlUWM0TlJMdGtuX0JuUVZDUG5DVERsUG9RbjlyUlpUQ0VyWngtVTBHSHA1eHd5UUczVGxuTjR6MnY0aEZzV0FHMFVfWHcxY1E1Z1FHODhuUWZYTVVZZWNpbG9UZ2NEVVBWOGI2bEE?oc=5\" target=\"_blank\">Hackers breach Anthropic's 'too dangerous to release' Mythos AI model, report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Australia</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-27T15:45:49.535981+00:00",
-      "published_at": "2026-04-24T12:33:22+00:00",
+      "url": "https://www.thecity.nyc/2026/05/12/rikers-island-securus-ai-ice-surveillance/",
+      "title": "City To Renew Rikers Phone Deal Amid AI Surveillance Concerns",
+      "snippet": "<figure><img alt=\"People wait in line to visit loved ones detained on Rikers Island.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/02/020525_rikers_visit_1-scaled.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The city\u2019s Correction Department is set to renew a multimillion-dollar contract with a prison telecom giant that\u2019s bragged of using recordings of detainees\u2019 private phone calls to train its artificial intelligence model.&#160;&#160; The Mamdani administration plans to pay Securus Technologies up to $23 million over five years for phone service used by roughly 7,000 people [&#8230;]</p>\n<p>The post <a href=\"https://www.thecity.nyc/2026/05/12/rikers-island-securus-ai-ice-surveillance/\">City To Renew Rikers Phone Deal Amid AI Surveillance Concerns</a> appeared first on <a href=\"https://www.thecity.nyc\">THE CITY - NYC News</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-12T09:34:08.015146+00:00",
+      "published_at": "2026-05-12T09:00:00+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://nyc.streetsblog.org/2026/05/12/rail-to-trail-projects-queensway",
       "title": "Maryland, Georgia Offer Cautionary Tales As Mamdani Advances QueensWay",
@@ -8864,24 +8882,6 @@
       "published_at": "2026-05-04T18:30:38+00:00",
       "price": null,
       "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/05/suspect-attack-7-train-rider-jackson-heights/",
-      "title": "Suspect wanted for attacking a 7 train rider in Jackson Heights, causing him to lose his balance and fall into moving subway: NYPD",
-      "snippet": "Police from the 115th Precinct and Transit District 20 are looking for a suspect who allegedly assaulted a 7 train rider in Jackson Heights in a random attack late last month. Police say a 63-year-old man was standing on the Flushing-bound platform in the Jackson Heights 74th Street-Broadway transit hub just before 5:30 p.m. when...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/05/suspect-attack-7-train-rider-jackson-heights/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-04T17:27:21.093621+00:00",
-      "published_at": "2026-05-04T16:15:15+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -12496,6 +12496,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0VKaGlMbm1XSFpQb3IzUkVYQWhwaF8tWHRfVE1ySDNlTnJ1UnBDUl9qcUNUcFQtcGs3RGFVV3AzQ08wdGNuak54R243S084NDdlcGxpWjNQTG9xLTMzaWlyMlI4dzl0Z3FTcVg1bzJMWlM2Q3dTWGE4Qng1RWVjUHV2dXR2TFU?oc=5",
+      "title": "Lander\u2019s ICE protest trial postponed until June - Brooklyn Eagle",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0VKaGlMbm1XSFpQb3IzUkVYQWhwaF8tWHRfVE1ySDNlTnJ1UnBDUl9qcUNUcFQtcGs3RGFVV3AzQ08wdGNuak54R243S084NDdlcGxpWjNQTG9xLTMzaWlyMlI4dzl0Z3FTcVg1bzJMWlM2Q3dTWGE4Qng1RWVjUHV2dXR2TFU?oc=5\" target=\"_blank\">Lander\u2019s ICE protest trial postponed until June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brooklyn Eagle</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-05-12T09:42:11.588867+00:00",
+      "published_at": "2026-05-11T22:24:52+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZl9ydEo4ZkFqNk5QWWY1UXpfajY0UDFHZWV3SS1jUlNNSGNJdkZsb09yUHBGeXBGRzNUc1pTUEtkWDRxMHVULU1zWFVtbmNuc3E0ejJUNGx6QWFkYUk3RHpUSmloUHduekZZR2oyY095MWNKOXVRX0loLVRocUtqM1dwZm5WbERCYjd3VGF0akRScGtMczVSTEtWUDI0ZEszOVZMWDgxRFVOWTVH?oc=5",
       "title": "New York Bans Masks for ICE Agents and Warrantless Raids - La Voce di New York",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZl9ydEo4ZkFqNk5QWWY1UXpfajY0UDFHZWV3SS1jUlNNSGNJdkZsb09yUHBGeXBGRzNUc1pTUEtkWDRxMHVULU1zWFVtbmNuc3E0ejJUNGx6QWFkYUk3RHpUSmloUHduekZZR2oyY095MWNKOXVRX0loLVRocUtqM1dwZm5WbERCYjd3VGF0akRScGtMczVSTEtWUDI0ZEszOVZMWDgxRFVOWTVH?oc=5\" target=\"_blank\">New York Bans Masks for ICE Agents and Warrantless Raids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Voce di New York</font>",
@@ -14276,24 +14294,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlJxTmR6YTV6REJQY05LdzdPYWNWY3NHekJwOU5Ia0E4MVFHdVlNX2E1dE9UYndVM0ppMVowcmJzaUxYRWJaOUtiZF9uRy1uelBFd1dHY3l6ZXduSDlCYVZSNDNoR2p5Mm1zbE1Jc01GdC1JVUVhN01rc1VVamdLdTFpVXFkMEM1ZEtN0gGQAUFVX3lxTE56djF5TmxxQi1nSlNVaFhwNnlzNnZ6dll2SjlLb3dWSHdfYy0tRFY2QWVtZl9xcjZhQU9rekM0dHpjTTQ5Q0FaU2MyRC1ZRDBnZlpLQXdkLU41dG9FZzl3cHJleEpxajFlYzdWS2FWWk5kcmppZDF6WTQ1U1NKR1NDOFF6Tml1NkN2X21iRGhvTA?oc=5",
-      "title": "Keep immigration courts independent from ICE - The Hill",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlJxTmR6YTV6REJQY05LdzdPYWNWY3NHekJwOU5Ia0E4MVFHdVlNX2E1dE9UYndVM0ppMVowcmJzaUxYRWJaOUtiZF9uRy1uelBFd1dHY3l6ZXduSDlCYVZSNDNoR2p5Mm1zbE1Jc01GdC1JVUVhN01rc1VVamdLdTFpVXFkMEM1ZEtN0gGQAUFVX3lxTE56djF5TmxxQi1nSlNVaFhwNnlzNnZ6dll2SjlLb3dWSHdfYy0tRFY2QWVtZl9xcjZhQU9rekM0dHpjTTQ5Q0FaU2MyRC1ZRDBnZlpLQXdkLU41dG9FZzl3cHJleEpxajFlYzdWS2FWWk5kcmppZDF6WTQ1U1NKR1NDOFF6Tml1NkN2X21iRGhvTA?oc=5\" target=\"_blank\">Keep immigration courts independent from ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-05T17:30:56.544218+00:00",
-      "published_at": "2026-05-05T16:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14335,6 +14335,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQmQxcVV3UjdGdkRxa0pjeF9VYUlidGNLVGcybmk4bVgyeVYyd1IteFN1em5BNm9KQzgxZXhPbXo1UnZGOHgzbzJvZTlnUkR1cnA5TGw4bnIzUEpvT0xVUldXb01JYUZMQjJQSVZUcURhVUdkT0ZNYi0tUnNqNk9OdFhHWVpUUjRXNEczVjJoU3lFdmY4N1RIdTB4MDhXSVpRbEJ5UGJSMmNYVU52TFlRYmdUbjI1TzFOQnRNX28xUUpZTmhtU1dGVDJ3LXQ?oc=5",
+      "title": "Court clears way for Alabama to use congressional map blocked by lower court as racially discriminatory - SCOTUSblog",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNQmQxcVV3UjdGdkRxa0pjeF9VYUlidGNLVGcybmk4bVgyeVYyd1IteFN1em5BNm9KQzgxZXhPbXo1UnZGOHgzbzJvZTlnUkR1cnA5TGw4bnIzUEpvT0xVUldXb01JYUZMQjJQSVZUcURhVUdkT0ZNYi0tUnNqNk9OdFhHWVpUUjRXNEczVjJoU3lFdmY4N1RIdTB4MDhXSVpRbEJ5UGJSMmNYVU52TFlRYmdUbjI1TzFOQnRNX28xUUpZTmhtU1dGVDJ3LXQ?oc=5\" target=\"_blank\">Court clears way for Alabama to use congressional map blocked by lower court as racially discriminatory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SCOTUSblog</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-05-12T09:43:01.167629+00:00",
+      "published_at": "2026-05-11T22:58:31+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVlWXzRzS2dDV1dzMHozR2R4YVU4ZEtnZjhvYXVwTklMN0VSNF9tclEza1RKZFdTeDZ1aU9RUE0wczJJdzRpVFhxdTItdU1lOVREdGtQOEhfUVNJVkVfcUpjcmppaHlYYm1DUndNSEZkTll6eHFkSk1LSC1ra3M1Yi1ocl9kakRXMmwtMg?oc=5",
       "title": "Supreme Court hands Alabama major boost in redistricting fight - The Washington Post",
@@ -16108,24 +16126,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-04-26T07:29:29.538612+00:00",
       "published_at": "2026-04-21T21:25:18+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZENSakZ5bnZuRmJNU0RFdV94b0hTQVRhSFQ0eDVRRTZoNFN6S2FaeXQ0dVhwblF4Qk54a1NGRlFLSm9heTZERDNMVGYtWl9IMXMxdFJ1MWhyYXRIY3FIRzFaQzAzX0wtUldGaVhZRGt3d1k5VDh6OEVxcDJPS3hETFV3LWtTOHp2cy1BZmJqbWk0ZXVaWndwbnBUNGZ0X1hfeDNGQmE3bUtQTExyZ2E5YWJmTE4zSzJp?oc=5",
-      "title": "Michigan House Republicans pass bill requiring proof of citizenship to vote - The Michigan Independent",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZENSakZ5bnZuRmJNU0RFdV94b0hTQVRhSFQ0eDVRRTZoNFN6S2FaeXQ0dVhwblF4Qk54a1NGRlFLSm9heTZERDNMVGYtWl9IMXMxdFJ1MWhyYXRIY3FIRzFaQzAzX0wtUldGaVhZRGt3d1k5VDh6OEVxcDJPS3hETFV3LWtTOHp2cy1BZmJqbWk0ZXVaWndwbnBUNGZ0X1hfeDNGQmE3bUtQTExyZ2E5YWJmTE4zSzJp?oc=5\" target=\"_blank\">Michigan House Republicans pass bill requiring proof of citizenship to vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Michigan Independent</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-04-25T10:04:14.059664+00:00",
-      "published_at": "2026-04-23T16:08:57+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

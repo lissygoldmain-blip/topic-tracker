@@ -4695,10 +4695,6 @@
     "seen_at": "2026-04-13T07:54:25.721656+00:00",
     "source_type": "news"
   },
-  "https://www.adzuna.com/details/5694110507?utm_medium=api&utm_source=bde9bf2e": {
-    "seen_at": "2026-04-13T07:54:35.832180+00:00",
-    "source_type": "jobs"
-  },
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRE5teGs2OEM3VjBXeG9ULXFrMGxHX09tWjdsUFcxcWVBb3c0ZEQxMTdsSjJFcnlRVFNXcXJEenJwaEExZ0xtM2VfdGU0N2ExUHYtaEcyOHdUSGxpUWk3ZEVzT3o4bTl6S2x0OWd0cG9lT0RlbzB1ZHFOWkpQbkgxeFlyeGpMZmlwWTBJYXVpSndkTnBsYkozZUphOHhMMHZH?oc=5": {
     "seen_at": "2026-04-13T08:03:14.023267+00:00",
     "source_type": "news"
@@ -12754,5 +12750,25 @@
   "https://deadline.com/2026/05/gianna-jun-yeon-sang-ho-colony-new-york-asian-film-festival-1236901993/": {
     "seen_at": "2026-05-14T06:47:56.085620+00:00",
     "source_type": "feeds"
+  },
+  "https://www.thecity.nyc/2026/05/14/lirr-strike-deadline-unions-commute-workers/": {
+    "seen_at": "2026-05-14T09:34:00.574828+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.reddit.com/r/rupaulsdragrace/comments/1tcs48d/poll_results_all_stars_11_episodes_1_2_choose/": {
+    "seen_at": "2026-05-14T09:37:57.835860+00:00",
+    "source_type": "social"
+  },
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUkVaaFVTYmQxOFRnNDRVZWVQYkRLNUhNdDhOLU5qT2RSOS1XcnMwMjAyS0NiOUE1SkJiMlcySHBGU2dDVGZjUVI3WmllUU4wWHdmV2prWHlPaHJEeng1NG42UjZrdVQyanhWSkJhVzNvb3lWalZPR091aGRKeDhSUjl4WFBnbVRVZXVN?oc=5": {
+    "seen_at": "2026-05-14T09:40:49.988739+00:00",
+    "source_type": "news"
+  },
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTZGR01KTXNRb3JxdGV4eTk3UlJZZmZEcW80N3dzWnVPMTZmQ1BiLVhaZTFRMUlSVXJZSlc5Z2xWaF9PZzRmVFdyc0ZiTXNDTGc3eDZpZHdyWTZrNWtXQUxPNDhSM3ZvNk05UEI0cmlPbjRHX3c5OUx4NXFTdWVXMVhxQ0JGeFJQ0gGLAUFVX3lxTE9QVERUZE1NTUp1NnJhVE9WX1ZIc0RfQ1dZY3BYajVfT2liUF9ZN2tZWEJadURJdUh2NFVIbWJlTk5ldDd0S0stdGpUZUpyNFpiVERPODRtcnhnaXhfV3doMlNxa2tvMjVSS0tlR3VEM0YxWGFrLVZOZkpDMXhEeGNVb0NRX3FsZzJMTGM?oc=5": {
+    "seen_at": "2026-05-14T09:42:58.614013+00:00",
+    "source_type": "news"
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSN0VlUWlZWkJpd0NXdUJKNW1UcDRHTE9FMTdXRV9HVll0XzZQeTBubExQeTFoa3cxOHlHNXpyWUpyNGdpVDZ0VHFjUjk1aVJ1bGVhMmc3RFRQcVZIdFJISi1kcGJXSnRh?oc=5": {
+    "seen_at": "2026-05-14T09:46:26.873663+00:00",
+    "source_type": "news"
   }
 }

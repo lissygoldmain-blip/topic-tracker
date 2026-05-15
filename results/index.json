@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/mary-lovelace-oneal-leaves-her-mark/",
+      "title": "Mary Lovelace O\u2019Neal Leaves Her Mark",
+      "snippet": "The artist and Civil Rights activist dies at 84, The Met and Neue Galerie merge, and NADA is back with \u201cabstracted horniness.\u201d",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-05-15T10:14:58.794039+00:00",
+      "published_at": "2026-05-15T10:00:40+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.artsjournal.com/2026/05/what-is-a-cultural-institution-actually-for.html",
       "title": "What is a cultural institution actually for?",
       "snippet": "Good Morning, Four different institutional stories today, all of them answers to the same question: what is a major cultural institution actually for? The Met is absorbing the Neue Galerie \u2014 its building and Ronald Lauder&#8217;s collection of 20th-century Austrian and German art \u2014 beginning in 2028 (The New York Times). Lincoln Center, meanwhile, is [&#8230;]",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/met-gala-boycott-message-projected-on-bezoss-manhattan-penthouse/",
-      "title": "Met Gala Boycott Message Projected on Bezos\u2019s Manhattan Penthouse",
-      "snippet": "\"All working-class people deserve better than what we're getting,\u201d a former Amazon worker told Hyperallergic ahead of this year\u2019s gala, co-chaired by Jeff Bezos.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-05-04T17:25:05.279528+00:00",
-      "published_at": "2026-05-04T16:59:15+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -3521,6 +3521,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://deadline.com/2026/05/cannes-pawel-pawlikowski-fatherland-1236905712/",
+      "title": "\u2018Fatherland\u2019s Pawel Pawlikowski At Cannes: \u201cI\u2019m Lost Today\u2026That\u2019s Why I Make Movies That Take Place In The Past.\u201d",
+      "snippet": "You can never go home is how the saying goes, and Pawel Pawlikowski&#8217;s latest movie, Fatherland, illustrates that through the latter life of Death in Venice author Thomas Mann. He returns to his homeland Germany post war 1949, a place he&#8217;s fled. The director billed it as a five-day road movie, with Mann journeying his [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-05-15T10:19:16.769047+00:00",
+      "published_at": "2026-05-15T10:11:12+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.indiewire.com/news/general-news/teenage-sex-and-death-at-camp-miasma-summer-screening-tour-1235193901/",
       "title": "\u2018Teenage Sex and Death at Camp Miasma\u2019 Plots Summer Festival Tour Prior to August Release",
@@ -5296,24 +5314,6 @@
       "published_at": "2026-04-28T15:15:00+00:00",
       "price": null,
       "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://deadline.com/2026/05/celebrity-autobiography-broadway-1236880861/",
-      "title": "\u2018Celebrity Autobiography\u2019 To Launch New Broadway Season With Rotating Cast Of Stars Including Kenan Thompson, Andrea Martin, Kathy Griffin, Many Others",
-      "snippet": "Celebrity Autobiography, the international hit comedy created by Eugene Pack in which celebrities act out the &#8220;unintentionally hilarious autobiographies&#8221; of other celebrities, will make its Broadway debut later this month, officially launching the 2026-2027 Broadway season. Previews begin May 16 at the Shubert Theatre ahead of a May 18 opening night. The opening cast will [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-05-05T02:05:14.224972+00:00",
-      "published_at": "2026-05-05T01:35:14+00:00",
-      "price": null,
-      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

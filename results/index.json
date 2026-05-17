@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.artsjournal.com/2026/05/getting-younger-with-the-arts.html",
+      "title": "Getting younger with the arts",
+      "snippet": "This Week&#8217;s Highlights: Artists this week were busy with the past \u2014 and the political forces around them were busy editing it. Dav\u00f3ne Tines&#8217;s operatic adaptation of Langston Hughes&#8217;s 1931 monologue The Black Clown condenses 300 years of Black American experience into 18 stanzas (Philadelphia Inquirer). Washington National Opera, freshly severed from the Kennedy Center, [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-05-17T10:23:04.998656+00:00",
+      "published_at": "2026-05-16T23:39:03+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1hXSFBpZEQ0MFhrQl80TlV6N3B6R1lORnUxdkdUNXkzTExhd2lUa01PYVBkdkRsUTFLaWFkX0RmcHJtLVBHTDJONVNqdlVUSVlMcVBYeVZjcVNKS0t4VGQ0WVNLd2o0cmplQWVqNzctSjkzdVY0bHEzYmVMSGNzdGJuWTVEZjd5bmJMckhDWlBZcXptY09pRWVmbWZGTzJlUVFFMDhrWQ?oc=5",
       "title": "Queens College Choral Society Presents Faure\u2019s Requiem - City Guide New York",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1hXSFBpZEQ0MFhrQl80TlV6N3B6R1lORnUxdkdUNXkzTExhd2lUa01PYVBkdkRsUTFLaWFkX0RmcHJtLVBHTDJONVNqdlVUSVlMcVBYeVZjcVNKS0t4VGQ0WVNLd2o0cmplQWVqNzctSjkzdVY0bHEzYmVMSGNzdGJuWTVEZjd5bmJMckhDWlBZcXptY09pRWVmbWZGTzJlUVFFMDhrWQ?oc=5\" target=\"_blank\">Queens College Choral Society Presents Faure\u2019s Requiem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City Guide New York</font>",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://hyperallergic.com/culture-workers-announce-venice-biennale-strike-in-israeli-pavilion-protest/",
-      "title": "Culture Workers Announce Venice Biennale Strike in Israeli Pavilion Protest",
-      "snippet": "Labor unions, grassroots groups, and artists plan to withhold their labor on Friday, May 8, with a call to \"shut down the genocide pavilion.\"",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-05-05T22:49:06.282067+00:00",
-      "published_at": "2026-05-05T21:32:04+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -3557,6 +3557,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://deadline.com/2026/05/javier-bardem-genocide-hollywood-blacklist-1236907880/",
+      "title": "Javier Bardem Talks Genocide, A Hollywood Blacklist & The Tide Turning Politically: \u201cThose Who Are Drawing Up The So-Called Blacklist Will Actually Be Exposed, And They Are The Ones Who Will Be Suffering\u201d",
+      "snippet": "&#8220;There is no B plan, no alternative, and this entails consequences, which I&#8217;m fully ready to shoulder.&#8221; That&#8217;s Javier Bardem, in Cannes discussing his new film The Beloved, which was shot in the Western Sahara. Given the politics of that region and the controversy over Bardem&#8217;s recent statements about the conflict between Israel and the [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-05-17T10:27:04.596077+00:00",
+      "published_at": "2026-05-17T10:21:54+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://deadline.com/2026/05/tarek-al-arian-marguerite-alibert-sons-of-rizk-prequel-1236907789/",
       "title": "Tarek Al Arian Hits Cannes With Project Inspired by High Society Killer Marguerite Alibert & Sons of Rizk Prequel",
@@ -5332,24 +5350,6 @@
       "published_at": "2026-05-07T13:00:00+00:00",
       "price": null,
       "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://deadline.com/2026/05/2026-fipresci-documentary-grand-prix-fiume-o-morte-1236887160/",
-      "title": "\u2018Fiume O Morte!\u2019 Wins First Ever FIPRESCI Documentary Grand Prix, Triumphing Over Oscar Winner And Oscar Nominee",
-      "snippet": "FIPRESCI, the international critics group, named Fiume o morte! the best documentary of 2025, beating out Oscar winner Mr. Nobody Against Putin and Oscar nominee The Perfect Neighbor. The announcement of the inaugural FIPRESCI Documentary Grand Prix was made on the opening night of Millennium Docs Against Gravity in Warsaw, Poland. As Deadline previously reported, [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-05-07T22:58:10.815651+00:00",
-      "published_at": "2026-05-07T22:03:13+00:00",
-      "price": null,
-      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

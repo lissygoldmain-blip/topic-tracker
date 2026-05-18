@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.artsjournal.com/2026/05/two-kinds-of-archaeology.html",
+      "title": "Two kinds of archaeology",
+      "snippet": "Good Morning, Two kinds of archaeology today. One uncovers what&#8217;s real and was buried; the other exposes what was always artificial. In the first category: a forgotten manuscript in Rome turns out to have been hiding the oldest English poem ever found \u2014 three centuries earlier than the previous record (Seattle Times). Then, an Egyptian [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-05-18T05:04:23.429961+00:00",
+      "published_at": "2026-05-18T02:56:02+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.nytimes.com/2026/05/16/movies/is-god-is-aleshea-harris.html",
       "title": "A Playwright Turns Movie Director",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/05/Screenshot-2026-05-16-at-19.00.03-90x90.png\" style=\"float: left; margin-right: 5px;\" width=\"90\" />Aleshea Harris: &#8220;It felt natural and inevitable because I am a very particular playwright. \u2026 I already have strong ideas and impulses about not just writing the thing, but helping people to understand.\u201d\u00a0 &#8211; The New York Times",
@@ -1781,24 +1799,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://www.nytimes.com/2026/05/05/arts/design/russia-ukraine-venice-biennale.html#new_tab",
-      "title": "A Visit To Russia\u2019s Exhibition At The Venice Biennale",
-      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/05/605-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" /><p>\u201cThere weren\u2019t any paintings or sculptures in Russia\u2019s pale green building, which dates to before the Revolution. Instead, \u2026 the Toloka Ensemble, a folk group, sat below a bulbous flower arrangement and sang traditional songs to a cluster of reporters eager to witness the country\u2019s controversial comeback at the Biennale.\u201d &#8211; The New York Times</p>\n<p>The post <a href=\"https://www.nytimes.com/2026/05/05/arts/design/russia-ukraine-venice-biennale.html#new_tab\">A Visit To Russia\u2019s Exhibition At The Venice Biennale</a> appeared first on <a href=\"https://www.artsjournal.com\">ArtsJournal</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-05-06T13:48:43.799695+00:00",
-      "published_at": "2026-05-06T13:05:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Health research": [
@@ -3557,6 +3557,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://www.indiewire.com/criticism/movies/marama-review-siff-new-zealand-horror-1235194507/",
+      "title": "\u2018M\u0101rama\u2019 Review: Gothic Revenge Horror Channels the Fury and Grace of New Zealand\u2019s M\u0101ori People",
+      "snippet": "Taratoa Stappard's arresting feature debut just won top prize at the Seattle International Film Festival.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-05-18T05:08:17.664092+00:00",
+      "published_at": "2026-05-18T02:53:27+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.indiewire.com/criticism/movies/jim-queen-review-gay-animated-movie-1235194505/",
       "title": "\u2018Jim Queen\u2019 Review: Raunchy Animated Movie About a Disease That Turns Gay Men Heterosexual Plays Straight to Its Core Audience",
@@ -5332,24 +5350,6 @@
       "published_at": "2026-05-07T19:00:00+00:00",
       "price": null,
       "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.indiewire.com/news/trailers/the-easy-kind-trailer-elizabeth-cook-fictionalizes-self-1235192687/",
-      "title": "\u2018The Easy Kind\u2019 Trailer: Country Legend Elizabeth Cook (Lightly) Fictionalizes Herself",
-      "snippet": "Exclusive: Katy Chevigny's (mostly true, but not totally) Nashville drama lets the country talent work through her own life and work by playing a movie-ready version of herself.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-05-08T17:09:39.731436+00:00",
-      "published_at": "2026-05-08T15:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

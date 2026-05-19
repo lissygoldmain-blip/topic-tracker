@@ -125,7 +125,7 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 3,
+        "consecutive_failures": 4,
         "disabled": false,
         "disabled_at": null
       },
@@ -153,7 +153,7 @@
     },
     "Drag Race & drag": {
       "tmdb": {
-        "consecutive_failures": 0,
+        "consecutive_failures": 1,
         "disabled": false,
         "disabled_at": null
       },

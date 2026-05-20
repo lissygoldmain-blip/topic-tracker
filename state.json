@@ -108,9 +108,9 @@
         "disabled_at": null
       },
       "playbill_jobs": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-05-19T20:32:24.578773+00:00"
+        "consecutive_failures": 1,
+        "disabled": false,
+        "disabled_at": null
       },
       "usitt_jobs": {
         "consecutive_failures": 0,
@@ -125,9 +125,9 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 4,
-        "disabled": false,
-        "disabled_at": null
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-05-20T02:45:27.613744+00:00"
       },
       "google_news": {
         "consecutive_failures": 0,
@@ -153,7 +153,7 @@
     },
     "Drag Race & drag": {
       "tmdb": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 0,
         "disabled": false,
         "disabled_at": null
       },
@@ -272,9 +272,9 @@
     },
     "Substack picks": {
       "substack": {
-        "consecutive_failures": 5,
-        "disabled": true,
-        "disabled_at": "2026-05-19T18:03:41.715461+00:00"
+        "consecutive_failures": 2,
+        "disabled": false,
+        "disabled_at": null
       }
     }
   }

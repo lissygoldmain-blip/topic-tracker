@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://hyperallergic.com/a-1b-evening-with-nicole-kidman/",
+      "title": "A $1B Evening With Nicole Kidman",
+      "snippet": "Plus, a show in Chicago explores the lives of Black American artists in Paris.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-05-20T23:06:24.168172+00:00",
+      "published_at": "2026-05-20T10:00:28+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.hollywoodreporter.com/business/business-news/broadway-box-office-death-salesman-every-brilliant-thing-1236601480/",
       "title": "The Tony Effect: Broadway Shows That Are Thriving After The Noms",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/05/Screenshot_20-5-2026_84056_www.hollywoodreporter.com_-90x90.jpeg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />Death of a Salesman,\u00a0which received nine Tony nominations, hit $1.7 million, its highest gross yet, last week playing to 100 percent capacity at the Winter Garden Theatre.\u00a0Ragtime\u00a0has similarly been drawing increased interest since the Tony nominations, bringing in $1.2 million last week. &#8211; The Hollywood Reporter",
@@ -1773,24 +1791,6 @@
       "topic_name": "NYC theater & arts",
       "fetched_at": "2026-05-08T04:14:54.825680+00:00",
       "published_at": "2026-05-07T17:15:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.thestage.co.uk/news/eno-breathe-offers-transformational-improvements-to-long-covid-patients-study#new_tab",
-      "title": "Study Confirms: English National Opera\u2019s Breathing Therapy Program Brings Major Improvements For Long COVID Patients",
-      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/05/1002-1-150x150.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" /><p>\u201cPublished in The Lancet Digital Health, a new study looked at 1,438 participants and found that 80% reported improved levels of breathlessness, with 61% having achieved clinically important improvements.\u00a0Of the participants, 87% said that it had a positive impact on their general well-being and 73% reported improved anxiety levels.\u201d &#8211; The Stage (UK)</p>\n<p>The post <a href=\"https://www.thestage.co.uk/news/eno-breathe-offers-transformational-improvements-to-long-covid-patients-study#new_tab\">Study Confirms: English National Opera\u2019s Breathing Therapy Program Brings Major Improvements For Long COVID Patients</a> appeared first on <a href=\"https://www.artsjournal.com\">ArtsJournal</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-05-07T20:59:25.253784+00:00",
-      "published_at": "2026-05-07T17:02:00+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -10784,6 +10784,24 @@
   ],
   "Queer & trans": [
     {
+      "url": "https://www.theguardian.com/world/2026/may/20/norwegian-court-blocks-extradition-greece-tommy-olsen-migrant-rights-activist",
+      "title": "Norwegian court blocks extradition to Greece of migrant rights activist",
+      "snippet": "Case hailed as human rights victory as Troms\u00f8 court says Tommy Olsen\u2019s actions are lawful and protected under international treaties",
+      "source": "guardian:World news",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-05-20T17:37:21+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.theguardian.com/world/2026/may/17/roma-rights-hungary-new-government-magyar-orban",
       "title": "\u2018The real work begins now\u2019: Roma take centre stage as Hungary brings in new government",
       "snippet": "Campaigners say symbolism of Magyar inauguration must translate into real change for Roma rights after years of Orb\u00e1n discrimination",
@@ -12564,27 +12582,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Immigration & ICE": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmQ2WDZzMEVzZ3NjSmJPSHQydHptTWY5X0FzaVZlU1dkem9qaWlXbmJLcjR1a0pFR2k1eWRSRXdhX2ZqdlpURzgtdjFkV1B1bE82Tk9aWkhRbXJXLURkcFI2bDlQb0FHVUQ0NmlLTDQyaktEakJTMDA5QWxJX0dKM2N3Z25BOUpoSXZr?oc=5",
-      "title": "Trump admin plans to detransition incarcerated trans people. Is that 'medical experimentation'? - Snopes",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmQ2WDZzMEVzZ3NjSmJPSHQydHptTWY5X0FzaVZlU1dkem9qaWlXbmJLcjR1a0pFR2k1eWRSRXdhX2ZqdlpURzgtdjFkV1B1bE82Tk9aWkhRbXJXLURkcFI2bDlQb0FHVUQ0NmlLTDQyaktEakJTMDA5QWxJX0dKM2N3Z25BOUpoSXZr?oc=5\" target=\"_blank\">Trump admin plans to detransition incarcerated trans people. Is that 'medical experimentation'?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Snopes</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlVDdFIwZlUtLWhNS1BJVEQ2N08zYzdUWHdoNVAyS1ZYSFFBV1hnRjF0Y0ptUkxLNkZqWGlyQ3ZhMkQwaXRCWEt0Q2FsVVVWN2RHX2hRWFhVTTFfZmllLXVrZXIwX1RfbnRnVmlESWIwanNOSUNrWkFFeHpFVWt6QUVFVExUNENYZU1jZFlqQ1dvYWNxUURiQlRablNoYWFlWlR5bTlYTdIBrAFBVV95cUxNT1ZyX040R29Lb3ZXMW1pZlEyeTl1ejFVMjZaei1uUVdPa3BobzVpM0l6emVBX2gyVVVmZVRESHl3MUNmYmN2LWQ3bFpVdmZ5akZGclh6VnVxOEhxMzYyd0hYWTBTLS1MMXdOMzdPaTMxVkFsYkRmLW91OEp3VGxqNVJtZHBhTzBkTnh4aVVSTlpVZlR1RWh4OEFGZnJtSlZ5WXlIakJpTGtvVWh4?oc=5",
+      "title": "Federal judge blocks ICE agents from arresting people at courthouses - Marin Independent Journal",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlVDdFIwZlUtLWhNS1BJVEQ2N08zYzdUWHdoNVAyS1ZYSFFBV1hnRjF0Y0ptUkxLNkZqWGlyQ3ZhMkQwaXRCWEt0Q2FsVVVWN2RHX2hRWFhVTTFfZmllLXVrZXIwX1RfbnRnVmlESWIwanNOSUNrWkFFeHpFVWt6QUVFVExUNENYZU1jZFlqQ1dvYWNxUURiQlRablNoYWFlWlR5bTlYTdIBrAFBVV95cUxNT1ZyX040R29Lb3ZXMW1pZlEyeTl1ejFVMjZaei1uUVdPa3BobzVpM0l6emVBX2gyVVVmZVRESHl3MUNmYmN2LWQ3bFpVdmZ5akZGclh6VnVxOEhxMzYyd0hYWTBTLS1MMXdOMzdPaTMxVkFsYkRmLW91OEp3VGxqNVJtZHBhTzBkTnh4aVVSTlpVZlR1RWh4OEFGZnJtSlZ5WXlIakJpTGtvVWh4?oc=5\" target=\"_blank\">Federal judge blocks ICE agents from arresting people at courthouses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marin Independent Journal</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Queer & trans",
-      "fetched_at": "2026-04-19T07:13:01.890506+00:00",
-      "published_at": "2026-04-17T21:51:40+00:00",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-05-20T23:16:47.211955+00:00",
+      "published_at": "2026-05-18T07:00:00+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Immigration & ICE": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMjZpajc1aTBPSlhUeF9FTWNSN1VPNUEtTGZoSUFCUnVXLVRsQ0dpZnlnVXFLZjdjX1VaMG1PMk5ObFQwVTc1V0lid0RCLXlUYXI2MHh4NXZPQ0ljc19EOHdJUlBENFZycllKSjR6cXUwSEZUR0ZVQ1pIU0Y3LUtkTlcxdXlCSXpXU1YwbzBUZmdPUjlSM2JPaTJwWW1pVy1zNDNoN244NTdSZUZpSFZndFlubnE?oc=5",
       "title": "Federal agents can\u2019t make arrests in N.Y. immigration courts, judge rules - NBC News",
@@ -14366,24 +14384,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFNVbnhxdTE4T0VEVUFJVHN1X2JKWE5LQXZTLTRBR0xNejF4VFBuUF8wWGt4TXZ6TUhERWNtU2lhNDR6aFZjZTJjNDktTzd5ZWFzYzRKb3oyb1l3eU1JLXFSU0ZZaFBMa0tWR2FDSTB1S09QYUMzdHFsQmNhLXM1eHM1bFM?oc=5",
-      "title": "Border czar promises 'mass deportations are coming' to fulfill Trump's promises - NPR",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFNVbnhxdTE4T0VEVUFJVHN1X2JKWE5LQXZTLTRBR0xNejF4VFBuUF8wWGt4TXZ6TUhERWNtU2lhNDR6aFZjZTJjNDktTzd5ZWFzYzRKb3oyb1l3eU1JLXFSU0ZZaFBMa0tWR2FDSTB1S09QYUMzdHFsQmNhLXM1eHM1bFM?oc=5\" target=\"_blank\">Border czar promises 'mass deportations are coming' to fulfill Trump's promises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-08T10:37:05.493637+00:00",
-      "published_at": "2026-05-07T09:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14425,6 +14425,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQREdVZk5ESmNvZWp4VFNLbEx6WGVFTFdsSHhSRWRyNWh2dDdzeVNJRm9fVmJYZ0pjVzNrcHQwQm4yc0NIYldmNTJwUjFxeUFVWkJSRlg3aEtNS2R0Q2pBaWppeDlIbGlvUzV2eTN6bzZ4dzQ5aENzTEJQQk9MNTRXVEhKZS12TkZyRlFmZ2hKRUNMbnRXNVpkaFRlbkd0RkVaY2FkaUppYzFyMHdzUS0xSldvVlg?oc=5",
+      "title": "Congress Vote: The House has passed H.R. 4544 - American Access to Banking Act - Quiver Quantitative",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQREdVZk5ESmNvZWp4VFNLbEx6WGVFTFdsSHhSRWRyNWh2dDdzeVNJRm9fVmJYZ0pjVzNrcHQwQm4yc0NIYldmNTJwUjFxeUFVWkJSRlg3aEtNS2R0Q2pBaWppeDlIbGlvUzV2eTN6bzZ4dzQ5aENzTEJQQk9MNTRXVEhKZS12TkZyRlFmZ2hKRUNMbnRXNVpkaFRlbkd0RkVaY2FkaUppYzFyMHdzUS0xSldvVlg?oc=5\" target=\"_blank\">Congress Vote: The House has passed H.R. 4544 - American Access to Banking Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-05-20T23:17:26.365511+00:00",
+      "published_at": "2026-05-20T18:59:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOalJLd0Q3NUJqWk0xUUxpUjZxSEtWNkI1WHlHUlhVTkN6T1otZTVXZGIycHVrbGp4UG42MklBanR5Ylo2N3BEbVZkV2Q0LU9HY3BfcmRiTWpQLXJBM24wNUpHWnBRanRiZThIUk13Z0s3YWN6ejlFTDFlajRJc0xieHpZU3pTa3BiQ3NhLQ?oc=5",
       "title": "Bipartisan home affordability bill passes the House - NPR",
@@ -16200,24 +16218,6 @@
       "published_at": "2026-04-30T23:23:57+00:00",
       "price": null,
       "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0J0MG4xRXpUUlVXc1Y2aEhkQ3ZaMWdabllUQmp6bV92UnpSWmtqTXdjWWUyMUEzdUI3MlpqVmhLUkd1bDZoRmpaNDdTUWdmR0JpSEdjQl9NeHE3U0Y0SDlqMDQ0QWVUek1Vb0NDRFNGRkJKMzNUU2RHVXN0NGVDTGo1THNaemJsQmNVQU5INTJ4VEVvMllneFR0S1BmVWFWanY2c3ZpU3V3bWdh?oc=5",
-      "title": "Trump signs bipartisan bill ending longest-ever shutdown of DHS - The Guardian",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0J0MG4xRXpUUlVXc1Y2aEhkQ3ZaMWdabllUQmp6bV92UnpSWmtqTXdjWWUyMUEzdUI3MlpqVmhLUkd1bDZoRmpaNDdTUWdmR0JpSEdjQl9NeHE3U0Y0SDlqMDQ0QWVUek1Vb0NDRFNGRkJKMzNUU2RHVXN0NGVDTGo1THNaemJsQmNVQU5INTJ4VEVvMllneFR0S1BmVWFWanY2c3ZpU3V3bWdh?oc=5\" target=\"_blank\">Trump signs bipartisan bill ending longest-ever shutdown of DHS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-05-01T04:56:38.993979+00:00",
-      "published_at": "2026-04-30T17:20:00+00:00",
-      "price": null,
-      "novelty_score": 0.9,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

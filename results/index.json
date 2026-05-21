@@ -5378,6 +5378,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQU93SjhUNVZqUzhSZFRrYVdLdjlZU3NlamdBQlRyNmpMcXV6dkh6ZldPa2R1dEVWakYxS002ZWtBRHJJQVcyRUx1bndqbi10cXJEVW40SnNjUlI0dmd0VGVadDgxUEU5MVl5QVl5eDlLTEtEajJsMmJPVnZoSHg1dENWOUJiNkZkZ0xkbG52Q0ZHSHQ3dm03VW9YanlGZURMRFJ1dmcxaFY5c2ZkWVJWVHdTcHJDZkVVeFhrS3UtcncwaVhpNDhpTVV1UWVGZXJUcENLWnRYcW1Ta2tOZEotd0FB?oc=5",
+      "title": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+ - VentureBeat",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQU93SjhUNVZqUzhSZFRrYVdLdjlZU3NlamdBQlRyNmpMcXV6dkh6ZldPa2R1dEVWakYxS002ZWtBRHJJQVcyRUx1bndqbi10cXJEVW40SnNjUlI0dmd0VGVadDgxUEU5MVl5QVl5eDlLTEtEajJsMmJPVnZoSHg1dENWOUJiNkZkZ0xkbG52Q0ZHSHQ3dm03VW9YanlGZURMRFJ1dmcxaFY5c2ZkWVJWVHdTcHJDZkVVeFhrS3UtcncwaVhpNDhpTVV1UWVGZXJUcENLWnRYcW1Ta2tOZEotd0FB?oc=5\" target=\"_blank\">Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-21T05:21:19.394733+00:00",
+      "published_at": "2026-05-20T21:16:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX2tJQkJ5UXJMU0R2RGJ6VXlwN1k5bEVnOE50VmVfTzN2aVpWQ3ptSHFjNXYxUFJIdFpLM0ltMm05S2lyajBjanhMOFRFczl5QTY0NHRLZ2pWRUdldUk5c002dVZsUEplcGxOSk5jczhwcHJKMnZ2bjM0UmZIVFRBY1VHSjRXRVJraDhJV2loNXQwSl9qek9OVDQyZ1hod1NhWTVaNGxXdW5WUy1ZdEdSVEtFSktEUlNCdnpSUlhmWjByZmxrZHVoTVFLS3ZsWlJHSXpPYkVyMTdLZ1pJcHlN0gHkAUFVX3lxTE5lWU13NVQyRC15TUgyazVmU1lKV253ZEtPU1Y0MExMSllYaUowZWZrOWQzOUx6SFQ3QlFCVWtGc0RTTEdxR1A4cm1xRnVpb0tXQnZNSldWczZBMzNkZ3ZsVUFUUVk4N0s2Qmt6Zkc5THJRSF9tbnBpM25SQ2NMeFhpbnU2cWtGNlJlVU1mNEo3MTNtUGtFYkdSX25xeGVwSDV3ZWZWOHQ1RmZvdEoxWEk5SHhUeG5heVZTd25pVTZjU3BRWFZVZlhlcmE3R3VzWk90WTV5S1NnUlc4dWNFUWJlZm1IUA?oc=5",
       "title": "White House to issue an executive order on govt review of advanced AI models before launch - Mint",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX2tJQkJ5UXJMU0R2RGJ6VXlwN1k5bEVnOE50VmVfTzN2aVpWQ3ptSHFjNXYxUFJIdFpLM0ltMm05S2lyajBjanhMOFRFczl5QTY0NHRLZ2pWRUdldUk5c002dVZsUEplcGxOSk5jczhwcHJKMnZ2bjM0UmZIVFRBY1VHSjRXRVJraDhJV2loNXQwSl9qek9OVDQyZ1hod1NhWTVaNGxXdW5WUy1ZdEdSVEtFSktEUlNCdnpSUlhmWjByZmxrZHVoTVFLS3ZsWlJHSXpPYkVyMTdLZ1pJcHlN0gHkAUFVX3lxTE5lWU13NVQyRC15TUgyazVmU1lKV253ZEtPU1Y0MExMSllYaUowZWZrOWQzOUx6SFQ3QlFCVWtGc0RTTEdxR1A4cm1xRnVpb0tXQnZNSldWczZBMzNkZ3ZsVUFUUVk4N0s2Qmt6Zkc5THJRSF9tbnBpM25SQ2NMeFhpbnU2cWtGNlJlVU1mNEo3MTNtUGtFYkdSX25xeGVwSDV3ZWZWOHQ1RmZvdEoxWEk5SHhUeG5heVZTd25pVTZjU3BRWFZVZlhlcmE3R3VzWk90WTV5S1NnUlc4dWNFUWJlZm1IUA?oc=5\" target=\"_blank\">White House to issue an executive order on govt review of advanced AI models before launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
@@ -7158,27 +7176,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5",
-      "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5\" target=\"_blank\">Introducing the IBM Granite 4.1 family of models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM Research</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-29T19:28:30.290270+00:00",
-      "published_at": "2026-04-29T15:00:00+00:00",
+      "url": "https://nyc.streetsblog.org/2026/05/21/fare-check-moving-bus-trial",
+      "title": "The MTA is Finally Checking Fares Without Stopping Buses",
+      "snippet": "MTA fare enforcement \"EAGLE teams\" will trial fare inspections on moving buses instead of holding up riders, officials said.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-21T05:07:45.100777+00:00",
+      "published_at": "2026-05-21T04:05:00+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.thecity.nyc/2026/05/20/nyc-schools-protest-buffer-zone-bill-menin/",
       "title": "Council Speaker Tries New \u2018Buffer Bill\u2019 After Mamdani Rebuff",
@@ -8954,24 +8972,6 @@
       "published_at": "2026-05-10T23:05:19+00:00",
       "price": null,
       "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://nyc.streetsblog.org/2026/05/13/mamdani-laguardia-queens-bus-lane",
-      "title": "Ahead of World Cup, Mamdani Unveils Plan to Speed Up Buses From LaGuardia Airport",
-      "snippet": "The eastbound bus lane will run on Broadway from 69th Street to Roosevelt Avenue, serving the free Q70 airport shuttle.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-13T09:41:51.948177+00:00",
-      "published_at": "2026-05-13T08:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -12586,6 +12586,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ0lCdWxDMFY5RzdsS0hxdlZzckpMbnY5SmVjeEVnMzdhMXJhbE1rbHUyekgwSkZCNEdOejVYNU9mYTU5QnlYcXhIaElVMTQ0OFhLYTNLc3JncWM3aEFCUlVmZlhtRFlGSkRBb3RmS181czhwY1hsckxMeXpxeGNiMmFXTUp0QUhFMEhwbWZWclp3a1NqRmwwT2R4dUVtUWF3RkRJUW1rMlnSAa4BQVVfeXFMTW5PRzBfNkdwcXh5RThsSzRUcHQ5aWNuRzBHWml5VTdFRFlUWm90YjFsYllvNTJsZ3NudWFwVGlIOTByZ18tM2VXeFJUX0x5REVUSVg0amZhQjJmdlppSElqUE8yay1nb1lsMU41WDRRMmlzd0dMc0pOWFdCRnRsbTc3cWhuMlNfbV8wdGZUYWZqTWZjTU5wd1R0X0N1amk0SkRFNGtIazE0QWpieVdn?oc=5",
+      "title": "Trump Admin Appears To Defy Court Order Less Than 24 Hours After Ruling - HuffPost",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ0lCdWxDMFY5RzdsS0hxdlZzckpMbnY5SmVjeEVnMzdhMXJhbE1rbHUyekgwSkZCNEdOejVYNU9mYTU5QnlYcXhIaElVMTQ0OFhLYTNLc3JncWM3aEFCUlVmZlhtRFlGSkRBb3RmS181czhwY1hsckxMeXpxeGNiMmFXTUp0QUhFMEhwbWZWclp3a1NqRmwwT2R4dUVtUWF3RkRJUW1rMlnSAa4BQVVfeXFMTW5PRzBfNkdwcXh5RThsSzRUcHQ5aWNuRzBHWml5VTdFRFlUWm90YjFsYllvNTJsZ3NudWFwVGlIOTByZ18tM2VXeFJUX0x5REVUSVg0amZhQjJmdlppSElqUE8yay1nb1lsMU41WDRRMmlzd0dMc0pOWFdCRnRsbTc3cWhuMlNfbV8wdGZUYWZqTWZjTU5wd1R0X0N1amk0SkRFNGtIazE0QWpieVdn?oc=5\" target=\"_blank\">Trump Admin Appears To Defy Court Order Less Than 24 Hours After Ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-05-21T05:16:08.332166+00:00",
+      "published_at": "2026-05-20T16:29:08+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVndwZVA4dnFvekRJQTgtaXdMQ0FqaHIzQVduOHhFeTdXZFp1SEdHUnFvUnpkRThHeFNzV1RSbGhTS1JqZ2dQaXhyQkx6aHpIMldZUlRZTmwtanh0cGJlUjZQdncyU2laYzY0a1V5cFNhWHdrSC1sWjZvaUEyWVlqU044QWNpanVBWXNiaF9kQWtVUkZzcTM1SDEwZHRWbkhlSGVwdw?oc=5",
       "title": "Man detained by ICE after judge restricts arrests was released: NYLAG - PIX11",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNVndwZVA4dnFvekRJQTgtaXdMQ0FqaHIzQVduOHhFeTdXZFp1SEdHUnFvUnpkRThHeFNzV1RSbGhTS1JqZ2dQaXhyQkx6aHpIMldZUlRZTmwtanh0cGJlUjZQdncyU2laYzY0a1V5cFNhWHdrSC1sWjZvaUEyWVlqU044QWNpanVBWXNiaF9kQWtVUkZzcTM1SDEwZHRWbkhlSGVwdw?oc=5\" target=\"_blank\">Man detained by ICE after judge restricts arrests was released: NYLAG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PIX11</font>",
@@ -14366,24 +14384,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QNXhGM2owVVdHMXJXVFNiZ1RLYk8yVzByWVRiaGRnUHN5cXlFYjdwZXRvQWk5UmdXUE1SdVdPakJTSnFUZThOZ0xrZzlKaXNOcm1Gcmw2M0VLZVRtaG96TFZjRF80Z2lhQXdzQ3F4T1loaUpibnc?oc=5",
-      "title": "New York Moves to Ban Masks for ICE Agents - jdjournal.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5QNXhGM2owVVdHMXJXVFNiZ1RLYk8yVzByWVRiaGRnUHN5cXlFYjdwZXRvQWk5UmdXUE1SdVdPakJTSnFUZThOZ0xrZzlKaXNOcm1Gcmw2M0VLZVRtaG96TFZjRF80Z2lhQXdzQ3F4T1loaUpibnc?oc=5\" target=\"_blank\">New York Moves to Ban Masks for ICE Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jdjournal.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-08T15:04:09.716023+00:00",
-      "published_at": "2026-05-08T07:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14425,6 +14425,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUpjYi1BbEh3ZTdmNjdhRklCX1R2MC1mVFc0SVBMd3NxT1VxaHJMbGF2NDZTMzZTUWw2Y0JmYjVzQ3p0RTV5V0ZTNW5idkozRmZNek12TVF0ZVpFU0xxalFkbklmdmpSNGpZeTFOal82WFRMMFNDUExIQU1sZHZTRVhnQ1FYTzBTdkJUaUxtVjhnVlZkQlHSAZYBQVVfeXFMTWhKM3Y2dmRVTjFDZFZydjk0YXpxSXhQcnNhSlBDXzFRaHItaTVuYmZDQWVRQTZhRXc5NFJpb0FsRVdBcXViUkdkbE5VSTRpWU1HSUoyVDlYQ3J0WW5KT3pxYWZOTzNmV292SnRIMURjREZScnZmWU1ITzVoNjVhemdoeDg0Y1JIUFlTbEU1Q3Uya0dCMFZR?oc=5",
+      "title": "US Senate advances measure to limit Trump's Iran war powers - DW.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUpjYi1BbEh3ZTdmNjdhRklCX1R2MC1mVFc0SVBMd3NxT1VxaHJMbGF2NDZTMzZTUWw2Y0JmYjVzQ3p0RTV5V0ZTNW5idkozRmZNek12TVF0ZVpFU0xxalFkbklmdmpSNGpZeTFOal82WFRMMFNDUExIQU1sZHZTRVhnQ1FYTzBTdkJUaUxtVjhnVlZkQlHSAZYBQVVfeXFMTWhKM3Y2dmRVTjFDZFZydjk0YXpxSXhQcnNhSlBDXzFRaHItaTVuYmZDQWVRQTZhRXc5NFJpb0FsRVdBcXViUkdkbE5VSTRpWU1HSUoyVDlYQ3J0WW5KT3pxYWZOTzNmV292SnRIMURjREZScnZmWU1ITzVoNjVhemdoeDg0Y1JIUFlTbEU1Q3Uya0dCMFZR?oc=5\" target=\"_blank\">US Senate advances measure to limit Trump's Iran war powers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-05-21T05:16:44.073873+00:00",
+      "published_at": "2026-05-20T01:59:32+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQREdVZk5ESmNvZWp4VFNLbEx6WGVFTFdsSHhSRWRyNWh2dDdzeVNJRm9fVmJYZ0pjVzNrcHQwQm4yc0NIYldmNTJwUjFxeUFVWkJSRlg3aEtNS2R0Q2pBaWppeDlIbGlvUzV2eTN6bzZ4dzQ5aENzTEJQQk9MNTRXVEhKZS12TkZyRlFmZ2hKRUNMbnRXNVpkaFRlbkd0RkVaY2FkaUppYzFyMHdzUS0xSldvVlg?oc=5",
       "title": "Congress Vote: The House has passed H.R. 4544 - American Access to Banking Act - Quiver Quantitative",
@@ -16200,24 +16218,6 @@
       "published_at": "2026-04-30T18:22:00+00:00",
       "price": null,
       "novelty_score": 0.9,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOHc4clItc3F2VXg5d29YeWtQeGNCTEZHOGJ0ZXdoRHZZLVdFMWxLQkxMOEQzdTZ2Wlp0Y3Y1aFRFbkE3bFlIVmJTd2hQMVZxb1ZRbG85c3Y4RGxQTGNOQTBBVV9Mc1g1cm1ZS01POEZ5UVgxbXZyYWZPRW5aNWlJYkJGYW14SWVDdllxNmlrWmJHckh0VDloTmtKT2Y3UW1QTXJnelp4WnlGZXl4M09pdndIVmdpR2tEYi0zT2pQdnZCVGRQdmlqcXRvUnZ2UDNLNTdvcllOTTEtc29zajdNdnZ2LW9qQQ?oc=5",
-      "title": "Trump signs bill funding the Department of Homeland Security, ending record shutdown - Federal News Network",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOHc4clItc3F2VXg5d29YeWtQeGNCTEZHOGJ0ZXdoRHZZLVdFMWxLQkxMOEQzdTZ2Wlp0Y3Y1aFRFbkE3bFlIVmJTd2hQMVZxb1ZRbG85c3Y4RGxQTGNOQTBBVV9Mc1g1cm1ZS01POEZ5UVgxbXZyYWZPRW5aNWlJYkJGYW14SWVDdllxNmlrWmJHckh0VDloTmtKT2Y3UW1QTXJnelp4WnlGZXl4M09pdndIVmdpR2tEYi0zT2pQdnZCVGRQdmlqcXRvUnZ2UDNLNTdvcllOTTEtc29zajdNdnZ2LW9qQQ?oc=5\" target=\"_blank\">Trump signs bill funding the Department of Homeland Security, ending record shutdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal News Network</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-05-01T06:43:47.683101+00:00",
-      "published_at": "2026-04-30T23:23:57+00:00",
-      "price": null,
-      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

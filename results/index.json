@@ -5396,6 +5396,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVUxGbWF5UGtIUWg0dDhBT0xobjhXNWxyQzZJMUFjVmZfWFhTUl9wbVNlcDRKYl9hZVRJUXhPM3R5T2hIY19qV3RxZ2ZDRDNiUk10YThFQTVmSVVEX3JYZF9lSnNMSE1ybTlSWE9EM0V1eEhuSldGWDZjaEkzZElTTEZaemh6T1VQVk5wYVhMeVVoZU92SVB6WHAwcXBVbWJhOVhZcGtwMWxJbjk2RmxKc0JwTTR5NGRjbTFzVUhYRVZscXlfelhnVnBYM3BNeFl2b3Z5a2NCd2c2TWdWaThKTUNhYw?oc=5",
+      "title": "Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows That Runs on as Few as Two H100 GPUs - MarkTechPost",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVUxGbWF5UGtIUWg0dDhBT0xobjhXNWxyQzZJMUFjVmZfWFhTUl9wbVNlcDRKYl9hZVRJUXhPM3R5T2hIY19qV3RxZ2ZDRDNiUk10YThFQTVmSVVEX3JYZF9lSnNMSE1ybTlSWE9EM0V1eEhuSldGWDZjaEkzZElTTEZaemh6T1VQVk5wYVhMeVVoZU92SVB6WHAwcXBVbWJhOVhZcGtwMWxJbjk2RmxKc0JwTTR5NGRjbTFzVUhYRVZscXlfelhnVnBYM3BNeFl2b3Z5a2NCd2c2TWdWaThKTUNhYw?oc=5\" target=\"_blank\">Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workflows That Runs on as Few as Two H100 GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarkTechPost</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-22T05:12:59.984605+00:00",
+      "published_at": "2026-05-21T21:47:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUkZ4YXBEbXNTTm9LOE15eGhLZlBxWmdqb1YwWVVRbUJCc3VnTVpTOS03TTlFejZwZWFkeU5KdFpTSVBsRkxmOVVkRWQ0WkttZVFhWk9FWV96YlRqcHIyQXkwMktKVm1yb1FYZDEzS002V1RITDBScEc4Xzh0QlZjYzhBUkRBb3hmVVpLWEZFbzFzMm5iNVNRTHc4THM3b3AzV0E?oc=5",
       "title": "Stability AI releases Stable Audio 3.0 for six-minute songs - Let's Data Science",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUkZ4YXBEbXNTTm9LOE15eGhLZlBxWmdqb1YwWVVRbUJCc3VnTVpTOS03TTlFejZwZWFkeU5KdFpTSVBsRkxmOVVkRWQ0WkttZVFhWk9FWV96YlRqcHIyQXkwMktKVm1yb1FYZDEzS002V1RITDBScEc4Xzh0QlZjYzhBUkRBb3hmVVpLWEZFbzFzMm5iNVNRTHc4THM3b3AzV0E?oc=5\" target=\"_blank\">Stability AI releases Stable Audio 3.0 for six-minute songs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
@@ -7176,27 +7194,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHJEdWloelJnOWU1cGxBdG90STdObjVMWnhlZ0VULW1WUEpHeE92bHlpbjFjdHRCS2ZLNXVKZEJpbHFsaWxWZl9Gd2E5OHl1aW9peWJXdDd3Sm1EUi10czc4SDM5eG1kWWxNRFBfTWVPZ1ZzVWVJOGNsT011aTVfY3BGNHpOYkI4RDYw?oc=5",
-      "title": "China's DeepSeek releases long-awaited new AI model - Yahoo Finance UK",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHJEdWloelJnOWU1cGxBdG90STdObjVMWnhlZ0VULW1WUEpHeE92bHlpbjFjdHRCS2ZLNXVKZEJpbHFsaWxWZl9Gd2E5OHl1aW9peWJXdDd3Sm1EUi10czc4SDM5eG1kWWxNRFBfTWVPZ1ZzVWVJOGNsT011aTVfY3BGNHpOYkI4RDYw?oc=5\" target=\"_blank\">China's DeepSeek releases long-awaited new AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-04-30T15:25:31.629408+00:00",
-      "published_at": "2026-04-24T08:33:10+00:00",
+      "url": "https://nyc.streetsblog.org/2026/05/22/firefighters-flex-union-muscle-in-bid-to-keep-deadly-astoria-corridor-unsafe",
+      "title": "Firefighters Flex Union Muscle In Bid To Keep Deadly Astoria Corridor Unsafe",
+      "snippet": "Rogue firefighters are attempting to kill a bike lane in Astoria, even though FDNY, DOT and Mayor Mamdani back the life-saving redesign.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-22T04:59:26.027260+00:00",
+      "published_at": "2026-05-22T04:03:00+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://nyc.streetsblog.org/2026/05/19/tuesdays-headlines-strike-edition",
       "title": "Tuesday\u2019s Headlines: Strike, Out Edition",
@@ -8978,27 +8996,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://qns.com/2026/05/queens-college-student-workforce-development/",
-      "title": "Queens College students celebrated for completing Queens Chamber\u2019s Student Workforce Development Program",
-      "snippet": "The Queens Chamber of Commerce recognized dozens of Queens College students for taking part in and completing the Student Workforce Development Program, a workforce initiative designed to prepare the students for careers in the clean energy economy, on Monday, May 11, at the Patio Room in Dining Hall of the Flushing-based school&#8217;s campus. This program,...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/05/queens-college-student-workforce-development/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-14T02:17:39.475973+00:00",
-      "published_at": "2026-05-13T18:00:31+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1tk5yf5/juicy_love_dion_crowd_surfing_at_the_kitty_kat/",
+      "title": "Juicy Love Dion crowd surfing at the Kitty Kat Ball in SF",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tk5yf5/juicy_love_dion_crowd_surfing_at_the_kitty_kat/\"> <img alt=\"Juicy Love Dion crowd surfing at the Kitty Kat Ball in SF\" src=\"https://preview.redd.it/krekj03ppl2h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6efcce4ca7601fe98cfebb68f64df4eeea1129b9\" title=\"Juicy Love Dion crowd surfing at the Kitty Kat Ball in SF\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/GiggleAtAFuneral\"> /u/GiggleAtAFuneral </a> <br /> <span><a href=\"https://i.redd.it/krekj03ppl2h1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tk5yf5/juicy_love_dion_crowd_surfing_at_the_kitty_kat/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-05-22T02:41:50+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.5,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1tk4foj/alyssa_hunter_s14_as10_will_be_a_contestant_on/",
       "title": "Alyssa Hunter (S14 & AS10) will be a contestant on the Puertorrican version of Dancing with the Stars, \"Claro Que Baila!\"",
@@ -10771,24 +10789,6 @@
       "source_type": "social",
       "topic_name": "Drag Race & drag",
       "fetched_at": "2026-04-21T08:04:36+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1sr3yx8/drag_race_as8_winner_jimbo_reacts_to_airplane/",
-      "title": "'Drag Race' AS8 winner Jimbo reacts to airplane evacuation, reported bomb scare (exclusive)",
-      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>I hope Jimbo is OK and doing well after this incident. The reporter who interviewed Jimbo also has some photos from the incident on his Twitter page.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kirahachi\"> /u/kirahachi </a> <br /> <span><a href=\"https://ew.com/rupauls-drag-race-all-stars-8-winner-jimbo-evacuated-airplane-bomb-scare-11953636\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1sr3yx8/drag_race_as8_winner_jimbo_reacts_to_airplane/\">[comments]</a></span>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-04-20T21:40:33+00:00",
       "published_at": null,
       "price": null,
       "novelty_score": 0.6,
@@ -12604,6 +12604,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGFQM3ZZZ3FTVGVXSE5nVXNwMXEtMVY4WTI3YlZhcFVEbkJENGk4bFJod1VSbjN1WGRlZmJRWHB6dFVKdmIteGtxWEJYNnc5dWFFN2FqYm5SRDlBY0twSXNhUWFpbDlrckhJb2w3UG9WX0tRSDhzTU51b3I2bzdjNnFhZC1wOUoxMTZDOEt1ZjRfSXFKRi1ndWdDeDBmYzNJS2pEWQ?oc=5",
+      "title": "Man arrested day after judge bans most arrests outside New York immigration courts - Times Union",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGFQM3ZZZ3FTVGVXSE5nVXNwMXEtMVY4WTI3YlZhcFVEbkJENGk4bFJod1VSbjN1WGRlZmJRWHB6dFVKdmIteGtxWEJYNnc5dWFFN2FqYm5SRDlBY0twSXNhUWFpbDlrckhJb2w3UG9WX0tRSDhzTU51b3I2bzdjNnFhZC1wOUoxMTZDOEt1ZjRfSXFKRi1ndWdDeDBmYzNJS2pEWQ?oc=5\" target=\"_blank\">Man arrested day after judge bans most arrests outside New York immigration courts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Union</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-05-22T05:08:02.271372+00:00",
+      "published_at": "2026-05-19T22:57:15+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmVMa2NfM2V0OUJWVkNwSlFuSklZaWFsMUlqd0RSVllpS0YzVzZmTHpvdE5kSjlzdEl0dk8xbmF2amdXLTZIYW43M2xOb0pZM01GTDRHbFRMLVJ5YkhtcFY3Qmo1TXB0RTdzYXUyT1NwVnYtWXpodWljenRUdUZ1MjFuSFBGUEZhZVFWWGtWdw?oc=5",
       "title": "'Tom Homan can shove it': New York to enact ICE accountability measures - Yahoo",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmVMa2NfM2V0OUJWVkNwSlFuSklZaWFsMUlqd0RSVllpS0YzVzZmTHpvdE5kSjlzdEl0dk8xbmF2amdXLTZIYW43M2xOb0pZM01GTDRHbFRMLVJ5YkhtcFY3Qmo1TXB0RTdzYXUyT1NwVnYtWXpodWljenRUdUZ1MjFuSFBGUEZhZVFWWGtWdw?oc=5\" target=\"_blank\">'Tom Homan can shove it': New York to enact ICE accountability measures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
@@ -14384,24 +14402,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmVqLUhFY1pHQkNwRFcyMWVXbzB4aVg3RklZSDNMMWdJRGlpbGNtcmNFaG1zdF9ZdXhWNThlQl9FeWdweVQyQmROZ256bXRfeGdpZFpTWUNWeWZiYThCQ3pGM1VuVnpwdXhqYWFVQ3lqZmswWmZxZkRYRTJoSkg0d1JCbVozdXhH?oc=5",
-      "title": "Hochul curbs local coordination with ICE - The Chief",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmVqLUhFY1pHQkNwRFcyMWVXbzB4aVg3RklZSDNMMWdJRGlpbGNtcmNFaG1zdF9ZdXhWNThlQl9FeWdweVQyQmROZ256bXRfeGdpZFpTWUNWeWZiYThCQ3pGM1VuVnpwdXhqYWFVQ3lqZmswWmZxZkRYRTJoSkg0d1JCbVozdXhH?oc=5\" target=\"_blank\">Hochul curbs local coordination with ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Chief</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-08T21:00:09.493853+00:00",
-      "published_at": "2026-05-08T19:28:04+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14443,6 +14443,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS2k5N2xRekx1OGQ5dFR3aFdpMnY0SnY0cUlCcG9rZnlwVGw1Tk5XRVlEdkNyaG82U0dyQk5HUlhoamJFYzktUXJxYWJFYnhoQW1EUml4U3BXV05hRzlXcEdTVl9HMGpUVG9YQXBBM1d5Ml9qcV9KcjhZektzNlVXZkFoUkc0ek9lcXdXN3ZIZkhTT25INGlKSHdvc2ZNYV9Da0tyaWViQkZHYTl5R21xOHEtLVNLWkU5NEU0UEp3?oc=5",
+      "title": "Congress Vote: The House has passed H.R. 1041 - Veterans 2nd Amendment Protection Act - Quiver Quantitative",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNS2k5N2xRekx1OGQ5dFR3aFdpMnY0SnY0cUlCcG9rZnlwVGw1Tk5XRVlEdkNyaG82U0dyQk5HUlhoamJFYzktUXJxYWJFYnhoQW1EUml4U3BXV05hRzlXcEdTVl9HMGpUVG9YQXBBM1d5Ml9qcV9KcjhZektzNlVXZkFoUkc0ek9lcXdXN3ZIZkhTT25INGlKSHdvc2ZNYV9Da0tyaWViQkZHYTl5R21xOHEtLVNLWkU5NEU0UEp3?oc=5\" target=\"_blank\">Congress Vote: The House has passed H.R. 1041 - Veterans 2nd Amendment Protection Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-05-22T05:08:36.541931+00:00",
+      "published_at": "2026-05-21T22:59:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaGFmR25mVmlPTmZHQ085eDRpR1EyeTBSUHhRSEpPejEzVUVfWlVpV0pQblJoc0N6MVcya1FmOUxTT0l4dTQ3dnNoSGYzNnQxaUJ3NGxvaWM2Wm91Ui1jMXVRV19QdTgzNDhaa3lSWGNlUUhmeGRnbTdNaEFIcE9pNDlhRklVYTVibUY0ZV9Ed1JxdGF5OXZCU181T1FSdWhYOUFkSDVwcVZQZkUwX3hlMk1tN2FodDBUQlc00gHAAUFVX3lxTE5CUWh2Nnl5WWF5WkthZW9oZllBb2pHSU1ONTdrM05KdUQwcWFpaDkxdkZySl9VZjBuOGo1TXBlcFFGcHZLWnRSQTFnY2h6U2RNOVc5Z1JuS3RRMDN3Vkc1c2JGamZwUkFaZU9kN1RrRDhGLUh1VTI5MTVNUGRSNWNPd3JMUXlUczJjeWFoYTdaTTRWQlRReC1oSTF5dlFYLXRJM015YXlKWVRfR0Z0Q2ZNZlkzTlVFbFhpNXVVQTFYSw?oc=5",
       "title": "WATCH LIVE: House expected to vote on Senate resolution to limit Trump's war powers - PBS",
@@ -16218,24 +16236,6 @@
       "published_at": "2026-04-30T18:33:59+00:00",
       "price": null,
       "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUlFWelN4aXVnMWNVUmRvbUZpczFpMEkzN1NoNmdUZnJZNlhEQlFnVkxEMTRXXy1WRnBtOXJ6TUlJd19VX1FkM0o4MFlCZTZsVUVUOGp2YmM0MUs4R2hVQkU1Y0haUUhfWHRyR0tlRW53NXl2TXhKd2RmYS13b28wUGh6SWxFbUtzY2g0Q1M4Uk9vR2fSAZgBQVVfeXFMT1FYVHdtRHk4ZGlfU3ozQmpGUWtzazNUWFl3SXR0QjdicVREQ2ZXNWM5Nl91dmFyUTRXbmk2S0Z4WFBJUzlOR1BxVEt4VV9xZC01WFlpUFBMTXRqOHM3UTROdWdlYmNfcm9zdng4SHpLdVdaOVNpOEVKMUhacUpRYXRuOFdMamJxdk4yVHRXMFg4Z1A4OVZXLXA?oc=5",
-      "title": "Supreme Court weakens Voting Rights Act in major redistricting case, voiding Louisiana's congressional map - CBS News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQUlFWelN4aXVnMWNVUmRvbUZpczFpMEkzN1NoNmdUZnJZNlhEQlFnVkxEMTRXXy1WRnBtOXJ6TUlJd19VX1FkM0o4MFlCZTZsVUVUOGp2YmM0MUs4R2hVQkU1Y0haUUhfWHRyR0tlRW53NXl2TXhKd2RmYS13b28wUGh6SWxFbUtzY2g0Q1M4Uk9vR2fSAZgBQVVfeXFMT1FYVHdtRHk4ZGlfU3ozQmpGUWtzazNUWFl3SXR0QjdicVREQ2ZXNWM5Nl91dmFyUTRXbmk2S0Z4WFBJUzlOR1BxVEt4VV9xZC01WFlpUFBMTXRqOHM3UTROdWdlYmNfcm9zdng4SHpLdVdaOVNpOEVKMUhacUpRYXRuOFdMamJxdk4yVHRXMFg4Z1A4OVZXLXA?oc=5\" target=\"_blank\">Supreme Court weakens Voting Rights Act in major redistricting case, voiding Louisiana's congressional map</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-05-01T22:52:54.952212+00:00",
-      "published_at": "2026-04-29T14:20:00+00:00",
-      "price": null,
-      "novelty_score": 0.9,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

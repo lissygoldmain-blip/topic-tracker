@@ -15118,5 +15118,17 @@
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVJYR0xDNzFuY0ZLV2xQZ0JHbDBISkNXUi04SEhwZlRac1dvRHJJclYtQWlpSTlWRHZxRFNlY2ExMTdNeUhyMUJ4eW1WVXZSZHhYVTNfQ09MRk1GdTJ2V2tMOGhNNGN5XzI3aHVueDd5UmQzSHdseEI1Y1dldnpHX1NUSTNROXEzcFRzR2dlZVhpZw?oc=5": {
     "seen_at": "2026-05-23T14:46:25.253920+00:00",
     "source_type": "news"
+  },
+  "https://jp.mercari.com/item/m33010487941": {
+    "seen_at": "2026-05-23T14:55:03.090652+00:00",
+    "source_type": "shopping"
+  },
+  "https://jp.mercari.com/item/m73277351539": {
+    "seen_at": "2026-05-23T14:55:03.090945+00:00",
+    "source_type": "shopping"
+  },
+  "https://www.indiewire.com/features/interviews/i-love-boosters-boots-riley-director-interview-1235195594/": {
+    "seen_at": "2026-05-23T15:01:11.493300+00:00",
+    "source_type": "feeds"
   }
 }

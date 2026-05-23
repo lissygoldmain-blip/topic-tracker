@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.artsjournal.com/diacritical/2026/05/aj-chronicles-hollywood-6-non-profit-arts-1.html",
+      "title": "AJ Chronicles: Hollywood, 6; Non-Profit Arts, 1",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/05/Thinking-PixTeller-e1779551841589-90x90.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />Hollywood has reinvented its core model at least six times in a century. The nonprofit arts model has reinvented itself exactly once. Now there may no choice. But what's the case?",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-05-23T18:58:10.151691+00:00",
+      "published_at": "2026-05-23T16:02:27+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://moto-perpetuo.com/limmie-pulliam-dies-at-51/",
       "title": "Beloved Tenor Limmie Pulliam, 51",
       "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/05/Screenshot_22-5-2026_95449_moto-perpetuo.com_-90x90.jpeg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />His return became one of the most remarkable late-career success stories in American opera. As his voice matured into a true dramatic tenor, Pulliam emerged as a sought-after interpreter of Verdi and other heavyweight repertoire.\u00a0&#8211; Moto Perpetuo",
@@ -1781,27 +1799,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Health research": [
     {
-      "url": "https://www.msn.com/en-us/travel/news/opera-cancelled-after-single-complaint-over-cultural-insensitivity/ar-AA22GZ3I",
-      "title": "Opera Production Canceled After A Single Complaint",
-      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/05/Screenshot_12-5-2026_83438_www.msn_.com_-90x90.jpeg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />The Minack Theatre at\u00a0Porthcurno\u00a0pulled a planned production of L\u00e9o Delibes\u2019s Lakm\u00e9 after a US-based Hindu campaigner described the opera as \u201cshallow exoticism based on prejudice\u201d. &#8211; The Telegraph (MSN)",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-05-12T19:30:02.954919+00:00",
-      "published_at": "2026-05-12T17:34:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkhnNzZ5eTFHUi1zYjZWbF83U21McGplUmlTdE1CRVlycXB1ZkZMaThkeGhHcFoybWx2Y2FGRUpMUFNKQ1ZjTDN5ZjhqZlRnYU9KSXZWVldHOEhRTndhU2FaSkxKdlZvQW1BT2FnRl9zZkhxODBWWGRCN2RJdXNfVWEtWWNiM2J6VlBTQW02aTc0V1lfR2VMeTNOTHhyUi10QlU5OG43WHByWmJ1T0ZuRG5SSGc4Zw?oc=5",
+      "title": "GLP-1 drugs may lower risk of some cancers spreading, study suggests - USA Today",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkhnNzZ5eTFHUi1zYjZWbF83U21McGplUmlTdE1CRVlycXB1ZkZMaThkeGhHcFoybWx2Y2FGRUpMUFNKQ1ZjTDN5ZjhqZlRnYU9KSXZWVldHOEhRTndhU2FaSkxKdlZvQW1BT2FnRl9zZkhxODBWWGRCN2RJdXNfVWEtWWNiM2J6VlBTQW02aTc0V1lfR2VMeTNOTHhyUi10QlU5OG43WHByWmJ1T0ZuRG5SSGc4Zw?oc=5\" target=\"_blank\">GLP-1 drugs may lower risk of some cancers spreading, study suggests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-05-23T19:01:38.498666+00:00",
+      "published_at": "2026-05-23T16:36:00+00:00",
       "price": null,
-      "novelty_score": 0.6,
+      "novelty_score": 0.65,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Health research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdjY1M0laT01yOVktU1FEb0lFVVBuYjVEV0trM0JtV184RmljZGJ2a2hvMHloaHFaek5HczhvVkR2MzAtb0Zvd2I0dFhmQmdZNXNCNGVkSnlNV000b01rVEVOTEEyOGN4TjdfekkxOXBQTDQ4ay1aaFVSYnA4OExpVDlRSzFqVVdxdl9TRGtvV0g5RmtkLUFDNzNBdHNiclBlbUdVd2tZNmY4MTZ4R2ZvZ1pVYVE5c00?oc=5",
       "title": "Weight-Loss Drugs May Have Surprising Side Effect: Stalling Cancer - WSJ",
@@ -16317,6 +16335,24 @@
     }
   ],
   "Shopping": [
+    {
+      "url": "https://jp.mercari.com/item/2JGonBkShnGQZDjk9ZVx7a",
+      "title": "#aux \u30ab\u30cd\u30b3\u30a4\u30b5\u30aa KANEKO ISAO \u30bb\u30c3\u30c8\u30a2\u30c3\u30d7 \u9ed2 \u30aa\u30d5\u30db\u30ef\u30a4\u30c8 \u30ec\u30fc\u30b9 \u30d1\u30f3\u30c4 \u30b9\u30fc\u30c4 \u30c0\u30d6\u30eb \u91d1\u91e6 \u30d6\u30ed\u30fc\u30c1\u4ed8\u304d \u30f4\u30a3\u30f3\u30c6\u30fc\u30b8 [970954] k01",
+      "snippet": "",
+      "source": "mercari",
+      "source_type": "shopping",
+      "topic_name": "Shopping",
+      "fetched_at": "2026-05-23T18:56:52.678869+00:00",
+      "published_at": null,
+      "price": "\u00a556,097",
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://jp.mercari.com/item/m41922534278",
       "title": "\u30ab\u30cd\u30b3\u30a4\u30b5\u30aa \u30b8\u30e3\u30ab\u30fc\u30c9\u5510\u8349 \u30bb\u30c3\u30c8\u30a2\u30c3\u30d7 \u30b9\u30fc\u30c4 \u30b8\u30e3\u30b1\u30c3\u30c8 \u91d1\u5b50\u529f",

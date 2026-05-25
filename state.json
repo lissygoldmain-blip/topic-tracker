@@ -125,9 +125,9 @@
     },
     "AI & tech research": {
       "gdelt": {
-        "consecutive_failures": 4,
-        "disabled": false,
-        "disabled_at": null
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-05-25T13:13:19.394895+00:00"
       },
       "google_news": {
         "consecutive_failures": 0,
@@ -260,7 +260,7 @@
         "disabled_at": null
       },
       "mercari": {
-        "consecutive_failures": 1,
+        "consecutive_failures": 0,
         "disabled": false,
         "disabled_at": null
       },
@@ -272,9 +272,9 @@
     },
     "Substack picks": {
       "substack": {
-        "consecutive_failures": 4,
-        "disabled": false,
-        "disabled_at": null
+        "consecutive_failures": 5,
+        "disabled": true,
+        "disabled_at": "2026-05-25T13:00:56.559016+00:00"
       }
     }
   }

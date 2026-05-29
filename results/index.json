@@ -3846,6 +3846,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/05/amores-perros-screenplay-tv-series-guillermo-arriaga-1236930010/",
+      "title": "Original \u2018Amores Perros\u2019 Screenplay Being Adapted As TV Series From AF Films & Sofia Vergara\u2019s LatinWe",
+      "snippet": "EXCLUSIVE: Guillermo Arriaga&#8217;s original screenplay on which seminal Mexican film Amores Perros was based is being turned into a scripted TV series. AF Films has acquired rights to Perro Blanco, Perro Negro and is working with Sofia Vergara&#8217;s Hispanic talent management and entertainment company LatinWe to develop and produce a high-end international drama series. A [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-05-29T10:45:03.352615+00:00",
+      "published_at": "2026-05-29T09:35:45+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/05/box-office-backrooms-1236929953/",
       "title": "Let The \u2018Backrooms\u2019 Bonanza Begin: Previews For Kane Parsons Movie At $9M \u2013 Late Thursday Box Office",
       "snippet": "EXCLUSIVE: There&#8217;s a lot of cash getting stuffed in those Backrooms. The A24 Kane Parsons feature take of his digital IP is racking up $9M in previews which began at 4PM. We told you presales were at a crazy blockbuster level, around Scream 7&#8216;s. Well, guess what? The previews here for Backrooms are ahead of [&#8230;]",
@@ -5626,27 +5644,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://www.indiewire.com/criticism/movies/the-unknown-movie-review-lea-seydoux-body-swap-1235194542/",
-      "title": "\u2018The Unknown\u2019 Review: A Man Becomes L\u00e9a Seydoux After Having Sex with Her in Beguiling Thriller",
-      "snippet": "Cannes: A hypnotic, vertiginous, Antonioni-flavored body swap movie from the co-writer of \"Anatomy of a Fall.\"",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-05-18T19:31:23.012768+00:00",
-      "published_at": "2026-05-18T15:50:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XVWtpZnRrcEsxTlpqeklPZmxSNUlZdHJOMzhqV0JHUFJUdXYwazd4ek4tUVNSRi1ZSUp5d3lIekdZUDFZcVBVYWVhOEN0dmRXT0VQYTMtWVJMMTZFU0NyU0JOYTdwdkdGaUxCV2x1Yw?oc=5",
+      "title": "Anthropic releases Claude Opus 4.8, hints Mythos is coming - qz.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5XVWtpZnRrcEsxTlpqeklPZmxSNUlZdHJOMzhqV0JHUFJUdXYwazd4ek4tUVNSRi1ZSUp5d3lIekdZUDFZcVBVYWVhOEN0dmRXT0VQYTMtWVJMMTZFU0NyU0JOYTdwdkdGaUxCV2x1Yw?oc=5\" target=\"_blank\">Anthropic releases Claude Opus 4.8, hints Mythos is coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-05-29T10:56:15.734357+00:00",
+      "published_at": "2026-05-28T18:56:37+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KV0pUeThYWHFxMWE0LVNTSEhvRGZrMUtzZ1BfVUZZdDJBNkhjQmVOWTJhUjFVSi1aMVZwRjBqZVBUN0ZxLWRWMy1BSWc1ZkhFZ1REd29iLTVRRjc3bnVSdS1R?oc=5",
       "title": "Anthropic: Wide release of Claude Mythos-level AI models in 'coming' weeks - nhk.or.jp",
@@ -7428,27 +7446,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTlQaHVUN1Rwa25wU0hzaTB3ZVlxYkVRUXNvWmYxXzk2b3FyOVYtWjNHMjVtRGJuaG1HcUxsSnV4b2hCalQ2dTEzX3NqYTMtQ2IwMUdCZnNtdENFMkFVUmdwbG5yNGYzRVkyT1o4Vk56b0NOWGF1Nl9KQWpHTWZkb3hiOWJnSFVManV0ckx2V1VKc3FEQnhCLThLc2JHQQ?oc=5",
-      "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models - The Verge",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYTlQaHVUN1Rwa25wU0hzaTB3ZVlxYkVRUXNvWmYxXzk2b3FyOVYtWjNHMjVtRGJuaG1HcUxsSnV4b2hCalQ2dTEzX3NqYTMtQ2IwMUdCZnNtdENFMkFVUmdwbG5yNGYzRVkyT1o4Vk56b0NOWGF1Nl9KQWpHTWZkb3hiOWJnSFVManV0ckx2V1VKc3FEQnhCLThLc2JHQQ?oc=5\" target=\"_blank\">Google, Microsoft, and xAI will allow the US government to review their new AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-05-05T23:05:41.743757+00:00",
-      "published_at": "2026-05-05T14:26:59+00:00",
+      "url": "https://www.thecityreporter.nyc/2026/05/28/mamdani-adams-charter-commission-coge/",
+      "title": "Mamdani Kills Adams-Era Charter Commission and Starts His Own COGE, Commission on Government Efficiency",
+      "snippet": "<figure><img alt=\"Mayor Zohran Mamdani speaks alongside Gov. Kathy Hochul at the Garden School in Jackson Heights about extending 100,000 3-K offers,\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecityreporter.nyc/wp-content/uploads/2026/05/0551926_3k_offers_presser-4.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Mayor Zohran Mamdani announced an official review of the city\u2019s charter focused on government efficiency and also dissolved the charter commission announced in the final hours of former Mayor Eric Adams\u2019 term. The cheekily-titled Commission on Government Efficiency, or COGE \u2013 a nod to the Trump administration\u2019s DOGE, which cut services \u2013 is \u201ctasked with [&#8230;]</p>\n<p>The post <a href=\"https://www.thecityreporter.nyc/2026/05/28/mamdani-adams-charter-commission-coge/\">Mamdani Kills Adams-Era Charter Commission and Starts His Own COGE, Commission on Government Efficiency</a> appeared first on <a href=\"https://www.thecityreporter.nyc\">The City Reporter</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-05-29T10:43:05.704385+00:00",
+      "published_at": "2026-05-28T19:44:53+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVQyZ3ZBVDYxLVl6Qm85YVVIODIyWFQyV1NtMDRFOVNzS2hYeWhVeElmU0E5a2RxS2xXak9TRXhCQ1pFWmpjbFdXelNpQzVadzZmZ2JQeXA5R0xBY3NabG5YYVVDLUdwTV93YWQ3WlZfSjBvUmJpQTJrMEdlZnh6SlhRSjdPdnJfdm9oNkNxLVNfSHN2VVRvdg?oc=5",
       "title": "Permits Filed for 33-28 148th Street in Flushing, Queens - New York YIMBY",
@@ -9222,24 +9240,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-05-20T10:25:00.705347+00:00",
       "published_at": "2026-05-19T20:47:42+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.amny.com/news/lirr-strike-fallout-mta-defends-deal-service-resumes/",
-      "title": "LIRR strike fallout: MTA official defends tentative deal that ended work stoppage as service resumes",
-      "snippet": "A top MTA official defended on Tuesday the agency's tentative deal with five Long Island Rail Road unions that ended their first strike in more than three decades as trains began rolling again at midday. LIRR President Rob Free, during a May 19 news conference at the Jamaica LIRR station ahead of the return\u2026 <a class=\"read-more\" href=\"https://www.amny.com/news/lirr-strike-fallout-mta-defends-deal-service-resumes/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-20T02:32:08.631779+00:00",
-      "published_at": "2026-05-19T21:45:45+00:00",
       "price": null,
       "novelty_score": 0.5,
       "summary": null,
@@ -12856,6 +12856,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MVGVHYzQzS2JzYWFGb2tuSWpqWENSMU1BRko2WXdLZ2pSejRWV213UXluQjluYWtoeG1XZkFlSmhvdHVLNklJbHVOTEwwQzZwMDh3UlFIM29CQmVGNmZTdG5VMUFFRzZlbjdFTFJrS3BJTmxnQjhZ?oc=5",
+      "title": "Trump's immigration agenda: ICE's tactics of fear and spectacle - Epicenter NYC",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1MVGVHYzQzS2JzYWFGb2tuSWpqWENSMU1BRko2WXdLZ2pSejRWV213UXluQjluYWtoeG1XZkFlSmhvdHVLNklJbHVOTEwwQzZwMDh3UlFIM29CQmVGNmZTdG5VMUFFRzZlbjdFTFJrS3BJTmxnQjhZ?oc=5\" target=\"_blank\">Trump's immigration agenda: ICE's tactics of fear and spectacle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Epicenter NYC</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-05-29T10:51:04.098131+00:00",
+      "published_at": "2026-05-28T17:26:07+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOejBIX1RkcnlnMHVLU0tSZTdneU5PQnc2Tno2Z29SY2pKZGZMUVZGTkUtb1Vkd0J0NldibDh3VS05Z0N3UVYtUWh1SG5uUU10M296SlpHREw1ejBvU3FiS1JGbEN5T0JpUXpLSzltN0pWLVc0bmJ3dlhNQ1pGUGhEd3RKSzFob1o2Q3hHS3RtSzZGOHVCNWo3UlJlbFhLbDjSAacBQVVfeXFMTVZYNnk3aVctdEZzNFhtaGJ1UEV2VER0NFJFVkt3ZjR5NHpqazB6dWJvczN3T0JmUFFBWFdmLVJkZGVSUkl3Q0dCa3BEOUNGRVpSbzM0djkyOVFpZ2ZDaWRCQWtTM1RVMUVkdmRTaG1xWFdDQ19ETVhVZDNSd2IySWVhSVI5UER6c3NMMFlJQ3BFdS1TaXp1WWNRSW5PYmVGT2w2cUR6R1U?oc=5",
       "title": "6 protesters arrested after clash with ICE officers outside Delaney Hall - NBC New York",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOejBIX1RkcnlnMHVLU0tSZTdneU5PQnc2Tno2Z29SY2pKZGZMUVZGTkUtb1Vkd0J0NldibDh3VS05Z0N3UVYtUWh1SG5uUU10M296SlpHREw1ejBvU3FiS1JGbEN5T0JpUXpLSzltN0pWLVc0bmJ3dlhNQ1pGUGhEd3RKSzFob1o2Q3hHS3RtSzZGOHVCNWo3UlJlbFhLbDjSAacBQVVfeXFMTVZYNnk3aVctdEZzNFhtaGJ1UEV2VER0NFJFVkt3ZjR5NHpqazB6dWJvczN3T0JmUFFBWFdmLVJkZGVSUkl3Q0dCa3BEOUNGRVpSbzM0djkyOVFpZ2ZDaWRCQWtTM1RVMUVkdmRTaG1xWFdDQ19ETVhVZDNSd2IySWVhSVI5UER6c3NMMFlJQ3BFdS1TaXp1WWNRSW5PYmVGT2w2cUR6R1U?oc=5\" target=\"_blank\">6 protesters arrested after clash with ICE officers outside Delaney Hall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC New York</font>",
@@ -14636,24 +14654,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXBoVHNaM3BvZFAtaXdEX2c0V2NjR25rYnVVTng1Rk5TOHRiazJfalB6YWhvdHJvc0diYzlYZ3BoQTdxOVBQcm81b2pGYUh3dDNZVmFCUVU4bEEteG9qVTdsS3pEaEtSSW03cWRxOXVzaHFyY3JkOURjTldrVHVGYng5YnIwbnlZYV83T2hrY2s5Ti05U3IwOHRUVmxNSFM2cHRvYlRueFhFQ2s?oc=5",
-      "title": "Advocated outraged after ICE agents make arrest at immigration court - CBS News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXBoVHNaM3BvZFAtaXdEX2c0V2NjR25rYnVVTng1Rk5TOHRiazJfalB6YWhvdHJvc0diYzlYZ3BoQTdxOVBQcm81b2pGYUh3dDNZVmFCUVU4bEEteG9qVTdsS3pEaEtSSW03cWRxOXVzaHFyY3JkOURjTldrVHVGYng5YnIwbnlZYV83T2hrY2s5Ti05U3IwOHRUVmxNSFM2cHRvYlRueFhFQ2s?oc=5\" target=\"_blank\">Advocated outraged after ICE agents make arrest at immigration court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-20T10:53:05.391025+00:00",
-      "published_at": "2026-05-20T10:28:00+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14695,6 +14695,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaHdIcksyejI0ZG9HZFV0bGpXREJDLUIyaFkwalM2bERsMXgzYkR5cmVxLUU2Yk42bkhrbVZLUjZJelN6VnBLWlk5Z0tNbkdHMGowVm5nTV84S2ZUOWViX1h1aE8yUmZ2Y2txcGNMMVJVT2RZcWZsOTlkT3JhendCdVF6RG1zWW9rdjE1RUVPTmtPVXJLcUhtUHZoZEE3QVJfS09nMUNuU2F3SVZZV1JCdXdLSXFPWER0VXZiSXRQdkxIUlJ4bG1IbEd1VmtKb1R4SnJFM1B1UkZLVjJ5N0g1U01lNjBMUUMxZHV1UzhQNWdjTWpG?oc=5",
+      "title": "LDF Applauds Supreme Court Ruling that Black Man Was Improperly Denied a Fair Jury Selection Process in Death Penalty Case - Legal Defense Fund",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaHdIcksyejI0ZG9HZFV0bGpXREJDLUIyaFkwalM2bERsMXgzYkR5cmVxLUU2Yk42bkhrbVZLUjZJelN6VnBLWlk5Z0tNbkdHMGowVm5nTV84S2ZUOWViX1h1aE8yUmZ2Y2txcGNMMVJVT2RZcWZsOTlkT3JhendCdVF6RG1zWW9rdjE1RUVPTmtPVXJLcUhtUHZoZEE3QVJfS09nMUNuU2F3SVZZV1JCdXdLSXFPWER0VXZiSXRQdkxIUlJ4bG1IbEd1VmtKb1R4SnJFM1B1UkZLVjJ5N0g1U01lNjBMUUMxZHV1UzhQNWdjTWpG?oc=5\" target=\"_blank\">LDF Applauds Supreme Court Ruling that Black Man Was Improperly Denied a Fair Jury Selection Process in Death Penalty Case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legal Defense Fund</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-05-29T10:51:58.450899+00:00",
+      "published_at": "2026-05-28T19:24:04+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaUNJSVIxWWc1ZGpNSWFNd3ZCdXdwMDVKT3hXcDVfdmN2S0o5bGo4NFI3aXkyUXpOZXRUeWdqSm5ZbVJrNVAwRVllbmxSZnU0VTJ3WXJkcTNscjFqaEhGZlkwSFhEb3NTTkpWeVVaRTVhRE8tam9FaWo5Sk94MDhHWlNQRTliS0NDUlhzUzVqT2ptUFBVRk9ERU1UNHRTdDVhNGdYTW0xT0RIRmpZbjFxSEZyUW5jUEozOHh3?oc=5",
       "title": "Supreme Court sides with Mississippi man on death row in racial bias case - The Washington Post",
@@ -16476,24 +16494,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByQkFqamZNTWRuOTJ5cElVWWN1Z1VXX3lmcUlpa2Z4VXV3eXpGWDZsc2E3eXpncGdmU20tdkJfTXdobnFkMW5wV2ZRemozWWpUeWpLOVVKSEFKSVNyZ1I4UnloX2l4WHltWE5SUTdvRDZ5VmNnaVJYT0ZBOFFwZnc?oc=5",
-      "title": "Republicans Unveil Map Carving Up Tennessee\u2019s Majority-Black House District - The New York Times",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFByQkFqamZNTWRuOTJ5cElVWWN1Z1VXX3lmcUlpa2Z4VXV3eXpGWDZsc2E3eXpncGdmU20tdkJfTXdobnFkMW5wV2ZRemozWWpUeWpLOVVKSEFKSVNyZ1I4UnloX2l4WHltWE5SUTdvRDZ5VmNnaVJYT0ZBOFFwZnc?oc=5\" target=\"_blank\">Republicans Unveil Map Carving Up Tennessee\u2019s Majority-Black House District</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-05-08T17:19:33.370603+00:00",
-      "published_at": "2026-05-07T08:42:10+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Shopping": [
@@ -17399,6 +17399,42 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://www.reddit.com/r/FoodNYC/comments/1tqaltf/rainbow_cookie_crawl_14_bakeries_queens_manhattan/",
+      "title": "Rainbow cookie crawl. (14 bakeries, Queens, Manhattan, and Brooklyn)",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1tqaltf/rainbow_cookie_crawl_14_bakeries_queens_manhattan/\"> <img alt=\"Rainbow cookie crawl. (14 bakeries, Queens, Manhattan, and Brooklyn)\" src=\"https://preview.redd.it/29exftlxzw3h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=b931ed75a826ce09bf92e4c5353e6205c98eb798\" title=\"Rainbow cookie crawl. (14 bakeries, Queens, Manhattan, and Brooklyn)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I love rainbow cookies so I decided to do a 2 day run around the city to find the best one! </p> <p>Picture 2 are all places from Brooklyn and Queens</p> <p>Picture 3 are all places from Manhattan. </p> <p>WINNER: </p> <ol> <li><p>Mia's (Manhattan): this was the most ideal rainbow cookie and was also the most traditional. It was moist, the chocolate was thick enough to have a good snap but not overpowering, and the jam was a great flavor 10/10</p></li> <li><p>Ursula (Brooklyn): this is only number 2 because I don't consider it a traditional rainbow cookie. Easily a 10/10 and worth the visit. It was more cake like than the rest because of the multiple layers and the jam consistency was perfect. </p></li> <li><p>William Greenberg (Manhattan): this one had the most chocolate but it was not overwhelming and gave the cookie a great snap. The marzipan was not overpowering and actually added a more cake consistency</p></li> <li><p>IL fornaio (Queens): the Chocolate had a great crunch (darker chocolate than the rest) and the layers were moist. The jam tasted very fresh and the bakery was cute. Will say that the black and whites here looked gorgeous but lacked flavor. </p></li> </ol> <p>WORST:</p> <ol> <li><p>Ferrara (Manhattan): incredibly artificial. These used to be one of my favorites but compared to everything else it just tasted fake and the jam did not add much flavor. It was also incredibly dry. The only thing that was good about this was the chocolate consistency (it had a good snap). </p></li> <li><p>Venieros (Manhattan): this one had the most jam but was also the most dry cookie of the bunch. They were not uniform and were very messy. I had high hopes for this one since it is considered a great bakery, but it fell extremely short in comparison to all of the others</p></li> <li><p>Parisi (worst outside Manhattan): these were tiny and expensive. They tasted like eating Play-Doh. I don't think I've ever had a bad rainbow cookie until I tasted these. </p></li> </ol> <p>MID-TIER from best to worst:</p> <ol> <li><p>La bella Ferrara (Manhattan): the reason this is a winner is because of the jam. It tasted fresh and very unique. More of a raspberry jam and it kept the cookies moist. </p></li> <li><p>Circo (Brooklyn): if you don't like a lot of chocolate then this one is for you. That is really where this one fell short. This one mainly lost points because it fell apart easily and the chocolate was lacking. This was one of the better flavors and would be in the top if it had more chocolate. </p></li> <li><p>Luchini (Manhattan): these were HUGE and we had to cut the one cookie into 4. The wafer balls on top were a great and unique addition. The cake was very flavorful but it still seemed to be dry. The cookie was very large and it was hard to eat. </p></li> <li><p>Lucinas (Manhattan): good cookie. It was soft and the chocolate had a good snap. The cookie was on the dryer side and the jam was a little off but still an overall good cookie.</p></li> <li><p>Catania: the seeds were a bit too large and off-putting and the chocolate was not tempered so it melted when you touched it and didn't have a good snap to it. Was a moist cookie but the jam had an odd flavor that didn't mesh well with the marzipan in the cookie</p></li> <li><p>Orwashers: this looked identical to the greenburg cookie so we assumed it would be the same but it was very different. This cookie was very dry and the marzipan layer was thick and hard to get through. Had a great jam flavor and even layers. </p></li> <li><p>New York bakery and cafe (queens): not the biggest fan of the small square cookies. Made it more difficult to eat but this one lacked a lot of flavor. It tasted stale and didn't really hit any of the mark you want a rainbow cookie to have. The marzipan flavor was lacking and the chocolate was also not tempered enough. </p></li> </ol> <p>Hope the reviews help you pick your next rainbow cookie destination! We wrote down our reviews on paper a few days ago and it's hard to read some of the writing so I might not have hit all the points but hope you enjoy your next rainbow cookie. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WoebegoneBenAffleck\"> /u/WoebegoneBenAffleck </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1tqaltf\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1tqaltf/rainbow_cookie_crawl_14_bakeries_queens_manhattan/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-05-28T17:38:50+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://ny.eater.com/news/411707/socceria-greenpoint-bar-soccer-world-cup-taqueria-ramirez",
+      "title": "Taqueria Ramirez\u2019s Soccer Bar Opens Just In Time for the World Cup",
+      "snippet": "Just in time for the World Cup, the hit-making team behind Taqueria Ramirez and Carnitas Ramirez \u2014 chef Giovanni Cervantes and Tania Apolinar \u2014 is opening a soccer bar in Greenpoint this weekend. Socceria is opening at 46 Norman Avenue, near Guernsey Street. on Saturday, May 30 (taking over the former Nura space). Socceria\u2019s first [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-05-29T10:54:02.671645+00:00",
+      "published_at": "2026-05-28T20:00:30+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1tqmtep/opening_night_of_indienne_in_nyc_1_indian_tasting/",
       "title": "Opening night of Indienne in NYC (1* Indian tasting menu from Chicago)",
@@ -19153,42 +19189,6 @@
       "source_type": "social",
       "topic_name": "Queens food & dining",
       "fetched_at": "2026-04-09T19:06:16+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/FoodNYC/comments/1sgy51w/burmese_and_indonesian_food_events_this_weekend/",
-      "title": "Burmese and Indonesian food events this weekend",
-      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/FoodNYC/comments/1sgy51w/burmese_and_indonesian_food_events_this_weekend/\"> <img alt=\"Burmese and Indonesian food events this weekend\" src=\"https://preview.redd.it/9jcopch4k7ug1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=756860b973ccc1c73d01e94c34834dff4fe889cd\" title=\"Burmese and Indonesian food events this weekend\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>One Saturday, one Sunday, both in Queens. </p> <p><strong>New York Burmese Water Festival</strong><br /> Saturday, April 11, 11:00-4:00 (although food might be available as early as 10:30, and many items sell out fast)<br /> Parish house of St. James Episcopal Church, 8407 Broadway (St. James-Corona Aves.), Elmhurst, Queens<br /> <a href=\"https://www.facebook.com/NewYorkBurmeseWaterFestivalAssociation\">https://www.facebook.com/NewYorkBurmeseWaterFestivalAssociation</a><br /> Free admission</p> <p><strong>Season opener: Indonesian bazaar at Masjid al-Hikmah</strong><br /> Sunday, April 12, 10:00-5:00; repeats monthly, more or less, in warmer weather<br /> 4801 31st Ave. (at 48th St.), Astoria, Queens<br /> <a href=\"https://www.instagram.com/p/DWm1_vMEQmH/\">https://www.instagram.com/p/DWm1_vMEQmH/</a><br /> Previously: <a href=\"https://www.flickr.com/search/?user_id=61177627%40N00&amp;sort=date-taken-desc&amp;view_all=1&amp;text=hikmah\">https://www.flickr.com/search/?user_id=61177627%40N00&amp;sort=date-taken-desc&amp;view_all=1&amp;text=hikmah</a><br /> Free admission</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/EatingInTranslation\"> /u/EatingInTranslation </a> <br /> <span><a href=\"https://i.redd.it/9jcopch4k7ug1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1sgy51w/burmese_and_indonesian_food_events_this_weekend/\">[comments]</a></span> </td></tr></table>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Queens food & dining",
-      "fetched_at": "2026-04-09T18:34:37+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/FoodNYC/comments/1sgpm6p/rip_win_son_walkins/",
-      "title": "rip win son walk-ins",
-      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>my partner and i have been regular customers at win son for the last 3-4 years and have absolutely loved it. the service has always been great and the food is consistently excellent. however, the last time we went we were turned away because they were fully booked for the night, something we\u2019d never encountered before.</p> <p>part of what we loved about them was the walk-in only policy. it felt more democratizing and a little hype-resistant compared to other spots in the city. we were informed by the hostess that they now take reservations on opentable (as of about 4 months ago), and after checking, i can see they\u2019re booked out on fridays two weeks in advance.</p> <p>why would they make this switch? they never seemed to have trouble filling the dining room under the old system, and part of the appeal was being able to decide spontaneously to go for a great meal and good ambiance, which is genuinely rare here.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PackageCultural2501\"> /u/PackageCultural2501 </a> <br /> <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1sgpm6p/rip_win_son_walkins/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/FoodNYC/comments/1sgpm6p/rip_win_son_walkins/\">[comments]</a></span>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Queens food & dining",
-      "fetched_at": "2026-04-09T13:27:29+00:00",
       "published_at": null,
       "price": null,
       "novelty_score": 0.6,

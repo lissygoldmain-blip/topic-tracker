@@ -9367,10 +9367,6 @@
     "seen_at": "2026-04-30T19:07:03.931665+00:00",
     "source_type": "news"
   },
-  "https://chapin.hire.trakstar.com/jobs/fk0z2hx?source=USITT": {
-    "seen_at": "2026-04-30T19:12:32.336123+00:00",
-    "source_type": "jobs"
-  },
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5": {
     "seen_at": "2026-04-30T19:14:45.816415+00:00",
     "source_type": "news"
@@ -16802,5 +16798,25 @@
   "https://www.reddit.com/r/nyc/comments/1tt1eb0/after_ice_admitted_having_no_justification_for/": {
     "seen_at": "2026-05-31T19:12:58.341727+00:00",
     "source_type": "social"
+  },
+  "https://www.nytimes.com/2026/05/29/arts/dance/claude-bessy-dead.html": {
+    "seen_at": "2026-05-31T20:05:36.776432+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.reddit.com/r/rupaulsdragrace/comments/1tt1kpv/boycott_patagonia_support_drag_artist_pattie_gonia/": {
+    "seen_at": "2026-05-31T20:11:33.071494+00:00",
+    "source_type": "social"
+  },
+  "https://www.reddit.com/r/rupaulsdragrace/comments/1tt1dzq/pandora_boxx_the_library_baltimore_county_is_open/": {
+    "seen_at": "2026-05-31T20:11:33.071752+00:00",
+    "source_type": "social"
+  },
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxPczAwbU9vRWR6eV9FdlhqY1pkSHhOcXhGNWt5VU5MZmRaWkllMnlvbGU4ZXVnb0ZITzloVGpyZHRfNndjenVscF9zS3VrZUpjOWZQODJLYXBqc3E4Tlk5cmp4ZDFrb1pyRHVZOU5QcDhBeUNjcUVwV2tBdUxlX2lrWld3?oc=5": {
+    "seen_at": "2026-05-31T20:14:57.147891+00:00",
+    "source_type": "news"
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3VhV3JROHlac0MwUVZTQ0ZmZXNya1lMSk4tTFA2alRwbVM3X3pTaVhheHhuY2tjSHg3YTFRWXhySmFuM2kzcWlMOUE0bXdXSnYwX1JSVzdTZHVlenFTM1dJSURpUWJodVNHeFh2NmZsOU95dHRqV2xDRHJxVTNaMmpEZ2RmeXJFcU40Rkc4anQzdHpUZjNXZmVpblrSAaIBQVVfeXFMTmNjaXdSMmRNcUFPaHFmeEkyMWRPV2M0cE1KZkpCUks1Q2dubDNSOVNZY2FGUkRCS2UwVDFOaHIxUlBPNGNQZFg0bmt4dmFseTVYNW94N3RQRnoxQ2VWN0VXcy1Kc1ZqMkU2SW43cFF1ZWkwaUhOV0k2aXd1SzFZc3d6aDg4T2JTaC1zYi1WcDlPVVNab3UtbXRqM2xUR3QxejNB?oc=5": {
+    "seen_at": "2026-05-31T20:14:57.148170+00:00",
+    "source_type": "news"
   }
 }

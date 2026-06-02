@@ -5758,6 +5758,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2NZRlV5aHpkNmRwa2hWclFUaW92clQwUzZPU2lXOFloRWFMZEVia2VXOHVSYVNxdG9IQUt4em1kaDMzSGE3c3R2X0hLc1FhdTdYSEtRWUE4Sl9ROTBqOGdaNW43cFE4dzRad2tMMTdBb1AxY29odm9weU5raENZMnFUcXNsbmYxUEpkeTBsYm5CdnYtTnhKTFAxaFpOZ1VCMjdhSXl4SHlKMlE1TDJyVlJyaw?oc=5",
+      "title": "Australia gets access to AI model \u2018too dangerous to release\u2019 - SMH.com.au",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2NZRlV5aHpkNmRwa2hWclFUaW92clQwUzZPU2lXOFloRWFMZEVia2VXOHVSYVNxdG9IQUt4em1kaDMzSGE3c3R2X0hLc1FhdTdYSEtRWUE4Sl9ROTBqOGdaNW43cFE4dzRad2tMMTdBb1AxY29odm9weU5raENZMnFUcXNsbmYxUEpkeTBsYm5CdnYtTnhKTFAxaFpOZ1VCMjdhSXl4SHlKMlE1TDJyVlJyaw?oc=5\" target=\"_blank\">Australia gets access to AI model \u2018too dangerous to release\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SMH.com.au</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-06-02T23:43:48.129106+00:00",
+      "published_at": "2026-06-02T22:13:39+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZbVc4OUF4UDljUWlLcS1VdTdGMVFnR0pkWjI1LTV1UlRaUVQxS1RZSmg3NTRCX3FBMlRnc0JTSFAxYWxTSm5RZ2ExckVjMklnNGlnQlhDZVY4TGpWTjFFQmk0TF9jUQ?oc=5",
       "title": "AI Model Release Tracker: Microsoft AI's first reasoning model arrives - ZDNET",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZbVc4OUF4UDljUWlLcS1VdTdGMVFnR0pkWjI1LTV1UlRaUVQxS1RZSmg3NTRCX3FBMlRnc0JTSFAxYWxTSm5RZ2ExckVjMklnNGlnQlhDZVY4TGpWTjFFQmk0TF9jUQ?oc=5\" target=\"_blank\">AI Model Release Tracker: Microsoft AI's first reasoning model arrives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
@@ -7538,27 +7556,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDBFdkZOZ2hJV2NELUNWeWExdHZwek5RT1RrclRnS1BfTXM4UktuZ1pVU3ZxNmtRUzVTZV9vN3NxRE5KZ2xLal9Sa0ZrS3hPZ2RvcVpsMGVRR0FMdUVNX3FrRXl6QXdpUkl6Z1BqY1kwamVOLUdEeGZOOVRYSDZMWU9iN3FrMTBoWXc?oc=5",
-      "title": "Microsoft, Google and xAI will let the government test their AI models before launch | CNN Business - CNN",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxORDBFdkZOZ2hJV2NELUNWeWExdHZwek5RT1RrclRnS1BfTXM4UktuZ1pVU3ZxNmtRUzVTZV9vN3NxRE5KZ2xLal9Sa0ZrS3hPZ2RvcVpsMGVRR0FMdUVNX3FrRXl6QXdpUkl6Z1BqY1kwamVOLUdEeGZOOVRYSDZMWU9iN3FrMTBoWXc?oc=5\" target=\"_blank\">Microsoft, Google and xAI will let the government test their AI models before launch | CNN Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-05-09T04:36:08.496594+00:00",
-      "published_at": "2026-05-05T21:35:42+00:00",
+      "url": "https://qns.com/2026/06/chuck-park-game-over-act-casino/",
+      "title": "Congressional candidate Chuck Park proposes \u2018Game Over Act\u2019 aimed at regulating casinos",
+      "snippet": "Chuck Park, a former U.S. diplomat running for Congress against incumbent U.S. Rep. Grace Meng, plans to take on large casino operators if elected to office through his proposed \u201cGame Over Act\u201d aimed at protecting working families. His announcement comes amid ongoing opposition to the Metropolitan Park casino currently being prepared for construction next to...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/chuck-park-game-over-act-casino/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-02T23:30:28.795983+00:00",
+      "published_at": "2026-06-02T21:00:30+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.thecityreporter.nyc/2026/06/02/2k-applications-open-nyc-childcare/",
       "title": "2-K Applications Are Open for NYC Families. What You Need to Know.",
@@ -9332,24 +9350,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-05-26T16:39:53.104483+00:00",
       "published_at": "2026-05-26T14:00:32+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/05/mamdani-inaugural-sunnyside-aapi-night-market/",
-      "title": "Mamdani travels to Sunnyside to sample inaugural AAPI Night Market",
-      "snippet": "Mayor Zohran Mamdani traveled to Sunnyside Friday, May 22, to sample the neighborhood&#8217;s first-ever Asian American and Pacific Islander (AAPI) Night Market, which saw over 50 local vendors set up stalls beneath the elevated 7 tracks at Lowery Plaza. Mamdani strolled through the market with Assemblymember Claire Valdez, stopping to pose for photos with vendors...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/05/mamdani-inaugural-sunnyside-aapi-night-market/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-26T16:39:53.104483+00:00",
-      "published_at": "2026-05-26T16:00:45+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,

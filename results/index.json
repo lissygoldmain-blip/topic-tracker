@@ -1803,6 +1803,24 @@
   ],
   "Health research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2E5OTBmdzgxV0FTNlBnWnRMUk8wZTY3QS1IVWZhTXoxOWVkRW51Vk82b3RoZlNRMmdVMlpLSExybmstY3NmUEx2WHJVclhzRHZ3aE0wQ2hKUkJiLVQxM1JxU1JLckhQWU5YQzJwWWxIdGtfTUFaVEdsb3daZ0lQejl3MkFOeGR4OFhjd3p2bTEtc3lnbXFPTGNSZmJQbGE1Z3p3WDdCSU0?oc=5",
+      "title": "Breaking down findings of new study on weight loss drugs and breast cancer - CBS News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2E5OTBmdzgxV0FTNlBnWnRMUk8wZTY3QS1IVWZhTXoxOWVkRW51Vk82b3RoZlNRMmdVMlpLSExybmstY3NmUEx2WHJVclhzRHZ3aE0wQ2hKUkJiLVQxM1JxU1JLckhQWU5YQzJwWWxIdGtfTUFaVEdsb3daZ0lQejl3MkFOeGR4OFhjd3p2bTEtc3lnbXFPTGNSZmJQbGE1Z3p3WDdCSU0?oc=5\" target=\"_blank\">Breaking down findings of new study on weight loss drugs and breast cancer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-06-02T13:57:08.139957+00:00",
+      "published_at": "2026-06-02T12:02:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmtzSDZpWUhabkZVTjJVV3AzV0tybXNfX3lMbmpIODlHVHR0MGMtS2ZSUTBHOG54UUl1VTVtTmVGVThKV0xjY0pxSjFZUjlpRDhpMFpZYzBWT3Q3TUJkVlhxWmVqN0RsOHNFd3FReEc5b3diVWcxUm96SmMydkVXd2xRYklkUDdUUmxQYnlXZXRGS3NGMHRhY2dwbTFMbG80WjN0dXhR?oc=5",
       "title": "ASCO 2026: GLP-1 Receptor Agonists May Reduce Mortality in Patients With Cancer - Pharmacy Times",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmtzSDZpWUhabkZVTjJVV3AzV0tybXNfX3lMbmpIODlHVHR0MGMtS2ZSUTBHOG54UUl1VTVtTmVGVThKV0xjY0pxSjFZUjlpRDhpMFpZYzBWT3Q3TUJkVlhxWmVqN0RsOHNFd3FReEc5b3diVWcxUm96SmMydkVXd2xRYklkUDdUUmxQYnlXZXRGS3NGMHRhY2dwbTFMbG80WjN0dXhR?oc=5\" target=\"_blank\">ASCO 2026: GLP-1 Receptor Agonists May Reduce Mortality in Patients With Cancer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmacy Times</font>",
@@ -3918,6 +3936,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://www.indiewire.com/news/trailers/a-mosquito-in-the-ear-trailer-1235196868/",
+      "title": "\u2018A Mosquito in the Ear\u2019 Trailer: A New Family Tries to Blend in This Charming Festival Favorite",
+      "snippet": "Exclusive: Jake Lacy, Nazanin Boniadi, and newcomer Ruhi Pal star in Nicola Rinciari's fact-based feature about a family just trying to make it work.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-06-02T13:57:34.008285+00:00",
+      "published_at": "2026-06-02T13:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/06/bfi-uk-government-film-tv-deal-donald-trump-1236932021/",
       "title": "BFI Pleaded With Government To Exclude UK Screen Industries From Trump Trade Deal, Saying It Would Cause \u201cFundamental Harm\u201d",
       "snippet": "EXCLUSIVE: The British Film Institute lobbied ministers to request that the UK&#8217;s film and TV business not be included in any trade deal signed with U.S. President Donald Trump. The BFI sent the British Foreign Office a policy document in May 2025 outlining why including the screen industries in any trade agreement would cause &#8220;fundamental [&#8230;]",
@@ -5698,27 +5734,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://www.indiewire.com/criticism/movies/death-has-no-master-review-asia-argento-1235194969/",
-      "title": "\u2018Death Has No Master\u2019 Review: Asia Argento Gets an Anti-Colonialist Comeuppance in a Slow-Burn Siege Flick",
-      "snippet": "Cannes: The controversial arthouse icon plays the heiress to a Venezuelan cacao plantation, who, upon returning home, finds the occupants unwilling to budge in Jorge Thielen Armand's film.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-05-20T11:53:47.804656+00:00",
-      "published_at": "2026-05-20T11:44:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsM0w3WlhSY19nTEk1Q3A1WjN1MmlVbDNhMUFTZWlzV0NZZEJaUUhvd0xoVExXcUZEcS1FN1NYb0lEcDNLMmJyU1pEQ2JDODlONjlMV2JWcFNfRE41eUZsS2hJb3UyUm1ENW9aLUFvWDFGa0Nr?oc=5",
+      "title": "Nvidia Releases Nemotron 3 Ultra, Its Best Open-Weight AI Model, But China Still Leads - Yellow.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBsM0w3WlhSY19nTEk1Q3A1WjN1MmlVbDNhMUFTZWlzV0NZZEJaUUhvd0xoVExXcUZEcS1FN1NYb0lEcDNLMmJyU1pEQ2JDODlONjlMV2JWcFNfRE41eUZsS2hJb3UyUm1ENW9aLUFvWDFGa0Nr?oc=5\" target=\"_blank\">Nvidia Releases Nemotron 3 Ultra, Its Best Open-Weight AI Model, But China Still Leads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellow.com</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-06-02T14:08:36.246651+00:00",
+      "published_at": "2026-06-01T23:30:44+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONHFuODl5ZnRidXB0cjlOc0M5MVBkaDBzeTFnZVl5YWpXTW9mYUxvamFWaTJWLU56bFF3VUFxREU5Z0xFajlSYTE5X1ZmTnY4OThjbVhqME9WcVppWjdxbGRLSUdnYmpWeHVSUVhyU2NCcS1zR2dOcVp6eDM4WklIdzZWYlNKQzh0OERDTUtCRU1RMkZLZ2dxNS1DSF9QeGtsY2doRGZpRHdzODctTW1MR09ZTDVuZ3YzemFUQnkzSDltWW9oMHh5SGhsUjl4QzhsY2RQMQ?oc=5",
       "title": "JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines - MarkTechPost",
@@ -7500,27 +7536,45 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUDluLUJrRzhfQkpOU3UweFVKRk4wZ3FUVm1YQjFodWpWbDVSNEZFdExiY2w1TjNCY1JfZ1RvZVpNWDlRY0RQbFEtZmt5b2dIbUFfQTlEVWdxanRtTkJVakkxaGZwSXp0N09PMUNtZng5VWJSbTVKdlZiMzNUY1hmRFg3LWRfdERodC1QSzRDTlRRUmp4S19waVVOWUxSdw?oc=5",
-      "title": "White House Considers Pre-Release Vetting for AI Models - Let's Data Science",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUDluLUJrRzhfQkpOU3UweFVKRk4wZ3FUVm1YQjFodWpWbDVSNEZFdExiY2w1TjNCY1JfZ1RvZVpNWDlRY0RQbFEtZmt5b2dIbUFfQTlEVWdxanRtTkJVakkxaGZwSXp0N09PMUNtZng5VWJSbTVKdlZiMzNUY1hmRFg3LWRfdERodC1QSzRDTlRRUmp4S19waVVOWUxSdw?oc=5\" target=\"_blank\">White House Considers Pre-Release Vetting for AI Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-05-08T17:24:19.748145+00:00",
-      "published_at": "2026-05-08T12:56:00+00:00",
+      "url": "https://qns.com/2026/06/lic-springs-vernon-boulevard/",
+      "title": "LIC Springs returns to windswept Vernon Boulevard",
+      "snippet": "LIC Springs, the annual street festival celebrating Long Island City, returned to Vernon Boulevard on Saturday, May 30, with outdoor markets, live music, interactive activities and outdoor dining. The annual event, organized by the Long Island City Partnership, involved hundreds of local businesses, with dozens of stalls and activations lining six blocks of Vernon Boulevard...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/lic-springs-vernon-boulevard/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-02T13:55:17.481386+00:00",
+      "published_at": "2026-06-02T13:00:56+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://qns.com/2026/06/queens-barbara-baruch-woman-of-distinction/",
+      "title": "Queens resident Barbara Baruch recognized as 2026 Woman of Distinction",
+      "snippet": "Queens resident Barbara Baruch \u2014 a longtime community leader, educator and public servant from Queens \u2014 was recognized by State Sen. John Liu as his 2026 New York State Senate Women of Distinction honoree. The annual statewide honor is awarded to one local resident in each senate district, who are chosen by their respective state...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/queens-barbara-baruch-woman-of-distinction/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-02T13:55:17.481386+00:00",
+      "published_at": "2026-06-02T13:30:19+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://nyc.streetsblog.org/2026/06/02/mamdanis-fdny-commish-lillian-bonsignore-backs-protected-bike-lanes-overriding-bikelash-firefighters",
       "title": "Mamdani\u2019s FDNY Commish Backs Protected Bike Lanes, Putting Bikelash Firefighters And Brass On Notice",
@@ -9284,34 +9338,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://www.6sqft.com/penn-station-redesign-moves-forward-with-selection-of-master-developer/",
-      "title": "Penn Station redesign moves forward with selection of master developer",
-      "snippet": "<img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"637\" src=\"https://thumbs.6sqft.com/wp-content/uploads/2023/06/29110913/Penn-Station-Redesign-8th-Avenue-looking-North.jpg?w=768&amp;format=webp\" width=\"1024\" /><p>Penn Station&#8217;s overhaul took a big step forward on Wednesday. The U.S. Department of Transportation and Amtrak announced the selection of Penn Transformation Partners, a joint venture made up of Halmar International and Skanska, as the master developer of the project following a bidding process. The developer will build a &#8220;brand-new world-class station,&#8221; according to&#160;[...]</p>\n<p>The post <a href=\"https://www.6sqft.com/penn-station-redesign-moves-forward-with-selection-of-master-developer/\">Penn Station redesign moves forward with selection of master developer</a> first appeared on <a href=\"https://www.6sqft.com\">6sqft</a>.</p>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-23T13:03:15.527020+00:00",
-      "published_at": "2026-05-20T21:44:37+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91aTJBNmJPWjFCZDgyN0czb2p1ZkpRUXBEWTZnT29ZU3NjdVJjbGZVZlRqV25RQWhuMjBwak1sZTJfWmYyRzQxQ0htcnVyOXJtcEZ0WGJHYlpmc1NqaTd5MmFsSUttcXVNOXJESzBFN3FZLVFsNHRieUhyOA?oc=5",
-      "title": "Parts of Kissena Park in Queens still without water after years of outages - CBS News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE91aTJBNmJPWjFCZDgyN0czb2p1ZkpRUXBEWTZnT29ZU3NjdVJjbGZVZlRqV25RQWhuMjBwak1sZTJfWmYyRzQxQ0htcnVyOXJtcEZ0WGJHYlpmc1NqaTd5MmFsSUttcXVNOXJESzBFN3FZLVFsNHRieUhyOA?oc=5\" target=\"_blank\">Parts of Kissena Park in Queens still without water after years of outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-23T11:07:29.926643+00:00",
-      "published_at": "2026-05-21T02:45:42+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1tul6tm/all_stars_11_episodes_612_descriptions/",
+      "title": "All Stars 11: Episodes 6-12 Descriptions",
+      "snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LooseLipsSinkShips21\"> /u/LooseLipsSinkShips21 </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1tul6tm\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tul6tm/all_stars_11_episodes_612_descriptions/\">[comments]</a></span>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-06-02T08:56:56+00:00",
+      "published_at": null,
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -9319,10 +9357,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1tuhb5n/slop_that_train_early_reviewers_allege_rupaul/",
       "title": "Slop! That! Train! Early Reviewers Allege RuPaul Film Has \"Conspicuous\" Use Of AI",
@@ -11098,24 +11134,6 @@
       "published_at": null,
       "price": null,
       "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1t1d0q1/monet_x_change_high_heels_bad_knees_tour_worth/",
-      "title": "Monet X Change: High Heels, Bad Knees tour - worth every penny\u2026",
-      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1t1d0q1/monet_x_change_high_heels_bad_knees_tour_worth/\"> <img alt=\"Monet X Change: High Heels, Bad Knees tour - worth every penny\u2026\" src=\"https://preview.redd.it/k918nckzumyg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e054863698dabe8cf491ec75fdd10c6f4e487f3\" title=\"Monet X Change: High Heels, Bad Knees tour - worth every penny\u2026\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>For the lock screen alone.</p> <p>For real, she was heavenly. We did the vip with the meet and greet and she was SO sweet. First ru girl I\u2019ve ever met in person and the bar is sky high going forward.</p> <p>And yall she was <strong>funny.</strong></p> <p>The show was roughly and hour and 20 minutes and she had a portion where we could snap \u201caction shots\u201d and that\u2019s where this beauty came from.</p> <p>Please please please go see our girl and give her love, have the best time, and for the love of GOD\u2026</p> <p><del>Wear a seatbelt. I did.</del> </p> <p><em>(also bonus points for whoever shows up with a beetleborg shirt, she was very disappointed in me that what I was wearing was not beetleborg merch and I was tasked with returning with some next time.)</em></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Abalonesandwhich\"> /u/Abalonesandwhich </a> <br /> <span><a href=\"https://i.redd.it/k918nckzumyg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1t1d0q1/monet_x_change_high_heels_bad_knees_tour_worth/\">[comments]</a></span> </td></tr></table>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-05-02T02:12:42+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.55,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

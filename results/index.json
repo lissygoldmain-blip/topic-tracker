@@ -5720,6 +5720,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRmpUUTVlS0xOUG9ralpTUklDOXlKSzZrd3A4VkFBWUo4aU1PbHBJVTNfaWlkak53SGdUQVFzV2dqek9BRldkd0JSanhGemlwajJiUVZpVDRRdVlZNENYT3drb0Y4Q0RmVEtPXzJhMTVnMmJtMGZGYnpGbjFxZTlpUHlRRHlieUs2SjBkVWRzd2NtT0xvZVZUSS1FY0JiWUg5c0NXcl84dVlWSGFMbjNkb0NCaWF0UWNtTzdtNEd4SDlkeWkxMFE?oc=5",
+      "title": "Dnotitia Releases DNA 3.0, an Enterprise-Ready AI Language Model Family - PR Newswire",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRmpUUTVlS0xOUG9ralpTUklDOXlKSzZrd3A4VkFBWUo4aU1PbHBJVTNfaWlkak53SGdUQVFzV2dqek9BRldkd0JSanhGemlwajJiUVZpVDRRdVlZNENYT3drb0Y4Q0RmVEtPXzJhMTVnMmJtMGZGYnpGbjFxZTlpUHlRRHlieUs2SjBkVWRzd2NtT0xvZVZUSS1FY0JiWUg5c0NXcl84dVlWSGFMbjNkb0NCaWF0UWNtTzdtNEd4SDlkeWkxMFE?oc=5\" target=\"_blank\">Dnotitia Releases DNA 3.0, an Enterprise-Ready AI Language Model Family</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-06-02T11:29:24.050333+00:00",
+      "published_at": "2026-06-02T03:38:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tWC1RTUduWnF4eHdMaE13SzhxSkI0LVZfTVJ1aWJxWTBQZ01PbmlTU1hfU0xqcmR4ZXdEQTdUMVlaSXdPQXYzYUxEX1VFdFpEMjNob2JWMXduTmR3cks3TlVyU29qZjA4UkJoUGRZdjlnLVJ6dDJz?oc=5",
       "title": "NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis - NVIDIA Newsroom",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9tWC1RTUduWnF4eHdMaE13SzhxSkI0LVZfTVJ1aWJxWTBQZ01PbmlTU1hfU0xqcmR4ZXdEQTdUMVlaSXdPQXYzYUxEX1VFdFpEMjNob2JWMXduTmR3cks3TlVyU29qZjA4UkJoUGRZdjlnLVJ6dDJz?oc=5\" target=\"_blank\">NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
@@ -7500,27 +7518,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajlfUjR3Vzc1UnJ0YW5WQWk5LWNFdjMyNlpsTGRQREcyd2ZFNWtHT2RiQjBaSVZ6RlNKeEgtVVNGVy1QaG1pWklmREZyRGlGbnRFcmszeHRqbVFFVzRQWUVqR1ByV1RRVzBZd2Vtd092NmJnMzlzX0pUdms2czY1VncwM1g5T1dWRUNrRFZnZkg3MjcxNjhuSkZrcG5YZ0Qxc3JHOHRHaw?oc=5",
-      "title": "Google, xAI, and Microsoft agree to government screening before releasing updated AI models - The Cool Down",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPajlfUjR3Vzc1UnJ0YW5WQWk5LWNFdjMyNlpsTGRQREcyd2ZFNWtHT2RiQjBaSVZ6RlNKeEgtVVNGVy1QaG1pWklmREZyRGlGbnRFcmszeHRqbVFFVzRQWUVqR1ByV1RRVzBZd2Vtd092NmJnMzlzX0pUdms2czY1VncwM1g5T1dWRUNrRFZnZkg3MjcxNjhuSkZrcG5YZ0Qxc3JHOHRHaw?oc=5\" target=\"_blank\">Google, xAI, and Microsoft agree to government screening before releasing updated AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-05-08T10:43:26.162774+00:00",
-      "published_at": "2026-05-08T03:00:00+00:00",
+      "url": "https://nyc.streetsblog.org/2026/06/02/mamdanis-fdny-commish-lillian-bonsignore-backs-protected-bike-lanes-overriding-bikelash-firefighters",
+      "title": "Mamdani\u2019s FDNY Commish Backs Protected Bike Lanes, Putting Bikelash Firefighters And Brass On Notice",
+      "snippet": "Commissioner Lillian Bonsignore set the record straight.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-02T11:16:09.661891+00:00",
+      "published_at": "2026-06-02T04:04:00+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.7,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiVUZzaFFDeFpEalJmM29LbnFQUzBSeDZoQWlqcl9sa2xWdnpMd1M1dVJvcTNGYTVEWnl1cWxPQ2FDRlh1YmZXQ3NjRjFYQV9nQ2p4ZWFfWFg0UG5fWnZkcjR1ZkpzdzZCbUpQdjdmQ3NhaFE?oc=5",
       "title": "Firefighters battle fire in Jackson Heights garage after neighbors reportedly heard an explosion at the location: FDNY - qns.com",
@@ -9294,24 +9312,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-05-23T11:07:29.926643+00:00",
       "published_at": "2026-05-21T02:45:42+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRW9oMEFDVkppX3h2aENjZF8tdVg4bk5EM24tVzdPRXJGUVUwV2tUNGJsTXh4MXdqakZYWEFfVUZEUk1zVERkNlNSbXpiU0tYOEdOdUJlOXpLTGk3ZzJDQnhPUXJFY1ZHam1fUFFhZHBHVVFvWVlidEYwVVN5NDhXSzQ1Unc0SVhPMVhrWVVfZ0t6Zkc3a2tPUm5JYm5OdVNC?oc=5",
-      "title": "Queens Jewish man found dead with gunshot wounds in Flushing park - JNS.org",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQRW9oMEFDVkppX3h2aENjZF8tdVg4bk5EM24tVzdPRXJGUVUwV2tUNGJsTXh4MXdqakZYWEFfVUZEUk1zVERkNlNSbXpiU0tYOEdOdUJlOXpLTGk3ZzJDQnhPUXJFY1ZHam1fUFFhZHBHVVFvWVlidEYwVVN5NDhXSzQ1Unc0SVhPMVhrWVVfZ0t6Zkc3a2tPUm5JYm5OdVNC?oc=5\" target=\"_blank\">Queens Jewish man found dead with gunshot wounds in Flushing park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JNS.org</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-23T10:28:35.284638+00:00",
-      "published_at": "2026-05-21T05:24:34+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -11126,6 +11126,24 @@
   ],
   "Queer & trans": [
     {
+      "url": "https://www.theguardian.com/us-news/2026/jun/01/transgender-troops-military-enlistment-ruling",
+      "title": "Transgender troops can remain in US military, but enlistment can be blocked, court rules",
+      "snippet": "Split decision deals blow to Trump administration\u2019s anti-diversity agenda, calling the ban \u2018arbitrary, and based on animus\u2019",
+      "source": "guardian:US news",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-06-01T19:26:05+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.theguardian.com/us-news/2026/jun/01/ice-fifa-world-cup-immigrant-rights",
       "title": "\u2018We want fans to know the risks\u2019: US immigrant rights groups mobilize across World Cup host cities amid ICE fears",
       "snippet": "More than 120  groups issued warning to 10 million visitors about \u2018serious rights violations\u2019 under Trump",
@@ -12906,27 +12924,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Immigration & ICE": [
     {
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFdPemhIMFMxekhpNzhzVWpIanpaaUlUMGktUGswaE5hT2dEdllRMXNnV0ZEOEdYZHZPNm5EOXplX1hyd3BnNlM3RG9GTUVZZjM0NFFTSzVtcHhrdDZXOW1BN0QxWTV6Ni1EVG9faTFqbG95b0JZYnJCVVJPdXUzUW9ObmdzUkE?oc=5",
-      "title": "The FTC Is Ramping Up to Target Transgender Rights - WIRED",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFdPemhIMFMxekhpNzhzVWpIanpaaUlUMGktUGswaE5hT2dEdllRMXNnV0ZEOEdYZHZPNm5EOXplX1hyd3BnNlM3RG9GTUVZZjM0NFFTSzVtcHhrdDZXOW1BN0QxWTV6Ni1EVG9faTFqbG95b0JZYnJCVVJPdXUzUW9ObmdzUkE?oc=5\" target=\"_blank\">The FTC Is Ramping Up to Target Transgender Rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWdaUElsOE9GS09tZXBOLUxqNE5xdVZpTjBPd0tBQmU0VV9hbFNCUzdLS1QxV1p2dng2SVQtcmFNTDdZSHFjN2lEbGlVOEZCQVoyOWtpU1lINWJOcjdNQ1A2cE9IWm13OHFXYURpLVdidHpaSmxjZTBVV1F5NHJlaU5HSkpmZU45cHhUanFpdV80Qy1UUkdHcQ?oc=5",
+      "title": "New York state limits immigration enforcement activities - Jurist.org",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWdaUElsOE9GS09tZXBOLUxqNE5xdVZpTjBPd0tBQmU0VV9hbFNCUzdLS1QxV1p2dng2SVQtcmFNTDdZSHFjN2lEbGlVOEZCQVoyOWtpU1lINWJOcjdNQ1A2cE9IWm13OHFXYURpLVdidHpaSmxjZTBVV1F5NHJlaU5HSkpmZU45cHhUanFpdV80Qy1UUkdHcQ?oc=5\" target=\"_blank\">New York state limits immigration enforcement activities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jurist.org</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Queer & trans",
-      "fetched_at": "2026-04-27T19:11:06.327937+00:00",
-      "published_at": "2026-04-24T10:00:00+00:00",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-06-02T11:24:18.796655+00:00",
+      "published_at": "2026-05-31T06:36:12+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Immigration & ICE": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YRTFqOHQzeGtUUGE5YWEtU2c3WjRjUWluS0R0X2tUX0k4UlBTYk5wVGkwOUtFdGJWd3JORXNPTmVQWWRlZndva0xVcU1INnBNUGZta2FyZWFkVFlUYnhEQkZwamkzcEdKSGZkMjhYVFBoQTNHX1E?oc=5",
       "title": "Hochul Signs New York Laws Limiting ICE Operations - 77 WABC",
@@ -14702,24 +14720,6 @@
       "published_at": "2026-05-22T21:07:34+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMWg3Zm1sZDB6TzBTWThqNkdCcEtTYS1feDFTeGcwOXlVXzE2bzE5VEpJeEVqOUtDZG52d2R5dDBBQlNvUFA3a3hOYlBMdUVsM25PejNpakprOVh2WXF5T0oyaGIxWko2ellWcWphbHBaTThjYlZrTm0yeEE5Mld0azRfVUgwYWJTeEtVWUZzdmxQYXR0QTZXa2J2aFFkNkhOLVFtMU9YLVN0YUk?oc=5",
-      "title": "Audit finds over 70% increase in federal immigration arrests in NYC under Trump - whbl.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMWg3Zm1sZDB6TzBTWThqNkdCcEtTYS1feDFTeGcwOXlVXzE2bzE5VEpJeEVqOUtDZG52d2R5dDBBQlNvUFA3a3hOYlBMdUVsM25PejNpakprOVh2WXF5T0oyaGIxWko2ellWcWphbHBaTThjYlZrTm0yeEE5Mld0azRfVUgwYWJTeEtVWUZzdmxQYXR0QTZXa2J2aFFkNkhOLVFtMU9YLVN0YUk?oc=5\" target=\"_blank\">Audit finds over 70% increase in federal immigration arrests in NYC under Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">whbl.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-23T02:18:58.089338+00:00",
-      "published_at": "2026-05-22T23:00:08+00:00",
-      "price": null,
-      "novelty_score": 0.4,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -16569,6 +16569,24 @@
     }
   ],
   "Shopping": [
+    {
+      "url": "https://www.grailed.com/listings/97370067",
+      "title": "\ud83d\udc9a Telfar Large Chocolate Shopping Bag Tote NEW",
+      "snippet": "T, e, l, f, a, r",
+      "source": "grailed",
+      "source_type": "shopping",
+      "topic_name": "Shopping",
+      "fetched_at": "2026-06-02T11:13:17.322274+00:00",
+      "published_at": null,
+      "price": "$399.00",
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://jp.mercari.com/item/2JJU2DZq8NjFj8FGWSays5",
       "title": "MEN'S KANEKO ISAO \u30e1\u30f3\u30ba \u30ab\u30cd\u30b3\u30a4\u30b5\u30aa \u79cb\u51ac\u2605 \u30a6\u30fc\u30eb \u30b9\u30c8\u30e9\u30a4\u30d7 3\u30d4\u30fc\u30b9 \u30bb\u30c3\u30c8\u30a2\u30c3\u30d7 \u30b9\u30fc\u30c4 Sz.L \u30e1\u30f3\u30ba",

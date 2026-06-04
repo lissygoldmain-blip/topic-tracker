@@ -1803,6 +1803,24 @@
   ],
   "Health research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQei10b3NjN2lyUHY4UWhGOFpRSWRjT2N6OXNlVXBacTZxX291YXB0SUdhMzhObUlFNm8yY1ZzdHlRTUJyRTVpSWhiWTUzY3dLQ2I0ZXJzVzRQRWdYLXRzMEo4bWxReVNjS2dHZXhyYTB0aEFpakhZWDRRZktTR0VUMEkzUlhNZlFGc0xIdHBmWWNYT0Y4LXlhSk9zdmpwSnN1bkdjNXE1Q21BQnN3cDhEME1DNXdobUxXdzhpRXptN1RzQmdmR2xJ?oc=5",
+      "title": "Could GLP-1 drugs help prevent breast cancer? New study points to a possible link - News-Medical",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQei10b3NjN2lyUHY4UWhGOFpRSWRjT2N6OXNlVXBacTZxX291YXB0SUdhMzhObUlFNm8yY1ZzdHlRTUJyRTVpSWhiWTUzY3dLQ2I0ZXJzVzRQRWdYLXRzMEo4bWxReVNjS2dHZXhyYTB0aEFpakhZWDRRZktTR0VUMEkzUlhNZlFGc0xIdHBmWWNYT0Y4LXlhSk9zdmpwSnN1bkdjNXE1Q21BQnN3cDhEME1DNXdobUxXdzhpRXptN1RzQmdmR2xJ?oc=5\" target=\"_blank\">Could GLP-1 drugs help prevent breast cancer? New study points to a possible link</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Medical</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-06-04T02:51:16.853600+00:00",
+      "published_at": "2026-06-04T01:16:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLWZiOXNudUpaaEVjcFdqU0NQdG5SSlI1dGx6bUNaYm5BLWNDcDVQekhxcjAtWS1zc2ZkUGNTdkdkS1lMeTlmMC1SRWxqTmRuYlhLaWUzY0VXdHEyVkcwS3lJZnFBeUx5V2wzd3oxZ0RJUkE3SmVLVTdCeFpESjVnYVI5dm5HTlMxU1FyUUJIUWNrOXM0LXlNcnN4OFRLc3BWSU1EWU1vT3dmczFsOE9MQk05V2RYNHBPenlMS0pjY05HVnNQdnRDTW9LbnJLcHVWYlJ1amtqYnUxV0ZOcVR5S25hWFVoclg3?oc=5",
       "title": "Biomea Fusion Announces Research Collaboration with University of Leicester to Evaluate Icovamenib in Combination with Semaglutide in Obesity - marketscreener.com",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLWZiOXNudUpaaEVjcFdqU0NQdG5SSlI1dGx6bUNaYm5BLWNDcDVQekhxcjAtWS1zc2ZkUGNTdkdkS1lMeTlmMC1SRWxqTmRuYlhLaWUzY0VXdHEyVkcwS3lJZnFBeUx5V2wzd3oxZ0RJUkE3SmVLVTdCeFpESjVnYVI5dm5HTlMxU1FyUUJIUWNrOXM0LXlNcnN4OFRLc3BWSU1EWU1vT3dmczFsOE9MQk05V2RYNHBPenlMS0pjY05HVnNQdnRDTW9LbnJLcHVWYlJ1amtqYnUxV0ZOcVR5S25hWFVoclg3?oc=5\" target=\"_blank\">Biomea Fusion Announces Research Collaboration with University of Leicester to Evaluate Icovamenib in Combination with Semaglutide in Obesity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
@@ -3574,23 +3592,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVc5TGVUNFB5TUVYb3ZVVHlMdWxXZHpFQl9RbGE1cXZNRnZTZWxHSjRtSnBXcnJ3bllJWjAtR3Q1WUcwOVdfMHZMUGpqSlU3ZGRnRUF2ZUxOV1ZoZmpmU3NqcTdsWVpsR19xYkhfV001ZGdUeUtvU3QzdkI2Tm9URFNmRlNyTG5ld2tiZmVDVHJtMF9wTFE?oc=5",
-      "title": "These diseases were thought to be incurable. Now AI is unlocking new treatments - BBC",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVc5TGVUNFB5TUVYb3ZVVHlMdWxXZHpFQl9RbGE1cXZNRnZTZWxHSjRtSnBXcnJ3bllJWjAtR3Q1WUcwOVdfMHZMUGpqSlU3ZGRnRUF2ZUxOV1ZoZmpmU3NqcTdsWVpsR19xYkhfV001ZGdUeUtvU3QzdkI2Tm9URFNmRlNyTG5ld2tiZmVDVHJtMF9wTFE?oc=5\" target=\"_blank\">These diseases were thought to be incurable. Now AI is unlocking new treatments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Health research",
-      "fetched_at": "2026-03-10T07:00:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Jobs": [
@@ -3961,6 +3962,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://deadline.com/2026/06/backrooms-kane-parsons-calls-ai-genuinely-harmful-1236940532/",
+      "title": "\u2018Backrooms\u2019 Director Kane Parsons Calls AI \u201cGenuinely Harmful\u201d To Creativity: \u201cCultural And Economic Rot\u201d",
+      "snippet": "With a record-breaking A24 directorial debut under his belt at age 20, Kane Parsons doesn&#8217;t see a place for AI in Hollywood&#8217;s future. The Backrooms director recently emphasized the &#8220;genuinely harmful consequences&#8221; that have already begun unfolding as generative AI becomes more popular in Hollywood and beyond. &#8220;I think I&#8217;m in the same boat as [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-06-04T02:51:33.244159+00:00",
+      "published_at": "2026-06-04T01:51:47+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.rogerebert.com/festivals/60th-karlovy-vary-film-festival-announces-official-selection-and-juries",
       "title": "60th Karlovy Vary Film Festival Announces Official Selection and Juries",
@@ -5742,16 +5761,36 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
+    }
+  ],
+  "AI & tech research": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0h1RFpxRDd5S2xSOFpKRlVad0pZX0RZRFpIZTJ4X1I4ZnViU1JpWjJYZGVuT2l4c01tYThJbUhRX29fNTVnRkljVjdsS09NZ2lyNmx5NzJMdVAxOFktZFRmQTh3TzdxY0lPVmFTMHpRWXdpbzVSTUtYM0lpVWRrQnZkY3BUdWJoOXI5aExyVEhkSWFUQnJtanlObE5aZU11VnBsV2ZhS083UERxelZybdIBuAFBVV95cUxQNVd6djg4NTZ2b2ZNTTZzOUhxU0tMT1p6SElsWlFzdXN4VTFYTFhwclVvRmVnZlNEM29jRWM3N2ZNd1JlZ3FfM240WnFsNDVmSXIwY2FhTTZmMWVPbmVrQ2ZJWWhOcDNwUVVWLUxXNkNjQS03S0RCLUZ4NVNJeVNTZHRDNXppMHJRVHlVQ3dFOWhNYk9adWhvTzQ5bk1HdnpBUGVQWnd6NmRWb3p0NXQ3MU96c1gzVlds?oc=5",
+      "title": "Trump Signs Order Giving Government Access To AI Models Before Release - NDTV",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0h1RFpxRDd5S2xSOFpKRlVad0pZX0RZRFpIZTJ4X1I4ZnViU1JpWjJYZGVuT2l4c01tYThJbUhRX29fNTVnRkljVjdsS09NZ2lyNmx5NzJMdVAxOFktZFRmQTh3TzdxY0lPVmFTMHpRWXdpbzVSTUtYM0lpVWRrQnZkY3BUdWJoOXI5aExyVEhkSWFUQnJtanlObE5aZU11VnBsV2ZhS083UERxelZybdIBuAFBVV95cUxQNVd6djg4NTZ2b2ZNTTZzOUhxU0tMT1p6SElsWlFzdXN4VTFYTFhwclVvRmVnZlNEM29jRWM3N2ZNd1JlZ3FfM240WnFsNDVmSXIwY2FhTTZmMWVPbmVrQ2ZJWWhOcDNwUVVWLUxXNkNjQS03S0RCLUZ4NVNJeVNTZHRDNXppMHJRVHlVQ3dFOWhNYk9adWhvTzQ5bk1HdnpBUGVQWnd6NmRWb3p0NXQ3MU96c1gzVlds?oc=5\" target=\"_blank\">Trump Signs Order Giving Government Access To AI Models Before Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-06-04T03:02:29.100074+00:00",
+      "published_at": "2026-06-02T17:23:09+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
     },
     {
-      "url": "https://deadline.com/2026/05/a24-wraps-first-production-in-india-dev-patel-the-peasant-1236917756/",
-      "title": "A24 Wraps First Production In India With Dev Patel\u2019s Action-Thriller \u2018The Peasant\u2019; Christian Friedel & Saurabh Sachdeva Among Supporting Cast",
-      "snippet": "EXCLUSIVE: A24 has wrapped Dev Patel revenge-action thriller The Peasant, which becomes the studio&#8217;s first production to shoot in India. Joining Oscar nominee Patel in the cast are Christian Friedel (The Zone of Interest), Sebastian Bull (Sons), Saurabh Sachdeva (Animal), Anasuya Sengupta (The Shameless) and Vipin Sharma (Monkey Man). Directed by Patel and written by [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-05-21T16:20:57.652693+00:00",
-      "published_at": "2026-05-21T16:12:51+00:00",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FRlNIX0x6TTFUR1h5bnB3andPcngyUDQwUEM5N0lJSkQwSHhRemYzNXZVQndYYnJWVkpqUHBfMkRZUGluWExlcnFxQlZRekRLc0ZRTzJ1dFc0N1VVNTBfV3hhcXZINXJ2MlVJNm9mMUdlZw?oc=5",
+      "title": "Google has released 'Gemma 4 12B,' an AI model that can run on laptops, for free; it requires 16GB of VRAM to run. - GIGAZINE",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9FRlNIX0x6TTFUR1h5bnB3andPcngyUDQwUEM5N0lJSkQwSHhRemYzNXZVQndYYnJWVkpqUHBfMkRZUGluWExlcnFxQlZRekRLc0ZRTzJ1dFc0N1VVNTBfV3hhcXZINXJ2MlVJNm9mMUdlZw?oc=5\" target=\"_blank\">Google has released 'Gemma 4 12B,' an AI model that can run on laptops, for free; it requires 16GB of VRAM to run.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-06-04T03:02:29.100074+00:00",
+      "published_at": "2026-06-04T01:36:00+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,
@@ -5759,10 +5798,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeXdYeVlWOXI5WmkwaE1JeUdqdW03OTVRSWJDbkpNczZMcVpnV2REUTlXODQ1Z29uNTlMbllPOEt4VTU2aFFLT1hTUW5iQlZqeVc2Z1hSODBsY0ZuMEpPWjQ0TW5HaFNKdXBMZlQwRWNobU5taldmSGJTU0VBaDQwQm1ra3oyWFMyUE9mUGtlYXpPVlNvQ1dzR3ZNS0ZXVHpzbUFxZm1xX1I3RDZIR2tIeDNpXzRSWHZTdlZtckduSU1MZzZTcEx0ekdsc0JEaUlUQmdLSjJtYjhMR3cxTkZ6dm5PV0gtODhkVF9nZVItRUlaMjlUYS00?oc=5",
       "title": "Trump signs AI executive order seeking 30-day government access to frontier models before release \u2014 voluntary framework will include classified benchmark to determine which models qualify - Tom's Hardware",
@@ -7520,42 +7557,6 @@
       "published_at": "2026-05-09T11:53:18+00:00",
       "price": null,
       "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmc1UU10Zi1QWHM1VkJtWFU2UDZsbXdKWDNjd0tVcjBIOEVLd3k5a1lkWmwyOGxPcEtKMFQtUl9KT1BQNDFQdkxsYnZsWEhaS3I2bWdjRWhpOWVXSHBTTndCMk9sU09lN3J6X1VtVVhSak5LRTM3cG9FaVdBVU12aHBKdGRmRFNmNFdhLXdKM18zLXdYVnZjR0I4eVd1TnFZckduajBfR0xLV1pYcXRyRlYzWlRyaXhhQzd1R3BMRQ?oc=5",
-      "title": "Meet ZAYA1-8B, a super efficient open reasoning model trained on AMD Instinct MI300 GPUs - VentureBeat",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmc1UU10Zi1QWHM1VkJtWFU2UDZsbXdKWDNjd0tVcjBIOEVLd3k5a1lkWmwyOGxPcEtKMFQtUl9KT1BQNDFQdkxsYnZsWEhaS3I2bWdjRWhpOWVXSHBTTndCMk9sU09lN3J6X1VtVVhSak5LRTM3cG9FaVdBVU12aHBKdGRmRFNmNFdhLXdKM18zLXdYVnZjR0I4eVd1TnFZckduajBfR0xLV1pYcXRyRlYzWlRyaXhhQzd1R3BMRQ?oc=5\" target=\"_blank\">Meet ZAYA1-8B, a super efficient open reasoning model trained on AMD Instinct MI300 GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-05-10T19:03:13.030544+00:00",
-      "published_at": "2026-05-07T18:24:00+00:00",
-      "price": null,
-      "novelty_score": 0.75,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSmhqbkMxb0lwMW1PcjlQa0NYZUVaV3hZSVRsN05xUFphdHZ6YXNPb05aaW1kandaNmM2elBKMFlDelhVVVRxdDZoUVB1ZEViaTE3QnNrWERZbDJPYW12WG5sVmxWQmhKYlVUckVmRnV2VWZhcDV1ZHBNdUJvTVFEUjRQU3pqcUJiUUlONmEyaGY3S2hOUFFoMmdaYXFSVjZFcHowV2dwMjdoUXkwb0RUTGFWdlM0TDF5MF9BYmtUSEVSTE1SUGJ5SDU4cDREa1lhQi1WZDA0aHZKMGVlQTdPMVdncmdCZWwtVXNlR0h3?oc=5",
-      "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing - MarkTechPost",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSmhqbkMxb0lwMW1PcjlQa0NYZUVaV3hZSVRsN05xUFphdHZ6YXNPb05aaW1kandaNmM2elBKMFlDelhVVVRxdDZoUVB1ZEViaTE3QnNrWERZbDJPYW12WG5sVmxWQmhKYlVUckVmRnV2VWZhcDV1ZHBNdUJvTVFEUjRQU3pqcUJiUUlONmEyaGY3S2hOUFFoMmdaYXFSVjZFcHowV2dwMjdoUXkwb0RUTGFWdlM0TDF5MF9BYmtUSEVSTE1SUGJ5SDU4cDREa1lhQi1WZDA0aHZKMGVlQTdPMVdncmdCZWwtVXNlR0h3?oc=5\" target=\"_blank\">NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarkTechPost</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-05-10T02:17:42.893966+00:00",
-      "published_at": "2026-05-09T22:24:23+00:00",
-      "price": null,
-      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -12972,6 +12973,24 @@
   ],
   "Immigration & ICE": [
     {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVEZfZWlOZVp2ZEJLVU1kUVRjS0lTNEpLdTJ3XzYta0tJTGk1UmRxQ2JmQTFjV3RBQlozWHVVaUNCMTY0Y3lhLVlydXlaWEsyR3VESXFmRlVpa3dlTmFHRk1iYjl1cVNwZ3lVQU44U1JEZG1Gel81bDQ1Z1VuQXlWVmZfblZESnMzeS1PM3ZXdWpCUWVGTkQ3aHBEVWdNOExDWUswV1plOTNTemxWZTlhU1VkR0twNmYtYV9uOFdLUQ?oc=5",
+      "title": "Inside the well-stocked anti-ICE coalition tent raided by feds outside Delaney Hall -- where rioters enjoy puzzles and games - New York Post",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVEZfZWlOZVp2ZEJLVU1kUVRjS0lTNEpLdTJ3XzYta0tJTGk1UmRxQ2JmQTFjV3RBQlozWHVVaUNCMTY0Y3lhLVlydXlaWEsyR3VESXFmRlVpa3dlTmFHRk1iYjl1cVNwZ3lVQU44U1JEZG1Gel81bDQ1Z1VuQXlWVmZfblZESnMzeS1PM3ZXdWpCUWVGTkQ3aHBEVWdNOExDWUswV1plOTNTemxWZTlhU1VkR0twNmYtYV9uOFdLUQ?oc=5\" target=\"_blank\">Inside the well-stocked anti-ICE coalition tent raided by feds outside Delaney Hall -- where rioters enjoy puzzles and games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-06-04T02:57:28.541258+00:00",
+      "published_at": "2026-06-01T21:29:00+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMjUyY1NqU2tiQm9UQm5TRTBZd2cxU3E3VEt4OWhDZk9YTkxLSjliYVMwak5HZVMwUDdYemd4Z2x2WFVrSTZnSnRheWRMampRRjU0MGxJTW9FY1FaNF9LX1FtSy1PaUlIMW0zNF9tQzYwei0wLXJpcHdYeklXZHZPV19zaDZkdGxNRWc?oc=5",
       "title": "Posts claim DHS plans to halt international flights to sanctuary cities. Here's what we know - Snopes",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQMjUyY1NqU2tiQm9UQm5TRTBZd2cxU3E3VEt4OWhDZk9YTkxLSjliYVMwak5HZVMwUDdYemd4Z2x2WFVrSTZnSnRheWRMampRRjU0MGxJTW9FY1FaNF9LX1FtSy1PaUlIMW0zNF9tQzYwei0wLXJpcHdYeklXZHZPV19zaDZkdGxNRWc?oc=5\" target=\"_blank\">Posts claim DHS plans to halt international flights to sanctuary cities. Here's what we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Snopes</font>",
@@ -14752,24 +14771,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM1ZFaW1PZi1aakp3RFBMTjZkOXlHMkI1XzhLcW5qUzl5T0FucmYxQ3ZzczZ6TVMzRnFZUDRwVFlJX25La25Wc183c0ljRWZXMWxRdjVqNXZLZk5xdE1QS1JHMUJqaE9nQ1pzUDF5U091RmxNUVEtNXlxN3owb2VrZFh2RzFTVnhtVDdqalFsdkJkOW94T2k0eFo1N0o4Z2lYd3lXT3h3b0I3QU1ZZi02QnppdDJkVkYzTUotZWFJNHRscU5vdnc?oc=5",
-      "title": "Audit finds over 70% increase in federal immigration arrests in New York City under Trump - The Straits Times",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQM1ZFaW1PZi1aakp3RFBMTjZkOXlHMkI1XzhLcW5qUzl5T0FucmYxQ3ZzczZ6TVMzRnFZUDRwVFlJX25La25Wc183c0ljRWZXMWxRdjVqNXZLZk5xdE1QS1JHMUJqaE9nQ1pzUDF5U091RmxNUVEtNXlxN3owb2VrZFh2RzFTVnhtVDdqalFsdkJkOW94T2k0eFo1N0o4Z2lYd3lXT3h3b0I3QU1ZZi02QnppdDJkVkYzTUotZWFJNHRscU5vdnc?oc=5\" target=\"_blank\">Audit finds over 70% increase in federal immigration arrests in New York City under Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Straits Times</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-25T05:27:22.963174+00:00",
-      "published_at": "2026-05-22T23:52:00+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14811,6 +14812,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGVpVHBJRk1TNVpHa0p1SEVjVi1Gb0pjeC1vS1VNYm02YXVzdWFBQkpYYVBVVEN2Slp4REJaTDkxaEtzcTllR01HRjM0MV8zVnRzWlVHcGJzVlJiLTVDcWZNTWhycUo2WlJuZ1A4ZWdoNXZ4UTVQUGRZZ29Pa2ZaeE4tQlpjSEppLWZiTGY3ZzI1Y0FfVUcxM0hkMNIBoAFBVV95cUxQTzg2OTdHSzJFLUcxeURacWRLTGpQZDl4a0d2NWJmdVZ4TFBfM0xQeVJmWThHb281QVlDN3JmTVNORnZRekU1aGR1eXQ1bl9SemFjaHZWb2N0UlRKV2kyZWl3N01BWk42REtYLTROZXBmamV2VWw2ZUo5N1RfS1d5QmdlaTY5N0FZckRPbGoxOWFmTGMzemNRVFUyY3BhaXpH?oc=5",
+      "title": "WATCH: House approves war powers resolution to halt military action against Iran - PBS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGVpVHBJRk1TNVpHa0p1SEVjVi1Gb0pjeC1vS1VNYm02YXVzdWFBQkpYYVBVVEN2Slp4REJaTDkxaEtzcTllR01HRjM0MV8zVnRzWlVHcGJzVlJiLTVDcWZNTWhycUo2WlJuZ1A4ZWdoNXZ4UTVQUGRZZ29Pa2ZaeE4tQlpjSEppLWZiTGY3ZzI1Y0FfVUcxM0hkMNIBoAFBVV95cUxQTzg2OTdHSzJFLUcxeURacWRLTGpQZDl4a0d2NWJmdVZ4TFBfM0xQeVJmWThHb281QVlDN3JmTVNORnZRekU1aGR1eXQ1bl9SemFjaHZWb2N0UlRKV2kyZWl3N01BWk42REtYLTROZXBmamV2VWw2ZUo5N1RfS1d5QmdlaTY5N0FZckRPbGoxOWFmTGMzemNRVFUyY3BhaXpH?oc=5\" target=\"_blank\">WATCH: House approves war powers resolution to halt military action against Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-06-04T02:57:47.384886+00:00",
+      "published_at": "2026-06-03T20:08:49+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MTUFjNDFpQ185cmpyNHF4NlF2V2lpSnQ5ZzJQMW1zR3NxdGo2c05DdE1IMlFBdG1PZHhqYzhrd1UwMTBEYVF4VHpFOWN4N3dLYUdjZnh1LVVwUzJ6Q25vQXpuaXN5WVY0ajdLQ3hBMVBmWktQQ0QtRkQxXy0?oc=5",
       "title": "In a first, California Supreme Court reverses a death penalty under new racial justice law - CalMatters",
@@ -16592,24 +16611,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVpBYUdESUFxclBjZDJmMUJfVU80WUxMSW5idGFsdlNxT3hhaTZFRUtoeUQwYkszYU9JdnM4N3lTRUtqeUpiTG04YWU3ZkxKcnFoOGktbjF3OXRfQk5FbVV4cDJLM2FMcXMtOTJXaG1EMi1DYW8zd1ozX015NmFhbFF3ZXczVm5HZlppQjQzTUZrZjlVdW8wQ3FkWGNoTFUtdFAxUlRlN1c0M3V1eDg5U3lhNHgzQ2R2dlZr?oc=5",
-      "title": "Alex Murdaugh's murder convictions overturned in South Carolina Supreme Court ruling - PBS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVpBYUdESUFxclBjZDJmMUJfVU80WUxMSW5idGFsdlNxT3hhaTZFRUtoeUQwYkszYU9JdnM4N3lTRUtqeUpiTG04YWU3ZkxKcnFoOGktbjF3OXRfQk5FbVV4cDJLM2FMcXMtOTJXaG1EMi1DYW8zd1ozX015NmFhbFF3ZXczVm5HZlppQjQzTUZrZjlVdW8wQ3FkWGNoTFUtdFAxUlRlN1c0M3V1eDg5U3lhNHgzQ2R2dlZr?oc=5\" target=\"_blank\">Alex Murdaugh's murder convictions overturned in South Carolina Supreme Court ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-05-13T15:55:46.465646+00:00",
-      "published_at": "2026-05-13T14:53:48+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Shopping": [
@@ -17533,6 +17534,24 @@
     }
   ],
   "Queens food & dining": [
+    {
+      "url": "https://ny.eater.com/news/411872/nyc-new-restaurant-openings-june-2026",
+      "title": "The Noortwyck&#8217;s Wood-Fired Sibling \u2014 And Other NYC Openings in June",
+      "snippet": "This is Eater\u2019s guide to all the new restaurants, bars, and cafes that have opened this week in June 2026. Throughout the month, we\u2019ll update the list weekly (see: May, April, March, February, January). When we\u2019ve been to a place, we will then include a few openings on our heatmaps (Manhattan, Brooklyn, Queens, cocktail bars) [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens food & dining",
+      "fetched_at": "2026-06-04T03:00:01.721439+00:00",
+      "published_at": "2026-06-03T15:05:08+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/FoodNYC/comments/1tv3oy3/does_anyone_have_more_details_for_fidi_pearl/",
       "title": "Does anyone have more details for FIDI pearl dinner?",
@@ -19306,24 +19325,6 @@
       "topic_name": "Queens food & dining",
       "fetched_at": "2026-04-13T00:06:01+00:00",
       "published_at": null,
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://ny.eater.com/news/410432/nyc-restaurants-closed-april-2026",
-      "title": "A Six-Month-Old Omakase \u2014 And More NYC Restaurant Closures in April",
-      "snippet": "This is Eater\u2019s guide to all the New York City restaurants, bars, and cafes that closed in April 2026. This list will be updated weekly (see: March, February, January), serving as a round-up of the dining and drinking places that have shuttered around the city. If a restaurant or bar has closed in your neighborhood, [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens food & dining",
-      "fetched_at": "2026-04-12T08:52:00.263411+00:00",
-      "published_at": "2026-04-10T15:16:09+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,

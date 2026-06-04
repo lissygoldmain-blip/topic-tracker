@@ -3963,6 +3963,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/06/netflix-antoine-fuqua-hannibal-denzel-washington-1236940352/",
+      "title": "Netflix Pauses Pre-Production On Antoine Fuqua\u2019s Hannibal Epic Starring Denzel Washington",
+      "snippet": "EXCLUSIVE: Netflix has halted pre-production on its untitled epic drama about ancient Carthaginian general Hannibal starring Denzel Washington in the titular role with his frequent collaborator Antoine Fuqua directing. The film was planning to shoot later this year in Italy but insiders now say things have been put on pause so that producers and the [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-06-04T16:50:27.487281+00:00",
+      "published_at": "2026-06-04T16:30:52+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/06/the-tropic-sun-and-his-eyes-tribeca-premiere-1236940838/",
       "title": "Elisee Junior St Preux On Bringing Haiti To Tribeca With \u2018The Tropic Sun And His Eyes\u2019",
       "snippet": "EXCLUSIVE: Deadline has an exclusive first look at the trailer for The Tropic Sun and His Eyes ahead of its world premiere at the Tribeca Festival. Filmed in Haiti&#8217;s northern Cap-Ha\u00eftien region, the movie follows Ruben, a young man (Stevenson Jean) who embarks on a journey to reconnect with his estranged father, accompanied by an [&#8230;]",
@@ -5743,27 +5761,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/05/heat-2-jason-clarke-circling-mystery-role-the-dish-1236918173/",
-      "title": "Jason Clarke Circling Michael Mann\u2019s \u2018Heat 2\u2019 \u2013 The Dish",
-      "snippet": "EXCLUSIVE:&#160;Jason Clarke is being eyed to join the cast of Michael Mann&#8217;s&#160;Heat 2&#160;from Amazon MGM Studios and United Artists, multiple sources tell Deadline. Reps for Amazon and the actor declined comment, and what role Clarke will play is not yet clear. While sources say there are no cast deals in place, Leonardo DiCaprio and Christian [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-05-21T20:55:55.915422+00:00",
-      "published_at": "2026-05-21T20:30:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRWF6VVZqQWo3VEJKQ2NDOTRXT1dQaUNzcURtbkdocEg1bnY1WEFFWF8zRGxwd0R0d1NxZFZVQ3dBeXdGU1hpNEZMd2JFcHFzU0UxLTdUVnNKXzM3dTZSanU4b2ZGM1lwUnc?oc=5",
+      "title": "Expanding Project Glasswing - Anthropic",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRWF6VVZqQWo3VEJKQ2NDOTRXT1dQaUNzcURtbkdocEg1bnY1WEFFWF8zRGxwd0R0d1NxZFZVQ3dBeXdGU1hpNEZMd2JFcHFzU0UxLTdUVnNKXzM3dTZSanU4b2ZGM1lwUnc?oc=5\" target=\"_blank\">Expanding Project Glasswing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-06-04T17:01:30.798859+00:00",
+      "published_at": "2026-06-02T13:05:18+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGhxdmIxVzd3MW9LaU1UZUM2RHA5NEx4Ym1yaUVXd1ZMRWs4d3ZfeFZIQ2I2dUhmbFBiXzhySHgyRE15V1VHRFE1VWtTcWU5Wkl4QXRqb2VMS2J6YlBjWThlRHMyVldTRlNQT0JMZjc0Ynk2eWZYUEhQa0tZclAyT3BWaFQ5V05jbXdTem52b2pkTDZBZFlwNEwzZU9QaEU?oc=5",
       "title": "Trump Signs AI Order Putting NSA at Center of Pre-Release Model Testing Push - SOFX",
@@ -7545,27 +7563,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVNnNGtXWHd3RHBEQlluQ3FTR1MteGt3eGJGZXc3ZE5fRzNUV2RPV21HbE5id3hQTmIxbVppMlJTem5JQUEyZ1JDSG5CVEdEaVBCRzlKYlF4amQtV3VsYUZLWDlhc0lVcW92VzJDWmRjQlphME4tWnduQ0xNSjU5TUFrYTBGeWNDUFNvbmJjUDN5YXhYQ2pzMGo0TkV0VmVnNGo5RXYxNUM4QWc2Z19hckRnRERfaDljcUpPVUdxNVdrZXJjQUE?oc=5",
-      "title": "Frontier AI models to be subject to pre-release safety checks amid rising cybersecurity concerns - Lexology",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVNnNGtXWHd3RHBEQlluQ3FTR1MteGt3eGJGZXc3ZE5fRzNUV2RPV21HbE5id3hQTmIxbVppMlJTem5JQUEyZ1JDSG5CVEdEaVBCRzlKYlF4amQtV3VsYUZLWDlhc0lVcW92VzJDWmRjQlphME4tWnduQ0xNSjU5TUFrYTBGeWNDUFNvbmJjUDN5YXhYQ2pzMGo0TkV0VmVnNGo5RXYxNUM4QWc2Z19hckRnRERfaDljcUpPVUdxNVdrZXJjQUE?oc=5\" target=\"_blank\">Frontier AI models to be subject to pre-release safety checks amid rising cybersecurity concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexology</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-05-12T04:49:17.564109+00:00",
-      "published_at": "2026-05-11T17:07:27+00:00",
+      "url": "https://qns.com/2026/06/blaze-astoria-gas-station/",
+      "title": "Firefighters battle blaze at gas station in middle of heavily trafficked area of Astoria: FDNY",
+      "snippet": "The FDNY confronted a nightmare scenario in Astoria on Wednesday night, as firefighters battled a blaze at a gas station alongside the elevated N/W lines above 31st Street at a major traffic artery, Astoria Boulevard South. The roadway is transited by motorists making their way towards the Grand Central Parkway near the 114th Precinct, across...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/blaze-astoria-gas-station/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-04T16:48:10.924903+00:00",
+      "published_at": "2026-06-04T16:30:46+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/06/laguardia-community-college-way-lic-block/",
       "title": "LaGuardia Community College celebrates co-naming of LIC block as \u2018LaGuardia Community College Way\u2019",
@@ -9347,16 +9365,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://www.amny.com/news/coge-mamdani-replaces-adams-charter-commission/",
-      "title": "COGE, not DOGE: Mamdani replaces Adams-era charter commission with his own government efficiency panel",
-      "snippet": "Move over, Elon Musk: Mayor Zohran Mamdani has something to say about \"government efficiency.\" The mayor on Wednesday moved to dissolve a charter revision commission appointed at the end of Eric Adams\u2019 tenure and replace it with the Commission on Government Efficiency (COGE) \u2014 a name that echoes the federal Department of Government Efficiency\u2026 <a class=\"read-more\" href=\"https://www.amny.com/news/coge-mamdani-replaces-adams-charter-commission/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-05-28T18:33:30.007955+00:00",
-      "published_at": "2026-05-28T17:45:04+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1twi29x/trixie_will_be_appearing_on_nicole_byers_podcast/",
+      "title": "Trixie will be appearing on Nicole Byer's Podcast 'Why won't you date me' this Friday to kick off Pride Month",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1twi29x/trixie_will_be_appearing_on_nicole_byers_podcast/\"> <img alt=\"Trixie will be appearing on Nicole Byer's Podcast 'Why won't you date me' this Friday to kick off Pride Month\" src=\"https://preview.redd.it/2ja5igazd85h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=356613cc5553e2d364d57839d09871aac916d4a6\" title=\"Trixie will be appearing on Nicole Byer's Podcast 'Why won't you date me' this Friday to kick off Pride Month\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>&gt;Trixie Mattel spills all the tea on her strict relationship boundaries, surviving the Trixie Motel breakup press tour, and why she keeps her new man a total secret. Plus the absolute horror of a first date who show up completely off their meds. It's an extra long special episode.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tootsie_r0lla\"> /u/Tootsie_r0lla </a> <br /> <span><a href=\"https://i.redd.it/2ja5igazd85h1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1twi29x/trixie_will_be_appearing_on_nicole_byers_podcast/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-06-04T09:01:19+00:00",
+      "published_at": null,
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -9364,10 +9384,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1twh289/bendelacreme_got_a_new_hip/",
       "title": "BenDeLaCreme Got a New Hip!",
@@ -11149,15 +11167,17 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queer & trans": [
     {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1t22sem/i_saw_sasha_velours_new_show_tonight/",
-      "title": "I saw Sasha Velour's new show tonight",
-      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1t22sem/i_saw_sasha_velours_new_show_tonight/\"> <img alt=\"I saw Sasha Velour's new show tonight\" src=\"https://preview.redd.it/4v6n5vkkosyg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=47cacfbdb6b636d509d89f9193312016ed32f0ec\" title=\"I saw Sasha Velour's new show tonight\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>And it was amazing. If you can, go see it, I have no words for how beautiful and amazing it was. Sasha is a goddess. That's all.</p> <p>Tessa Testicle in the role of Seduction was amazing too!</p> <p><a href=\"https://preview.redd.it/4v6n5vkkosyg1.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=be52d256e5d41e3c313b81883630e7948d315981\">https://preview.redd.it/4v6n5vkkosyg1.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=be52d256e5d41e3c313b81883630e7948d315981</a></p> <p><a href=\"https://preview.redd.it/jm9w5vkkosyg1.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=b7ba54b6e92bcb6d6ee3dccd1432cc40d6574d8d\">https://preview.redd.it/jm9w5vkkosyg1.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=b7ba54b6e92bcb6d6ee3dccd1432cc40d6574d8d</a></p> <p><a href=\"https://preview.redd.it/w23z5wkkosyg1.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=9ab0901d7f04141099905d71eb64122d34ebcd93\">https://preview.redd.it/w23z5wkkosyg1.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=9ab0901d7f04141099905d71eb64122d34ebcd93</a></p> <p><a href=\"https://preview.redd.it/pa92xulkosyg1.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=e47d9fa6287919a395a03a2282886c65ab5076fd\">https://preview.redd.it/pa92xulkosyg1.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=e47d9fa6287919a395a03a2282886c65ab5076fd</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/riotcat42\"> /u/riotcat42 </a> <br /> <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1t22sem/i_saw_sasha_velours_new_show_tonight/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1t22sem/i_saw_sasha_velours_new_show_tonight/\">[comments]</a></span> </td></tr></table>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-05-02T21:46:00+00:00",
+      "url": "https://www.theguardian.com/football/2026/jun/03/millwall-publish-pride-playbook-to-help-clubs-form-stronger-links-with-lgbtq-teams",
+      "title": "Millwall publish \u2018Pride playbook\u2019 to help clubs form stronger links with LGBTQ+ teams",
+      "snippet": "Millwall have published a first-of-its-kind \u2018Pride playbook\u2019 to help football clubs form stronger partnerships with LGBTQ+ teams across the country",
+      "source": "guardian:Football",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-06-03T16:42:52+00:00",
       "published_at": null,
       "price": null,
       "novelty_score": 0.6,
@@ -11166,10 +11186,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queer & trans": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.theguardian.com/us-news/2026/jun/03/trump-public-funding-proposal",
       "title": "White House plans to vet public grants for \u2018American values\u2019 spark broad alarm",
@@ -12951,27 +12969,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Immigration & ICE": [
     {
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcl8wWkVKNi1Malc1S1lTT1ZCYkRUQUdadjN2TFFiN0QtZ09pNHc5QXhQcHVSUkNoaUtDd0EzVk4zWUZxa0VTMGJhQVROdkl3UUs0RXhTMFFhcXFzdEJXUF9JcldGZG03dG9HOTVkeF95bUtGREV1NUl5TXlhS3FhS0UtNFBYM080M1FzUzFLcGI1dWpHYTZVbFlGcVNvdjJtdlhZR05CeHd3UWJWSDk0RkxIa0Z6ekZ1dlZjYUd0YkZDMm1rZVhiUVNsUTV5b2J0dlJfdkYzSlNNTnN1RVVmZE5zYjdPbEtYSGMtOQ?oc=5",
-      "title": "Connecticut school system lets students hide trans status from parents, complaint claims: \u2018Turns the statute on its head\u2019 - New York Post",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcl8wWkVKNi1Malc1S1lTT1ZCYkRUQUdadjN2TFFiN0QtZ09pNHc5QXhQcHVSUkNoaUtDd0EzVk4zWUZxa0VTMGJhQVROdkl3UUs0RXhTMFFhcXFzdEJXUF9JcldGZG03dG9HOTVkeF95bUtGREV1NUl5TXlhS3FhS0UtNFBYM080M1FzUzFLcGI1dWpHYTZVbFlGcVNvdjJtdlhZR05CeHd3UWJWSDk0RkxIa0Z6ekZ1dlZjYUd0YkZDMm1rZVhiUVNsUTV5b2J0dlJfdkYzSlNNTnN1RVVmZE5zYjdPbEtYSGMtOQ?oc=5\" target=\"_blank\">Connecticut school system lets students hide trans status from parents, complaint claims: \u2018Turns the statute on its head\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUd0WkZkUDVXbzVfU1pzNjgxSnUwSkxSeE45amE1S2kwdnpSLTktSHd0NGZrT3JiQW4xZjFSalJjLXQ5dEJ2VXgyc1lLTF9uWlVhdEM1VU1sQklFOEFLMXFqbUpmN05DOGxLRjBDVWF2N1BJeDFsellhcVFRQnlWVUxpQQ?oc=5",
+      "title": "Curfew to Be Lifted Near NJ\u2019s Delaney Hall ICE Facility Where Protests Have Raged - The New York Times",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUd0WkZkUDVXbzVfU1pzNjgxSnUwSkxSeE45amE1S2kwdnpSLTktSHd0NGZrT3JiQW4xZjFSalJjLXQ5dEJ2VXgyc1lLTF9uWlVhdEM1VU1sQklFOEFLMXFqbUpmN05DOGxLRjBDVWF2N1BJeDFsellhcVFRQnlWVUxpQQ?oc=5\" target=\"_blank\">Curfew to Be Lifted Near NJ\u2019s Delaney Hall ICE Facility Where Protests Have Raged</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Queer & trans",
-      "fetched_at": "2026-04-27T19:11:06.327937+00:00",
-      "published_at": "2026-04-24T17:12:00+00:00",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-06-04T16:56:28.801188+00:00",
+      "published_at": "2026-06-02T18:12:01+00:00",
       "price": null,
-      "novelty_score": 0.6,
+      "novelty_score": 0.4,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Immigration & ICE": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTDg1ZGh6T21NTUhPbmJSaml0eWRZS2taWmcxelpqMWtZajZKUS1xM2JFN2hmSnRWeE5Cd0wzcEdhWHFWYi1BdjdpNDZ0aG15ejJHUFJtNnQ5SEZla1gxOVRQNFl4a19yMm5lbDVFN21LLUsyOE8zSzB5MVhybjRwSnN5OEFmcHZZSWc?oc=5",
       "title": "Governor Says Immigration Officials Won\u2019t Let Her Visit Delaney Hall - The New York Times",
@@ -14753,24 +14771,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEdCTUx5UjdWQ2pLVXJXeEMyVXVRd1Y0NFU4SlZTMzIwWlB3Tm96aEU5MlhxRWNKQkVQSnlEN1ZNbmNkNUFtRzVxNUlPOG9Nci1vQUw1X2NuWlExb0Y5a1FfM1h6R2p5YVRVcnFuX1dPcTEtS21nZHVxalp3YlVrSjV3d3c2MWlUTUpWa2RLbXpNTWlD0gGaAUFVX3lxTE1fU1BHbVNGa3ZxM2pNbi1aM0xOMGFmdFNKTHhtX1ZybC0zMDVTZlUtVVVhTV8zanZKYURXQUJ6WkVZWWFrOGFKYnZkS3lDZnBKVFg5eUpCbE9Eem5DeGlydVVMNE1lNEdOWHlraHU4czltbDFtMS0wV2FVS2sxZF9JWUxfSVZNQW95eGg3cHV4eXY5V2ZCTFZBYUE?oc=5",
-      "title": "New York lawmakers approve 'sanctuary' state proposal - The Center Square",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEdCTUx5UjdWQ2pLVXJXeEMyVXVRd1Y0NFU4SlZTMzIwWlB3Tm96aEU5MlhxRWNKQkVQSnlEN1ZNbmNkNUFtRzVxNUlPOG9Nci1vQUw1X2NuWlExb0Y5a1FfM1h6R2p5YVRVcnFuX1dPcTEtS21nZHVxalp3YlVrSjV3d3c2MWlUTUpWa2RLbXpNTWlD0gGaAUFVX3lxTE1fU1BHbVNGa3ZxM2pNbi1aM0xOMGFmdFNKTHhtX1ZybC0zMDVTZlUtVVVhTV8zanZKYURXQUJ6WkVZWWFrOGFKYnZkS3lDZnBKVFg5eUpCbE9Eem5DeGlydVVMNE1lNEdOWHlraHU4czltbDFtMS0wV2FVS2sxZF9JWUxfSVZNQW95eGg3cHV4eXY5V2ZCTFZBYUE?oc=5\" target=\"_blank\">New York lawmakers approve 'sanctuary' state proposal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-25T05:27:22.963174+00:00",
-      "published_at": "2026-05-22T19:10:00+00:00",
-      "price": null,
-      "novelty_score": 0.4,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14812,6 +14812,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUG4yNmJadlpadWlBbmh3YTlUYlBNdWlYYy1hck5aVGpiQlgwNnlxUFIySEg3d0ljRzBMMjZDeE5TVWQtTDVDbWVsN182TDZQZzFvV2EzdGt1VXh2T09WX1lwWkhSc1VfT2VHYWFOZFF2dGliZDQ5WWt3ZmVVMXZkbVpjU1IxUHl6UlFtWDRHeHE?oc=5",
+      "title": "In Alabama Ruling, Supreme Court Signals Limited Role for Federal Courts in Redistricting Fights - The New York Times",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPUG4yNmJadlpadWlBbmh3YTlUYlBNdWlYYy1hck5aVGpiQlgwNnlxUFIySEg3d0ljRzBMMjZDeE5TVWQtTDVDbWVsN182TDZQZzFvV2EzdGt1VXh2T09WX1lwWkhSc1VfT2VHYWFOZFF2dGliZDQ5WWt3ZmVVMXZkbVpjU1IxUHl6UlFtWDRHeHE?oc=5\" target=\"_blank\">In Alabama Ruling, Supreme Court Signals Limited Role for Federal Courts in Redistricting Fights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-06-04T16:56:47.885883+00:00",
+      "published_at": "2026-06-03T22:31:38+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXVXQU1VbWYxbEVkbS1MODNnbnk2ZTJENV9OTGdqeDNVR1ZRZFVBa2RmZ1JHQWdnR0ZzaGVxakZKR2VraU4yOEFIaU1DaGxNNW9FV1pPWl9lOXltTEQxQkdiYXpGeVNKazdKSXc1TVJZRGxxUkF2aGRfeXFYb1VoeHRlZUVmZEd0?oc=5",
       "title": "House moves forward on new aid for Ukraine package, spurning Trump - The Hill",
@@ -16585,24 +16603,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-05-14T19:39:45.940047+00:00",
       "published_at": "2026-05-14T01:28:55+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTZGR01KTXNRb3JxdGV4eTk3UlJZZmZEcW80N3dzWnVPMTZmQ1BiLVhaZTFRMUlSVXJZSlc5Z2xWaF9PZzRmVFdyc0ZiTXNDTGc3eDZpZHdyWTZrNWtXQUxPNDhSM3ZvNk05UEI0cmlPbjRHX3c5OUx4NXFTdWVXMVhxQ0JGeFJQ0gGLAUFVX3lxTE9QVERUZE1NTUp1NnJhVE9WX1ZIc0RfQ1dZY3BYajVfT2liUF9ZN2tZWEJadURJdUh2NFVIbWJlTk5ldDd0S0stdGpUZUpyNFpiVERPODRtcnhnaXhfV3doMlNxa2tvMjVSS0tlR3VEM0YxWGFrLVZOZkpDMXhEeGNVb0NRX3FsZzJMTGM?oc=5",
-      "title": "Momentum Builds In Washington For Ukraine Support As Congress Forces House Vote - Radio Free Europe/Radio Liberty",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTZGR01KTXNRb3JxdGV4eTk3UlJZZmZEcW80N3dzWnVPMTZmQ1BiLVhaZTFRMUlSVXJZSlc5Z2xWaF9PZzRmVFdyc0ZiTXNDTGc3eDZpZHdyWTZrNWtXQUxPNDhSM3ZvNk05UEI0cmlPbjRHX3c5OUx4NXFTdWVXMVhxQ0JGeFJQ0gGLAUFVX3lxTE9QVERUZE1NTUp1NnJhVE9WX1ZIc0RfQ1dZY3BYajVfT2liUF9ZN2tZWEJadURJdUh2NFVIbWJlTk5ldDd0S0stdGpUZUpyNFpiVERPODRtcnhnaXhfV3doMlNxa2tvMjVSS0tlR3VEM0YxWGFrLVZOZkpDMXhEeGNVb0NRX3FsZzJMTGM?oc=5\" target=\"_blank\">Momentum Builds In Washington For Ukraine Support As Congress Forces House Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Free Europe/Radio Liberty</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-05-14T09:40:50.530897+00:00",
-      "published_at": "2026-05-14T08:49:55+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

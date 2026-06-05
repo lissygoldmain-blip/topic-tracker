@@ -10567,10 +10567,6 @@
     "seen_at": "2026-05-05T19:08:29.076849+00:00",
     "source_type": "feeds"
   },
-  "https://glimmerglass.org/employment/": {
-    "seen_at": "2026-05-05T19:10:45.920804+00:00",
-    "source_type": "jobs"
-  },
   "https://news.google.com/rss/articles/CBMivgJBVV95cUxQZWlZV0pjWDB4Q08zT1FqQ3VRLW1od1ZZXzZRODBNVTI2d1lVQkhqcjhndDg0d0tBWk5Ed2dvd1d0V0s4dXp5RGVXeDlqX1hPVTExWVdxNFJiNmoyck1WLTlURDdhS0RwU2xaVFUtQmdwdkx0cmtTS0x5Y2pUaURab0ViaENWb2ZQZzBaUUlkU0JIVFVxREpXMWx0QzJQeGdHeWtTMWwyVjhVZExvTW85RmFUb1hqSTNxM0hHTEMzdl81RFd5LUQ4S2FBTWtCZnEtdDVfSmVQWFRIMXBrem5IeGloc0hkX3BUY1NpR2d5MTFDN2JwUzlHV3BOLTExazg3TlpLbE0tdVNOOXJKOU43dXhWSkozR2hrX3ZYbVU4ZHVyTGxzSlVTZWJ2bjUtcnVPR0IxZnljUmFYb3A0Y1E?oc=5": {
     "seen_at": "2026-05-05T19:14:29.822194+00:00",
     "source_type": "news"
@@ -18021,6 +18017,38 @@
   },
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHdrTGxMZUpZTFJQZjRNZU5lVFhJYVNmdEUzYVNCZ09zTkxEMUFJaDJfNGxHOFpNZUNiQk5qQ3JBWG5qeTlLOVp6bzE4YVZpNGtKZ2tUaUV4SFhqLTlYZTBDUzUtOTIwVDBiTVZfNmdlalllemFmMTZhMHdJazhsZFdTc05BdnQ0REtuTUZhbVBSUEFNd0t4NV9iSXhRZVNSazBzZHZTNGVKS1FM0gGyAUFVX3lxTFBWc2NUSVBWYzVyNVF0dVFmV282dHpZY1Y5Snh5ZWppNnEwYzZLYXlHVHpZLW5RbVg3aHhRMlVWTDlCMXRUR0M1WDFEV3R2MV9KUEZzVWhacTVxR1dxQllKWlpuUDBkSE8tSXBMVEhYemF0cDMtbDMzcDhvc3NiLTBxemo3Y1NvV0FFUzBvSEd4c0xDblJLUUc0YkZ5b0JlUGhuMnBnWE43Si11WDlPMmhsOWc?oc=5": {
     "seen_at": "2026-06-05T18:01:23.635333+00:00",
+    "source_type": "news"
+  },
+  "https://hyperallergic.com/is-betting-on-the-art-market-a-terrible-idea/": {
+    "seen_at": "2026-06-05T19:44:50.438881+00:00",
+    "source_type": "feeds"
+  },
+  "https://qns.com/2026/06/ridgewood-runners-highland-park/": {
+    "seen_at": "2026-06-05T19:46:42.491933+00:00",
+    "source_type": "feeds"
+  },
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakFrVG9SaGFRcklhcnpIMTl4OVRuYVFjZ0JiM0sxNGNydjkzaWFJY3lRblVNUWNmTkVUOUVEYU5keEk4Mm9JMkR5OEZlZFRmbFVIZWk2MmRXZk56cXJSTGg5NDF3WjBsaVMtSHpLUURkaTU2NnlCQjQ2OFZlMmpjdUVjTlFqaXI5NEpSREdqb01UTW9haTQ2a0pILUpMekZab2V4MGN4WmZIclNZUVlybUhzWVPSAboBQVVfeXFMT3dVWWR2Zm1zdmhSRElTTzlhekR5b2k3WDlEVEFsdk81WnRVN0kwRUFJMGhzXzA1OVlKT0hjbHBVVGdmcFFLTzF0VnJ5TldSNmhidUM0a195X0FCc1BrQW02bEdtaEJHb0pTVlVIOHZMbS1uNENjdXNBeERGMmx3b0NYQkI2WlhQUkxCc1NNdnpFRU1PQkZIY2JBdmlCdmxvQ09janZ5dWdTTmlHTkRVS0s2aW1qdEtRRHN3?oc=5": {
+    "seen_at": "2026-06-05T19:46:42.492240+00:00",
+    "source_type": "news"
+  },
+  "https://www.reddit.com/r/rupaulsdragrace/comments/1txv22j/dolls_support_dolls/": {
+    "seen_at": "2026-06-05T19:50:49.932375+00:00",
+    "source_type": "social"
+  },
+  "https://www.reddit.com/r/rupaulsdragrace/comments/1txuwz5/alt_right_sc_using_scarlet_envy_in_congress/": {
+    "seen_at": "2026-06-05T19:50:49.932763+00:00",
+    "source_type": "social"
+  },
+  "https://www.reddit.com/r/rupaulsdragrace/comments/1txuhwx/starlet_uks4_announces_that_she_is_a_trans_woman/": {
+    "seen_at": "2026-06-05T19:50:49.932911+00:00",
+    "source_type": "social"
+  },
+  "https://www.theguardian.com/technology/2026/jun/04/microsoft-to-tighten-human-rights-measures-after-inquiry-into-israels-use-of-its-tech": {
+    "seen_at": "2026-06-05T19:53:08.941684+00:00",
+    "source_type": "news"
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxPME4yN3V1MFM3OFh6U1JLd0ZZelpzblUtb0EyYnhrbjdlVUx2eDRCS0oyLW95VnZGNE9fRWdza1BwdjJqU3U4b1c1SnhsWUdBRmdTd21YbUtMUmpXQ3QtcVZYOUtXczhwd2I0b2tfbWM2ODFMWWhSVnBscnJWWktrYzl4YXZENTBHMzRhTlVQSllmc2JVajNqRl9YUE4?oc=5": {
+    "seen_at": "2026-06-05T19:55:49.029437+00:00",
     "source_type": "news"
   }
 }

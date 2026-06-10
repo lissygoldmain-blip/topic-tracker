@@ -1803,6 +1803,24 @@
   ],
   "Health research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWdrMDU4OG92VEV3STU0UjZyR0JjTWFseWY2TnFrV2drVGQ3R2VIQ2xDb3hOZ095aGxJeFduclJmQUxQVW1Qdjc2UlJXa0lIU0xCT0tuM0txLWNnbk1mMkYyUDFyeVhGN1ZBbHpiMmdfU1laUGNUdWNxWkZCeHlsUXMwMmtNVHJTZjNNUDJHWngzS1Z3UFpOdDJ2WkVkRF9rbHBTdUE2TjVXM1RkOXIweFhZNjdhNUlubnZFcVZLRThDazA?oc=5",
+      "title": "GLP-1 Drugs May Offer Big Heart Protection for Adults With Autoimmune Disease - Everyday Health",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWdrMDU4OG92VEV3STU0UjZyR0JjTWFseWY2TnFrV2drVGQ3R2VIQ2xDb3hOZ095aGxJeFduclJmQUxQVW1Qdjc2UlJXa0lIU0xCT0tuM0txLWNnbk1mMkYyUDFyeVhGN1ZBbHpiMmdfU1laUGNUdWNxWkZCeHlsUXMwMmtNVHJTZjNNUDJHWngzS1Z3UFpOdDJ2WkVkRF9rbHBTdUE2TjVXM1RkOXIweFhZNjdhNUlubnZFcVZLRThDazA?oc=5\" target=\"_blank\">GLP-1 Drugs May Offer Big Heart Protection for Adults With Autoimmune Disease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Everyday Health</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-06-10T05:16:01.116029+00:00",
+      "published_at": "2026-06-09T21:47:54+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRFlUUTFFOE1zcnJ2TUxLTjU1WlBkdi1IUjVqZklScVNQTFNOZldRMVJTMnEtUlFJbUpRbFM5ZktUalBMQ1pxVnhVMGducmprY21RUnEyN3dPS0RWVU1UaXk3QkxJOERvemJsV0xfU3BLc0hWQUJMVmdWcmpSVzB0UU9LamNvajB2bGFRSXF3NC1Hamd5VDgyU3g3dkgtOFJhN2NGMGZXc0FKbGhocnpnbVNZT2lSYzRtODlYTTZB?oc=5",
       "title": "New oral diabetes pill sharply lowers blood sugar and body weight in phase 2 trial - The Brighter Side of News",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRFlUUTFFOE1zcnJ2TUxLTjU1WlBkdi1IUjVqZklScVNQTFNOZldRMVJTMnEtUlFJbUpRbFM5ZktUalBMQ1pxVnhVMGducmprY21RUnEyN3dPS0RWVU1UaXk3QkxJOERvemJsV0xfU3BLc0hWQUJMVmdWcmpSVzB0UU9LamNvajB2bGFRSXF3NC1Hamd5VDgyU3g3dkgtOFJhN2NGMGZXc0FKbGhocnpnbVNZT2lSYzRtODlYTTZB?oc=5\" target=\"_blank\">New oral diabetes pill sharply lowers blood sugar and body weight in phase 2 trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brighter Side of News</font>",
@@ -3575,24 +3593,6 @@
       "topic_name": "Health research",
       "fetched_at": "2026-03-30T01:33:15.755303+00:00",
       "published_at": "2026-03-24T04:30:13+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45NjVlV1R1RW9mdXQyazFXeFhoSUtUZGNIQi1hTHpOVjlTamJXT19mOTJqUTktekRJVnBDc3JGTlcwS0lCOVNFOTRjLWNKc1cxUHlpYXpSb1FsX1VXOWc4dWlyVmJqM1RaQTJxazFaSQ?oc=5",
-      "title": "Analyst: Novo Nordisk posts \"remarkably strong\" blood sugar results in new study - medwatch.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE45NjVlV1R1RW9mdXQyazFXeFhoSUtUZGNIQi1hTHpOVjlTamJXT19mOTJqUTktekRJVnBDc3JGTlcwS0lCOVNFOTRjLWNKc1cxUHlpYXpSb1FsX1VXOWc4dWlyVmJqM1RaQTJxazFaSQ?oc=5\" target=\"_blank\">Analyst: Novo Nordisk posts \"remarkably strong\" blood sugar results in new study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">medwatch.com</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Health research",
-      "fetched_at": "2026-03-29T18:34:03.156843+00:00",
-      "published_at": "2026-03-25T09:28:00+00:00",
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -5792,6 +5792,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMWhydGZFQmdRUnpQM1NoeTNhTnBlblgya1RLNHZRWDZwcEdHaTNnNFNhVlU3RlB4U0FNUUFhUC1pSVhNLURQVjg5cWxIeUc3ajlDQ0otbW96YUdLcy1ieDdvUGtTVDBoMjB4X2xuUzdsbUEyMEtMOEprRXVSd1hSTnNUU0NPQ1R0WjJNelA2N18wS2RJLWRFMTJMQi1FVHFsTVlnS056M3RnMVFLa1pXeTRGTkluMmsyd2VzWXJQakJWczd3?oc=5",
+      "title": "Anthropic, which claimed AI model was too risky for public to use, releases \u2018safe\u2019 version - New York Post",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPMWhydGZFQmdRUnpQM1NoeTNhTnBlblgya1RLNHZRWDZwcEdHaTNnNFNhVlU3RlB4U0FNUUFhUC1pSVhNLURQVjg5cWxIeUc3ajlDQ0otbW96YUdLcy1ieDdvUGtTVDBoMjB4X2xuUzdsbUEyMEtMOEprRXVSd1hSTnNUU0NPQ1R0WjJNelA2N18wS2RJLWRFMTJMQi1FVHFsTVlnS056M3RnMVFLa1pXeTRGTkluMmsyd2VzWXJQakJWczd3?oc=5\" target=\"_blank\">Anthropic, which claimed AI model was too risky for public to use, releases \u2018safe\u2019 version</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-06-10T05:27:32.985357+00:00",
+      "published_at": "2026-06-09T21:36:00+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQko0VXF0STJ1ZWZ0LW0xekZHbkZJVVIzZXNTYm9JUXFoXzVMbUdxVEpKTHVMTllCbDhjU05kaDU4Vl8xSGJwQjI4T1drLVYtdURQZV9PNGdhZ19TV2RERTNJQUowRHRSQUpNUk85UlQxTlg3dVJSdl9VZGNsdWktMHZvSTUxYnhPOV9HNWQzVWFBQk1CWEI0ZW11WVNEZENJNVBYakNMV1ZZZTRtQlZMdGhnaC0zYWFL?oc=5",
       "title": "Anthropic just released public Mythos-class AI model called Claude Fable, details here - 9to5Mac",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQko0VXF0STJ1ZWZ0LW0xekZHbkZJVVIzZXNTYm9JUXFoXzVMbUdxVEpKTHVMTllCbDhjU05kaDU4Vl8xSGJwQjI4T1drLVYtdURQZV9PNGdhZ19TV2RERTNJQUowRHRSQUpNUk85UlQxTlg3dVJSdl9VZGNsdWktMHZvSTUxYnhPOV9HNWQzVWFBQk1CWEI0ZW11WVNEZENJNVBYakNMV1ZZZTRtQlZMdGhnaC0zYWFL?oc=5\" target=\"_blank\">Anthropic just released public Mythos-class AI model called Claude Fable, details here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
@@ -7572,27 +7590,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXNYVVBHOWtxc0tVcWRfMGdtSGxjc0xNQjNlM2YtWlFGYkVHMEtRcEp5QzVaUENCcElDTE5vcFdtMUhtdzRuMXNaUU45bm1WX28tWEt0b0RER29uVzNEeVRkTGZMRGI5cktkYkNMeEdtNm5vcDQ0T3RsZEhQOGJkc2kxUnk?oc=5",
-      "title": "Cohere releases its most powerful AI model as open source - BetaKit",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORXNYVVBHOWtxc0tVcWRfMGdtSGxjc0xNQjNlM2YtWlFGYkVHMEtRcEp5QzVaUENCcElDTE5vcFdtMUhtdzRuMXNaUU45bm1WX28tWEt0b0RER29uVzNEeVRkTGZMRGI5cktkYkNMeEdtNm5vcDQ0T3RsZEhQOGJkc2kxUnk?oc=5\" target=\"_blank\">Cohere releases its most powerful AI model as open source</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BetaKit</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-05-22T18:05:09.546734+00:00",
-      "published_at": "2026-05-22T16:52:30+00:00",
+      "url": "https://nyc.streetsblog.org/2026/06/10/paladinos-greenway",
+      "title": "City\u2019s Queens Waterfront Greenway Plan Seems Tailor-Made to Placate Vickie Paladino",
+      "snippet": "The city plans to deprive eastern Queens of greenway safety upgrades it's bringing to the western parts of the borough.",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-10T05:14:12.516679+00:00",
+      "published_at": "2026-06-10T04:05:00+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/06/suspect-exposed-wman-7-train-hunters-point/",
       "title": "Suspect wanted for allegedly exposing himself to elderly woman and grinding against her on 7 train in Hunters Point: NYPD",
@@ -9374,16 +9392,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVMG1EeHBkWXB5dmJsRlJkNUxSeWhhVmJlN1ZZT05FMUVHVWpsVm9JelBQTEdRYi1FY1BGVXBTZm1uZmJuek04Q1RVdkMwdzFsYzB2OHg3SWp4b25neU5MUDRQZXFGamN1ZmdWdVVqZ3YzNmlPRWNN?oc=5",
-      "title": "Falling piece of building facade strikes teen in head on Queens sidewalk - CBS News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBVMG1EeHBkWXB5dmJsRlJkNUxSeWhhVmJlN1ZZT05FMUVHVWpsVm9JelBQTEdRYi1FY1BGVXBTZm1uZmJuek04Q1RVdkMwdzFsYzB2OHg3SWp4b25neU5MUDRQZXFGamN1ZmdWdVVqZ3YzNmlPRWNN?oc=5\" target=\"_blank\">Falling piece of building facade strikes teen in head on Queens sidewalk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-06-01T23:24:28.904418+00:00",
-      "published_at": "2026-05-30T22:54:00+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1u1n66r/myki_meekss_speech_kitty_kat_ball_in_orlando/",
+      "title": "Myki Meeks\u2019s Speech @ Kitty Kat Ball in Orlando",
+      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi! Did anyone manage to capture Myki Meeks\u2019s speech at the Kitty Kat Ball last night in Orlando? The one where she referenced Pulse.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/xB4Bii_q0Rq30US_420x\"> /u/xB4Bii_q0Rq30US_420x </a> <br /> <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1u1n66r/myki_meekss_speech_kitty_kat_ball_in_orlando/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1u1n66r/myki_meekss_speech_kitty_kat_ball_in_orlando/\">[comments]</a></span>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-06-10T00:44:12+00:00",
+      "published_at": null,
       "price": null,
       "novelty_score": 0.6,
       "summary": null,
@@ -9391,10 +9411,26 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1u1s5g6/hanging_up_the_fishnets_drag_queen_kita_means/",
+      "title": "Hanging up the fishnets: drag queen Kita Mean's next steps",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1u1s5g6/hanging_up_the_fishnets_drag_queen_kita_means/\"> <img alt=\"Hanging up the fishnets: drag queen Kita Mean's next steps\" src=\"https://external-preview.redd.it/8rW0nNHvDTFA9aYqfI_TB-64xOFD5o-a4FqgYATOLsw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=58470a43db7c551cbc917d2820139d11210791b3\" title=\"Hanging up the fishnets: drag queen Kita Mean's next steps\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Kita Mean is retiring from performing to focus on managing her queer performance bar, Caluzzi. They'll still be involved in the drag scene and community, but as a mentor and leader moreso than a performer.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/iymcool\"> /u/iymcool </a> <br /> <span><a href=\"https://www.rnz.co.nz/life/people/identity/hanging-up-the-fishnets-drag-queen-kita-mean-s-next-steps\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1u1s5g6/hanging_up_the_fishnets_drag_queen_kita_means/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-06-10T04:41:02+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1u1bsmg/1_major_update_drag_houses_and_family_trees/",
       "title": "(#1 MAJOR UPDATE) Drag Houses and Family Trees",
@@ -11158,33 +11194,17 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queer & trans": [
     {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1tdzs01/icesis_and_van_goth_rumored_to_be_on_the_traitors/",
-      "title": "Icesis and Van Goth rumored to be on The Traitors Canada 4 \ud83c\udff0",
-      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tdzs01/icesis_and_van_goth_rumored_to_be_on_the_traitors/\"> <img alt=\"Icesis and Van Goth rumored to be on The Traitors Canada 4 \ud83c\udff0\" src=\"https://preview.redd.it/lvei6m5blb1h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f35304d50485221a7b1546a823cae0f6b3a0e89\" title=\"Icesis and Van Goth rumored to be on The Traitors Canada 4 \ud83c\udff0\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Durian-Critical\"> /u/Durian-Critical </a> <br /> <span><a href=\"https://i.redd.it/lvei6m5blb1h1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tdzs01/icesis_and_van_goth_rumored_to_be_on_the_traitors/\">[comments]</a></span> </td></tr></table>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-05-15T15:31:10+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.7,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1tda05n/tammie_browns_new_song_is_out_naked_as_a_jaybird/",
-      "title": "Tammie Brown's new song is out \"Naked as a Jaybird\"!",
-      "snippet": "<!-- SC_OFF --><div class=\"md\"><p>TaMMie has also released a cover of Tina Turner's &quot;One of the Living&quot;! If you're in L.A she's gonna be performing Friday the </p> <p>15th at El Cid!</p> <p><a href=\"https://youtu.be/14bn0qynTsY?si=7xnGBLtVqGYlyl2U\">TaMMie Brown 'Naked as a Jaybird&quot;</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MathematicianSorry44\"> /u/MathematicianSorry44 </a> <br /> <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tda05n/tammie_browns_new_song_is_out_naked_as_a_jaybird/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tda05n/tammie_browns_new_song_is_out_naked_as_a_jaybird/\">[comments]</a></span>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-05-14T20:18:53+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/09/meta-threats-sarah-wynn-williams-stronger-rights-whistleblowers",
+      "title": "I watched as Meta\u2019s threats stopped Sarah Wynn-Williams from speaking \u2013 we must have stronger rights for whistleblowers | Tim Wu",
+      "snippet": "The company is clearly trying to make an example of the author who wrote about her time at the company. Her free speech should be protected, says Prof Tim Wu of Columbia University Law School ",
+      "source": "guardian:Opinion",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-06-09T11:29:51+00:00",
       "published_at": null,
       "price": null,
       "novelty_score": 0.6,
@@ -11193,10 +11213,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queer & trans": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.nytimes.com/2026/04/30/us/transgender-idaho-bathrooms-lawsuit.html",
       "title": "Transgender Idaho Residents Sue After State Criminalizes Use of Bathrooms",
@@ -12978,27 +12996,45 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Immigration & ICE": [
     {
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDNTck9FV1M0WGNma2VUZi1neDJrNElsZUZRb2NsRVBvN3IzRk1aOTl0RnRCeVB6aWlTdGFPeEswT3czbG1yWHFMbGw0VVU5UkVxVVR0dmlFRWlFdFM3OWhfSlFtZ21DR2FFV3NDVWZ0OFNGaHBSSFFPSVpuSFdjTksxRUxPTHQzTjZLSDRONjJhclVDcFhJTnRnNjJxZEJpOExMSG5ySk5ISDJG?oc=5",
-      "title": "The Transgender Erasure Act: India\u2019s 2026 Identity Law - Fair Observer",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDNTck9FV1M0WGNma2VUZi1neDJrNElsZUZRb2NsRVBvN3IzRk1aOTl0RnRCeVB6aWlTdGFPeEswT3czbG1yWHFMbGw0VVU5UkVxVVR0dmlFRWlFdFM3OWhfSlFtZ21DR2FFV3NDVWZ0OFNGaHBSSFFPSVpuSFdjTksxRUxPTHQzTjZLSDRONjJhclVDcFhJTnRnNjJxZEJpOExMSG5ySk5ISDJG?oc=5\" target=\"_blank\">The Transgender Erasure Act: India\u2019s 2026 Identity Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fair Observer</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjhENEw3cHA5bHVGX0lvM1NaM3pQMWJDSF9HcXBrQjV1WC04UGswX2RrR2c5bkY5QW5tUGlaaC1pM3N4VG5hZWJDWVd4MEJ5T3duaEpRUDd6VUdQWTJ0ZzJ2a05SeUx1bGowX1lHUHFWczcwbHlvNkF5TmlKX1JEMGFuNUhvcUZpQjhYekJlVGRyYzZOV1E?oc=5",
+      "title": "Largest ICE Detention Hub Wasted Millions in Rush to Open, Report Says - The New York Times",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjhENEw3cHA5bHVGX0lvM1NaM3pQMWJDSF9HcXBrQjV1WC04UGswX2RrR2c5bkY5QW5tUGlaaC1pM3N4VG5hZWJDWVd4MEJ5T3duaEpRUDd6VUdQWTJ0ZzJ2a05SeUx1bGowX1lHUHFWczcwbHlvNkF5TmlKX1JEMGFuNUhvcUZpQjhYekJlVGRyYzZOV1E?oc=5\" target=\"_blank\">Largest ICE Detention Hub Wasted Millions in Rush to Open, Report Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Queer & trans",
-      "fetched_at": "2026-05-05T19:14:30.338886+00:00",
-      "published_at": "2026-05-04T10:45:00+00:00",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-06-10T05:22:23.180974+00:00",
+      "published_at": "2026-06-09T21:30:45+00:00",
       "price": null,
-      "novelty_score": 0.6,
+      "novelty_score": 0.4,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Immigration & ICE": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNll6YjRrcS1BQVFIZENSRGVkdUFPd0h2X3FNbm8xZ3VDSjRpbXJiblBjdWZEQnpxa01PQ2dyQUUwYU5XcEZsUXZ4dWVKa3JCalUtbjZpU3RSTTYxTGhxZGRZOVFBVEFIQU9ZX2ZuOHlYenM2TmhXRGdkSTBwd1poZ2M3aG9tMnM0MlJHbjNR?oc=5",
+      "title": "Border czar Tom Homan taunts New York Gov. Kathy Hochul with threats of ICE surge - CBS News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPNll6YjRrcS1BQVFIZENSRGVkdUFPd0h2X3FNbm8xZ3VDSjRpbXJiblBjdWZEQnpxa01PQ2dyQUUwYU5XcEZsUXZ4dWVKa3JCalUtbjZpU3RSTTYxTGhxZGRZOVFBVEFIQU9ZX2ZuOHlYenM2TmhXRGdkSTBwd1poZ2M3aG9tMnM0MlJHbjNR?oc=5\" target=\"_blank\">Border czar Tom Homan taunts New York Gov. Kathy Hochul with threats of ICE surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-06-10T05:22:23.180974+00:00",
+      "published_at": "2026-06-09T22:40:04+00:00",
+      "price": null,
+      "novelty_score": 0.4,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNVkyWFBwUlhDM0VHanZsRVNmMHZaQ1Uwb0Iwbi16ZEs3QW9fbkJ1X3dXb0JqTzl3ZU81cG9leEpra0ZCSUtWN0dqZTZ1R3VMdzdXNGNIdllDMjJuUDdQeDlodk50aV9URklSRFVzQ2J2STBITV9PWGtEVmZQVlVWNEJyMFB3V19Jek9pcFhMUl9sN0dCZlpEZExZSldrVGNsVXhGbHNrSTZKSWM5T1VrejF3TkNmS2E0WnpodUlLZEdHTEVBWTRodkttZTQ2RkE2cWlwMDVza3VrVjk0Ylp4YlA1V0x4UldUdm1pdW5ZYnVodDZiQVpoXzBR?oc=5",
       "title": "Homan says NYC will 'see more ICE agents' than ever in deployment following new law - WSTM",
@@ -14762,42 +14798,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmtJQm51cWh1TXlyVXNnSFlqc3FxTHRzZFIwb09kRkM1NHk1LW92MDBoU29DeUpOWWJHSGFmZlZTdUZveGtzNmpVUEhxMVJobkt3cDBoZW9CV2xra01nbTdxVDVQa19DOTFJSS04Rnd6d09GazdQQ1ZZQ2x0SnJ5ZjRQNmhTcUl4ZDREQ2JaRzdXbEh5?oc=5",
-      "title": "New York bans masked law enforcement under Hochul immigration package aimed at curbing ICE tactics in state - amNewYork",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmtJQm51cWh1TXlyVXNnSFlqc3FxTHRzZFIwb09kRkM1NHk1LW92MDBoU29DeUpOWWJHSGFmZlZTdUZveGtzNmpVUEhxMVJobkt3cDBoZW9CV2xra01nbTdxVDVQa19DOTFJSS04Rnd6d09GazdQQ1ZZQ2x0SnJ5ZjRQNmhTcUl4ZDREQ2JaRzdXbEh5?oc=5\" target=\"_blank\">New York bans masked law enforcement under Hochul immigration package aimed at curbing ICE tactics in state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">amNewYork</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-29T21:56:20.768622+00:00",
-      "published_at": "2026-05-29T20:30:36+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmFzOEQ1QXNtT3FaSUNfT2Z5UHg4TmZraGdQaV83RUtjX2FJMk1VZWQ4eWpRVTVVOFZJQmdFMWJ6TUNoOHowRlFiMmF5ODNVREsteWZTLWlpZ282b2NUaE1oVmZEZTBZajlBZnNpTTJNbXdrcGM4WXpaZXF4TVRxRGRwRDl2dWdOQVg5Rzl3Z2NIaGt5OGs4SFFNYm9oTHdPMUd1RnNHQWxxOTg4?oc=5",
-      "title": "Hochul signs new protections for NY immigrants, amid pushback from Trump officials - Gothamist",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmFzOEQ1QXNtT3FaSUNfT2Z5UHg4TmZraGdQaV83RUtjX2FJMk1VZWQ4eWpRVTVVOFZJQmdFMWJ6TUNoOHowRlFiMmF5ODNVREsteWZTLWlpZ282b2NUaE1oVmZEZTBZajlBZnNpTTJNbXdrcGM4WXpaZXF4TVRxRGRwRDl2dWdOQVg5Rzl3Z2NIaGt5OGs4SFFNYm9oTHdPMUd1RnNHQWxxOTg4?oc=5\" target=\"_blank\">Hochul signs new protections for NY immigrants, amid pushback from Trump officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gothamist</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-29T21:16:26.807971+00:00",
-      "published_at": "2026-05-29T19:36:00+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14839,6 +14839,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlJiUHFZY2xFREZoS2FmdmpLV21ldnJrWl9XblNqTFk5REFfTGUwc2hWMUZraGVkVzRyYTk0VEZ0emlDX0JFM1pYdGFGdjNGTVVKOE9BX2JCdkgwVnh5MXZOYm1XTVZfRXB5Rkp4eHM3cW9YYnVBQ00xTmFRSjhnUTdVd9IBiAFBVV95cUxQV1F1N0Y1Si1IRWxyRmM1LTlCWXhDSHo0RjlSRk9VS1NDaEZVVHcwTTZyWTgyTWkyWjlHLVNRY2dwcVNMZ1c4RC1jUVF2SlZqekktQzZOa0lvQ0R5UVE2QWlSYk9IemkzSTJDelR1bHNtUEdhSzRja1dQWnlOX0ZSRGFPS3AyUG15?oc=5",
+      "title": "Faster Labor Contracts Act passes House after GOP rebels join Democrats - The Hill",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlJiUHFZY2xFREZoS2FmdmpLV21ldnJrWl9XblNqTFk5REFfTGUwc2hWMUZraGVkVzRyYTk0VEZ0emlDX0JFM1pYdGFGdjNGTVVKOE9BX2JCdkgwVnh5MXZOYm1XTVZfRXB5Rkp4eHM3cW9YYnVBQ00xTmFRSjhnUTdVd9IBiAFBVV95cUxQV1F1N0Y1Si1IRWxyRmM1LTlCWXhDSHo0RjlSRk9VS1NDaEZVVHcwTTZyWTgyTWkyWjlHLVNRY2dwcVNMZ1c4RC1jUVF2SlZqekktQzZOa0lvQ0R5UVE2QWlSYk9IemkzSTJDelR1bHNtUEdhSzRja1dQWnlOX0ZSRGFPS3AyUG15?oc=5\" target=\"_blank\">Faster Labor Contracts Act passes House after GOP rebels join Democrats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-06-10T05:23:27.235042+00:00",
+      "published_at": "2026-06-09T23:20:00+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZU5iRnpJbmJkSlFkbnZ1SGZLc2FvbkpSTVlzS1N5V1pacXVpMGh6M1Q2dml4eFRDa1ZxRmZJWGZxMFE3d2VuY1FBRUVpcEVRZTY2R1Y1LVVtMThzT09YbjJSVzF4TlZ3dzM1eEhXeWdwYzIzaDhFVW9wd1ZLaUd2RWRYWEhkeXpOUGszU1h0YjYyTEdnai00RnBzSjFkYXpNSGJVanUzd1dHUmhMUzdR?oc=5",
       "title": "Congress Vote: The House has passed H.R. 5408 - Faster Labor Contracts Act - Quiver Quantitative",
@@ -16614,24 +16632,6 @@
       "published_at": "2026-05-26T18:02:19+00:00",
       "price": null,
       "novelty_score": 0.9,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUlrNUFpYUduWTBBYXpaaEF2U0JXb1NRa2Y4M3hyVHlaYUtUYVBjUUUteGd0V2QtT2tsQmVXMVYyMFNhLVFqSzdtUTV0LWJ6RVZ1TTV6SkpFRWFUNXZOLWpDNFd2azNxYXRBdWY1dFJ2emM1NE04ZGVhZ2k1eElfMG9oSlNqV3JVZ2xQUi0zY1pQNFk1VERzd1MtVmlrMzl3TXhmMXFoVFpJcnU5b0VQVi1Wb2tlelVldC1TNg?oc=5",
-      "title": "Federal court blocks Alabama from using GOP-drawn congressional map - NBC News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUlrNUFpYUduWTBBYXpaaEF2U0JXb1NRa2Y4M3hyVHlaYUtUYVBjUUUteGd0V2QtT2tsQmVXMVYyMFNhLVFqSzdtUTV0LWJ6RVZ1TTV6SkpFRWFUNXZOLWpDNFd2azNxYXRBdWY1dFJ2emM1NE04ZGVhZ2k1eElfMG9oSlNqV3JVZ2xQUi0zY1pQNFk1VERzd1MtVmlrMzl3TXhmMXFoVFpJcnU5b0VQVi1Wb2tlelVldC1TNg?oc=5\" target=\"_blank\">Federal court blocks Alabama from using GOP-drawn congressional map</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-05-26T21:02:28.012903+00:00",
-      "published_at": "2026-05-26T15:50:08+00:00",
-      "price": null,
-      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

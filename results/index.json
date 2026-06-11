@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.frieze.com/article/duane-michals-obituary#new_tab",
+      "title": "Photographer Duane Michals, 94",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/06/536-2-90x90.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />\u201cIn a career that spanned six decades and crisscrossed artistic and commercial contexts, Michals challenged photographic convention and innovated new forms; he is best known for building sequential, frame-by-frame narratives that pair photographs with handwritten text to poetic effect.\u201d &#8211; Frieze",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-06-11T12:47:02.970682+00:00",
+      "published_at": "2026-06-11T12:36:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/carmen-maria-machado-on-power/",
       "title": "Carmen Maria Machado on Power",
       "snippet": "Plus, the largest survey of Arthur Jafa\u2019s work is coming to New York.",
@@ -1775,24 +1793,6 @@
       "published_at": "2026-05-26T18:01:00+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.artsjournal.com/2026/05/sonny-rollins-and-the-end-of-easy-answers.html",
-      "title": "Sonny Rollins, And The End Of Easy Answers",
-      "snippet": "Good Morning, Sonny Rollins is gone at 95 \u2014 one of the last giants of the bebop era, the colossus who kept reinventing his own sound long after he&#8217;d earned the right to coast (AP). Reinvention is the day&#8217;s other thread, this time at the institutional level. Anthony Roth Costanzo took over Opera Philadelphia at [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-05-26T23:02:37.001882+00:00",
-      "published_at": "2026-05-26T22:12:15+00:00",
-      "price": null,
-      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -3990,6 +3990,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/06/bbc-storyville-expands-documentary-shorts-sheffield-docfest-1236953561/",
+      "title": "BBC Storyville Expands To Documentary Shorts",
+      "snippet": "EXCLUSIVE: Storyville is moving into shorts. The storied BBC documentary strand will begin making premium short docs alongside features for the first time, coming as the corporation both grapples with YouTube and attempts to leverage its power. Just revealed on stage at Sheffield DocFest, Storyville boss Nevine Mabro issued a call for &#8220;bold, innovative filmmakers [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-06-11T12:50:50.353412+00:00",
+      "published_at": "2026-06-11T11:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://deadline.com/2026/06/whos-the-daddy-shirley-crabtree-buff-studios-1236953498/",
       "title": "\u2018Who\u2019s The Daddy?\u2019: Documentary Feature About British Wrestling Legend Shirley Crabtree In The Works With BUFF Studios & Rainbow Trout Films",
       "snippet": "EXCLUSIVE: BUFF Studios is developing a documentary feature about Shirley Crabtree, the British wrestling icon better known to generations of fans as Big Daddy. The feature will be titled Who\u2019s The Daddy?. BUFF Studios will produce in association with Rainbow Trout Films. The producers will introduce the project to buyers at this year\u2019s Sheffield DocFest, [&#8230;]",
@@ -5770,27 +5788,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/05/chernin-entertainment-one-month-mark-1236929907/",
-      "title": "Chernin Entertainment Boards Sophie Fleur De Bruijn Script \u2018One Month Mark\u2019; One Of The More Sought-After Rom-Com Spec Scripts In Years",
-      "snippet": "EXCLUSIVE: In what many are calling one of the best rom-com specs in years, Chernin Entertainment has landed the big prize as sources tell Deadline that the production company has come on to produce Sophie Fleur de Bruijn&#8217;s hot spec One Month Mark. Chernin is partnering with de Bruijn to produce the project. As of [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-05-29T14:46:08.338824+00:00",
-      "published_at": "2026-05-29T13:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Qb0RuVG1oNFIySTZ4aXBLVVRLNHhtMXVoNG1XREU1RlJHNUpialFLeTlna3FfS0hJN21zTGhkZmxXVWNYRVFvbThMcWdCZ3hNRVpCTHA2bw?oc=5",
+      "title": "What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public - Memeburn",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Qb0RuVG1oNFIySTZ4aXBLVVRLNHhtMXVoNG1XREU1RlJHNUpialFLeTlna3FfS0hJN21zTGhkZmxXVWNYRVFvbThMcWdCZ3hNRVpCTHA2bw?oc=5\" target=\"_blank\">What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Memeburn</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-06-11T13:01:59.046190+00:00",
+      "published_at": "2026-06-11T11:34:06+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.9,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXY2ajk2ZExQQkkwSXdYZWVPdHV0MFpfN2RlSEdrSE1KMG1tbEFJZ1AyU1dXaUlTNVVxTkxSaHBDWEc5NWhLa0plOTlCRzBtWEhBdHNmdWg4dkV1cFQ2VGEycmtDbktzV1RZLVNSdHpXZmZVME5MT2xQYU5tdVJNb194SEVxVVZPT2c3M29QcHBfaThFU0xIbDR3R1p5M1NfMnJIRnA2dGcxWFhobEgxSQ?oc=5",
       "title": "Anthropic releases Claude Fable, a version of Mythos, days after warning AI is becoming too dangerous - TechCrunch",
@@ -7572,27 +7590,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDWS04UW10TmJCWGpvY3QxVHY5YVFSSXg2OHpBVXFyX08tWjQxa19kN25Vc1ZNU2xfQldKM3J0MWJCUGF0TTFHdlRFalJ1S1lXRE4xMWhpNXF0aUNBUTFzLS1FLUhVRjBvdWpiYVBxZw?oc=5",
-      "title": "Anthropic releases new model, Opus 4.8 - Axios",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBDWS04UW10TmJCWGpvY3QxVHY5YVFSSXg2OHpBVXFyX08tWjQxa19kN25Vc1ZNU2xfQldKM3J0MWJCUGF0TTFHdlRFalJ1S1lXRE4xMWhpNXF0aUNBUTFzLS1FLUhVRjBvdWpiYVBxZw?oc=5\" target=\"_blank\">Anthropic releases new model, Opus 4.8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-05-28T23:23:49.832196+00:00",
-      "published_at": "2026-05-28T17:14:05+00:00",
+      "url": "https://qns.com/2026/06/qed-astoria-hosts-charity-comedy-show-pride-month/",
+      "title": "Q.E.D. Astoria hosts charity comedy show for Pride Month",
+      "snippet": "Q.E.D. Astoria held their Heckling Hands comedy show on Saturday, June 6. In honor of Pride Month, all of the comics featured are from the LGBTQ+ community. Heckling Hands is an alliteration, a play on words of \u201chelping hands\u201d and \u201checkling.\u201d The show is held on the first Saturday of each month \u2013 with each...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/qed-astoria-hosts-charity-comedy-show-pride-month/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-11T12:48:36.381928+00:00",
+      "published_at": "2026-06-10T18:30:16+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.thecityreporter.nyc/2026/06/11/letitia-james-nypd-samuel-williams-fatal-motorbike-crash/",
       "title": "New Details on Fatal NYPD Collision as Victim\u2019s Family Slams Letitia James",
@@ -9374,27 +9392,45 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://qns.com/2026/06/korean-american-family-service-center-aapi-family/",
-      "title": "Korean American Family Service Center hosts AAPI Family Fun Day",
-      "snippet": "The Korean American Family Service Center (KAFSC) hosted its fifth annual Asian American Pacific Islander (AAPI) Family Fun Day on Saturday, May 30. Made to uplift those in the AAPI community during their month, the day was spent with free food, resources and goodies, alongside games, face painting and balloon animals for the children. \u201cIt\u2019s...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/korean-american-family-service-center-aapi-family/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-06-02T21:46:57.302729+00:00",
-      "published_at": "2026-06-02T20:30:41+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1u2v6ze/stop_that_train_is_a_nyt_critics_pick/",
+      "title": "Stop! That! Train! is a NYT Critic's Pick",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1u2v6ze/stop_that_train_is_a_nyt_critics_pick/\"> <img alt=\"Stop! That! Train! is a NYT Critic's Pick\" src=\"https://external-preview.redd.it/UT3dZSw6FV21uZ909L3FzDlxBoyVKOexwyH1ly1OqC4.jpeg?width=140&amp;height=73&amp;auto=webp&amp;s=c41199b0221ae8ca909dc8d5dfcac9541ac01f52\" title=\"Stop! That! Train! is a NYT Critic's Pick\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.nytimes.com/2026/06/11/movies/stop-that-train-review.html?unlocked_article_code=1.pVA.comS.9vvI1RpXc6IA&amp;smid=url-share\">Gift article. </a>What is going on LOL</p> <p><a href=\"https://preview.redd.it/wgvgxg97rm6h1.jpg?width=1840&amp;format=pjpg&amp;auto=webp&amp;s=64b52fcce68add400f897ceaa16cb6e8951d7498\">https://preview.redd.it/wgvgxg97rm6h1.jpg?width=1840&amp;format=pjpg&amp;auto=webp&amp;s=64b52fcce68add400f897ceaa16cb6e8951d7498</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Infinite_Ad_1690\"> /u/Infinite_Ad_1690 </a> <br /> <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1u2v6ze/stop_that_train_is_a_nyt_critics_pick/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1u2v6ze/stop_that_train_is_a_nyt_critics_pick/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-06-11T10:25:39+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.5,
+      "novelty_score": 0.55,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1u2xlgp/jinkx_monsoon_to_star_in_oh_mary_in_the_west_end/",
+      "title": "Jinkx Monsoon to star in \"Oh, Mary!\" in the West End",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1u2xlgp/jinkx_monsoon_to_star_in_oh_mary_in_the_west_end/\"> <img alt=\"Jinkx Monsoon to star in &quot;Oh, Mary!&quot; in the West End\" src=\"https://external-preview.redd.it/4I-PvfahCnhFo0o-9i3ky0lZL8k_fDB11upLitQnhNM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de0886a3d33af92d8cd26d112d00e0fe8529cd6e\" title=\"Jinkx Monsoon to star in &quot;Oh, Mary!&quot; in the West End\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ldn6\"> /u/ldn6 </a> <br /> <span><a href=\"https://www.londontheatre.co.uk/theatre-news/news/jinkx-monsoon-to-star-in-oh-mary-in-the-west-end\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1u2xlgp/jinkx_monsoon_to_star_in_oh_mary_in_the_west_end/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-06-11T12:24:49+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.7,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1u2ncbh/poll_results_all_stars_11_episode_6_choose_your/",
       "title": "Poll Results! - All Stars 11, Episode 6 - Choose Your Favorite \u201cDaddy Makeover\u201d Look + Episode Perceptions",
@@ -11158,33 +11194,17 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queer & trans": [
     {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1tg2j53/discord_addams_is_getting_her_own_wow_show_fk_this/",
-      "title": "Discord Addams is getting her own WOW show \"F**k This\"",
-      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tg2j53/discord_addams_is_getting_her_own_wow_show_fk_this/\"> <img alt=\"Discord Addams is getting her own WOW show &quot;F**k This&quot;\" src=\"https://external-preview.redd.it/aDBkZDkzdm1ucjFoMRPvoLdyEiGjlEmGEXG_-td3uwpzwliJmXS4kEllUNQp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2f76941e200000583b9d685b12fef6e78973ecb\" title=\"Discord Addams is getting her own WOW show &quot;F**k This&quot;\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Official description: Discord Addams is PISSED OFF! \ud83d\udc7f </p> <p>Fridays on WOW Presents Plus - the #DragRace Season 18 icon rants, raves, and answers your burning questions in our new series, F**K THIS! </p> <p>\ud83d\udd95 F**K THIS with @discordaddamsx premieres Fridays starting May 22 on @wowpresentsplus and YouTube</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SnooSprouts3744\"> /u/SnooSprouts3744 </a> <br /> <span><a href=\"https://v.redd.it/0612nswmnr1h1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tg2j53/discord_addams_is_getting_her_own_wow_show_fk_this/\">[comments]</a></span> </td></tr></table>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-05-17T21:32:43+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1tfand7/druk_s6s_la_voix_announcing_uks_2026_eurovision/",
-      "title": "DRUK S6's La Voix Announcing UK's 2026 Eurovision Jury Votes",
-      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tfand7/druk_s6s_la_voix_announcing_uks_2026_eurovision/\"> <img alt=\"DRUK S6's La Voix Announcing UK's 2026 Eurovision Jury Votes\" src=\"https://external-preview.redd.it/mbs6W_VP5gJs5t0S7EEoqLH9dXgg5kZl9VZL5B5fLWc.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b74c7b64490a10ec66f1a5d96887ffc8f8e2a405\" title=\"DRUK S6's La Voix Announcing UK's 2026 Eurovision Jury Votes\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>For those who are not Eurovision fans, DRUK S6's runner-up La Voix announced the UK's jury votes during tonight's telecast.</p> <p>Enjoy!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/carmitch\"> /u/carmitch </a> <br /> <span><a href=\"https://youtu.be/aVJzmCF4fMI?si=YgyfmCVmC7XMBQMe&amp;t=1761\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tfand7/druk_s6s_la_voix_announcing_uks_2026_eurovision/\">[comments]</a></span> </td></tr></table>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-05-17T00:48:50+00:00",
+      "url": "https://www.theguardian.com/us-news/2026/jun/11/oklahoma-penitentiary-underground-cells-rape-abuse-allegations",
+      "title": "Oklahoma prison criticized for allegedly incarcerating people in squalid underground cells with no natural light",
+      "snippet": "Incarcerated people allege they are forced to endure vermin-infested cells and are subjected to beatings and rape",
+      "source": "guardian:US news",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-06-11T11:00:20+00:00",
       "published_at": null,
       "price": null,
       "novelty_score": 0.6,
@@ -11193,10 +11213,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queer & trans": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.theguardian.com/commentisfree/2026/jun/09/meta-threats-sarah-wynn-williams-stronger-rights-whistleblowers",
       "title": "I watched as Meta\u2019s threats stopped Sarah Wynn-Williams from speaking \u2013 we must have stronger rights for whistleblowers | Tim Wu",
@@ -12978,27 +12996,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Immigration & ICE": [
     {
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92X3I1bUdPTlBCbkR6NHd0Wjk3RFFVbHYxMWQwTVpXbUU4V0FKdG5OZmIxQjJ6SGZMRGZxbTY4dnpzdUJnYmtnRHFfbnE2Q1BQR0VzU2RVR3pLYzZCZ25Gd2IwcjFGa3ZoZWxzcnN4dG5xLTJ3SkxvMTk5NA?oc=5",
-      "title": "Department of Education opens investigation into Smith College for admitting trans women - CNN",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE92X3I1bUdPTlBCbkR6NHd0Wjk3RFFVbHYxMWQwTVpXbUU4V0FKdG5OZmIxQjJ6SGZMRGZxbTY4dnpzdUJnYmtnRHFfbnE2Q1BQR0VzU2RVR3pLYzZCZ25Gd2IwcjFGa3ZoZWxzcnN4dG5xLTJ3SkxvMTk5NA?oc=5\" target=\"_blank\">Department of Education opens investigation into Smith College for admitting trans women</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYjRKckJsWDhyNU1PUWU0Q3VwQWJrNEQ1Q3hYZm1TRkxEa19pa3FwZlhmdGN4b3pTMTJJRlUwQU90S19BVi1GN3NNQU5tdXNUTnlRNW12WXEzQUt3SF9LQlotdWZRY2JwWG1TbzZoVmdCMU9mRXdFZUhhSGxodzU3Z1lSVGpfYzNUeFltcmpVSTZQNGExanpGc2Fuc2plRFcwZi0xLVJRTWlmdThlN0p3NnV5X3podlXSAbwBQVVfeXFMTVlfYVJOM2QycDd0TWlBakpfOEZZMVUyV1d1SGZjSTBIWUFES0xxVGlUZTVCYkV5bWNxdUNIYlpJcVlqbXVvZkgzWnFzS2loTEJscmhDbExuSHE5TklrVjFnVHhtbDV3a3ZGRGxCQUhuMFJ3WGpzZnpEWmcyWjNJTnNtVUZCa1o0NVlyWk9uaV9vTEhZOTFnUVlEdFFJTGpoQ3FMWW5mVlduVmxaTlNMWmh0Zm1nVnk3bXpERmg?oc=5",
+      "title": "House passes $70B bill to fund immigration enforcement for 3 years, sending measure to Trump - ABC7 Bay Area",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYjRKckJsWDhyNU1PUWU0Q3VwQWJrNEQ1Q3hYZm1TRkxEa19pa3FwZlhmdGN4b3pTMTJJRlUwQU90S19BVi1GN3NNQU5tdXNUTnlRNW12WXEzQUt3SF9LQlotdWZRY2JwWG1TbzZoVmdCMU9mRXdFZUhhSGxodzU3Z1lSVGpfYzNUeFltcmpVSTZQNGExanpGc2Fuc2plRFcwZi0xLVJRTWlmdThlN0p3NnV5X3podlXSAbwBQVVfeXFMTVlfYVJOM2QycDd0TWlBakpfOEZZMVUyV1d1SGZjSTBIWUFES0xxVGlUZTVCYkV5bWNxdUNIYlpJcVlqbXVvZkgzWnFzS2loTEJscmhDbExuSHE5TklrVjFnVHhtbDV3a3ZGRGxCQUhuMFJ3WGpzZnpEWmcyWjNJTnNtVUZCa1o0NVlyWk9uaV9vTEhZOTFnUVlEdFFJTGpoQ3FMWW5mVlduVmxaTlNMWmh0Zm1nVnk3bXpERmg?oc=5\" target=\"_blank\">House passes $70B bill to fund immigration enforcement for 3 years, sending measure to Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Bay Area</font>",
       "source": "google_news",
       "source_type": "news",
-      "topic_name": "Queer & trans",
-      "fetched_at": "2026-05-05T19:14:30.338886+00:00",
-      "published_at": "2026-05-04T23:07:06+00:00",
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-06-11T12:56:35.419050+00:00",
+      "published_at": "2026-06-09T23:29:00+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.4,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Immigration & ICE": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ2hYLWluNWdyRDdaWmc0WGtuVWlvNm1UR3M0dmZPU1JoOFpXZ0JTUWdBZktHSWNPeUhpMmg0WDRqMG1UdGtyY2tuYi1qUkZXcnh1MnhWbGEwYXR3eEF0YkpzMWdqOVFfMWxPMnlDS2hXdW1CaU54Y1dsZTVIZXFOMDV5SVRLR1NvU1EyS1lNSUdhZmZ2dGd2dDljOWoxTGJTVmw1OWQ0NUtielZXVGhuYVhHcHFyMGk0MWltcHdrQnRDTlRuUjZrb1BUVm9iOGJsWDNCRk9lQndqZUk?oc=5",
       "title": "Trump signs bill giving nearly $70B to his immigration enforcement agenda through end of his term - KSAT",
@@ -14772,24 +14790,6 @@
       "topic_name": "Immigration & ICE",
       "fetched_at": "2026-05-31T20:13:53.759182+00:00",
       "published_at": "2026-05-27T19:53:33+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPczAwbU9vRWR6eV9FdlhqY1pkSHhOcXhGNWt5VU5MZmRaWkllMnlvbGU4ZXVnb0ZITzloVGpyZHRfNndjenVscF9zS3VrZUpjOWZQODJLYXBqc3E4Tlk5cmp4ZDFrb1pyRHVZOU5QcDhBeUNjcUVwV2tBdUxlX2lrWld3?oc=5",
-      "title": "Visiting Hours to Resume at Delaney Hall Detention Center After Protests - The New York Times",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPczAwbU9vRWR6eV9FdlhqY1pkSHhOcXhGNWt5VU5MZmRaWkllMnlvbGU4ZXVnb0ZITzloVGpyZHRfNndjenVscF9zS3VrZUpjOWZQODJLYXBqc3E4Tlk5cmp4ZDFrb1pyRHVZOU5QcDhBeUNjcUVwV2tBdUxlX2lrWld3?oc=5\" target=\"_blank\">Visiting Hours to Resume at Delaney Hall Detention Center After Protests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-05-31T20:13:53.759182+00:00",
-      "published_at": "2026-05-30T23:34:08+00:00",
       "price": null,
       "novelty_score": 0.5,
       "summary": null,

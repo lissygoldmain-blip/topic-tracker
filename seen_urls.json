@@ -20246,5 +20246,17 @@
   "https://www.reddit.com/r/FoodNYC/comments/1u5mg1w/tatiana_by_kwame_onwuachi_the_reservation_id_been/": {
     "seen_at": "2026-06-14T15:21:27.271434+00:00",
     "source_type": "social"
+  },
+  "https://www.nytimes.com/2026/06/13/theater/dito-van-reigersberg-dead.html": {
+    "seen_at": "2026-06-14T19:12:57.564704+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.thecityreporter.nyc/2026/06/12/nyc-early-voting-primary-election-june/": {
+    "seen_at": "2026-06-14T19:14:48.852856+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.theguardian.com/us-news/2026/jun/14/lawsuit-dismissed-yosemite-ranger-trans-pride-flag": {
+    "seen_at": "2026-06-14T19:21:00.129428+00:00",
+    "source_type": "news"
   }
 }

@@ -13163,10 +13163,6 @@
     "seen_at": "2026-05-16T02:07:27.693495+00:00",
     "source_type": "feeds"
   },
-  "https://www.adzuna.com/details/5730920826?utm_medium=api&utm_source=bde9bf2e": {
-    "seen_at": "2026-05-16T02:10:09.346658+00:00",
-    "source_type": "jobs"
-  },
   "https://www.indiewire.com/news/analysis/sag-aftra-ai-deal-2026-human-actors-analysis-1235194299/": {
     "seen_at": "2026-05-16T02:11:54.472440+00:00",
     "source_type": "feeds"
@@ -20470,5 +20466,37 @@
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5": {
     "seen_at": "2026-06-15T22:27:39.080327+00:00",
     "source_type": "news"
+  },
+  "https://hyperallergic.com/celebrating-the-knicks-win-one-stitch-at-a-time/": {
+    "seen_at": "2026-06-16T02:53:02.937597+00:00",
+    "source_type": "feeds"
+  },
+  "https://www.amny.com/news/low-income-communities-nyc-traffic-crash-danger/": {
+    "seen_at": "2026-06-16T02:54:50.911095+00:00",
+    "source_type": "feeds"
+  },
+  "https://qns.com/2026/06/edgemere-teen-charged-shooting-nypd-officers/": {
+    "seen_at": "2026-06-16T02:54:50.911400+00:00",
+    "source_type": "feeds"
+  },
+  "https://nyc.streetsblog.org/2026/06/15/dead-cyclists-best-friend-demands-action-against-illegal-vehicles-on-city-streets": {
+    "seen_at": "2026-06-16T02:54:50.911502+00:00",
+    "source_type": "feeds"
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUlRveFRmUG01V21XZWEyaUNNMkZ3LXJod2dtZ0ltVTR5TUY1dk9JYk9QbFlnQk9KRnBuanlFS2hlMGQxY2RWMEVVbURUc0JFTXBhdVJiQTZSQlRBeUJyeTk4NmcwLXpyUHExU2ZwTUp1MFBGS0Q2UHh0ZFVta1Vid1oyNDg2ZGNRQXFHcEJnaHnSAZYBQVVfeXFMUFcyTkRhNG1HelZDcUdxMG1xM3MyaUpMVXFIOW81alZGdWRUa0xWdEY3Y0JHNWx2Mjh2M1lJS1VOYWFSVk15Q3Vka241Vlk5LUxjSDdLTTUxTU9sbzRrNUVPdjN5T3Bremh2SDlXQ1RhOWxCZGZ5Z0VxbTE0M1p3T0I2cW8xWGlVWWtIcDdBUk9WMXFJa01R?oc=5": {
+    "seen_at": "2026-06-16T02:55:25.862519+00:00",
+    "source_type": "news"
+  },
+  "https://www.reddit.com/r/rupaulsdragrace/comments/1u6smwy/this_was_a_masterclass_150_to_appear_on_network/": {
+    "seen_at": "2026-06-16T02:59:05.962264+00:00",
+    "source_type": "social"
+  },
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcDE4VHBsbHhPWm1LSUN1enM5SGJydk1XR0dpcTRibWpZUDJKcmpLZzVIcWZsYmVpUmktcEJEM3BORzZQRDYwd21qQk16YUhreFJwZ1VXQUZ4NVo5dk5McEthRjFiYVA0ZFE5THBaeGtZM0FDeThHOTYtaW1fVjJYaFJnMFgtd1dsUnlTd0t0Q1lUaS1QRWVpbFJYRHNLS0JvdHdnZzVVZ3ZmTWNDSVhVSE5COUY3WFVscE12NXBB?oc=5": {
+    "seen_at": "2026-06-16T03:04:05.439338+00:00",
+    "source_type": "news"
+  },
+  "https://ny.eater.com/news/412141/james-beard-awards-nyc-2026": {
+    "seen_at": "2026-06-16T03:06:00.310520+00:00",
+    "source_type": "feeds"
   }
 }

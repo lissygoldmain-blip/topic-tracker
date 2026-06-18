@@ -7612,6 +7612,24 @@
   ],
   "Queens & NYC local": [
     {
+      "url": "https://www.thecityreporter.nyc/2026/06/18/heat-deaths-stress-exposure-exhaustion/",
+      "title": "Heat Killed 21 New Yorkers Last Year. It\u2019s the Highest Tally in a Decade.",
+      "snippet": "<figure><img alt=\"People cool off in Bed-Stuy, Brooklyn during a late spring heatwave,\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/www.thecityreporter.nyc/wp-content/uploads/2026/05/0551926_heatwave-3.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Twenty-one New Yorkers died last year as a direct result of heat \u2014 the highest number of such fatalities in a decade. And nearly 500 New Yorkers on average die annually from causes related to heat, with the vast majority occurring on days that may not raise alarms for city dwellers: hot, but not sweltering, [&#8230;]</p>\n<p>The post <a href=\"https://www.thecityreporter.nyc/2026/06/18/heat-deaths-stress-exposure-exhaustion/\">Heat Killed 21 New Yorkers Last Year. It\u2019s the Highest Tally in a Decade.</a> appeared first on <a href=\"https://www.thecityreporter.nyc\">The City Reporter</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-18T11:08:44.135270+00:00",
+      "published_at": "2026-06-18T09:00:00+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://qns.com/2026/06/five-people-hurst-ozone-park-fire/",
       "title": "Five people hurt, including two firefighters, in two-alarm Ozone Park house fire: FDNY",
       "snippet": "Two firefighters were injured while battling a two-alarm house fire in Ozone Park on Wednesday, June 17. The FDNY received a call just before 11:20 a.m. reporting a garage fire at 74-20 95th Ave. Engine Company 285 and Ladder Company 142 arrived on the scene within minutes and advised of heavy smoke conditions at the...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/five-people-hurst-ozone-park-fire/\">Read More</a>",
@@ -9392,27 +9410,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Drag Race & drag": [
     {
-      "url": "https://qns.com/2026/06/woodhaven-art-circle-forest-park/",
-      "title": "Woodhaven Art Circle to host art market in Forest Park featuring Queens creatives",
-      "snippet": "The Woodhaven Art Circle (WAC) is set to welcome neighbors to its upcoming art market on Saturday, June 13, from 8 a.m. to 4 p.m. The anticipated event will feature over 25 local contemporary artists, artisans and creatives. Set in Forest Park, the showcase will also run in conjunction with the park&#8217;s Flag Day celebration...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/woodhaven-art-circle-forest-park/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-06-08T14:02:21.221384+00:00",
-      "published_at": "2026-06-08T13:00:11+00:00",
+      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1u8zn3m/rupaul_accepts_artist_of_the_millennium_culture/",
+      "title": "Rupaul accepts artist of the millennium - Culture Awards 2026",
+      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1u8zn3m/rupaul_accepts_artist_of_the_millennium_culture/\"> <img alt=\"Rupaul accepts artist of the millennium - Culture Awards 2026\" src=\"https://external-preview.redd.it/cHV6aXFsZWZ1ejdoMRFL2GPh5_Y_2HhXIfJxPFHYoZUcz_A7BWnOTTNXv9ve.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d758d2e484060c5eda69295e2e84de956babffab\" title=\"Rupaul accepts artist of the millennium - Culture Awards 2026\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JimatJimat\"> /u/JimatJimat </a> <br /> <span><a href=\"https://v.redd.it/pfayg7kfuz7h1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1u8zn3m/rupaul_accepts_artist_of_the_millennium_culture/\">[comments]</a></span> </td></tr></table>",
+      "source": "reddit",
+      "source_type": "social",
+      "topic_name": "Drag Race & drag",
+      "fetched_at": "2026-06-18T07:29:55+00:00",
+      "published_at": null,
       "price": null,
-      "novelty_score": 0.5,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Drag Race & drag": [
+      "notified_digest": false
+    },
     {
       "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1u7p1ey/down_under_vs_the_world_meet_the_queens_on_june_24/",
       "title": "Down Under vs The World - Meet The Queens on June 24.",
@@ -11185,24 +11203,6 @@
       "source_type": "social",
       "topic_name": "Drag Race & drag",
       "fetched_at": "2026-05-29T01:39:02+00:00",
-      "published_at": null,
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.reddit.com/r/rupaulsdragrace/comments/1tpojro/drag_race_stars_show_support_for_their_sister/",
-      "title": "Drag Race stars show support for their sister, Plane Jane after she was announced as one of the cast for the upcoming Project Runway\u2026\ud83e\udd23\ud83e\udd23\ud83e\udd23",
-      "snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tpojro/drag_race_stars_show_support_for_their_sister/\"> <img alt=\"Drag Race stars show support for their sister, Plane Jane after she was announced as one of the cast for the upcoming Project Runway\u2026\ud83e\udd23\ud83e\udd23\ud83e\udd23\" src=\"https://preview.redd.it/ndkysuth2s3h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=adc8d7d24c1783f977bedb022e8c419366901417\" title=\"Drag Race stars show support for their sister, Plane Jane after she was announced as one of the cast for the upcoming Project Runway\u2026\ud83e\udd23\ud83e\udd23\ud83e\udd23\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/familychong-07\"> /u/familychong-07 </a> <br /> <span><a href=\"https://i.redd.it/ndkysuth2s3h1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rupaulsdragrace/comments/1tpojro/drag_race_stars_show_support_for_their_sister/\">[comments]</a></span> </td></tr></table>",
-      "source": "reddit",
-      "source_type": "social",
-      "topic_name": "Drag Race & drag",
-      "fetched_at": "2026-05-28T01:04:17+00:00",
       "published_at": null,
       "price": null,
       "novelty_score": 0.6,

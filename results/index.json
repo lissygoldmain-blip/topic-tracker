@@ -4008,6 +4008,24 @@
   ],
   "Film & TV": [
     {
+      "url": "https://deadline.com/2026/06/tay-keith-dies-music-producer-1236962394/",
+      "title": "Tay Keith Dies: Music Producer For Beyonc\u00e9, Lil Nas X, Drake & More Was 29",
+      "snippet": "Tay Keith, the music producer known for his work with artists like Drake, Travis Scott and Eminem, has died. He was 29. The Grammy-nominee (real name Brytavious Lakeith Chambers) was found dead in his Nashville apartment during a welfare check on Thursday afternoon, according to Metro Nashville PD. No foul play is suspected, and the [&#8230;]",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-06-18T23:33:30.158915+00:00",
+      "published_at": "2026-06-18T23:19:02+00:00",
+      "price": null,
+      "novelty_score": 0.9,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.indiewire.com/criticism/movies/leviticus-review-queer-horror-1235174984/",
       "title": "\u2018Leviticus\u2019 Review: \u2018Heated Rivalry\u2019 Meets \u2018It Follows\u2019 in Entertaining Horror Debut",
       "snippet": "After an exorcism meant to \u201ccure\u201d their queerness, two suburban Australian boys are stalked by a presence that takes each other\u2019s form.",
@@ -5788,27 +5806,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://www.indiewire.com/features/general/caity-lindsay-calleran-loss-debut-film-1235196676/",
-      "title": "I Wrote My First Feature Film About My Relationship to My Dad. Then, His Death Rewrote It",
-      "snippet": "\"Caity\" filmmaker Lindsay Calleran writes for IndieWire about the unimaginable loss of her father, and how it forever shaped the film\u00a0she was already planning on making about their\u00a0bond.",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-06-04T16:23:13.726050+00:00",
-      "published_at": "2026-06-04T15:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44cVYxaHFiUUcxTkZpYmdYMnN2QllWeDFNMS0wQ2VuZktDcHAzM3NnLWNPV182UmFWY0ZJRVRGYnB0eTVOZDhpVjU4MXVTSGtxakkyNWl1TTdxQk1MTXBRWFgtNDhRaXMzUm1QUmpSV3RHYkVhTHF0X9IBgAFBVV95cUxPZUVDQmt0RUlkTUdGX1ZlYXl2U05xcVdIcHBvYXhqdTE2OXB0VGpWYndEOW1LX3FpeWc3eDQwejU2R3VNbmd3aW5RVTZac0poV0ZaQzhfSTh0UkdyMlRPSndudHdDMU9uWWpNczB3bjZKSVA4YVlpblpxX0ZwLUptOA?oc=5",
+      "title": "China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips - Decrypt",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE44cVYxaHFiUUcxTkZpYmdYMnN2QllWeDFNMS0wQ2VuZktDcHAzM3NnLWNPV182UmFWY0ZJRVRGYnB0eTVOZDhpVjU4MXVTSGtxakkyNWl1TTdxQk1MTXBRWFgtNDhRaXMzUm1QUmpSV3RHYkVhTHF0X9IBgAFBVV95cUxPZUVDQmt0RUlkTUdGX1ZlYXl2U05xcVdIcHBvYXhqdTE2OXB0VGpWYndEOW1LX3FpeWc3eDQwejU2R3VNbmd3aW5RVTZac0poV0ZaQzhfSTh0UkdyMlRPSndudHdDMU9uWWpNczB3bjZKSVA4YVlpblpxX0ZwLUptOA?oc=5\" target=\"_blank\">China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-06-18T23:44:10.758840+00:00",
+      "published_at": "2026-06-18T21:26:34+00:00",
       "price": null,
-      "novelty_score": 0.7,
+      "novelty_score": 0.8,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTQ0ejJmbmUwRlozdWwzVFhES21JQnN2V0hDa3BtbGw2NzU3c2l4S2tMaUtDZWgwTWwwVEVnQjZqZHpGZ3U5TW0tYXhfbDB1ZVN6MlZiMlU1cU8xNE1NVDFRZ0R6UEI1dTdjeEM3cllldUFpd2E4V1I4OFoxQnVqb2RRaXpzQjhNb1dOeWhoSHItS0twS1BkU2tzZw?oc=5",
       "title": "xAI releases Grok Imagine Video 1.5 AI video-making model - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
@@ -7590,27 +7608,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemxpeUM4X3Ntckw3YllyY01UX2NCVFZubGxGNjluOG9BUEJ5YXlVN3BQd2dpLVFIaUdjQ0tWc3ZkczVTcTZPUzJfQTBUODJfV1dvUzFyOEhVTU1RMU5WZktpNVNZZGZfUGFGNC1yWWtpcDhjWGZtU0syb0VjS1IwV0lzUFc?oc=5",
-      "title": "Microsoft targets Anthropic with new model releases - Financial Times",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPemxpeUM4X3Ntckw3YllyY01UX2NCVFZubGxGNjluOG9BUEJ5YXlVN3BQd2dpLVFIaUdjQ0tWc3ZkczVTcTZPUzJfQTBUODJfV1dvUzFyOEhVTU1RMU5WZktpNVNZZGZfUGFGNC1yWWtpcDhjWGZtU0syb0VjS1IwV0lzUFc?oc=5\" target=\"_blank\">Microsoft targets Anthropic with new model releases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-06-05T05:27:15.224445+00:00",
-      "published_at": "2026-06-02T18:00:06+00:00",
+      "url": "https://qns.com/2026/06/blendvet-veterinary-program-john-bowne-high-school/",
+      "title": "Queens native and veterinarian brings blendVET career programming to students",
+      "snippet": "Queens native Dr. Niccole Bruno, a veterinarian and founder of the blendVET Foundation, brought her national STEM education program to the school in Kew Gardens Hills on June 5, teaching students about the field of veterinary medicine through hands-on training and career-ready skills. During the Believe and Belong in Veterinary Medicine program, students spent the...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/blendvet-veterinary-program-john-bowne-high-school/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-18T23:31:14.064884+00:00",
+      "published_at": "2026-06-18T17:00:38+00:00",
       "price": null,
-      "novelty_score": 0.75,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/06/queens-college-cunys-asian-research-institute/",
       "title": "Queens College secures $1.175 million for CUNY\u2019s asian research institute",
@@ -9386,24 +9404,6 @@
       "published_at": "2026-06-08T21:28:44+00:00",
       "price": null,
       "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/06/richards-world-cup-watch-parties/",
-      "title": "BP Richards announces slate of World Cup watch parties across Queens",
-      "snippet": "Queens Borough President Donovan Richards joined community partners and Queens organizations in Flushing Meadows Corona Park Monday afternoon to launch a series of World Cup watch parties across the borough over the next six weeks. The watch parties are anchored by a &#8220;Soccer Sundays&#8221; event at New York Hall of Science hosted in partnership with...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/richards-world-cup-watch-parties/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-06-08T23:10:46.414930+00:00",
-      "published_at": "2026-06-08T21:30:32+00:00",
-      "price": null,
-      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -14858,6 +14858,24 @@
   ],
   "Politics & world": [
     {
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnJNTDRxNDZEWkR1SGpGbmNCN3g5bkZhWFIybU1SRm44bDVUOHI3T3VENEpkQWYyTVdiYlQ2TXlCX00teDgyWEZPZlNBalJGNVpIOWVxZzUyZFFJSzZkNS1RMkE1ZHZLNWRBaVBJeG9iUC1hMUJobUEwQ1ZQLW9SMA?oc=5",
+      "title": "Bipartisan Breakthrough: Congress Advances Major Affordable Housing Bill - JD Supra",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnJNTDRxNDZEWkR1SGpGbmNCN3g5bkZhWFIybU1SRm44bDVUOHI3T3VENEpkQWYyTVdiYlQ2TXlCX00teDgyWEZPZlNBalJGNVpIOWVxZzUyZFFJSzZkNS1RMkE1ZHZLNWRBaVBJeG9iUC1hMUJobUEwQ1ZQLW9SMA?oc=5\" target=\"_blank\">Bipartisan Breakthrough: Congress Advances Major Affordable Housing Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-06-18T23:39:54.537736+00:00",
+      "published_at": "2026-06-18T15:32:07+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGZNNWh4LXB6dTlLTEpjUko2eVZ0WGdtVHB2NHpqaGp4NHpjT3RqQU4tYU5QSENLdzhKdzVSV3YwemVEcHlKaHQxTldQVUxpSlZFLTVnMmVxbnB2bGZ6M0pZMXB2Qks0OXlwbHB3RHp3YjJPd1FBdW1YeGE2X05jYW1GUldsNFFoSUt4ckNzeC1iWEt5dHR3Smx5OFYwZnRCLUdv?oc=5",
       "title": "Trump Pulls Back Intelligence Pick to Pressure Congress on Elections Bill - The New York Times",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGZNNWh4LXB6dTlLTEpjUko2eVZ0WGdtVHB2NHpqaGp4NHpjT3RqQU4tYU5QSENLdzhKdzVSV3YwemVEcHlKaHQxTldQVUxpSlZFLTVnMmVxbnB2bGZ6M0pZMXB2Qks0OXlwbHB3RHp3YjJPd1FBdW1YeGE2X05jYW1GUldsNFFoSUt4ckNzeC1iWEt5dHR3Smx5OFYwZnRCLUdv?oc=5\" target=\"_blank\">Trump Pulls Back Intelligence Pick to Pressure Congress on Elections Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
@@ -16632,24 +16650,6 @@
       "published_at": "2026-06-05T00:47:00+00:00",
       "price": null,
       "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVRaUTk4SmxIOG4zS0gtQm9qbVVidmphSmtXVTFpckYxTmk2RnpzNFdhMkxpQVRacUFCZ0U1MUM4NXRDSGFMX0c3S3g0Xy1YYks5QmhSQkJEaFVNUVJOVS1tbmFXN3R2UVV4YXYxUHU1TnJ4ekdubkdXcy1VaWpnR1dDNlMtb3FsTkNFU01qX3M?oc=5",
-      "title": "'Help On The Way': US House Passes Sweeping Ukraine Support Bill After Months Of Gridlock - Radio Free Europe/Radio Liberty",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVRaUTk4SmxIOG4zS0gtQm9qbVVidmphSmtXVTFpckYxTmk2RnpzNFdhMkxpQVRacUFCZ0U1MUM4NXRDSGFMX0c3S3g0Xy1YYks5QmhSQkJEaFVNUVJOVS1tbmFXN3R2UVV4YXYxUHU1TnJ4ekdubkdXcy1VaWpnR1dDNlMtb3FsTkNFU01qX3M?oc=5\" target=\"_blank\">'Help On The Way': US House Passes Sweeping Ukraine Support Bill After Months Of Gridlock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Free Europe/Radio Liberty</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-06-05T05:22:36.299378+00:00",
-      "published_at": "2026-06-05T03:49:11+00:00",
-      "price": null,
-      "novelty_score": 0.9,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,

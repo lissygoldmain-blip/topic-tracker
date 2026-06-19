@@ -5810,6 +5810,24 @@
   ],
   "AI & tech research": [
     {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVZ5eFFzVmxrTmg3X2l2VE5NbmU0eXM2dlg5bTM4cGJRc0pOMEtKYU14emJ1cjNEUUpmUGcyTXVGNTZBaXhqclRWem05blh3SmtNLXUzaTVtc2s1X1BibDc3NkxiOER2Y2wwN25fUURlNG5WRk9EWlhHdURrNzAzdDNUQ2tjbzBUR2NadU8wcjU0X1VZSVBuam5YRFA4OWc?oc=5",
+      "title": "CrankGPT Demonstrates Offline Hand-Cranked LLM Assistant - Let's Data Science",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVZ5eFFzVmxrTmg3X2l2VE5NbmU0eXM2dlg5bTM4cGJRc0pOMEtKYU14emJ1cjNEUUpmUGcyTXVGNTZBaXhqclRWem05blh3SmtNLXUzaTVtc2s1X1BibDc3NkxiOER2Y2wwN25fUURlNG5WRk9EWlhHdURrNzAzdDNUQ2tjbzBUR2NadU8wcjU0X1VZSVBuam5YRFA4OWc?oc=5\" target=\"_blank\">CrankGPT Demonstrates Offline Hand-Cranked LLM Assistant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-06-19T06:26:24.880948+00:00",
+      "published_at": "2026-06-18T14:10:30+00:00",
+      "price": null,
+      "novelty_score": 0.75,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44cVYxaHFiUUcxTkZpYmdYMnN2QllWeDFNMS0wQ2VuZktDcHAzM3NnLWNPV182UmFWY0ZJRVRGYnB0eTVOZDhpVjU4MXVTSGtxakkyNWl1TTdxQk1MTXBRWFgtNDhRaXMzUm1QUmpSV3RHYkVhTHF0X9IBgAFBVV95cUxPZUVDQmt0RUlkTUdGX1ZlYXl2U05xcVdIcHBvYXhqdTE2OXB0VGpWYndEOW1LX3FpeWc3eDQwejU2R3VNbmd3aW5RVTZac0poV0ZaQzhfSTh0UkdyMlRPSndudHdDMU9uWWpNczB3bjZKSVA4YVlpblpxX0ZwLUptOA?oc=5",
       "title": "China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips - Decrypt",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE44cVYxaHFiUUcxTkZpYmdYMnN2QllWeDFNMS0wQ2VuZktDcHAzM3NnLWNPV182UmFWY0ZJRVRGYnB0eTVOZDhpVjU4MXVTSGtxakkyNWl1TTdxQk1MTXBRWFgtNDhRaXMzUm1QUmpSV3RHYkVhTHF0X9IBgAFBVV95cUxPZUVDQmt0RUlkTUdGX1ZlYXl2U05xcVdIcHBvYXhqdTE2OXB0VGpWYndEOW1LX3FpeWc3eDQwejU2R3VNbmd3aW5RVTZac0poV0ZaQzhfSTh0UkdyMlRPSndudHdDMU9uWWpNczB3bjZKSVA4YVlpblpxX0ZwLUptOA?oc=5\" target=\"_blank\">China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
@@ -7590,27 +7608,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2dybzBhUmNZazBUWEZUb0l4QmdUNUoxSEpYRENxcG5pVG1zX2d0RTRCVG1SNVVONWlhVHNCMUxhMG9FQUxUNzVYSG8zbTRlR0VFVmpadXgzZ3RBYTJzU2VuVV9sVms2elRJaThDMFcyUFY3RFJlYU00VFJFYkx6TndzbW9BVk5F?oc=5",
-      "title": "OpenAI Will Let The US Government Review Its AI Models Before Release - Engadget",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2dybzBhUmNZazBUWEZUb0l4QmdUNUoxSEpYRENxcG5pVG1zX2d0RTRCVG1SNVVONWlhVHNCMUxhMG9FQUxUNzVYSG8zbTRlR0VFVmpadXgzZ3RBYTJzU2VuVV9sVms2elRJaThDMFcyUFY3RFJlYU00VFJFYkx6TndzbW9BVk5F?oc=5\" target=\"_blank\">OpenAI Will Let The US Government Review Its AI Models Before Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-06-05T14:42:13.206705+00:00",
-      "published_at": "2026-06-05T12:25:14+00:00",
+      "url": "https://www.thecityreporter.nyc/2026/06/18/knicks-graffiti-subway-train-mta/",
+      "title": "In the Paint! Knicks Graffiti Takes Subway Train Out of Service Amid Finals Fervor",
+      "snippet": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/www.thecityreporter.nyc/wp-content/uploads/2026/06/76ae71b8-b82b-4443-9559-a751a28d03af.jpg?fit=1024%2C768&amp;ssl=1\" width=\"1024\" /></figure>\n<p>The Knicks\u2019 first NBA championship in more than half a century left one subway train fleetingly looking like a 1970s throwback. Photos and videos obtained by The City Reporter show multiple cars on the Q line in the paint, coated in orange and blue graffiti spelling out KNICKS on the sides of multiple cars \u2014 [&#8230;]</p>\n<p>The post <a href=\"https://www.thecityreporter.nyc/2026/06/18/knicks-graffiti-subway-train-mta/\">In the Paint! Knicks Graffiti Takes Subway Train Out of Service Amid Finals Fervor</a> appeared first on <a href=\"https://www.thecityreporter.nyc\">The City Reporter</a>.</p>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-19T06:13:11.957142+00:00",
+      "published_at": "2026-06-18T14:21:12+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.5,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/06/blendvet-veterinary-program-john-bowne-high-school/",
       "title": "Queens native and veterinarian brings blendVET career programming to students",
@@ -9386,24 +9404,6 @@
       "published_at": "2026-06-08T20:15:51+00:00",
       "price": null,
       "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://www.bxtimes.com/2026-primaries-marty-dolan-felipe-garcia-aoc-cd-14/",
-      "title": "2026 PRIMARIES: Democrats Marty Dolan and Felipe Garcia challenging AOC for Bronx and Queens District 14",
-      "snippet": "With the June 23 primary coming soon, many will be watching the race to represent NY-14, a split-borough district that includes the Queens neighborhoods of Astoria, Elmhurst and Jackson Heights and the Bronx neighborhoods of Hunts Point, Mott Haven, Parkchester and Throggs Neck. Democrats Felipe Garcia and Marty Dolan will challenge incumbent Rep. Alexandria\u2026 <a class=\"read-more\" href=\"https://www.bxtimes.com/2026-primaries-marty-dolan-felipe-garcia-aoc-cd-14/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-06-08T23:10:46.414930+00:00",
-      "published_at": "2026-06-08T21:28:44+00:00",
-      "price": null,
-      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
@@ -11216,6 +11216,24 @@
   ],
   "Queer & trans": [
     {
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/wisconsin-mosque-president-released-ice",
+      "title": "President of Wisconsin\u2019s largest mosque released from ICE custody",
+      "snippet": "Judge\u2019s order finds officials probably retaliated for Salah Sarsour\u2019s advocacy for Palestinian rights",
+      "source": "guardian:US news",
+      "source_type": "news",
+      "topic_name": "Queer & trans",
+      "fetched_at": "2026-06-18T22:20:23+00:00",
+      "published_at": null,
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://www.theguardian.com/world/2026/jun/18/iran-parastoo-ahmadi-74-lashes-singing-without-hijab",
       "title": "Iranian star Parastoo Ahmadi reportedly sentenced to 74 lashes for singing without hijab",
       "snippet": "Musicians and production team understood to be facing same punishment after livestream of patriotic song",
@@ -12996,27 +13014,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Immigration & ICE": [
     {
-      "url": "https://www.theguardian.com/australia-news/2026/may/15/giggle-for-girls-app-discriminated-against-trans-woman-roxanne-tickle-appeal-case-ntwnfb",
-      "title": "Giggle for Girls app discriminated against trans woman Roxanne Tickle, appeal judge rules when doubling damages",
-      "snippet": "Federal court affirms an August 2024 finding that Tickle was discriminated against on the basis of her gender identity and awards her $20,000",
-      "source": "guardian:Australia news",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGI4LVZKSzJFb2ZjZ2lMaEwxUWpjcFExRGFkeXBubmVBRU1HZWtIMlY5Qm9yVl9jeHR3NVhiV2oxblBsTUF4WG9fcXhYejJETUtTeldPYk9OY1IzUGxtY3pYV1daaFVZTFFxSXpRRzFJbG1GSlJ4X1R1MGtPQnIxc2thWlU3UGxndlZQbnp4LUxsTDR1RUQ2UkJQSHVhYTRubl9CZnNVbExlQU5OZVRIYWlhMHRQUmVXb04tMnFhakhzT09YZXpJ0gHbAUFVX3lxTE5RWnFEYzEwZ1pkQ2pyaVBIQ0xPUUFOc0dpNFhkNFg0b1NhYXhsVmw5cG9Yanhzb1hDYXRtdVZJdGRwT0NkRmo3R0oydGxtRTAtNFB6RzBDZFJNVjBhVHY1UXpsZUxycGhWMGVTbXBFUXdwVWdTWmZJUjBPQnNoWFhhNm9IRE1Ib3JDTVFFS3MwaG12YVRsdUpnR1lDdC1OMlo1aDczQUtOYnJYT1MzdkVwMHFTR2xOa2wwUDVtNTA1M21GNWZzcEhTRVVNa2YtMV9kRDh1S3ozdW5BVQ?oc=5",
+      "title": "Upstate hospital worker detained by ICE at Syracuse airport on way to World Cup game - Syracuse.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGI4LVZKSzJFb2ZjZ2lMaEwxUWpjcFExRGFkeXBubmVBRU1HZWtIMlY5Qm9yVl9jeHR3NVhiV2oxblBsTUF4WG9fcXhYejJETUtTeldPYk9OY1IzUGxtY3pYV1daaFVZTFFxSXpRRzFJbG1GSlJ4X1R1MGtPQnIxc2thWlU3UGxndlZQbnp4LUxsTDR1RUQ2UkJQSHVhYTRubl9CZnNVbExlQU5OZVRIYWlhMHRQUmVXb04tMnFhakhzT09YZXpJ0gHbAUFVX3lxTE5RWnFEYzEwZ1pkQ2pyaVBIQ0xPUUFOc0dpNFhkNFg0b1NhYXhsVmw5cG9Yanhzb1hDYXRtdVZJdGRwT0NkRmo3R0oydGxtRTAtNFB6RzBDZFJNVjBhVHY1UXpsZUxycGhWMGVTbXBFUXdwVWdTWmZJUjBPQnNoWFhhNm9IRE1Ib3JDTVFFS3MwaG12YVRsdUpnR1lDdC1OMlo1aDczQUtOYnJYT1MzdkVwMHFTR2xOa2wwUDVtNTA1M21GNWZzcEhTRVVNa2YtMV9kRDh1S3ozdW5BVQ?oc=5\" target=\"_blank\">Upstate hospital worker detained by ICE at Syracuse airport on way to World Cup game</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+      "source": "google_news",
       "source_type": "news",
-      "topic_name": "Queer & trans",
-      "fetched_at": "2026-05-15T05:27:51+00:00",
-      "published_at": null,
+      "topic_name": "Immigration & ICE",
+      "fetched_at": "2026-06-19T06:21:24.357621+00:00",
+      "published_at": "2026-06-18T21:13:00+00:00",
       "price": null,
-      "novelty_score": 0.6,
+      "novelty_score": 0.4,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Immigration & ICE": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFc1bkdDcmM4N3pPazhiT3lGWENuNU5Vc096NkFrSEpYVTdHN1FGV2hWdm93bzhUckxJUndIRFY5a3RnQXFZQXVNR29RQkpVLWNnQzhCdmhXckEyMzZpZnF5dGxEa2thWkRMaFd2d2owWGNUcUtwa1o3NU41SVU0YV9lMWdxQklNeVNUYjgyYktlQk44T2dDUjc4elhya3dLa0VkME1odWFPTWxiWHdUTUszeVdNZUNsMTVROENSN3luWU1W0gHYAUFVX3lxTE5yLW55VVlwck1YNFgtUmZvaTY1bjl0NDNrWjV3V09nY0gzNG1OMnBQTFBLRzNNWjY3dUsyemF3SnQ1YXhkQXAzMUtlQ0V5N2Q4RklPYzNVUWduYzd5dnMtSVZudmEzZ0x3X2x3WnpWMUxIUlVxaXlWbEs3S2JaN1JJZHZyY00zRVlOaURnaTdlUFF2SVM3b3FpS0twNGZyTXJndTAtWWx0clRkajBtb0xCSXpSMEt5RTVrUjZ2T1FGVm9mTjBDU29ya3UyMjUwdkFENnFTcDRPMA?oc=5",
       "title": "Malliotakis joins ICE official to celebrate funding, blast New York sanctuary laws - SILive.com",
@@ -14798,24 +14816,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHphelJpZWxkM1BvNG9qT3k4eGJkSXlEZnZ4T1JXbmF1aXBqOGR4UU9XRXpZeFFtNjNYcUl4ckZVdU9WUTVXajlEbFNhb0FVUWl3MjRJMU1pOUdXMTlIWnQyZU5Pb2hBOEdkcjg4WG52NDUxODdKX1gzTTI5Tm5HbTgtWdIBiAFBVV95cUxQY0d3QjdiZzFuNlhydG9xTnlaQkNyekw5aVlsRnJOMUg3aDd4V2FDS3Q5YnV4THBPSmMwTEpKd3RqR1F4RzlvTVN3TGdBbXN6VVA0dVZRNkxvLVZXNmhib2RuQVV5am4zeXZtemFIMzdDOEt4b0F3ckVOYWw5WXRzNEkweHB3X3p1?oc=5",
-      "title": "Homan planning largest ICE deployment in New York City: \u2018It\u2019s coming\u2019 - The Hill",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHphelJpZWxkM1BvNG9qT3k4eGJkSXlEZnZ4T1JXbmF1aXBqOGR4UU9XRXpZeFFtNjNYcUl4ckZVdU9WUTVXajlEbFNhb0FVUWl3MjRJMU1pOUdXMTlIWnQyZU5Pb2hBOEdkcjg4WG52NDUxODdKX1gzTTI5Tm5HbTgtWdIBiAFBVV95cUxQY0d3QjdiZzFuNlhydG9xTnlaQkNyekw5aVlsRnJOMUg3aDd4V2FDS3Q5YnV4THBPSmMwTEpKd3RqR1F4RzlvTVN3TGdBbXN6VVA0dVZRNkxvLVZXNmhib2RuQVV5am4zeXZtemFIMzdDOEt4b0F3ckVOYWw5WXRzNEkweHB3X3p1?oc=5\" target=\"_blank\">Homan planning largest ICE deployment in New York City: \u2018It\u2019s coming\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Immigration & ICE",
-      "fetched_at": "2026-06-08T20:12:41.847636+00:00",
-      "published_at": "2026-06-08T18:51:00+00:00",
-      "price": null,
-      "novelty_score": 0.9,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Wildfang": [
@@ -14857,6 +14857,24 @@
     }
   ],
   "Politics & world": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjJSNW91Nzl3ZzRvMmpZUTBITEhlODloR0lqempWSHdVdFhXMVE1Smd5OGRUT2h1SWg2cDJNZk1LcmJXNGpmaEZleDY5QjVtNFVBMXRlUXNYUmVkT0ZYNFJuaC1NM282NUNkaHN5UnJDX1NMYmRhc3ZVU05lZThPZTh3RXlPRHBGT0dMX25YU3FEMUxvSjg5MGEtUFFLR0J1RkFXMU51Q2diVjlQQW13?oc=5",
+      "title": "Court sides with challenger to law banning drug users from possessing guns - SCOTUSblog",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjJSNW91Nzl3ZzRvMmpZUTBITEhlODloR0lqempWSHdVdFhXMVE1Smd5OGRUT2h1SWg2cDJNZk1LcmJXNGpmaEZleDY5QjVtNFVBMXRlUXNYUmVkT0ZYNFJuaC1NM282NUNkaHN5UnJDX1NMYmRhc3ZVU05lZThPZTh3RXlPRHBGT0dMX25YU3FEMUxvSjg5MGEtUFFLR0J1RkFXMU51Q2diVjlQQW13?oc=5\" target=\"_blank\">Court sides with challenger to law banning drug users from possessing guns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SCOTUSblog</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Politics & world",
+      "fetched_at": "2026-06-19T06:22:09.929905+00:00",
+      "published_at": "2026-06-18T18:43:24+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnJNTDRxNDZEWkR1SGpGbmNCN3g5bkZhWFIybU1SRm44bDVUOHI3T3VENEpkQWYyTVdiYlQ2TXlCX00teDgyWEZPZlNBalJGNVpIOWVxZzUyZFFJSzZkNS1RMkE1ZHZLNWRBaVBJeG9iUC1hMUJobUEwQ1ZQLW9SMA?oc=5",
       "title": "Bipartisan Breakthrough: Congress Advances Major Affordable Housing Bill - JD Supra",
@@ -16630,24 +16648,6 @@
       "topic_name": "Politics & world",
       "fetched_at": "2026-06-05T10:53:24.110764+00:00",
       "published_at": "2026-06-05T09:51:00+00:00",
-      "price": null,
-      "novelty_score": 0.8,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWxPNE4wdXczQ0ZmQUhTcFlmel8ta240ak0tNGRwMU5rYUt1R0cxVzNKWmwza2hwaTZpTkQzQ2daTXR1NHI4T21yZnZwblI5THZKR05RX0FQaURQWWI0NVdFVy1MUFpYVERSRnBPa05OeW5QdGdSYVhNWnpPUzRMai05b09NbFJKWldiU3h2eE5JZlFJQ3BQbjN4WW1TbENid1lMelNlZnZiMlVOVnVKV211TkwxckYtLXlRMFlBaDk?oc=5",
-      "title": "House passes Ukraine aid bill in another GOP rebuke of Trump\u2019s foreign policy - NBC News",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWxPNE4wdXczQ0ZmQUhTcFlmel8ta240ak0tNGRwMU5rYUt1R0cxVzNKWmwza2hwaTZpTkQzQ2daTXR1NHI4T21yZnZwblI5THZKR05RX0FQaURQWWI0NVdFVy1MUFpYVERSRnBPa05OeW5QdGdSYVhNWnpPUzRMai05b09NbFJKWldiU3h2eE5JZlFJQ3BQbjN4WW1TbENid1lMelNlZnZiMlVOVnVKV211TkwxckYtLXlRMFlBaDk?oc=5\" target=\"_blank\">House passes Ukraine aid bill in another GOP rebuke of Trump\u2019s foreign policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Politics & world",
-      "fetched_at": "2026-06-05T08:11:01.344577+00:00",
-      "published_at": "2026-06-05T00:47:00+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,

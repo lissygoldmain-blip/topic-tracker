@@ -1,6 +1,24 @@
 {
   "NYC theater & arts": [
     {
+      "url": "https://www.dezeen.com/2026/06/18/hotel-attraction-renders-gaudi-centenary/#new_tab",
+      "title": "What Might Have Been: Gaud\u00ed\u2019s Design For A New York Skyscraper",
+      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/06/1203-a-90x90.jpg\" style=\"float: left; margin-right: 5px;\" width=\"90\" />A supertall skyscraper, no less, topping out at 360 meters/1180 feet. The great Barcelona architect did a speculative design of a hotel complex in 1908 for a pair of Manhattan businessmen. AI artist Thierry Lechanteur has used Gaudi\u2019s surviving drawings to create renderings of the project. &#8211; Dezeen",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "NYC theater & arts",
+      "fetched_at": "2026-06-19T19:27:19.474143+00:00",
+      "published_at": "2026-06-19T19:03:00+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
       "url": "https://hyperallergic.com/juneteenth-joy/",
       "title": "Juneteenth Joy",
       "snippet": "The Obama Center opens, and a guide to what to do on the holiday in NYC.",
@@ -1781,27 +1799,27 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Health research": [
     {
-      "url": "https://www.artsjournal.com/uq/2026/06/americas-greatest-opera-boss-has-died.html",
-      "title": "\u201cAmerica\u2019s Greatest Opera Boss Has Died\u201d",
-      "snippet": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"90\" src=\"https://www.artsjournal.com/belknap/wp-content/uploads/2026/06/image-2-90x90.png\" style=\"float: left; margin-right: 5px;\" width=\"90\" />Norman Lebrecht\u2019s obituary notice for Speight Jenkins, which ran today, is titled \u201cAmerica\u2019s Greatest Opera Boss Has Died.\u201d I couldn\u2019t",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "NYC theater & arts",
-      "fetched_at": "2026-06-03T05:59:50.670285+00:00",
-      "published_at": "2026-06-03T03:28:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTRSR3Y3UEtnN1Q2T2pyTlJfTENjS1p0Q2x1aFlGWmllRGhCbFFKNzN3ZDIwb29TWGZzSV9JOXBLT25HMllOenpuTTMtTGc3dlBfeHhIYVFmUm9BQzlnYlJtYTE3eUxmbmRRbEJQNk5sT0xabE13X0VwMzlyN0RlbVEwQVExYUw5RWJOSUdRQ2FOWjdZZ2o5NVM1WkwxUmRi?oc=5",
+      "title": "Retatrutide vs Semaglutide: Decoding the Next Era of Metabolic Research - streamlinefeed.co.ke",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTRSR3Y3UEtnN1Q2T2pyTlJfTENjS1p0Q2x1aFlGWmllRGhCbFFKNzN3ZDIwb29TWGZzSV9JOXBLT25HMllOenpuTTMtTGc3dlBfeHhIYVFmUm9BQzlnYlJtYTE3eUxmbmRRbEJQNk5sT0xabE13X0VwMzlyN0RlbVEwQVExYUw5RWJOSUdRQ2FOWjdZZ2o5NVM1WkwxUmRi?oc=5\" target=\"_blank\">Retatrutide vs Semaglutide: Decoding the Next Era of Metabolic Research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">streamlinefeed.co.ke</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "Health research",
+      "fetched_at": "2026-06-19T19:30:41.579423+00:00",
+      "published_at": "2026-06-16T12:19:12+00:00",
       "price": null,
-      "novelty_score": 0.9,
+      "novelty_score": 0.6,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Health research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wby1NcUR6QXIyQldiRVI4N0pJQmlXaVlVcHR4RlQwa1dfaXhLNWxheXpjSFBwR05mTE5fSDhyQkVnZmNHNElxWkxibUNhTkZPV1dLb0dyb0N1QkVfdFJJT3d5czF0UmhHODMwNWg3UQ?oc=5",
       "title": "Ozempic and Wegovy linked to surprising drop in violent behavior - ScienceDaily",
@@ -3583,24 +3601,6 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaURpVC1VTkhCbjNTUUd6LVZiSWM2SGRBVlFrRGcyZVB2Tk1BdFhLd1ZQRXFBMmRjeUxpbjFIQjhTdXpqR3RkRE9Hc0tXZkNOSnNFR2g3SlAxWlV4TGRQYlIwTW5maWhRcERxeVZIYXlKME9mRlllTkZwY0hSaVdhN1lRRm1PLVlOTk5Zem9UbFVEX1FwblE?oc=5",
-      "title": "Potential New GLP-1 Side Effects Surfaced via AI Analysis of Reddit Posts - Everyday Health",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNaURpVC1VTkhCbjNTUUd6LVZiSWM2SGRBVlFrRGcyZVB2Tk1BdFhLd1ZQRXFBMmRjeUxpbjFIQjhTdXpqR3RkRE9Hc0tXZkNOSnNFR2g3SlAxWlV4TGRQYlIwTW5maWhRcERxeVZIYXlKME9mRlllTkZwY0hSaVdhN1lRRm1PLVlOTk5Zem9UbFVEX1FwblE?oc=5\" target=\"_blank\">Potential New GLP-1 Side Effects Surfaced via AI Analysis of Reddit Posts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Everyday Health</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "Health research",
-      "fetched_at": "2026-04-13T01:55:08.157294+00:00",
-      "published_at": "2026-04-10T22:41:57+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
     }
   ],
   "Jobs": [
@@ -4007,6 +4007,24 @@
     }
   ],
   "Film & TV": [
+    {
+      "url": "https://www.indiewire.com/news/business/art-house-convergence-kinema-launch-the-booking-fair-1235201348/",
+      "title": "How to Reroute Distribution: Art House Convergence and Kinema Launch The Booking Fair",
+      "snippet": "Could we finally have a replicable process for direct filmmaker-to-exhibitor relationships after decades of conspicuous absence?",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Film & TV",
+      "fetched_at": "2026-06-19T19:31:12.939099+00:00",
+      "published_at": "2026-06-19T18:08:05+00:00",
+      "price": null,
+      "novelty_score": 0.8,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://deadline.com/2026/06/jason-alexander-film-kill-a-nazi-entebbe-raid-trailer-1236962748/",
       "title": "Jason Alexander-Narrated Doc \u2018To Kill A Nazi\u2019, About Entebbe Raid, Gets Sales Deal & Trailer Before Fest Launch",
@@ -5788,16 +5806,18 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "AI & tech research": [
     {
-      "url": "https://deadline.com/2026/06/netflix-antoine-fuqua-hannibal-denzel-washington-1236940352/",
-      "title": "Netflix Pauses Pre-Production On Antoine Fuqua\u2019s Hannibal Epic Starring Denzel Washington",
-      "snippet": "EXCLUSIVE: Netflix has halted pre-production on its untitled epic drama about ancient Carthaginian general Hannibal starring Denzel Washington in the titular role with his frequent collaborator Antoine Fuqua directing. The film was planning to shoot later this year in Italy but insiders now say things have been put on pause so that producers and the [&#8230;]",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Film & TV",
-      "fetched_at": "2026-06-04T16:50:27.487281+00:00",
-      "published_at": "2026-06-04T16:30:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWnhJYndNdUhDdDRMTTJiMVFYMjFKUXc2dWp0eUV3cnpSdkZvQnNkczZUZkdpSFhhRmFJZ194WUJWeEpiekUwRVZ2QkVyMHZudE5vOHJSdFJHbVFVSGZHNDI0ZDRBMFAxY3ZRYWdxellPMUVCSDNweFJpV0NMeTJPSHBCNm9saE4xOTA5SnRmS3F4eGhuQms2MFVGWjNUTEp1bE5BXzIta2NGc09lR2RHeA?oc=5",
+      "title": "NVIDIA Releases Nemotron 3 Ultra: An Open Frontier Model Built for Long-Running AI Agents - quasa.io",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNWnhJYndNdUhDdDRMTTJiMVFYMjFKUXc2dWp0eUV3cnpSdkZvQnNkczZUZkdpSFhhRmFJZ194WUJWeEpiekUwRVZ2QkVyMHZudE5vOHJSdFJHbVFVSGZHNDI0ZDRBMFAxY3ZRYWdxellPMUVCSDNweFJpV0NMeTJPSHBCNm9saE4xOTA5SnRmS3F4eGhuQms2MFVGWjNUTEp1bE5BXzIta2NGc09lR2RHeA?oc=5\" target=\"_blank\">NVIDIA Releases Nemotron 3 Ultra: An Open Frontier Model Built for Long-Running AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">quasa.io</font>",
+      "source": "google_news",
+      "source_type": "news",
+      "topic_name": "AI & tech research",
+      "fetched_at": "2026-06-19T19:41:45.585039+00:00",
+      "published_at": "2026-06-19T11:08:00+00:00",
       "price": null,
       "novelty_score": 0.8,
       "summary": null,
@@ -5805,10 +5825,8 @@
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "AI & tech research": [
+      "notified_digest": false
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zV0pPMEJwOGFiOFdzUFB3bnhxMkY5ZFlnNU5zSXZ3RHB5a0o0NEhPbTI4N1pnZmxKZjN6Y2hLOU1NTG1jd1JuUkl6TXRFekdhTVhhd2w3TTN1TW1DSFZV?oc=5",
       "title": "BRIDGE: benchmarking large language models for understanding real-world clinical practice texts - Nature",
@@ -7590,27 +7608,63 @@
       "action_url": null,
       "notified_push": false,
       "notified_digest": true
-    },
+    }
+  ],
+  "Queens & NYC local": [
     {
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTG9CYTZqS2RrN3pUQW1wMXB0N2lLX1pVam9mQl9BTW0zb3hIekVWbnlLU01WbmZTa21hUWlNYXc3S2YydTJiOVRHcTFndmFBV0NyM2JqYnpjdnJTVEwxRHlteC1BckpsNWdkSVV1c2lhcWd4Mk41aXdkVlBkT3A4eTZLY2FiRlZHSGF5eGVfMW5mWGU0cEYxYW5FMG9zVzRyUGd2TjVYT05LLVJtV0c1dEZudTBMcHY0TUVDcXEtSDF5SUdU?oc=5",
-      "title": "Trump signs order designed to give government early look at powerful AI models - The Washington Post",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTG9CYTZqS2RrN3pUQW1wMXB0N2lLX1pVam9mQl9BTW0zb3hIekVWbnlLU01WbmZTa21hUWlNYXc3S2YydTJiOVRHcTFndmFBV0NyM2JqYnpjdnJTVEwxRHlteC1BckpsNWdkSVV1c2lhcWd4Mk41aXdkVlBkT3A4eTZLY2FiRlZHSGF5eGVfMW5mWGU0cEYxYW5FMG9zVzRyUGd2TjVYT05LLVJtV0c1dEZudTBMcHY0TUVDcXEtSDF5SUdU?oc=5\" target=\"_blank\">Trump signs order designed to give government early look at powerful AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-      "source": "google_news",
-      "source_type": "news",
-      "topic_name": "AI & tech research",
-      "fetched_at": "2026-06-05T23:14:21.844201+00:00",
-      "published_at": "2026-06-03T03:31:20+00:00",
+      "url": "https://www.amny.com/law/appellate-court-noise-suit-forest-hills-stadium/",
+      "title": "Appellate court revives homeowners\u2019 noise suit against Forest Hills Stadium, but dismisses zoning issue",
+      "snippet": "A Queens appellate court decided that a group of residents fighting noise pollution and traffic tied to concerts at Forest Hills Stadium will have a chance to take their case to trial. The court ruled the residents have standing to pursue their claim that the stadium\u2019s concerts cause a nuisance \u2014 but dismissed the\u2026 <a class=\"read-more\" href=\"https://www.amny.com/law/appellate-court-noise-suit-forest-hills-stadium/\" style=\"color: black; font-weight: bold; text-decoration: none; font-size: 80%;\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-19T19:28:51.439372+00:00",
+      "published_at": "2026-06-19T16:30:44+00:00",
       "price": null,
-      "novelty_score": 0.8,
+      "novelty_score": 0.75,
       "summary": null,
       "tags": [],
       "escalation_trigger": null,
       "action_url": null,
       "notified_push": false,
-      "notified_digest": true
-    }
-  ],
-  "Queens & NYC local": [
+      "notified_digest": false
+    },
+    {
+      "url": "https://qns.com/2026/06/queens-artist-mural-unveiling-forest-hills/",
+      "title": "Queens based artist to hold mural unveiling at MacDonald Park in Forest Hills this Saturday",
+      "snippet": "Deborah Camp, a Woodhaven muralist, and Stephen Melnick, the Steward of MacDonald Park, will host an unveiling ceremony in the park&#8217;s circular plaza in Forest Hills on Saturday, June 20, from 12 to 3 p.m. The neighborhood event will be followed by a family-friendly art workshop for the duration of a year. The community park,...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/queens-artist-mural-unveiling-forest-hills/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-19T19:28:51.439372+00:00",
+      "published_at": "2026-06-19T17:00:58+00:00",
+      "price": null,
+      "novelty_score": 0.6,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
+    {
+      "url": "https://qns.com/2026/06/mayors-job-training-opportunities-made-in-ny-media-academy-queensborough-cuny-colleges/",
+      "title": "Mayor\u2019s office announces new job training opportunities for New Yorkers through \u2018Made in NY\u2019 Media Academy at Queensborough, other CUNY colleges",
+      "snippet": "It\u2019s New York Music Month (the City\u2019s official music festival), and musically inclined New Yorkers seeking careers in the music and recording industries, can start signing up for Music Production Bootcamp at Queensborough Community College (QCC) &#8212; thanks to the &#8220;Made in NY&#8221; Media Academy, an innovative workforce development initiative that aims to meet the...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/mayors-job-training-opportunities-made-in-ny-media-academy-queensborough-cuny-colleges/\">Read More</a>",
+      "source": "rss",
+      "source_type": "feeds",
+      "topic_name": "Queens & NYC local",
+      "fetched_at": "2026-06-19T19:28:51.439372+00:00",
+      "published_at": "2026-06-19T19:00:41+00:00",
+      "price": null,
+      "novelty_score": 0.5,
+      "summary": null,
+      "tags": [],
+      "escalation_trigger": null,
+      "action_url": null,
+      "notified_push": false,
+      "notified_digest": false
+    },
     {
       "url": "https://qns.com/2026/06/newtown-high-school-football-field-renovation/",
       "title": "Elmhurst\u2019s Newtown High School to field football team for first time after breaking ground on state-of-the-art field renovations",
@@ -9348,60 +9402,6 @@
       "topic_name": "Queens & NYC local",
       "fetched_at": "2026-06-09T19:59:19.089675+00:00",
       "published_at": "2026-06-09T18:00:28+00:00",
-      "price": null,
-      "novelty_score": 0.5,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/06/forest-hills-woodside-rezoning-proposals-hearings/",
-      "title": "Forest Hills and Woodside rezoning proposals to get public hearings following June 1 review session",
-      "snippet": "Proposed rezonings for 100-12 Queens Blvd. in Forest Hills and 50-02 Queens Blvd. in Woodside are now moving into the public hearing phase before the New York City Planning Commission, after they were looked at during the City Planning Commission&#8217;s June 1 review session. Marking the next step in the Uniform Land Use Review Procedure...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/forest-hills-woodside-rezoning-proposals-hearings/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-06-09T19:59:19.089675+00:00",
-      "published_at": "2026-06-09T19:30:33+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/06/qedc-world-cup-neighborhood-guide/",
-      "title": "QEDC launches Queens neighborhood guide for World Cup",
-      "snippet": "The Queens Economic Development Corporation (QEDC) has launched a new guide to all major World Cup-related events taking place in the borough over the next six weeks, including a profile on indiviual neighborhoods providing advice on where to find nation-specific watch parties. The guide, launched in partnership with I Love New York, Queens Borough President...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/qedc-world-cup-neighborhood-guide/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-06-09T17:56:04.440155+00:00",
-      "published_at": "2026-06-09T16:30:40+00:00",
-      "price": null,
-      "novelty_score": 0.6,
-      "summary": null,
-      "tags": [],
-      "escalation_trigger": null,
-      "action_url": null,
-      "notified_push": false,
-      "notified_digest": true
-    },
-    {
-      "url": "https://qns.com/2026/06/rockaway-village-complex-completes-construction/",
-      "title": "Rockaway Village mixed-use complex completes construction",
-      "snippet": "Construction has recently wrapped up on Rockaway Village, a mixed-use complex comprised of eight buildings in Far Rockaway. Built across five phases, Rockaway Village features 1,700 affordable homes and 125,000 square feet of commercial and community facility space. Designed by Marvel and developed by Phipps, Rockaway Village&#8217;s master plan also includes a supermarket, a pharmacy,...<br /> <a class=\"read-more\" href=\"https://qns.com/2026/06/rockaway-village-complex-completes-construction/\">Read More</a>",
-      "source": "rss",
-      "source_type": "feeds",
-      "topic_name": "Queens & NYC local",
-      "fetched_at": "2026-06-09T17:56:04.440155+00:00",
-      "published_at": "2026-06-09T17:00:12+00:00",
       "price": null,
       "novelty_score": 0.5,
       "summary": null,

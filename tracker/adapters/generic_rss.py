@@ -1,6 +1,8 @@
 from __future__ import annotations
 
+import html as _html
 import logging
+import re as _re
 from datetime import datetime, timezone
 
 import feedparser
@@ -12,6 +14,18 @@ from tracker.models import Result, SourceConfig, TopicConfig
 logger = logging.getLogger(__name__)
 
 _TIMEOUT = 15
+_TAG_RE = _re.compile(r"<[^>]+>")
+
+
+def _clean(text: str) -> str:
+    """Strip HTML tags + entities from RSS title/summary text. Many feeds (esp.
+    WordPress) embed <img>/<p> markup in the summary, so without this the UI and
+    digest show raw '<img ...>' instead of a readable snippet."""
+    if not text:
+        return ""
+    text = _TAG_RE.sub(" ", text)
+    text = _html.unescape(text)
+    return _re.sub(r"\s+", " ", text).strip()
 
 
 class GenericRSSAdapter(BaseAdapter):
@@ -46,8 +60,8 @@ class GenericRSSAdapter(BaseAdapter):
                     results.append(
                         Result(
                             url=getattr(entry, "link", ""),
-                            title=getattr(entry, "title", ""),
-                            snippet=getattr(entry, "summary", ""),
+                            title=_clean(getattr(entry, "title", "")),
+                            snippet=_clean(getattr(entry, "summary", "")),
                             source="rss",
                             source_type=self.source_type,
                             topic_name=topic.name,
@@ -58,3 +72,11 @@ class GenericRSSAdapter(BaseAdapter):
             except Exception as exc:
                 logger.warning("GenericRSSAdapter error for '%s': %s", url, exc)
         return results
+
+
+if __name__ == "__main__":
+    # ponytail self-check for the HTML sanitizer.
+    assert _clean('<img alt="" class="x" height="90"> Hello &amp; world  ') == "Hello & world"
+    assert _clean("<p>Multi  <b>line</b>\n text</p>") == "Multi line text"
+    assert _clean("") == ""
+    print("generic_rss _clean self-check passed")

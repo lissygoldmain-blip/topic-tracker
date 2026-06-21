@@ -263,6 +263,10 @@ def run_poll(tier_index: int = 0, topics_path: str = "topics.yaml", data_dir: st
                     urgency = esc.effective_urgency(state, t)
                     push_notifier.send(result, urgency=urgency)
 
+    removed = storage.dedup_index()
+    if removed:
+        logger.info("Dedup: collapsed %d near-duplicate news-like items across the index", removed)
+
     storage.save_state(state)
     storage.save()
 

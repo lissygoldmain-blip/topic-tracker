@@ -135,8 +135,7 @@ topics:
           terms: ["NYC theater", "offbroadway"]
 
       broad:
-        - source: gdelt
-          terms: ["New York City theater arts performance"]
+        # gdelt removed 2026-06-21: circuit-breaker failing/disabled across all topics that used it
         - source: google_news
           terms: ["Queens theater", "Queens arts", "Jackson Heights arts"]
 
@@ -222,8 +221,7 @@ topics:
               - "https://6sqft.com/feed/"
         - source: guardian
           terms: ["New York City Queens neighborhood"]
-        - source: gdelt
-          terms: ["Jackson Heights New York", "Flushing New York"]
+        # gdelt removed 2026-06-21: circuit-breaker failing/disabled
 
     notifications:
       email: weekly_digest
@@ -315,7 +313,7 @@ topics:
       MedRxiv/BioRxiv preprints. Deprioritize: opinion pieces, mainstream
       health journalism rehashing existing findings, anything without new data.
     importance: high
-    urgency: low
+    urgency: high   # cadence not alarm: 'high' runs frequent+discovery tiers so PubMed/medRxiv/bioRxiv/SemanticScholar actually poll (were stranded at 'low' → broad-only → google_news only)
 
     source_categories:
       - science
@@ -891,7 +889,7 @@ topics:
       Queens immigrant communities, arts funding, LGBTQ+ rights, or
       labor/worker issues.
     importance: low
-    urgency: low
+    urgency: medium   # cadence: 'medium' runs the discovery tier (Guardian/NYTimes/NPR/DemocracyNow) at the 2h cadence (was stranded at 'low' → broad-only → google_news only)
 
     source_categories:
       - news
@@ -1028,7 +1026,7 @@ topics:
       coverage. Prefer primary sources (papers, official announcements)
       over downstream commentary.
     importance: low
-    urgency: low
+    urgency: high   # cadence not alarm: 'high' runs frequent+discovery so arXiv/HackerNews/SemanticScholar actually poll (were stranded at 'low' → broad-only → google_news only)
 
     source_categories:
       - science
@@ -1072,9 +1070,7 @@ topics:
             retmax: 10
 
       broad:
-        - source: gdelt
-          terms:
-            - "artificial intelligence research"
+        # gdelt removed 2026-06-21: circuit-breaker disabled (consecutive failures)
         - source: google_news
           terms:
             - "AI model release"

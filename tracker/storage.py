@@ -94,3 +94,14 @@ class Storage:
 
     def get_index(self) -> dict[str, list[dict]]:
         return self._index
+
+    def dedup_index(self, threshold: float = 0.6) -> int:
+        """Collapse near-duplicate news-like items per topic in the live index.
+        Returns count removed. The NDJSON archive is left intact (full history)."""
+        from tracker.dedup import dedup_results
+        removed = 0
+        for topic, items in self._index.items():
+            deduped = dedup_results(items, threshold=threshold)
+            removed += len(items) - len(deduped)
+            self._index[topic] = deduped
+        return removed

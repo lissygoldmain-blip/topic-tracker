@@ -14,23 +14,28 @@ logger = logging.getLogger(__name__)
 
 _RETRY_SECONDS_RE = re.compile(r"retry in (\d+(?:\.\d+)?)s", re.IGNORECASE)
 
-SYSTEM_PROMPT = """You are a news relevance filter. Given a news result and topic description,
-assess whether this result contains genuinely new information.
+SYSTEM_PROMPT = """You decide whether a result is worth surfacing to a user who defined a tracking topic.
+
+You are given the topic's description, which states what the user CARES ABOUT and often what to
+DEPRIORITIZE or SKIP. Honor it. An item can be brand-new and still NOT worth surfacing if it does
+not match the user's stated interests -- for example an obituary of someone outside the topic's
+focus, a film or franchise the description says to deprioritize, or reaction/punditry the user said
+to skip. Judge relevance to the stated intent FIRST, then significance and newness.
 
 Respond ONLY with valid JSON in this exact format:
 {
+  "relevant": <boolean>,
   "novelty_score": <float 0.0-1.0>,
-  "is_relevant": <boolean>,
   "preliminary_tags": [<tags from the provided list only>],
   "reasoning": "<one sentence>"
 }
 
-Scoring guide:
-- 0.9-1.0: First report of a significant development
-- 0.7-0.9: New details not previously reported
-- 0.5-0.7: Minor update to known story
-- 0.3-0.5: Rehash of existing information
-- 0.0-0.3: Pure noise, clickbait, or unrelated"""
+Set "relevant" false when the item falls outside the topic's stated interests or matches its
+deprioritize/skip guidance. Score "novelty_score" as how worth-surfacing the item is:
+- 0.85-1.0: squarely matches the stated interests AND is a significant new development
+- 0.65-0.85: matches the interests; moderately new or useful
+- 0.45-0.65: tangentially relevant, or a minor update to a known story
+- 0.0-0.45: off-intent, deprioritized, rehash, clickbait, or noise"""
 
 
 class Stage1Filter:
@@ -154,7 +159,12 @@ class Stage1Filter:
                     generation_config={"response_mime_type": "application/json"},
                 )
                 data = json.loads(response.text)
-                return float(data["novelty_score"])
+                score = float(data["novelty_score"])
+                # Hard relevance gate: an off-intent item never ranks high no matter how "new"
+                # (this is what stops the obituary/Marvel/punditry pile-up at the top).
+                if not data.get("relevant", True):
+                    score = min(score, 0.2)
+                return score
             except (json.JSONDecodeError, KeyError) as e:
                 if attempt < 2:
                     logger.warning("Stage1 JSON parse failed, retrying: %s", e)

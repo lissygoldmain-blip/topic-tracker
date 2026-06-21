@@ -91,8 +91,15 @@ topics:
 
   - name: "NYC theater & arts"
     description: >
-      Theater, performance, dance, gallery openings, and arts news in New York City.
-      Off-Broadway, off-off-Broadway, Queens venues, and major institutions.
+      Theater, performance, dance, visual-arts and gallery news in and around New York City --
+      off-Broadway, off-off-Broadway, Queens venues (especially Flushing Town Hall and the
+      Flushing / Jackson Heights arts scene), and major NYC institutions.
+
+      Include: openings, closings, premieres, new productions, notable reviews, festivals, and
+      arts-funding news with a real NYC connection.
+
+      Deprioritize: national or international arts news with no NYC angle, celebrity gossip, and
+      reaction pieces that add no new information.
     importance: high
     urgency: medium
 

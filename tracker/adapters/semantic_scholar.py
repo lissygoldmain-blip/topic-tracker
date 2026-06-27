@@ -11,7 +11,7 @@ from tracker.models import Result, SourceConfig, TopicConfig
 
 logger = logging.getLogger(__name__)
 
-S2_SEARCH_URL = "https://api.semanticscholar.org/graph/v1/paper-search"
+S2_SEARCH_URL = "https://api.semanticscholar.org/graph/v1/paper/search"
 S2_PAPER_URL = "https://www.semanticscholar.org/paper/{paper_id}"
 
 # Fields to request from the API

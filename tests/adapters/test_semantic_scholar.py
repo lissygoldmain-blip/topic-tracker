@@ -79,6 +79,22 @@ def test_one_request_per_term():
     assert mock_get.call_count == 3
 
 
+def test_calls_correct_search_endpoint():
+    # Regression: the live endpoint is /graph/v1/paper/search. A typo'd
+    # /paper-search returns 404 and silently yields zero results, which the
+    # fully-mocked tests above cannot catch — so assert the URL explicitly.
+    adapter = SemanticScholarAdapter()
+    topic = make_topic()
+    source = make_source(terms=["llm"])
+
+    with patch("tracker.adapters.semantic_scholar.requests.get") as mock_get:
+        mock_get.return_value = _fake_response([])
+        adapter.fetch(source, topic)
+
+    called_url = mock_get.call_args[0][0]
+    assert called_url == "https://api.semanticscholar.org/graph/v1/paper/search"
+
+
 def test_api_key_sent_as_header():
     adapter = SemanticScholarAdapter()
     adapter._api_key = "test_key_123"

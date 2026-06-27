@@ -266,21 +266,17 @@ topics:
 
       # low urgency → only 'broad' runs (tier_index=0 → broad for low urgency topics)
       broad:
-        - source: substack
+        # 2026-06-26: switched from the 'substack' source to plain RSS. Hell Gate went
+        # membership-only (no public feed), Flaming Hydra left Substack for its own domain,
+        # and Substack's discovery search API (substack.com/api/v1/search) is dead (404).
+        # All four feeds below verified live-returning. 'rss' also gets HTML-snippet cleaning.
+        - source: rss
           filters:
             feeds:
-              - "https://hellgatenyc.substack.com/feed"          # Hell Gate NYC — hyperlocal news/culture
-              - "https://flaminghydra.substack.com/feed"         # Flaming Hydra — indie writers collective
-            max_per_feed: 5
-        # Dynamic discovery — runs at same time since broad is the only active tier
-        - source: substack
-          terms:
-            - "NYC theater arts"
-            - "New York City culture"
-            - "queer arts New York"
-          filters:
-            max_pubs: 3
-            max_per_feed: 4
+              - "https://flaminghydra.com/feed"            # Flaming Hydra — indie writers collective
+              - "https://hyperallergic.com/feed/"          # Hyperallergic — NYC arts / visual culture
+              - "https://www.gaycitynews.com/feed/"        # Gay City News — NYC queer life
+              - "https://queenseagle.com/all?format=rss"   # Queens Daily Eagle — Queens local
 
     notifications:
       email: weekly_digest

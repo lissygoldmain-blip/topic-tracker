@@ -67,26 +67,29 @@ class BlueskyAdapter(BaseAdapter):
 
         if source_config.terms:
             token = _get_access_token()
-            headers = {"Authorization": f"Bearer {token}"} if token else {}
             if not token:
-                logger.warning(
-                    "BlueskyAdapter: BSKY_IDENTIFIER/BSKY_APP_PASSWORD not set — "
-                    "search may be blocked from datacenter IPs"
+                # Unauthenticated searchPosts now 403s (esp. from datacenter/CI IPs), so skip
+                # the search loop entirely rather than firing one guaranteed-failing request per
+                # term every run. Set BSKY_IDENTIFIER + BSKY_APP_PASSWORD to enable keyword search.
+                logger.info(
+                    "BlueskyAdapter: no BSKY creds — skipping keyword search (%d term(s)); "
+                    "profile feeds still fetched.", len(source_config.terms),
                 )
-
-            for term in source_config.terms:
-                try:
-                    resp = requests.get(
-                        BSKY_SEARCH_URL,
-                        params={"q": term, "limit": 25},
-                        headers=headers,
-                        timeout=10,
-                    )
-                    resp.raise_for_status()
-                    for post in resp.json().get("posts", []):
-                        results.append(self._post_to_result(post, topic))
-                except Exception as exc:
-                    logger.warning("BlueskyAdapter search error for term '%s': %s", term, exc)
+            else:
+                headers = {"Authorization": f"Bearer {token}"}
+                for term in source_config.terms:
+                    try:
+                        resp = requests.get(
+                            BSKY_SEARCH_URL,
+                            params={"q": term, "limit": 25},
+                            headers=headers,
+                            timeout=10,
+                        )
+                        resp.raise_for_status()
+                        for post in resp.json().get("posts", []):
+                            results.append(self._post_to_result(post, topic))
+                    except Exception as exc:
+                        logger.warning("BlueskyAdapter search error for term '%s': %s", term, exc)
 
         return results
 

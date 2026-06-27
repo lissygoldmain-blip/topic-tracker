@@ -43,7 +43,8 @@ def _mock_get(json_data, status_code=200):
 
 
 def test_returns_results():
-    with patch("tracker.adapters.bluesky.requests.get") as mock_get:
+    with patch("tracker.adapters.bluesky.requests.get") as mock_get, \
+         patch("tracker.adapters.bluesky._get_access_token", return_value="tok"):
         mock_get.return_value = _mock_get(BSKY_RESPONSE)
         results = BlueskyAdapter().fetch(SOURCE, TOPIC)
     assert len(results) == 2
@@ -52,7 +53,8 @@ def test_returns_results():
 
 
 def test_url_constructed_from_handle_and_rkey():
-    with patch("tracker.adapters.bluesky.requests.get") as mock_get:
+    with patch("tracker.adapters.bluesky.requests.get") as mock_get, \
+         patch("tracker.adapters.bluesky._get_access_token", return_value="tok"):
         mock_get.return_value = _mock_get(BSKY_RESPONSE)
         results = BlueskyAdapter().fetch(SOURCE, TOPIC)
     assert results[0].url == (
@@ -69,7 +71,8 @@ def test_title_truncated_at_120():
             "record": {"text": long_text, "createdAt": "2026-03-23T10:00:00.000Z"},
         }]
     }
-    with patch("tracker.adapters.bluesky.requests.get") as mock_get:
+    with patch("tracker.adapters.bluesky.requests.get") as mock_get, \
+         patch("tracker.adapters.bluesky._get_access_token", return_value="tok"):
         mock_get.return_value = _mock_get(data)
         results = BlueskyAdapter().fetch(SOURCE, TOPIC)
     assert results[0].title.endswith("…")
@@ -77,7 +80,8 @@ def test_title_truncated_at_120():
 
 
 def test_http_error_returns_empty():
-    with patch("tracker.adapters.bluesky.requests.get") as mock_get:
+    with patch("tracker.adapters.bluesky.requests.get") as mock_get, \
+         patch("tracker.adapters.bluesky._get_access_token", return_value="tok"):
         mock_get.side_effect = Exception("timeout")
         results = BlueskyAdapter().fetch(SOURCE, TOPIC)
     assert results == []
@@ -85,7 +89,8 @@ def test_http_error_returns_empty():
 
 def test_multiple_terms_each_queried():
     source = SourceConfig(source="bluesky", terms=["term one", "term two"])
-    with patch("tracker.adapters.bluesky.requests.get") as mock_get:
+    with patch("tracker.adapters.bluesky.requests.get") as mock_get, \
+         patch("tracker.adapters.bluesky._get_access_token", return_value="tok"):
         mock_get.return_value = _mock_get({"posts": []})
         BlueskyAdapter().fetch(source, TOPIC)
     assert mock_get.call_count == 2
@@ -135,7 +140,8 @@ def test_profiles_and_terms_both_fetched():
         profiles=["wildfang.bsky.social"],
         terms=["wildfang sale"],
     )
-    with patch("tracker.adapters.bluesky.requests.get") as mock_get:
+    with patch("tracker.adapters.bluesky.requests.get") as mock_get, \
+         patch("tracker.adapters.bluesky._get_access_token", return_value="tok"):
         mock_get.side_effect = [
             _mock_get(AUTHOR_FEED_RESPONSE),  # author feed
             _mock_get({"posts": []}),          # search
@@ -175,27 +181,26 @@ def test_search_passes_auth_header_when_credentials_set():
     assert len(results) == 2
 
 
-def test_search_no_auth_header_without_credentials():
-    """Without BSKY credentials, search proceeds with empty headers (no auth)."""
+def test_search_skipped_without_credentials():
+    """Without BSKY credentials the search path is skipped entirely (unauth search 403s)."""
     env = {"BSKY_IDENTIFIER": "", "BSKY_APP_PASSWORD": ""}
     with patch.dict(os.environ, env):
         with patch("tracker.adapters.bluesky.requests.post") as mock_post:
-            with patch("tracker.adapters.bluesky.requests.get", return_value=_mock_get(BSKY_RESPONSE)) as mock_get:
-                BlueskyAdapter().fetch(SOURCE, TOPIC)
+            with patch("tracker.adapters.bluesky.requests.get") as mock_get:
+                results = BlueskyAdapter().fetch(SOURCE, TOPIC)
 
     mock_post.assert_not_called()
-    call_kwargs = mock_get.call_args[1]
-    assert call_kwargs["headers"] == {}
+    mock_get.assert_not_called()  # terms-only source + no creds → no request fired
+    assert results == []
 
 
-def test_search_continues_if_session_creation_fails():
-    """If createSession raises, search still proceeds (graceful degradation)."""
+def test_search_skipped_if_session_creation_fails():
+    """If createSession fails, token is None, so search is skipped (not fired unauthenticated)."""
     env = {"BSKY_IDENTIFIER": "user.bsky.social", "BSKY_APP_PASSWORD": "app-pw"}
     with patch.dict(os.environ, env):
         with patch("tracker.adapters.bluesky.requests.post", side_effect=Exception("network error")):
-            with patch("tracker.adapters.bluesky.requests.get", return_value=_mock_get(BSKY_RESPONSE)) as mock_get:
+            with patch("tracker.adapters.bluesky.requests.get") as mock_get:
                 results = BlueskyAdapter().fetch(SOURCE, TOPIC)
 
-    assert len(results) == 2
-    call_kwargs = mock_get.call_args[1]
-    assert call_kwargs["headers"] == {}
+    mock_get.assert_not_called()  # session failed → no token → search skipped
+    assert results == []

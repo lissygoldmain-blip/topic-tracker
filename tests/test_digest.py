@@ -57,7 +57,7 @@ def test_digest_sends_unnotified_results(tmp_path):
         mock_notif = MagicMock()
         MockNotifier.return_value = mock_notif
         # Simulate send_digest marking results as notified
-        def fake_send_digest(results, subject=""):
+        def fake_send_digest(results, subject="", health=None):
             for r in results:
                 r.notified_digest = True
         mock_notif.send_digest.side_effect = fake_send_digest
@@ -83,7 +83,7 @@ def test_digest_skips_already_notified(tmp_path):
          patch("tracker.poller.EmailNotifier") as MockNotifier:
         mock_notif = MagicMock()
         MockNotifier.return_value = mock_notif
-        def fake_send_digest(results, subject=""):
+        def fake_send_digest(results, subject="", health=None):
             for r in results:
                 r.notified_digest = True
         mock_notif.send_digest.side_effect = fake_send_digest
@@ -108,7 +108,7 @@ def test_digest_marks_notified_in_index(tmp_path):
          patch("tracker.poller.EmailNotifier") as MockNotifier:
         mock_notif = MagicMock()
         MockNotifier.return_value = mock_notif
-        def fake_send_digest(results, subject=""):
+        def fake_send_digest(results, subject="", health=None):
             for r in results:
                 r.notified_digest = True
         mock_notif.send_digest.side_effect = fake_send_digest
@@ -166,7 +166,7 @@ def test_digest_results_sorted_by_topic_then_novelty(tmp_path):
          patch("tracker.poller.EmailNotifier") as MockNotifier:
         mock_notif = MagicMock()
         MockNotifier.return_value = mock_notif
-        def fake_send_digest(results, subject=""):
+        def fake_send_digest(results, subject="", health=None):
             for r in results:
                 r.notified_digest = True
         mock_notif.send_digest.side_effect = fake_send_digest
@@ -191,7 +191,7 @@ def test_digest_subject_includes_date(tmp_path):
          patch("tracker.poller.EmailNotifier") as MockNotifier:
         mock_notif = MagicMock()
         MockNotifier.return_value = mock_notif
-        def fake_send_digest(results, subject=""):
+        def fake_send_digest(results, subject="", health=None):
             for r in results:
                 r.notified_digest = True
         mock_notif.send_digest.side_effect = fake_send_digest

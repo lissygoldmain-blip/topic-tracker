@@ -321,8 +321,27 @@ def run_digest(topics_path: str = "topics.yaml", data_dir: str = ".") -> None:
     week_str = date.today().strftime("%b %d, %Y")
     subject = f"Topic Tracker Digest — {week_str}"
 
+    # Source-health check: flag configured sources that went silent or never fired,
+    # so a dead source can't rot unnoticed (see tracker/health.py).
+    from datetime import datetime, timezone
+
+    from tracker.config import load_topics
+    from tracker.health import source_health
+
+    configured = {
+        entry["source"]
+        for topic in load_topics(topics_path)
+        for tier in topic.polling.values()
+        for entry in tier
+        if isinstance(entry, dict) and entry.get("source")
+    }
+    health = source_health(index, configured, datetime.now(timezone.utc))
+    if health:
+        logger.warning("Digest: %d source(s) unhealthy: %s",
+                       len(health), ", ".join(h["source"] for h in health))
+
     notifier = EmailNotifier(api_key=resend_key, from_email=from_email, to_email=to_email)
-    notifier.send_digest(unnotified, subject=subject)
+    notifier.send_digest(unnotified, subject=subject, health=health)
 
     # send_digest sets r.notified_digest = True on each Result object.
     # Mirror that back into the live index dicts so storage.save() persists it.

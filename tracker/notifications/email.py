@@ -73,12 +73,19 @@ class EmailNotifier:
             html=html,
         )
 
-    def send_digest(self, results: list[Result], subject: str = "Topic Tracker Digest") -> None:
+    def send_digest(
+        self,
+        results: list[Result],
+        subject: str = "Topic Tracker Digest",
+        health: list[dict] | None = None,
+    ) -> None:
         if not results:
             return
 
         # Group by topic name (assume results pre-sorted by topic_name)
         body_parts: list[str] = []
+        if health:
+            body_parts.append(self._render_health(health))
         for topic_name, group in itertools.groupby(results, key=lambda r: r.topic_name):
             items = list(group)
             icon = _topic_icon(topic_name)
@@ -100,6 +107,30 @@ class EmailNotifier:
         self._send(subject=subject, html=html)
 
     # ── rendering ─────────────────────────────────────────────────────────────
+
+    def _render_health(self, health: list[dict]) -> str:
+        """Compact 'source health' block: which sources went silent or never fired."""
+        lines: list[str] = []
+        for h in health:
+            src = _html.escape(str(h.get("source", "?")))
+            if h.get("status") == "missing":
+                detail = "configured but producing nothing"
+            else:
+                last = h.get("last_seen")
+                when = last.strftime("%b %d") if last else "unknown"
+                detail = f"no new items in 7+ days (last: {when})"
+            lines.append(
+                f"<span style='color:{_YELLOW};font-weight:600'>{src}</span>"
+                f" <span style='color:{_MUTED}'>— {detail}</span>"
+            )
+        body = "<br>".join(lines)
+        return (
+            f"<tr><td style='padding:20px 0 6px'>"
+            f"<span style='font-size:15px;font-weight:700;color:{_TEXT}'>⚠️ Source health</span>"
+            f"</td></tr>"
+            f"<tr><td style='padding:0 0 12px;font-size:13px;line-height:1.7;"
+            f"border-bottom:1px solid {_BORDER}'>{body}</td></tr>"
+        )
 
     def _render_single(self, r: Result) -> str:
         score = r.novelty_score

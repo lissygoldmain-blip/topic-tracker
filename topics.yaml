@@ -665,6 +665,9 @@ topics:
             feeds:
               - "https://www.out.com/rss"
               - "https://www.them.us/feed/rss"
+              # WOWPresents official channel (verified 2026-06-27) — covers what r/rupaulsdragrace
+              # carried now that reddit 429s from CI IPs
+              - "https://www.youtube.com/feeds/videos.xml?channel_id=UCUUUpaMp8DV6KUOfQwoIiLg"
 
       discovery:
         - source: tmdb
@@ -980,6 +983,9 @@ topics:
             feeds:
               - "https://ny.eater.com/rss/index.xml"
               - "https://qns.com/feed/"
+              # Queens Chronicle qboro section (verified 2026-06-27) — local dining/culture,
+              # replaces dead r/FoodNYC coverage; LLM filter gates the non-food items
+              - "https://www.qchron.com/search/?f=rss&t=article&c=qboro*&l=25"
         - source: google_news
           terms:
             - "Jackson Heights restaurant"

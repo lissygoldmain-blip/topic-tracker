@@ -249,11 +249,11 @@ topics:
       triggers: []
       auto_revert: true
 
-  - name: "Substack picks"
+  - name: "Indie NYC reads"   # renamed from "Substack picks" 2026-06-27 (feeds are plain RSS now, mostly non-Substack)
     description: >
-      Newsletters from independent writers covering NYC arts, culture, theater,
-      queer life, and Queens. Curated direct subscriptions plus dynamic
-      discovery for new voices.
+      Independent writers and small outlets covering NYC arts, culture, theater,
+      queer life, and Queens — indie newsletters and local publications read
+      via RSS.
     importance: low
     urgency: low
 
@@ -338,22 +338,10 @@ topics:
               - "https://www.statnews.com/feed/"
 
       discovery:
-        - source: medrxiv
-          terms:
-            - "cannabinoid hyperemesis syndrome"
-            - "GLP-1 long-term outcomes"
-            - "semaglutide discontinuation"
-            - "tirzepatide safety"
-          filters:
-            days_back: 30
-            max_results: 20
-        - source: biorxiv
-          terms:
-            - "cannabinoid hyperemesis"
-            - "endocannabinoid hyperemesis"
-          filters:
-            days_back: 30
-            max_results: 10
+        # medrxiv/biorxiv removed 2026-06-27: their /details/ API is a date-range firehose with
+        # no keyword search (adapter did exact-substring matching over the first page only, so
+        # narrow clinical terms never landed — silent 0 for months). PubMed indexes medRxiv and
+        # Semantic Scholar covers preprints, so nothing is lost.
         - source: semantic_scholar
           terms:
             - "cannabinoid hyperemesis syndrome treatment"

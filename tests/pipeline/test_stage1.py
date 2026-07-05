@@ -41,11 +41,36 @@ def fake_gemini_response(score: float, tags: list[str]):
     mock = MagicMock()
     mock.text = json.dumps({
         "novelty_score": score,
-        "is_relevant": score >= 0.5,
+        "relevant": score >= 0.5,
         "preliminary_tags": tags,
         "reasoning": "test reason",
     })
     return mock
+
+
+def fake_batch_response(entries: list[dict]):
+    """entries: [{'index': i, 'novelty_score': s, 'relevant': bool}, ...]"""
+    mock = MagicMock()
+    mock.text = json.dumps([
+        {"preliminary_tags": [], "reasoning": "t", "relevant": True, **e} for e in entries
+    ])
+    return mock
+
+
+def batch_aware_side_effect(score=0.9):
+    """Answers single-item prompts with an object and batch prompts with an array,
+    sized from the numbered items in the prompt — robust to chunking details."""
+    import re as _re
+
+    def _se(*args, **kwargs):
+        prompt = args[0][1]
+        idxs = [int(m) for m in _re.findall(r"^Item (\d+):", prompt, _re.M)]
+        if not idxs:
+            return fake_gemini_response(score, [])
+        return fake_batch_response(
+            [{"index": i, "novelty_score": score} for i in idxs]
+        )
+    return _se
 
 
 def test_high_score_result_passes():
@@ -87,31 +112,95 @@ def test_json_parse_failure_skips_item():
     assert len(passed) == 0
 
 
-def test_multiple_items_filtered_independently():
+def test_multiple_items_scored_in_one_batch_call():
+    """3 same-topic items → ONE Gemini call returning an array; scores mapped by index."""
     topic = make_topic(threshold=0.65)
     results = [make_result(url=f"https://example.com/{i}") for i in range(3)]
-    scores = [0.9, 0.3, 0.8]
 
-    def side_effect(*args, **kwargs):
-        idx = mock_model.generate_content.call_count - 1
-        return fake_gemini_response(scores[idx], ["noise"])
-
-    # _last_request_at starts at 0.0 in __init__. In production, the first
-    # monotonic() call returns a large number so elapsed >> interval → no sleep.
-    # Simulate that: start at 1000.0, then advance by 5.1s per item (> 5.0s interval).
-    # Each item calls monotonic() twice: once for elapsed check, once to record the time.
-    monotonic_values = iter([1000.0, 1000.0, 1005.1, 1005.1, 1010.2, 1010.2])
     with patch("tracker.pipeline.stage1.genai") as mock_genai, \
-         patch("tracker.pipeline.stage1.time.sleep") as mock_sleep, \
-         patch("tracker.pipeline.stage1.time.monotonic", side_effect=monotonic_values):
+         patch("tracker.pipeline.stage1.time.sleep"), \
+         patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
         mock_model = MagicMock()
         mock_genai.GenerativeModel.return_value = mock_model
-        mock_model.generate_content.side_effect = side_effect
+        mock_model.generate_content.return_value = fake_batch_response([
+            {"index": 0, "novelty_score": 0.9},
+            {"index": 1, "novelty_score": 0.3},
+            {"index": 2, "novelty_score": 0.8},
+        ])
         f = Stage1Filter(api_key="fake")
         passed = f.filter([(r, topic) for r in results])
 
+    assert mock_model.generate_content.call_count == 1
     assert len(passed) == 2
-    assert mock_sleep.call_count == 0  # all elapsed times exceed _REQUEST_INTERVAL
+    assert {p[0].url for p in passed} == {"https://example.com/0", "https://example.com/2"}
+
+
+def test_batch_relevance_gate_caps_score():
+    """relevant:false in a batch entry caps the score at 0.2 (the obituary gate)."""
+    topic = make_topic(threshold=0.65)
+    results = [make_result(url=f"https://example.com/{i}") for i in range(2)]
+
+    with patch("tracker.pipeline.stage1.genai") as mock_genai, \
+         patch("tracker.pipeline.stage1.time.sleep"), \
+         patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
+        mock_model = MagicMock()
+        mock_genai.GenerativeModel.return_value = mock_model
+        mock_model.generate_content.return_value = fake_batch_response([
+            {"index": 0, "novelty_score": 0.95, "relevant": False},  # novel obituary
+            {"index": 1, "novelty_score": 0.9, "relevant": True},
+        ])
+        f = Stage1Filter(api_key="fake")
+        passed = f.filter([(r, topic) for r in results])
+
+    assert len(passed) == 1
+    assert passed[0][0].url == "https://example.com/1"
+
+
+def test_malformed_batch_falls_back_to_per_item():
+    """A non-array batch response falls back to one call per item."""
+    topic = make_topic(threshold=0.65)
+    results = [make_result(url=f"https://example.com/{i}") for i in range(3)]
+
+    with patch("tracker.pipeline.stage1.genai") as mock_genai, \
+         patch("tracker.pipeline.stage1.time.sleep"), \
+         patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
+        mock_model = MagicMock()
+        mock_genai.GenerativeModel.return_value = mock_model
+        # Always returns a single OBJECT — invalid for the batch call, valid per-item.
+        mock_model.generate_content.return_value = fake_gemini_response(0.9, [])
+        f = Stage1Filter(api_key="fake")
+        passed = f.filter([(r, topic) for r in results])
+
+    # 1 failed batch call + 3 per-item fallback calls
+    assert mock_model.generate_content.call_count == 4
+    assert len(passed) == 3
+
+
+def test_batch_chunks_never_mix_topics():
+    """Items from different topics are scored in separate calls."""
+    topic_a = make_topic()
+    topic_b = make_topic()
+    topic_b.name = "Other"
+    items = [
+        (make_result(url="https://a.com/1"), topic_a),
+        (make_result(url="https://a.com/2"), topic_a),
+        (make_result(url="https://b.com/1"), topic_b),
+        (make_result(url="https://b.com/2"), topic_b),
+    ]
+
+    with patch("tracker.pipeline.stage1.genai") as mock_genai, \
+         patch("tracker.pipeline.stage1.time.sleep"), \
+         patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
+        mock_model = MagicMock()
+        mock_genai.GenerativeModel.return_value = mock_model
+        mock_model.generate_content.side_effect = batch_aware_side_effect(0.9)
+        f = Stage1Filter(api_key="fake")
+        passed = f.filter(items)
+
+    assert mock_model.generate_content.call_count == 2  # one batch per topic
+    assert len(passed) == 4
+    prompts = [c.args[0][1] for c in mock_model.generate_content.call_args_list]
+    assert "Topic: Test" in prompts[0] and "Topic: Other" in prompts[1]
 
 
 def test_rate_limit_429_retries_with_parsed_delay():
@@ -181,11 +270,13 @@ def test_items_capped_at_max_per_run():
          patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
         mock_model = MagicMock()
         mock_genai.GenerativeModel.return_value = mock_model
-        mock_model.generate_content.return_value = fake_gemini_response(0.9, [])
+        mock_model.generate_content.side_effect = batch_aware_side_effect(0.9)
         f = Stage1Filter(api_key="fake")
         f.filter(items)
 
-    assert mock_model.generate_content.call_count == Stage1Filter.MAX_ITEMS_PER_RUN
+    # 20 items in batches of 8 → 8+8+4 → 3 calls; exactly the cap's worth of items scored
+    assert f._items_scored_this_run == Stage1Filter.MAX_ITEMS_PER_RUN
+    assert mock_model.generate_content.call_count == 3
 
 
 def test_global_cap_applies_across_multiple_filter_calls():
@@ -201,13 +292,15 @@ def test_global_cap_applies_across_multiple_filter_calls():
          patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
         mock_model = MagicMock()
         mock_genai.GenerativeModel.return_value = mock_model
-        mock_model.generate_content.return_value = fake_gemini_response(0.9, [])
+        mock_model.generate_content.side_effect = batch_aware_side_effect(0.9)
         f = Stage1Filter(api_key="fake")
         f.filter(items_a)
         result_b = f.filter(items_b)
 
     assert result_b == []
-    assert mock_model.generate_content.call_count == Stage1Filter.MAX_ITEMS_PER_RUN
+    # 20 items = 3 batch calls (8+8+4); the second filter() call makes none
+    assert f._items_scored_this_run == Stage1Filter.MAX_ITEMS_PER_RUN
+    assert mock_model.generate_content.call_count == 3
 
 
 def test_global_cap_partial_remaining_budget():
@@ -223,12 +316,14 @@ def test_global_cap_partial_remaining_budget():
          patch("tracker.pipeline.stage1.time.monotonic", return_value=100.0):
         mock_model = MagicMock()
         mock_genai.GenerativeModel.return_value = mock_model
-        mock_model.generate_content.return_value = fake_gemini_response(0.9, [])
+        mock_model.generate_content.side_effect = batch_aware_side_effect(0.9)
         f = Stage1Filter(api_key="fake")
         f.filter(items_a)
         f.filter(items_b)
 
-    assert mock_model.generate_content.call_count == Stage1Filter.MAX_ITEMS_PER_RUN
+    # 15 items (8+7 → 2 calls) then 5 remaining budget (1 call) = 3 calls, 20 scored
+    assert f._items_scored_this_run == Stage1Filter.MAX_ITEMS_PER_RUN
+    assert mock_model.generate_content.call_count == 3
 
 
 def test_retry_429_also_fails_aborts_quota():

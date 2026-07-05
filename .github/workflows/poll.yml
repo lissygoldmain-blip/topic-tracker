@@ -84,7 +84,9 @@ jobs:
           BSKY_IDENTIFIER: ${{ secrets.BSKY_IDENTIFIER }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
           TIER_INDEX: ${{ steps.tier.outputs.index }}
-          STAGE1_MAX_ITEMS_PER_RUN: ${{ vars.STAGE1_MAX_ITEMS_PER_RUN || '10' }}
+          # 40 items/run ≈ 5-6 batched Gemini calls (BATCH_SIZE=8) — far under the
+          # free-tier RPM/RPD limits that the old per-item cap of 10 was protecting.
+          STAGE1_MAX_ITEMS_PER_RUN: ${{ vars.STAGE1_MAX_ITEMS_PER_RUN || '40' }}
         run: python -c "from tracker.poller import run_poll; run_poll(tier_index=int('$TIER_INDEX'))"
 
       - name: Commit updated state

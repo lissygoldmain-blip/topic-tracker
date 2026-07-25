@@ -1090,3 +1090,65 @@ topics:
     escalation:
       triggers: []
       auto_revert: true
+
+  # Time-bound topic: The Odyssey opens 2026-07-17; remove once the NYC 70mm run ends.
+  - name: "Odyssey 70mm tickets"
+    description: >
+      Ticket availability for Christopher Nolan's "The Odyssey" in IMAX 70mm in
+      New York City — AMC Lincoln Square above all, plus any other NYC-area 70mm
+      IMAX screen. The first wave sold out long ago; the ONLY thing that matters
+      is actionable availability: new showtimes added, a new wave of tickets
+      released, additional screening weeks announced, on-sale dates, or official
+      restocks/returned-ticket releases. Where and when to buy, immediately.
+
+      SKIP: reviews, box-office coverage, resale/scalper price stories, scam
+      warnings, general hype, think-pieces about 70mm projection, and
+      availability news for other cities only (mention of NYC or nationwide
+      re-releases is what counts).
+    importance: high
+    urgency: high   # frequent tier every 2h — a ticket wave is a race
+
+    source_categories:
+      - news
+
+    polling:
+      frequent:
+        - source: google_news
+          terms:
+            - '"The Odyssey" IMAX tickets'
+            - 'Odyssey IMAX showtimes OR tickets Lincoln Square'
+      discovery:
+        - source: google_news
+          terms:
+            - '"The Odyssey" 70mm'
+      broad:
+        - source: google_news
+          terms:
+            - '"The Odyssey" Nolan tickets on sale'
+
+    notifications:
+      push: true
+      email: weekly_digest
+      novelty_push_threshold: 0.6
+
+    llm_filter:
+      novelty_threshold: 0.5
+      tags:
+        - tickets_available
+        - new_showtimes
+        - on_sale_date
+        - sold_out
+        - noise
+
+    escalation:
+      triggers:
+        - tag: tickets_available
+          bump_to: urgent
+          duration_hours: 48
+        - tag: new_showtimes
+          bump_to: urgent
+          duration_hours: 48
+        - tag: on_sale_date
+          bump_to: high
+          duration_hours: 72
+      auto_revert: true
